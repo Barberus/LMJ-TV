@@ -1,0 +1,89 @@
+import xbmcaddon
+import xbmcgui
+import xbmc
+import time
+import os
+import shutil
+import sys
+import glob
+from os import listdir
+from shutil import copyfile
+from datetime import datetime
+from datetime import timedelta
+import zipfile
+import urllib
+import base64 as b
+import json
+
+
+
+xbmc.executebuiltin('UpdateAddonRepos)')
+xbmc.executebuiltin('UpdateLocalAddons)')
+
+        
+xbmc.sleep (5000)
+pvr1 = xbmc.translatePath('special://home/addons/pvr.DrachenTV').decode('utf-8')
+pvr2 = xbmc.translatePath('special://home/addons/pvr.DrachenTV2').decode('utf-8')
+pvr3 = xbmc.translatePath('special://home/addons/pvr.DrachenTV3').decode('utf-8')
+pvr4 = xbmc.translatePath('special://home/addons/pvr.DrachenTV/addon.xml').decode('utf-8')
+pvr5 = xbmc.translatePath('special://home/addons/pvr.DrachenTV2/addon.xml').decode('utf-8')
+pvr6 = xbmc.translatePath('special://home/addons/pvr.DrachenTV3/addon.xml').decode('utf-8')
+kill1 = xbmc.translatePath('special://home/addons/plugin.video.xstream/addon.xml').decode('utf-8')
+kill2 = xbmc.translatePath('special://home/addons/script.get.pvr').decode('utf-8')
+
+try:
+    shutil.rmtree(pvr1)
+except OSError as e:
+    print(e)
+else:
+    pass 
+    
+xbmc.sleep (500)
+    
+try:
+    shutil.rmtree(pvr2)
+except OSError as e:
+    print(e)
+else:
+    pass   
+    
+xbmc.sleep (500)
+  
+  
+try:
+    shutil.rmtree(pvr3)
+except OSError as e:
+    print(e)
+else:
+    pass   
+
+if os.path.exists(kill2):
+    try:
+        os.remove(kill1)
+    except:
+        pass 
+
+if os.path.exists(kill2):
+    try:
+        os.remove(pvr4)
+    except:
+        pass 
+
+if os.path.exists(kill2):
+    try:
+        os.remove(pvr5)
+    except:
+        pass 
+
+if os.path.exists(kill2):
+    try:
+        os.remove(pvr6)
+    except:
+        pass 
+
+if os.path.exists(kill2):
+     xbmc.sleep (1000) 
+     os._exit(1)
+     
+     
+    

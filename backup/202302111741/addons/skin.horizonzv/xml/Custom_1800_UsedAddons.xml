@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="1800" type="dialog">
+    <defaultcontrol always="true">18000</defaultcontrol>
+    <controls>
+        <include>BlackBack</include>
+        <control type="group" id="576757">
+			<include content="DefaultPopupLayout">
+				<param name="PopupHeaderTitle">unterstützte/bevorzugte Addons</param>
+				<param name="PopupIcon">Design-Addonicon.png</param>
+				<param name="PopupTitle">$LOCALIZE[24001] / $LOCALIZE[247]</param>
+				<param name="PopupTitle2">Aktion</param>
+			</include>
+			<include>SkinAddonListLayout</include>
+        </control>
+    </controls>
+</window>

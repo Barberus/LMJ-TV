@@ -1,0 +1,13 @@
+<settings version="2">
+    <setting id="persist_cache">true</setting>
+    <setting id="verify_ssl">true</setting>
+    <setting id="http_timeout">30</setting>
+    <setting id="http_retries">2</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="_fresh">false</setting>
+    <setting id="_userdata" default="true">{}</setting>
+    <setting id="_proxy_path">http://127.0.0.1:52103/</setting>
+    <setting id="_last_news_check">1676133497</setting>
+    <setting id="_last_news_id">xmUN6UawT43FFw</setting>
+    <setting id="_next_plugin_msg" default="true" />
+</settings>

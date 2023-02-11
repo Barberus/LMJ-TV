@@ -1,0 +1,25 @@
+<settings version="2">
+    <setting id="username">dittkol</setting>
+    <setting id="password">(/)Lmj*26#12(\)=</setting>
+    <setting id="multi_account" default="true">false</setting>
+    <setting id="username1" default="true" />
+    <setting id="password1" default="true" />
+    <setting id="username2" default="true" />
+    <setting id="password2" default="true" />
+    <setting id="username3" default="true" />
+    <setting id="password3" default="true" />
+    <setting id="username4" default="true" />
+    <setting id="password4" default="true" />
+    <setting id="username5" default="true" />
+    <setting id="password5" default="true" />
+    <setting id="connect_player">true</setting>
+    <setting id="categoryDefaultView" default="true" />
+    <setting id="playlistDefaultView" default="true" />
+    <setting id="artistDefaultView" default="true" />
+    <setting id="albumDefaultView" default="true" />
+    <setting id="songDefaultView" default="true" />
+    <setting id="prefer_kodi_osd" default="true">false</setting>
+    <setting id="appendArtistToTitle">true</setting>
+    <setting id="connect_username" default="true">dittkol</setting>
+    <setting id="playback_device" default="true">local</setting>
+</settings>

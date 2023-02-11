@@ -1,0 +1,30 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>epg</name>
+            <path pathversion="1">G:\Meine Ablage\kodi\epg\pvr\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LMJ-TV</name>
+            <path pathversion="1">C:\Users\Markus\OneDrive\Dokumente\GitHub\LMJ-TV\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

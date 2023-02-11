@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <defaultcontrol>5</defaultcontrol>
+    <include>openclose</include>
+    <controls>
+        <include>DialogBackgroundSimple</include>
+		<control type="group">
+			<include>openclosevisible</include>
+			<visible>!Window.IsVisible(sliderdialog)</visible>
+			<visible>![Window.IsActive(osdaudiodspsettings) + Window.Is(osdaudiosettings)]</visible>
+			<control type="group">
+				<include>openclosebox</include>
+				<include content="DialogInfoBackgroundParam">
+					<param name="width" value="1200" />
+					<param name="height" value="816" />
+					<param name="bottomimage" value="756" />
+					<param name="id" value="0" />
+					<param name="HeaderLabel" value="$INFO[System.CurrentWindow]" />
+				</include>
+			</control>
+			<control type="group">
+				<centerleft>50%</centerleft>
+				<centertop>50%</centertop>
+				<width>1200</width>
+				<height>1000</height>
+				<include>openclosebox</include>
+				<control type="grouplist" id="5">
+					<description>control area</description>
+					<left>45</left>
+					<top>180</top>
+					<width>1100</width>
+					<height>650</height>
+					<itemgap>8</itemgap>
+					<onup>9000</onup>
+					<ondown>9000</ondown>
+					<onleft>9000</onleft>
+					<onright>9000</onright>
+				</control>
+				<control type="grouplist" id="9000">
+					<left>0</left>
+					<top>855</top>
+					<width>1200</width>
+					<align>center</align>
+					<onup>5</onup>
+					<ondown>5</ondown>
+					<orientation>horizontal</orientation>
+					<control type="button" id="28">
+						<description>OK Button</description>
+						<width>300</width>
+						<align>center</align>
+						<aligny>center</aligny>
+						<font>impacted21</font>
+						<texturenofocus/>
+					</control>
+					<control type="button" id="29">
+						<description>Cancel Button</description>
+						<width>300</width>
+						<align>center</align>
+						<aligny>center</aligny>
+						<font>impacted21</font>
+						<texturenofocus/>
+					</control>
+					<control type="button" id="30">
+						<description>Cancel Button</description>
+						<width>300</width>
+						<align>center</align>
+						<aligny>center</aligny>
+						<font>impacted21</font>
+						<texturenofocus/>
+					</control>
+				</control>
+				<control type="button" id="7">
+					<description>Default Button</description>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+				</control>
+				<control type="radiobutton" id="8">
+					<description>Default RadioButton</description>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+				</control>
+				<control type="spincontrolex" id="9">
+					<description>Default spincontrolex</description>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+					<reverse>yes</reverse>
+				</control>
+				<control type="image" id="11">
+					<description>separator image</description>
+					<height>1</height>
+					<texture border="1">White.png</texture>
+				</control>
+				<control type="edit" id="12">
+					<description>Default Edit</description>
+					<align>left</align>
+					<textoffsetx>15</textoffsetx>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+				</control>
+				<control type="sliderex" id="13">
+					<description>Default Slider</description>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+				</control>
+				<control type="label" id="14">
+					<description>Default Label</description>
+					<align>left</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>black</focusedcolor>
+				</control>
+			</control>
+		</control>
+    </controls>
+</window>

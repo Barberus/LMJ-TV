@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+    <include name="InfoListLeft">
+        <control type="group">
+            <left>0</left>
+            <top>90</top>
+            <width>1050</width>
+            <height>1050</height>
+            <control type="image">
+                <left>36</left>
+                <top>20</top>
+                <width>994</width>
+                <height>892</height>
+                <texture>InlayDark.png</texture>
+            </control>
+            <control type="image">
+                <left>82</left>
+                <top>63</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>963</left>
+                <top>63</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>82</left>
+                <top>850</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>963</left>
+                <top>850</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>42</left>
+                <top>900</top>
+                <width>984</width>
+                <height>75</height>
+                <texture border="16">ContentPanelMirror.png</texture>
+            </control>
+        </control>
+    </include>
+    <include name="InfoListRight">
+        <control type="group">
+            <left>990</left>
+            <top>90</top>
+            <control type="image">
+                <left>36</left>
+                <top>20</top>
+                <width>844</width>
+                <height>892</height>
+                <texture>InlayDark.png</texture>
+            </control>
+            <control type="image">
+                <left>82</left>
+                <top>63</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>813</left>
+                <top>63</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>82</left>
+                <top>850</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>813</left>
+                <top>850</top>
+                <width>22</width>
+                <height>22</height>
+                <texture background="true">Pin.png</texture>
+            </control>
+            <control type="image">
+                <left>42</left>
+                <top>900</top>
+                <width>834</width>
+                <height>75</height>
+                <texture border="16">ContentPanelMirror.png</texture>
+            </control>
+        </control>
+    </include>
+    <include name="DialogInfoWide">
+        <control type="image">
+            <left>-3</left>
+            <top>150</top>
+            <width>1926</width>
+            <height>780</height>
+            <texture>ContentPanel_Wide.png</texture>
+        </control>
+    </include>
+    <include name="MediaOverlay">
+        <control type="image">
+            <include>openclosevisible</include>
+            <left>-30</left>
+            <top>-30</top>
+            <width>1950</width>
+            <height>1110</height>
+            <texture background="true">special://skin/backgrounds/media-overlay.jpg</texture>
+        </control>
+    </include>
+    <include name="DialogInfoBackgroundParam">
+		<param name="centerleft">50%</param>
+		<param name="centerright">50%</param>
+		<definition>
+			<control type="group">
+				<centerleft>$PARAM[centerleft]</centerleft>
+				<centertop>$PARAM[centerright]</centertop>
+				<width>$PARAM[width]</width>
+				<height>$PARAM[height]</height>
+				<include>openclosevisible</include>
+				<control type="image">
+					<width>$PARAM[width]</width>
+					<height>$PARAM[height]</height>
+					<texture>Underlay2.png</texture>
+				</control>
+				<control type="image">
+					<width>$PARAM[width]</width>
+					<height>60</height>
+					<colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+					<texture>WhiteBack.png</texture>
+				</control>
+				<control type="image">
+					<top>$PARAM[bottomimage]</top>
+					<width>$PARAM[width]</width>
+					<height>60</height>
+					<colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+					<texture>WhiteBack.png</texture>
+				</control>
+				<control type="image">
+					<width>$PARAM[width]</width>
+					<height>$PARAM[height]</height>
+					<texture border="5">$VAR[SelectBack2]</texture>
+				</control>
+				<control type="label" id="$PARAM[id]">
+					<description>header label</description>
+					<top>8</top>
+					<width>$PARAM[width]</width>
+					<height>45</height>
+					<font>impacted26</font>
+					<label>$PARAM[HeaderLabel]</label>
+					<align>center</align>
+					<aligny>center</aligny>
+				</control>
+				<control type="image">
+					<description>mirror bottom image</description>
+					<top>$PARAM[height]</top>
+					<width>$PARAM[width]</width>
+					<height>82</height>
+					<colordiffuse>menudiffuse</colordiffuse>
+					<texture background="true" flipy="true" border="4">Shadow.png</texture>
+				</control>
+				<control type="image">
+					<top>$PARAM[top]</top>
+					<width>$PARAM[width]</width>
+					<height>1</height>
+					<colordiffuse>grey</colordiffuse>
+					<texture>Separator2.png</texture>
+				</control>
+				<control type="image">
+					<top>60</top>
+					<width>$PARAM[width]</width>
+					<height>1</height>
+					<colordiffuse>grey</colordiffuse>
+					<texture>Separator2.png</texture>
+				</control>
+				<control type="image">
+					<top>$PARAM[bottomimage]</top>
+					<width>$PARAM[width]</width>
+					<height>1</height>
+					<colordiffuse>grey</colordiffuse>
+					<texture>Separator2.png</texture>
+				</control>
+				<control type="image">
+					<top>$PARAM[height]</top>
+					<width>$PARAM[width]</width>
+					<height>1</height>
+					<colordiffuse>grey</colordiffuse>
+					<texture>Separator2.png</texture>
+				</control>
+			</control>
+		</definition>
+    </include>
+</includes>

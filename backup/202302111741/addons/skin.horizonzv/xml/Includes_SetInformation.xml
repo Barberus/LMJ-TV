@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+    <include name="MovieSetInformationCover">
+		<control type="label">
+			<left>$PARAM[leftlabel]</left>
+			<top>$PARAM[toplabel]</top>
+			<width>1740</width>
+			<height>75</height>
+			<align>left</align>
+			<textcolor>grey1</textcolor>
+			<font>impacted21</font>
+			<label>$INFO[Container(2000).NumItems, [COLOR=white],[/COLOR]] $LOCALIZE[342]$VAR[NumItemLabel]</label>
+			<include>openclosevisible</include>
+			<visible>Control.IsVisible(2000)</visible>
+			<visible>!Control.IsVisible(503)+!Control.IsVisible(515)+!Control.IsVisible(721)+!Control.IsVisible(740)+!Control.IsVisible(742)</visible>
+		</control>
+		<control type="list" id="2000">
+			<visible>ListItem.IsCollection</visible>
+			<include>openclosemedium</include>
+			<centerleft>50%</centerleft>
+			<left>$PARAM[left]</left>
+			<top>$PARAM[top]</top>
+			<height>315</height>
+			<onfocus condition="Control.IsVisible(503)">503</onfocus>
+			<onup condition="Control.IsVisible(401)">9000</onup>
+			<onup condition="Control.IsVisible(541)">9000</onup>
+			<onup condition="Control.IsVisible(503)">9000</onup>
+			<onup condition="Control.IsVisible(721)">721</onup>
+			<onup condition="Control.IsVisible(562)">562</onup>
+			<onup condition="Control.IsVisible(500)">500</onup>
+			<onup condition="Control.IsVisible(515)">515</onup>
+			<ondown condition="Control.IsVisible(17000)+Control.IsVisible(562)">17000</ondown>
+			<ondown condition="Control.IsVisible(17000)+Control.IsVisible(500)">17000</ondown>
+			<ondown condition="Control.IsVisible(721)">721</ondown>
+			<ondown condition="Control.IsVisible(503)">503</ondown>
+			<ondown condition="Control.IsVisible(401)">401</ondown>
+			<ondown condition="Control.IsVisible(541)">541</ondown>
+			<onleft condition="![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">2000</onleft>
+			<onleft condition="Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)">9000</onleft>
+			<!-- <onright>2000</onright> -->
+			<focusposition>0</focusposition>
+			<scrolltime tween="cubic" easing="in">400</scrolltime>
+			<orientation>horizontal</orientation>
+			<itemgap>0</itemgap>
+			<preloaditems>4</preloaditems>
+			<autoscroll time="3000" delay="5000" repeat="5000">!Control.HasFocus(2000)+Integer.IsGreater(Container(2000).NumItems,8)</autoscroll>
+			<animation effect="zoom" end="80" condition="Control.IsVisible(500)">Conditional</animation>
+			<animation effect="slide" end="135" condition="String.IsEqual(Container(2000).NumItems,7)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="270" condition="String.IsEqual(Container(2000).NumItems,6)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="360" condition="String.IsEqual(Container(2000).NumItems,5)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="465" condition="String.IsEqual(Container(2000).NumItems,4)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="578" condition="String.IsEqual(Container(2000).NumItems,3)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="682" condition="String.IsEqual(Container(2000).NumItems,2)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<animation effect="slide" end="870" condition="String.IsEqual(Container(2000).NumItems,1)+String.IsEmpty(ListItem.Plot)+![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">Conditional</animation>
+			<itemlayout width="218" height="315" condition="![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">
+				<control type="image">
+					<right>8</right>
+					<aspectratio>stretch</aspectratio>
+					<texture diffuse="masks/mask.png">$VAR[PosterThumb]</texture>
+				</control>
+				<control type="image">
+					<right>8</right>
+					<colordiffuse>menudiffuse</colordiffuse>
+					<texture diffuse="masks/mask.png">Shadow.png</texture>
+				</control>
+				<control type="image">
+					<left>90r</left>
+					<top>82r</top>
+					<width>82</width>
+					<height>158</height>
+					<aspectratio align="left">scale</aspectratio>
+					<texture diffuse="masks/cdart_mask.png">$VAR[DiscartVAR]</texture>
+				</control>
+				<include content="WidgetDimImage">
+					<param name="visible" value="Control.HasFocus(2000)"/>
+				</include>
+				<include content="WidgetDimImage">
+					<param name="visible" value="Control.HasFocus(2000)"/>
+				</include>
+                <control type="image">
+                    <description>background</description>
+                    <right>8</right>
+                    <texture border="4">masks/Default_sharp.png</texture>
+                </control>
+				<control type="label">
+					<left>12</left>
+					<top>36r</top>
+					<width>195</width>
+					<height>30</height>
+					<font>ubuntu-r13b</font>
+					<label>$INFO[ListItem.Year]</label>
+				</control>
+			</itemlayout>
+			<focusedlayout width="218" height="315" condition="![Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)]">
+				<control type="group">
+					<include>focuseffect</include>
+					<control type="image">
+						<right>8</right>
+						<aspectratio>stretch</aspectratio>
+						<texture diffuse="masks/mask.png">$VAR[PosterThumb]</texture>
+					</control>
+					<control type="image">
+						<right>8</right>
+						<colordiffuse>menudiffuse</colordiffuse>
+						<texture diffuse="masks/mask.png">Shadow.png</texture>
+					</control>
+					<control type="image">
+						<left>90r</left>
+						<top>82r</top>
+						<width>82</width>
+						<height>158</height>
+						<aspectratio align="left">scale</aspectratio>
+						<texture diffuse="masks/cdart_mask.png">$VAR[DiscartVAR]</texture>
+					</control>
+					<control type="image">
+						<description>background</description>
+						<right>8</right>
+						<texture border="4">masks/Default_sharp.png</texture>
+					</control>
+					<control type="label">
+						<left>12</left>
+						<top>36r</top>
+						<width>195</width>
+						<height>30</height>
+						<font>ubuntu-r13b</font>
+						<label>$INFO[ListItem.Year]</label>
+					</control>
+				</control>
+			</focusedlayout>
+			<itemlayout width="135" height="210" condition="Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)">
+				<control type="image">
+					<left>0</left>
+					<top>0</top>
+					<width>195</width>
+					<height>195</height>
+					<aspectratio>keep</aspectratio>
+					<texture>$VAR[DiscartVAR]</texture>
+				</control>
+				<control type="label">
+					<left>0</left>
+					<top>158</top>
+					<width>195</width>
+					<height>30</height>
+					<align>center</align>
+					<font>ubuntu-r13b</font>
+					<label>$INFO[ListItem.Year]</label>
+				</control>
+			</itemlayout>
+			<focusedlayout width="135" height="210" condition="Control.IsVisible(503)|Control.IsVisible(515)|Control.IsVisible(721)|Control.IsVisible(742)|Control.IsVisible(740)">
+				<control type="image">
+					<left>0</left>
+					<top>0</top>
+					<width>195</width>
+					<height>195</height>
+					<aspectratio>keep</aspectratio>
+					<texture>$VAR[DiscartVAR]</texture>
+				</control>
+				<control type="label">
+					<left>0</left>
+					<top>158</top>
+					<width>195</width>
+					<height>30</height>
+					<align>center</align>
+					<font>ubuntu-r13b</font>
+					<label>$INFO[ListItem.Year]</label>
+				</control>
+			</focusedlayout>
+			<content target="videos" sortby="year">$INFO[ListItem.FolderPath]</content>
+		</control>
+    </include>
+</includes>

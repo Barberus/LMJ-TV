@@ -1,0 +1,85 @@
+{
+    "channellist": [
+        {
+            "contentId": "461",
+            "name": "Warner TV Comedy (Sky)",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/793f9b574904a15207169109b57f7b52979e9d14.png"
+                }
+            ]
+        },
+        {
+            "contentId": "195",
+            "name": "Sky Cinema Premieren",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/0b253961f1ed86531231b7ebef4856fe2393998c.png"
+                }
+            ]
+        },
+        {
+            "contentId": "202",
+            "name": "Sky Cinema Premieren +24",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/5371a1404566488319991aef236525c5cdd96fd0.png"
+                }
+            ]
+        },
+        {
+            "contentId": "263",
+            "name": "Sky Cinema Best of",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/77d3c919d3c47429cf376c34c510bb1ef2dc1b8d.png"
+                }
+            ]
+        },
+        {
+            "contentId": "4356",
+            "name": "Sky Cinema Thriller",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png"
+                }
+            ]
+        },
+        {
+            "contentId": "3844",
+            "name": "Sky Cinema Special",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png"
+                }
+            ]
+        },
+        {
+            "contentId": "235",
+            "name": "Sky Cinema Fun",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png"
+                }
+            ]
+        },
+        {
+            "contentId": "200",
+            "name": "Sky Cinema Classics",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png"
+                }
+            ]
+        },
+        {
+            "contentId": "540",
+            "name": "Warner TV Film (Sky)",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png"
+                }
+            ]
+        }
+    ]
+}

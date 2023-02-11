@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="1500" type="dialog">
+    <defaultcontrol always="true">36100</defaultcontrol>
+	<backgroundcolor>grey3</backgroundcolor>
+    <onunload>ClearProperty(HomeButton)</onunload>
+    <controls>
+        <include>BlackBack</include>
+        <control type="group" id="576757">
+			<include content="DefaultPopupLayout">
+				<param name="PopupHeaderTitle">$LOCALIZE[5] [COLOR=grey1]($LOCALIZE[10000] $LOCALIZE[1397] Widget)[/COLOR]</param>
+				<param name="PopupIcon">Design-Scripticon.png</param>
+				<param name="PopupTitle">[UPPERCASE]$VAR[WidgetPropertyLabel][/UPPERCASE]</param>
+			</include>
+            <control type="grouplist" id="36100"> <!-- music -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),music)</visible>
+                <control type="radiobutton" id="2">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301602]</label>
+                    <onclick>Skin.ToggleSetting(Widget_inProgress_music_Place1)</onclick>
+                    <selected>Skin.HasSetting(Widget_inProgress_music_Place1)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+!Skin.HasSetting(Home_Music_Button)</visible>
+					<enable>!Skin.HasSetting(Widget_RecommendedAlbums)</enable>
+                </control>
+                <control type="radiobutton" id="4">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[590] $LOCALIZE[36919]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedSongs)</onclick>
+                    <onclick>Skin.Reset(Widget_RecentAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RecommendedAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomSongs)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RandomAlbums)</onclick>
+                    <selected>Skin.HasSetting(Widget_RandomAlbums)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+!Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="radiobutton" id="6">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[590] $LOCALIZE[36921]</label>
+                    <onclick>Skin.Reset(Widget_RecentAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RecommendedAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomAlbums)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RandomSongs)</onclick>
+                    <selected>Skin.HasSetting(Widget_RandomSongs)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+!Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="radiobutton" id="8">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[517]</label>
+                    <onclick>Skin.Reset(Widget_RandomAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RecentAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomSongs)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecommendedAlbums)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecommendedAlbums)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+!Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="radiobutton" id="10">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[359]</label>
+                    <onclick>Skin.Reset(Widget_RandomAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RecommendedAlbums)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomSongs)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecentAlbums)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecentAlbums)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+!Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="radiobutton" id="12">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Music_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Music_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Music_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="radiobutton" id="14">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Music_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Music_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Music_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+Skin.HasSetting(Home_Music_Button)</visible>
+                </control>
+                <control type="button" id="16">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Music_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Music_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+Skin.HasSetting(Home_Music_Button)</visible>
+				</control>
+                <control type="button" id="18">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Music_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Music_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Music_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicButton)+Skin.HasSetting(Home_Music_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="20"/>
+					<param name="id2" value="22"/>
+					<param name="id3" value="24"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- video -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),videos)</visible>
+                <control type="radiobutton" id="26">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[20094]</label>
+                    <onclick>Skin.Reset(Widget_Videoplaylists)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_Sources)</onclick>
+                    <selected>Skin.HasSetting(Widget_Sources)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+!Skin.HasSetting(Home_Video_Button)</visible>
+                </control>
+                <control type="radiobutton" id="28">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[136]</label>
+                    <onclick>Skin.Reset(Widget_Sources)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_Videoplaylists)</onclick>
+                    <selected>Skin.HasSetting(Widget_Videoplaylists)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+!Skin.HasSetting(Home_Video_Button)</visible>
+                </control>
+                <control type="radiobutton" id="30">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Video_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Video_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Video_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+Skin.HasSetting(Home_Video_Button)</visible>
+                </control>
+                <control type="radiobutton" id="32">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Video_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Video_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Video_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+Skin.HasSetting(Home_Video_Button)</visible>
+                </control>
+                <control type="button" id="34">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Video_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Video_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+Skin.HasSetting(Home_Video_Button)</visible>
+				</control>
+                <control type="button" id="36">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Video_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Video_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Video_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoVideosButton)+Skin.HasSetting(Home_Video_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="38"/>
+					<param name="id2" value="40"/>
+					<param name="id3" value="42"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- movies -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),movies)</visible>
+                <control type="radiobutton" id="44">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301600]</label>
+                    <onclick>Skin.ToggleSetting(Widget_inProgress_movie_Place1)</onclick>
+                    <selected>Skin.HasSetting(Widget_inProgress_movie_Place1)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+!Skin.HasSetting(Home_Movie_Button)</visible>
+					<enable>!Skin.HasSetting(Widget_RecommendedMovies)</enable>
+                </control>
+                <control type="radiobutton" id="46">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[575]</label>
+                    <onclick>Skin.Reset(Widget_RecentMovies)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomMovies)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecommendedMovies)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecommendedMovies)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+!Skin.HasSetting(Home_Movie_Button)</visible>
+                </control>
+                <control type="radiobutton" id="48">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[590]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedMovies)</onclick>
+                    <onclick>Skin.Reset(Widget_RecentMovies)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RandomMovies)</onclick>
+                    <selected>Skin.HasSetting(Widget_RandomMovies)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+!Skin.HasSetting(Home_Movie_Button)</visible>
+                </control>
+                <control type="radiobutton" id="50">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[20386]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedMovies)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomMovies)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecentMovies)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecentMovies)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+!Skin.HasSetting(Home_Movie_Button)</visible>
+                </control>
+                <control type="radiobutton" id="52">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Movie_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Movie_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Movie_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+Skin.HasSetting(Home_Movie_Button)</visible>
+                </control>
+                <control type="radiobutton" id="54">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Movie_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Movie_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Movie_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+Skin.HasSetting(Home_Movie_Button)</visible>
+                </control>
+                <control type="button" id="56">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Movie_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Movie_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+Skin.HasSetting(Home_Movie_Button)</visible>
+				</control>
+                <control type="button" id="58">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Movie_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Movie_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Movie_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoMovieButton)+Skin.HasSetting(Home_Movie_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="60"/>
+					<param name="id2" value="62"/>
+					<param name="id3" value="64"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- dashboard -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+				<onright>2500</onright>
+                <itemgap>3</itemgap>
+				<pagecontrol>2500</pagecontrol>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),dashboard)</visible>
+				<control type="button" id="70">
+					<include>dialogbutton_popup</include>
+					<label>$LOCALIZE[301614] #5</label>
+					<label2>$VAR[DashboardRow5_Label]</label2>
+					<onclick>Skin.SelectBool(424, 301608|Row5_Weather, 301610|Row5_GTO, 573|Row5_Path, 1036|Row5_Fav, 301612|Row5_Fritzact, 351|Row5_off)</onclick>
+				</control>
+                <control type="button" id="71">
+                    <include>dialogbutton_popup</include>
+                    <label>- Refresh</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=getcontent)</onclick>
+                    <visible>Skin.HasSetting(Row5_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="72">
+                    <include>dialogbutton_popup</include>
+                    <label>- Scrape</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=scrape)</onclick>
+                    <visible>Skin.HasSetting(Row5_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="73">
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[5]</label>
+                    <onclick>Addon.OpenSettings(script.service.gto)</onclick>
+                    <visible>Skin.HasSetting(Row5_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+				<control type="button" id="74">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(Addonpath_Dash_Path3)]</label2>
+					<onclick>Skin.SetPath(Addonpath_Dash_Path3,library://video/,return)</onclick>
+					<visible>Skin.HasSetting(Row5_Path)</visible>
+				</control>
+				<control type="button" id="75">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(Videopath_Dash_Name3)]</label2>
+					<onfocus condition="String.IsEmpty(Skin.String(Videopath_Dash_Name3))">Skin.SetString(Videopath_Dash_Name3,$LOCALIZE[1212] $LOCALIZE[573])</onfocus>
+					<onclick>Skin.SetString(Videopath_Dash_Name3)</onclick>
+					<visible>Skin.HasSetting(Row5_Path)</visible>
+				</control>
+				<control type="button" id="76">
+					<include>dialogbutton_popup</include>
+					<label>$LOCALIZE[301614] #4</label>
+					<label2>$VAR[DashboardRow4_Label]</label2>
+					<onclick>Skin.SelectBool(424, 301608|Row4_Weather, 301610|Row4_GTO, 573|Row4_Path, 1036|Row4_Fav, 301612|Row4_Fritzact, 351|Row4_off)</onclick>
+				</control>
+                <control type="button" id="77">
+                    <include>dialogbutton_popup</include>
+                    <label>- Refresh</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=getcontent)</onclick>
+                    <visible>Skin.HasSetting(Row4_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="78">
+                    <include>dialogbutton_popup</include>
+                    <label>- Scrape</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=scrape)</onclick>
+                    <visible>Skin.HasSetting(Row4_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="79">
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[5]</label>
+                    <onclick>Addon.OpenSettings(script.service.gto)</onclick>
+                    <visible>Skin.HasSetting(Row4_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+				<control type="button" id="80">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(Addonpath_Dash_Path2)]</label2>
+					<onclick>Skin.SetPath(Addonpath_Dash_Path2,library://video/,return)</onclick>
+					<visible>Skin.HasSetting(Row4_Path)</visible>
+				</control>
+				<control type="button" id="81">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(Videopath_Dash_Name2)]</label2>
+					<onfocus condition="String.IsEmpty(Skin.String(Videopath_Dash_Name2))">Skin.SetString(Videopath_Dash_Name2,$LOCALIZE[1212] $LOCALIZE[573])</onfocus>
+					<onclick>Skin.SetString(Videopath_Dash_Name2)</onclick>
+					<visible>Skin.HasSetting(Row4_Path)</visible>
+				</control>
+				<control type="button" id="82">
+					<include>dialogbutton_popup</include>
+					<label>$LOCALIZE[301614] #3</label>
+					<label2>$VAR[DashboardRow3_Label]</label2>
+					<onclick>Skin.SelectBool(424, 301608|Row3_Weather, 301610|Row3_GTO, 573|Row3_Path, 1036|Row3_Fav, 301612|Row3_Fritzact, 351|Row3_off)</onclick>
+				</control>
+                <control type="button" id="83">
+                    <include>dialogbutton_popup</include>
+                    <label>- Refresh</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=getcontent)</onclick>
+                    <visible>Skin.HasSetting(Row3_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="84">
+                    <include>dialogbutton_popup</include>
+                    <label>- Scrape</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=scrape)</onclick>
+                    <visible>Skin.HasSetting(Row3_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="85">
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[5]</label>
+                    <onclick>Addon.OpenSettings(script.service.gto)</onclick>
+                    <visible>Skin.HasSetting(Row3_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+				<control type="button" id="86">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(Addonpath_Dash_Path1)]</label2>
+					<onclick>Skin.SetPath(Addonpath_Dash_Path1,library://video/,return)</onclick>
+					<visible>Skin.HasSetting(Row3_Path)</visible>
+				</control>
+				<control type="button" id="87">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(Videopath_Dash_Name1)]</label2>
+					<onfocus condition="String.IsEmpty(Skin.String(Videopath_Dash_Name1))">Skin.SetString(Videopath_Dash_Name1,$LOCALIZE[1212] $LOCALIZE[573])</onfocus>
+					<onclick>Skin.SetString(Videopath_Dash_Name1)</onclick>
+					<visible>Skin.HasSetting(Row3_Path)</visible>
+				</control>
+				<control type="button" id="88">
+					<include>dialogbutton_popup</include>
+					<label>$LOCALIZE[301614] #2</label>
+					<label2>$VAR[DashboardRow2_Label]</label2>
+					<onclick>Skin.SelectBool(424, 301608|Row2_Weather, 301610|Row2_GTO, 573|Row2_Path, 1036|Row2_Fav, 301612|Row2_Fritzact, 351|Row2_off)</onclick>
+				</control>
+                <control type="button" id="89">
+                    <include>dialogbutton_popup</include>
+                    <label>- Refresh</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=getcontent)</onclick>
+                    <visible>Skin.HasSetting(Row2_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="90">
+                    <include>dialogbutton_popup</include>
+                    <label>- Scrape</label>
+                    <onclick>RunPlugin(plugin://script.service.gto?action=scrape)</onclick>
+                    <visible>Skin.HasSetting(Row2_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+                <control type="button" id="91">
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[5]</label>
+                    <onclick>Addon.OpenSettings(script.service.gto)</onclick>
+                    <visible>Skin.HasSetting(Row2_GTO)</visible>
+                    <visible>System.HasAddon(script.service.gto)+System.AddonIsEnabled(script.service.gto)</visible>
+                </control>
+				<control type="button" id="92">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(Addonpath_Dash_Path)]</label2>
+					<onclick>Skin.SetPath(Addonpath_Dash_Path,library://video/,return)</onclick>
+					<visible>Skin.HasSetting(Row2_Path)</visible>
+				</control>
+				<control type="button" id="93">
+					<include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(Videopath_Dash_Name)]</label2>
+					<onfocus condition="String.IsEmpty(Skin.String(Videopath_Dash_Name))">Skin.SetString(Videopath_Dash_Name,$LOCALIZE[1212] $LOCALIZE[573])</onfocus>
+					<onclick>Skin.SetString(Videopath_Dash_Name)</onclick>
+					<visible>Skin.HasSetting(Row2_Path)</visible>
+				</control>
+				<include content="separatorlabel">
+					<param name="separatorlabel_id" value="94"/>
+				</include>
+				<control type="button" id="95">
+					<include>dialogbutton_popup</include>
+					<label>$LOCALIZE[301614] #1</label>
+					<label2>$VAR[DashboardRow1_Label]</label2>
+					<onclick>Skin.SelectBool(424, 24001|AddonDashboard, 1036|FavDashboard)</onclick>
+					<onclick>Container.Refresh</onclick>
+				</control>
+				<control type="label" id="96">
+					<width>1110</width>
+					<height>26</height>
+					<align>center</align>
+					<textcolor>grey1</textcolor>
+					<label>----------------------------------------------------------------------------------------------------------------------------------</label>
+					<visible>Control.IsVisible(97)|Control.IsVisible(98)</visible>
+				</control>
+				<control type="button" id="97">
+					<textcolor>red</textcolor>
+					<include>dialogbutton_popup</include>
+					<label>Fritz Smart Home $LOCALIZE[24038]/$LOCALIZE[843]?</label>
+					<onclick condition="!System.HasAddon(script.program.fritzact)">InstallAddon(script.program.fritzact)</onclick>
+					<onclick condition="System.HasAddon(script.program.fritzact)+!System.AddonIsEnabled(script.program.fritzact)">EnableAddon(script.program.fritzact)</onclick>
+					<visible>!System.HasAddon(script.program.fritzact)|[System.HasAddon(script.program.fritzact)+!System.AddonIsEnabled(script.program.fritzact)]</visible>
+					<visible>Skin.HasSetting(Row5_Fritzact)|Skin.HasSetting(Row4_Fritzact)|Skin.HasSetting(Row3_Fritzact)|Skin.HasSetting(Row2_Fritzact)</visible>
+				</control>
+				<control type="button" id="98">
+					<textcolor>red</textcolor>
+					<include>dialogbutton_popup</include>
+					<label>German Telecast Addon $LOCALIZE[24038]/$LOCALIZE[843]?</label>
+					<onclick condition="!System.HasAddon(script.service.gto)">InstallAddon(script.service.gto)</onclick>
+					<onclick condition="System.HasAddon(script.service.gto)+!System.AddonIsEnabled(script.service.gto)">EnableAddon(script.service.gto)</onclick>
+					<visible>!System.HasAddon(script.service.gto)|[System.HasAddon(script.service.gto)+!System.AddonIsEnabled(script.service.gto)]</visible>
+					<visible>Skin.HasSetting(Row5_GTO)|Skin.HasSetting(Row4_GTO)|Skin.HasSetting(Row3_GTO)|Skin.HasSetting(Row2_GTO)</visible>
+				</control>
+				<control type="button" id="99">
+					<textcolor>red</textcolor>
+					<include>dialogbutton_popup</include>
+					<label>Kein Wetterdienst gewählt. Jetzt einrichten?</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+					<onclick>ActivateWindow(servicesettings,weather)</onclick>
+					<visible>String.IsEmpty(Weather.plugin)</visible>
+					<visible>Skin.HasSetting(Row5_Weather)|Skin.HasSetting(Row4_Weather)|Skin.HasSetting(Row3_Weather)|Skin.HasSetting(Row2_Weather)</visible>
+				</control>
+				<include content="separatorlabel">
+					<param name="separatorlabel_id" value="100"/>
+				</include>
+				<control type="radiobutton" id="101">
+					<description>Settings Button</description>
+					<width>1110</width>
+					<height>52</height>
+					<align>left</align>
+					<textcolor>grey3</textcolor>
+					<texturenofocus/>
+					<label>Reihen dimmen</label>
+					<onclick>Skin.ToggleSetting(WidgetDimDashrows)</onclick>
+					<selected>Skin.HasSetting(WidgetDimDashrows)</selected>
+				</control>
+            </control>
+			<control type="group"> <!-- scrollbar -->
+				<top>155</top>
+				<include content="DefaultScrollbar">
+					<param name="left">40r</param>
+					<param name="id">2500</param>
+					<param name="onleft">36100</param>
+					<param name="onright"/>
+					<param name="showonpage">false</param>
+					<param name="visible">ControlGroup(36100).HasFocus()|Control.HasFocus(2500)</param>
+				</include>
+			</control>
+            <control type="grouplist" id="36100"> <!-- tvshow -->
+                <!-- TVShows -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),tvshow)</visible>
+                <control type="radiobutton" id="114">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301604]</label>
+                    <onclick>Skin.ToggleSetting(Widget_inProgress_tvshow_Place1)</onclick>
+                    <selected>Skin.HasSetting(Widget_inProgress_tvshow_Place1)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+					<enable>!Skin.HasSetting(Widget_RecommendedTVShows)</enable>
+                </control>
+                <control type="radiobutton" id="116">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[575]</label>
+                    <onclick>Skin.Reset(Widget_RecentTVShows)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomTVShows)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecommendedTVShows)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecommendedTVShows)</selected>
+					<visible>!Skin.HasSetting(Home_SeriesButton)</visible>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="radiobutton" id="118">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[590]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedTVShows)</onclick>
+                    <onclick>Skin.Reset(Widget_RecentTVShows)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RandomTVShows)</onclick>
+                    <selected>Skin.HasSetting(Widget_RandomTVShows)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="button" id="120">
+                    <include>dialogbutton_popup</include>
+					<label>- Widget Label</label>
+					<label2>$INFO[Skin.String(Series_Node_WidgetLabel_RandomTVShows)]</label2>
+					<onclick>Skin.SetString(Series_Node_WidgetLabel_RandomTVShows)</onclick>
+					<visible>Skin.HasSetting(Widget_RandomTVShows)+Skin.HasSetting(Home_SeriesButton)</visible>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+				</control>
+                <control type="radiobutton" id="122">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301494]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedTVShows)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomTVShows)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecentTVShows)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecentTVShows)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="button" id="124">
+                    <include>dialogbutton_popup</include>
+					<label>- Widget Label</label>
+					<label2>$INFO[Skin.String(Series_Node_WidgetLabel_RecentTVShows)]</label2>
+					<onclick>Skin.SetString(Series_Node_WidgetLabel_RecentTVShows)</onclick>
+					<visible>Skin.HasSetting(Widget_RecentTVShows)+Skin.HasSetting(Home_SeriesButton)</visible>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+				</control>
+                <control type="radiobutton" id="126">
+                    <description>Widget TV Shows</description>
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[14001]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedTVShows)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecentTVShows_Episodes)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecentTVShows_Episodes)</selected>
+                    <visible>Skin.HasSetting(Widget_RecentTVShows)</visible>
+					<visible>!Skin.HasSetting(Home_SeriesButton)</visible>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+!Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="radiobutton" id="128">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_TVShow_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_TVShow_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_TVShow_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="radiobutton" id="130">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_TVShow_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_TVShow_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_TVShow_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+Skin.HasSetting(Home_TVShow_Button)</visible>
+                </control>
+                <control type="button" id="132">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_TVShow_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_TVShow_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+Skin.HasSetting(Home_TVShow_Button)</visible>
+				</control>
+                <control type="button" id="134">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_TVShow_Path)]</label2>
+					<onclick>$VAR[HomeWidget_TVShow_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_TVShow_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoTVShowButton)+Skin.HasSetting(Home_TVShow_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="136"/>
+					<param name="id2" value="138"/>
+					<param name="id3" value="140"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- musicvideos -->
+                <!-- MusicVideos -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),musicvideo)</visible>
+                <control type="radiobutton" id="142">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301606]</label>
+                    <onclick>Skin.ToggleSetting(Widget_inProgress_musicvideo_Place1)</onclick>
+                    <selected>Skin.HasSetting(Widget_inProgress_musicvideo_Place1)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+!Skin.HasSetting(Home_MusicVideo_Button)</visible>
+					<enable>!Skin.HasSetting(Widget_RecommendedMusicVideos)</enable>
+                </control>
+                <control type="radiobutton" id="144">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[575]</label>
+                    <onclick>Skin.Reset(Widget_RecentMusicVideos)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomMusicVideos)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecommendedMusicVideos)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecommendedMusicVideos)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+!Skin.HasSetting(Home_MusicVideo_Button)</visible>
+                </control>
+                <control type="radiobutton" id="146">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[590]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedMusicVideos)</onclick>
+                    <onclick>Skin.Reset(Widget_RecentMusicVideos)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RandomMusicVideos)</onclick>
+                    <selected>Skin.HasSetting(Widget_RandomMusicVideos)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+!Skin.HasSetting(Home_MusicVideo_Button)</visible>
+                </control>
+                <control type="radiobutton" id="148">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[20390]</label>
+                    <onclick>Skin.Reset(Widget_RecommendedMusicVideos)</onclick>
+                    <onclick>Skin.Reset(Widget_RandomMusicVideos)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_RecentMusicVideos)</onclick>
+                    <selected>Skin.HasSetting(Widget_RecentMusicVideos)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+!Skin.HasSetting(Home_MusicVideo_Button)</visible>
+                </control>
+                <control type="radiobutton" id="150">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_MusicVideo_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_MusicVideo_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_MusicVideo_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+Skin.HasSetting(Home_MusicVideo_Button)</visible>
+                </control>
+                <control type="radiobutton" id="152">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_MusicVideo_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_MusicVideo_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_MusicVideo_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+Skin.HasSetting(Home_MusicVideo_Button)</visible>
+                </control>
+                <control type="button" id="154">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_MusicVideo_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_MusicVideo_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+Skin.HasSetting(Home_MusicVideo_Button)</visible>
+				</control>
+                <control type="button" id="156">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_MusicVideo_Path)]</label2>
+					<onclick>$VAR[HomeWidget_MusicVideo_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_MusicVideo_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoMusicVideos)+Skin.HasSetting(Home_MusicVideo_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="158"/>
+					<param name="id2" value="160"/>
+					<param name="id3" value="162"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- pictures -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),picture)</visible>
+                <control type="radiobutton" id="164">
+                    <include>dialogbutton_popup</include>
+                    <label>108</label>
+                    <onclick>Skin.ToggleSetting(Widget_Diashow)</onclick>
+                    <selected>Skin.HasSetting(Widget_Diashow)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+!Skin.HasSetting(Home_Picture_Button)</visible>
+                </control>
+                <control type="button" id="166">
+                    <description>User Path</description>
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[301398]</label>
+                    <label2>$INFO[Skin.String(widget_diashow_folder)]</label2>
+                    <onclick>Skin.SetPath(widget_diashow_folder)</onclick>
+                    <visible>Skin.HasSetting(Widget_Diashow)</visible>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+!Skin.HasSetting(Home_Picture_Button)</visible>
+                </control>
+                <control type="radiobutton" id="168">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Picture_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Picture_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Picture_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+Skin.HasSetting(Home_Picture_Button)</visible>
+                </control>
+                <control type="radiobutton" id="170">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Picture_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Picture_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Picture_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+Skin.HasSetting(Home_Picture_Button)</visible>
+                </control>
+                <control type="button" id="172">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Picture_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Picture_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+Skin.HasSetting(Home_Picture_Button)</visible>
+				</control>
+                <control type="button" id="174">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Picture_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Picture_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Picture_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoPictureButton)+Skin.HasSetting(Home_Picture_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="176"/>
+					<param name="id2" value="178"/>
+					<param name="id3" value="180"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- weather -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),weather)</visible>
+                <control type="radiobutton" id="182">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[8] $LOCALIZE[301532]</label>
+                    <onclick>Skin.Reset(HomeWeatherWidgetFull)</onclick>
+                    <onclick>Skin.ToggleSetting(HomeWeatherWidgetToday)</onclick>
+                    <selected>Skin.HasSetting(HomeWeatherWidgetToday)</selected>
+                </control>
+                <control type="radiobutton" id="184">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[8] $LOCALIZE[301496]</label>
+                    <onclick>Skin.Reset(HomeWeatherWidgetToday)</onclick>
+                    <onclick>Skin.ToggleSetting(HomeWeatherWidgetFull)</onclick>
+                    <selected>Skin.HasSetting(HomeWeatherWidgetFull)</selected>
+                </control>
+                <control type="button" id="186">
+                    <include>dialogbutton_popup</include>
+                    <label>301514</label>
+                    <onclick>RunScript(script.image.resource.select,property=weathericons&amp;type=resource.images.weathericons)</onclick>
+                    <visible>System.HasAddon(script.image.resource.select)</visible>
+                    <enable>!String.IsEmpty(Weather.Plugin)</enable>
+                </control>
+                <control type="button" id="188">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[8] $LOCALIZE[21417]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>ActivateWindow(servicesettings,weather)</onclick>
+                </control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="190"/>
+					<param name="id2" value="192"/>
+					<param name="id3" value="194"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- pvr livetv -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),pvr)</visible>
+                <control type="radiobutton" id="196">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[20007]</label>
+                    <onclick>Skin.Reset(Widget_PVRTimers)</onclick>
+                    <onclick>Skin.Reset(Widget_LiveTVWidgetChannels)</onclick>
+                    <onclick>Skin.Reset(Widget_SerienPlaner)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_Recordings)</onclick>
+                    <selected>Skin.HasSetting(Widget_Recordings)</selected>
+                </control>
+                <control type="radiobutton" id="198">
+                    <description>Widget TV Shows</description>
+                    <include>dialogbutton_popup</include>
+                    <label>- $LOCALIZE[14001]</label>
+                    <onclick>Skin.ToggleSetting(Widget_PVR_Flat)</onclick>
+                    <visible>Skin.HasSetting(Widget_Recordings)</visible>
+                </control>
+                <control type="radiobutton" id="200">
+                    <include>dialogbutton_popup</include>
+                    <label>$LOCALIZE[19040]</label>
+                    <onclick>Skin.Reset(Widget_Recordings)</onclick>
+                    <onclick>Skin.Reset(Widget_LiveTVWidgetChannels)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_PVRTimers)</onclick>
+                    <onclick>Skin.Reset(Widget_SerienPlaner)</onclick>
+                    <selected>Skin.HasSetting(Widget_PVRTimers)</selected>
+                </control>
+                <control type="radiobutton" id="202">
+                    <include>dialogbutton_popup</include>
+                    <label>301536</label>
+                    <onclick>Skin.Reset(Widget_Recordings)</onclick>
+                    <onclick>Skin.Reset(Widget_PVRTimers)</onclick>
+                    <onclick>Skin.Reset(Widget_SerienPlaner)</onclick>
+                    <onclick>Skin.ToggleSetting(Widget_LiveTVWidgetChannels)</onclick>
+                    <selected>Skin.HasSetting(Widget_LiveTVWidgetChannels)</selected>
+                </control>
+                <control type="radiobutton" id="204">
+                    <include>dialogbutton_popup</include>
+                    <label> nach zuletzt gesehen sortieren</label>
+					<onclick>Skin.ToggleSetting(Widget_LiveTVWidgetChannels_inprogress)</onclick>
+					<selected>Skin.HasSetting(Widget_LiveTVWidgetChannels_inprogress)</selected>
+					<visible>Skin.HasSetting(Widget_LiveTVWidgetChannels)</visible>
+                </control>
+                <control type="button" id="206">
+                    <description>User Channels</description>
+                    <include>dialogbutton_popup</include>
+                    <label> $LOCALIZE[19141]</label>
+                    <label2>$INFO[Skin.String(Widget_PVR_TV_WidgetChannels_Path)]</label2>
+                    <onclick>Skin.SetPath(Widget_PVR_TV_WidgetChannels_Path,pvr://channels/tv/)</onclick>
+                    <visible>Skin.HasSetting(Widget_LiveTVWidgetChannels)+!Skin.HasSetting(Widget_LiveTVWidgetChannels_inprogress)</visible>
+                </control>
+				<include content="separatorlabel">
+					<param name="separatorlabel_id" value="208"/>
+				</include>
+                <control type="radiobutton" id="210">
+                    <include>dialogbutton_popup</include>
+					<label>Multiimage Background</label>
+					<onclick>Skin.ToggleSetting(Home_Background_PVRLiveTV_Multiimage)</onclick>
+					<selected>Skin.HasSetting(Home_Background_PVRLiveTV_Multiimage)</selected>
+				</control>
+                <control type="button" id="212">
+					<description>Background Settings</description>
+                    <include>dialogbutton_popup</include>
+					<label>33068</label>
+					<label2>$INFO[Skin.String(user_bkg_pvr)]</label2>
+					<onclick condition="!Skin.HasSetting(Home_Background_PVRLiveTV_Multiimage)">Skin.SetImage(user_bkg_pvr,smb://)</onclick>
+					<onclick condition="Skin.HasSetting(Home_Background_PVRLiveTV_Multiimage)">Skin.SetPath(user_bkg_pvr,smb://)</onclick>
+				</control>
+                <control type="button" id="214">
+					<description>Background Settings</description>
+                    <include>dialogbutton_popup</include>
+					<label>- Reset $LOCALIZE[33068]</label>
+					<onclick>Skin.Reset(user_bkg_pvr)</onclick>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="216"/>
+					<param name="id2" value="218"/>
+					<param name="id3" value="220"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- radio -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),radio)</visible>
+                <control type="radiobutton" id="222">
+                    <include>dialogbutton_popup</include>
+                    <label>301536</label>
+                    <onclick>Skin.ToggleSetting(Widget_PVR_Radio_WidgetChannels)</onclick>
+                    <selected>Skin.HasSetting(Widget_PVR_Radio_WidgetChannels)</selected>
+                </control>
+                <control type="button" id="224">
+                    <description>User Channels</description>
+                    <include>dialogbutton_popup</include>
+                    <label> $LOCALIZE[19141]</label>
+                    <label2>$INFO[Skin.String(Widget_PVR_Radio_WidgetChannels_Path)]</label2>
+                    <onclick>Skin.SetPath(Widget_PVR_Radio_WidgetChannels_Path,pvr://channels/radio)</onclick>
+                    <visible>Skin.HasSetting(Widget_PVR_Radio_WidgetChannels)</visible>
+                </control>
+				<include content="separatorlabel">
+					<param name="separatorlabel_id" value="226"/>
+				</include>
+                <control type="radiobutton" id="228">
+                    <include>dialogbutton_popup</include>
+					<label>Multiimage Background</label>
+					<onclick>Skin.ToggleSetting(Home_Background_PVRRadio_Multiimage)</onclick>
+					<selected>Skin.HasSetting(Home_Background_PVRRadio_Multiimage)</selected>
+				</control>
+                <control type="button" id="230">
+					<description>Background Settings</description>
+                    <include>dialogbutton_popup</include>
+					<label>33068</label>
+					<label2>$INFO[Skin.String(user_bkg_radio)]</label2>
+					<onclick condition="!Skin.HasSetting(Home_Background_PVRRadio_Multiimage)">Skin.SetImage(user_bkg_radio,smb://)</onclick>
+					<onclick condition="Skin.HasSetting(Home_Background_PVRRadio_Multiimage)">Skin.SetPath(user_bkg_radio,smb://)</onclick>
+				</control>
+                <control type="button" id="232">
+					<description>Background Settings</description>
+                    <include>dialogbutton_popup</include>
+					<label>- Reset $LOCALIZE[33068]</label>
+					<onclick>Skin.Reset(user_bkg_radio)</onclick>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="234"/>
+					<param name="id2" value="236"/>
+					<param name="id3" value="238"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom1 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom1)</visible>
+                <control type="radiobutton" id="240">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom1_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom1_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom1_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="242">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom1_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom1_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom1_User)</selected>
+                </control>
+                <control type="button" id="244">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom1_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom1_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom1_User)</enable> -->
+				</control>
+                <control type="button" id="246">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom1_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom1_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom1_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="248"/>
+					<param name="id2" value="250"/>
+					<param name="id3" value="252"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom2 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom2)</visible>
+                <control type="radiobutton" id="254">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom2_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom2_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom2_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="256">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom2_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom2_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom2_User)</selected>
+                </control>
+                <control type="button" id="258">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom2_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom2_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom2_User)</enable> -->
+				</control>
+                <control type="button" id="260">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom2_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom2_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom2_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="262"/>
+					<param name="id2" value="264"/>
+					<param name="id3" value="266"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom3 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom3)</visible>
+                <control type="radiobutton" id="268">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom3_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom3_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom3_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="270">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom3_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom3_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom3_User)</selected>
+                </control>
+                <control type="button" id="272">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom3_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom3_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom3_User)</enable> -->
+				</control>
+                <control type="button" id="274">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom3_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom3_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom3_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="276"/>
+					<param name="id2" value="278"/>
+					<param name="id3" value="280"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom4 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom4)</visible>
+                <control type="radiobutton" id="282">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom4_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom4_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom4_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="284">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom4_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom4_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom4_User)</selected>
+                </control>
+                <control type="button" id="286">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom4_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom4_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom4_User)</enable> -->
+				</control>
+                <control type="button" id="288">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom4_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom4_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom4_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="290"/>
+					<param name="id2" value="292"/>
+					<param name="id3" value="294"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom5 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom5)</visible>
+                <control type="radiobutton" id="296">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom5_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom5_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom5_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="298">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom5_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom5_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom5_User)</selected>
+                </control>
+                <control type="button" id="300">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom5_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom5_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom5_User)</enable> -->
+				</control>
+                <control type="button" id="302">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom5_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom5_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom5_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="304"/>
+					<param name="id2" value="306"/>
+					<param name="id3" value="308"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom6 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom6)</visible>
+                <control type="radiobutton" id="310">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom6_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom6_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom6_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="312">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom6_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom6_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom6_User)</selected>
+                </control>
+                <control type="button" id="314">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom6_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom6_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom6_User)</enable> -->
+				</control>
+                <control type="button" id="316">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom6_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom6_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom6_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="318"/>
+					<param name="id2" value="320"/>
+					<param name="id3" value="322"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom7 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom7)</visible>
+                <control type="radiobutton" id="324">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom7_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom7_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom7_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="326">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom7_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom7_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom7_User)</selected>
+                </control>
+                <control type="button" id="328">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom7_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom7_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom7_User)</enable> -->
+				</control>
+                <control type="button" id="330">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom7_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom7_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom7_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="332"/>
+					<param name="id2" value="334"/>
+					<param name="id3" value="336"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom8 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom8)</visible>
+                <control type="radiobutton" id="338">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom8_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom8_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom8_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="340">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom8_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom8_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom8_User)</selected>
+                </control>
+                <control type="button" id="342">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom8_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom8_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom8_User)</enable> -->
+				</control>
+                <control type="button" id="344">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom8_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom8_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom8_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="346"/>
+					<param name="id2" value="348"/>
+					<param name="id3" value="350"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- custom9 -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),custom9)</visible>
+                <control type="radiobutton" id="352">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom9_Standard)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom9_User)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom9_Standard)</selected>
+                </control>
+                <control type="radiobutton" id="354">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Custom9_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Custom9_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Custom9_User)</selected>
+                </control>
+                <control type="button" id="356">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom9_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Custom9_Label)</onclick>
+					<!-- <enable>Skin.HasSetting(HomeWidget_Custom9_User)</enable> -->
+				</control>
+                <control type="button" id="358">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Custom9_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Custom9_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Custom9_User)</enable>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="360"/>
+					<param name="id2" value="362"/>
+					<param name="id3" value="364"/>
+				</include>
+            </control>
+            <control type="grouplist" id="36100"> <!-- games -->
+                <left>45</left>
+                <top>168</top>
+                <width>1110</width>
+                <height>675</height>
+                <itemgap>3</itemgap>
+                <visible>String.IsEqual(Window(Home).Property(HomeButton),games)</visible>
+                <control type="radiobutton" id="366">
+                    <include>dialogbutton_popup</include>
+                    <label>10821</label>
+                    <onclick>Skin.ToggleSetting(Widget_LastusedGames)</onclick>
+                    <selected>Skin.HasSetting(Widget_LastusedGames)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoGamesButton)+!Skin.HasSetting(Home_Games_Button)</visible>
+                </control>
+                <control type="radiobutton" id="368">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[409]</label>
+                    <onclick>Skin.Reset(HomeWidget_Games_User)</onclick>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Games_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Games_Standard)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoGamesButton)+Skin.HasSetting(Home_Games_Button)</visible>
+                </control>
+                <control type="radiobutton" id="370">
+                    <include>dialogbutton_popup</include>
+                    <label>Widget - $LOCALIZE[636]</label>
+                    <onclick>Skin.ToggleSetting(HomeWidget_Games_User)</onclick>
+                    <onclick>Skin.Reset(HomeWidget_Games_Standard)</onclick>
+                    <selected>Skin.HasSetting(HomeWidget_Games_User)</selected>
+					<visible>!Skin.HasSetting(HomeMenuNoGamesButton)+Skin.HasSetting(Home_Games_Button)</visible>
+                </control>
+                <control type="button" id="372">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[21899]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Games_Label)]</label2>
+					<onclick>Skin.SetString(HomeWidget_Games_Label)</onclick>
+					<visible>!Skin.HasSetting(HomeMenuNoGamesButton)+Skin.HasSetting(Home_Games_Button)</visible>
+				</control>
+                <control type="button" id="374">
+                    <include>dialogbutton_popup</include>
+					<label>- $LOCALIZE[573]</label>
+					<label2>$INFO[Skin.String(HomeWidget_Games_Path)]</label2>
+					<onclick>$VAR[HomeWidget_Games_Currentpath]</onclick>
+					<enable>Skin.HasSetting(HomeWidget_Games_User)</enable>
+					<visible>!Skin.HasSetting(HomeMenuNoGamesButton)+Skin.HasSetting(Home_Games_Button)</visible>
+				</control>
+				<include content="WidgetGeneralSettings">
+					<param name="id1" value="376"/>
+					<param name="id2" value="378"/>
+					<param name="id3" value="380"/>
+				</include>
+            </control>
+        </control>
+    </controls>
+</window>

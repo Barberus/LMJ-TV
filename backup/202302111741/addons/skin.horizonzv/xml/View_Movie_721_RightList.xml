@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+    <include name="RightList">
+        <include>openclose</include>
+        <control type="group">
+			<include content="FakeButton444">
+				<param name="visible" value="Control.IsVisible(721)"/>
+			</include>
+            <include>openclosevisible</include>
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+            <include>BlackGrunge</include>
+        </control>
+        <control type="group">
+            <left>1065</left>
+            <top>0</top>
+            <include>opencloseslideleft</include>
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+            <animation effect="slide" end="-15,0" time="300" condition="Control.HasFocus(60)">Conditional</animation>
+            <control type="image">
+                <left>-3</left>
+                <top>-8</top>
+                <width>3</width>
+                <height>1095</height>
+                <colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+                <texture>White.png</texture>
+            </control>
+            <control type="image">
+                <left>840</left>
+                <top>-8</top>
+                <width>3</width>
+                <height>1095</height>
+                <colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+                <texture>White.png</texture>
+            </control>
+            <control type="image">
+                <left>0</left>
+                <top>-8</top>
+                <width>840</width>
+                <height>1095</height>
+                <colordiffuse>grey2</colordiffuse>
+                <texture>Underlay2.png</texture>
+            </control>
+            <control type="image">
+                <left>22</left>
+                <top>982</top>
+                <width>795</width>
+                <height>3</height>
+                <colordiffuse>fanartdiffuse</colordiffuse>
+                <texture background="true" border="1">Separator1.png</texture>
+            </control>
+            <control type="list" id="721">
+                <left>0</left>
+                <top>105</top>
+                <width>840</width>
+                <height>861</height>
+                <onleft>9000</onleft>
+                <onright condition="Control.IsVisible(60)">60</onright>
+                <onright condition="Control.IsVisible(15000)">15000</onright>
+                <onright condition="!Control.IsVisible(15000)">732</onright>
+                <onup>721</onup>
+                <ondown>721</ondown>
+                <viewtype label="RightList">list</viewtype>
+                <pagecontrol>60</pagecontrol>
+                <scrolltime>200</scrolltime>
+                <visible>Container.Content(Sets)|Container.Content(Musicvideos)|Container.Content(Movies)|Container.Content(TVShows)|Container.Content(Episodes)|Container.Content(Seasons)</visible>
+                <itemlayout width="840" height="50">
+					<control type="label">
+						<left>20</left>
+						<right>30</right>
+						<height>50</height>
+						<align>left</align>
+						<textcolor>grey</textcolor>
+						<label>$VAR[OriginalTitle]</label>
+					</control>
+					<control type="label">
+						<right>35</right>
+						<height>50</height>
+						<align>right</align>
+						<textcolor>grey</textcolor>
+						<font>font16</font>
+						<label>$VAR[ListItemLabel2]</label>
+						<visible>!Container.Content(Addons)</visible>
+						<animation effect="slide" end="38" condition="Window.IsVisible(music)">Conditional</animation>
+					</control>
+					<control type="label">
+						<right>35</right>
+						<height>50</height>
+						<align>right</align>
+						<textcolor>grey</textcolor>
+						<font>font16</font>
+						<label>$INFO[ListItem.Property(Addon.Status)]$INFO[ListItem.AddonVersion, (,) ]</label>
+						<visible>Container.Content(Addons)</visible>
+					</control>
+					<control type="label">
+						<right>35</right>
+						<height>50</height>
+						<align>right</align>
+						<textcolor>grey</textcolor>
+						<font>font16</font>
+						<label>$INFO[ListItem.Property(NumEpisodes),, $LOCALIZE[20453]]</label>
+						<visible>Container.Content(seasons)</visible>
+					</control>
+					<control type="image">
+						<left>35r</left>
+						<width>30</width>
+						<height>50</height>
+						<aspectratio>keep</aspectratio>
+						<texture background="true">$INFO[ListItem.Overlay]</texture>
+						<visible>!ListItem.IsResumable</visible>
+					</control>
+					<control type="image">
+						<left>35r</left>
+						<width>30</width>
+						<height>50</height>
+						<aspectratio>keep</aspectratio>
+						<texture background="true">OverlayWatching.png</texture>
+						<visible>ListItem.IsResumable</visible>
+					</control>
+					<control type="image">
+						<left>35r</left>
+						<width>30</width>
+						<height>50</height>
+						<aspectratio>keep</aspectratio>
+						<texture background="true">OverlayRAR.png</texture>
+						<visible>String.Contains(ListItem.Property(Addon.Status),$LOCALIZE[13413])</visible>
+					</control>
+                </itemlayout>
+                <focusedlayout width="840" height="75">
+					<control type="group">
+						<include>focuseffect</include>
+						<control type="image">
+							<width>870</width>
+							<height>75</height>
+							<texture background="true" border="2" colordiffuse="$VAR[BackgroundOverlayColorDialog]">buttons/ButtonFO.png</texture>
+							<visible>!Control.HasFocus(721)</visible>
+						</control>
+						<control type="image">
+							<width>870</width>
+							<height>75</height>
+							<texture background="true" border="2">buttons/ButtonFO.png</texture>
+							<visible>Control.HasFocus(721)</visible>
+						</control>
+						<control type="image">
+							<width>870</width>
+							<height>75</height>
+							<texture background="true" border="5">buttons/ButtonNF.png</texture>
+						</control>
+						<control type="label">
+							<left>20</left>
+							<right>30</right>
+							<height>50</height>
+							<align>left</align>
+							<textcolor>black</textcolor>
+							<shadowcolor>grey</shadowcolor>
+							<label>$VAR[OriginalTitle]</label>
+						</control>
+						<control type="label">
+							<right>35</right>
+							<height>50</height>
+							<align>right</align>
+							<textcolor>black</textcolor>
+							<shadowcolor>grey</shadowcolor>
+							<font>font16</font>
+							<label>$VAR[ListItemLabel2]</label>
+							<visible>!Container.Content(Addons)</visible>
+							<animation effect="slide" end="38" condition="Window.IsVisible(music)">Conditional</animation>
+						</control>
+						<control type="label">
+							<right>35</right>
+							<height>50</height>
+							<align>right</align>
+							<textcolor>black</textcolor>
+							<shadowcolor>grey</shadowcolor>
+							<font>font16</font>
+							<label>$INFO[ListItem.Property(Addon.Status)]$INFO[ListItem.AddonVersion, (,) ]</label>
+							<visible>Container.Content(Addons)</visible>
+						</control>
+                        <control type="label">
+                            <left>20</left>
+                            <top>38</top>
+                            <width>780</width>
+                            <height>33</height>
+                            <align>left</align>
+                            <font>ubuntu-r13b</font>
+							<shadowcolor>grey2</shadowcolor>
+                            <shadowcolor/>
+							<scroll>false</scroll>
+                            <label>$INFO[ListItem.Duration,, $LOCALIZE[12391] | ]$INFO[ListItem.Genre,,]</label>
+                        </control>
+						<control type="image">
+							<left>35r</left>
+							<width>30</width>
+							<height>50</height>
+							<aspectratio>keep</aspectratio>
+							<texture background="true">$INFO[ListItem.Overlay]</texture>
+							<visible>!ListItem.IsResumable</visible>
+						</control>
+						<control type="image">
+							<left>35r</left>
+							<width>30</width>
+							<height>50</height>
+							<aspectratio>keep</aspectratio>
+							<texture background="true">OverlayWatching.png</texture>
+							<visible>ListItem.IsResumable</visible>
+						</control>
+						<control type="image">
+							<left>35r</left>
+							<width>30</width>
+							<height>50</height>
+							<aspectratio>keep</aspectratio>
+							<texture background="true">OverlayRAR.png</texture>
+							<visible>String.Contains(ListItem.Property(Addon.Status),$LOCALIZE[13413])</visible>
+						</control>
+					</control>
+                </focusedlayout>
+            </control>
+        </control>
+        <control type="scrollbar" id="60">
+            <animation effect="slide" end="-20,0" time="300">Focus</animation>
+            <left>0r</left>
+            <top>105</top>
+            <height>870</height>
+            <onleft>721</onleft>
+            <onright condition="Control.IsVisible(15000)">15000</onright>
+            <onright condition="!Control.IsVisible(15000)">732</onright>
+            <showonepage>false</showonepage>
+            <orientation>vertical</orientation>
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+        </control>
+        <control type="group"> <!-- Set Information -->
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+			<visible>ListItem.IsCollection</visible>
+			<include>openclosemedium</include>
+            <control type="grouplist">
+                <left>30</left>
+                <top>445</top>
+                <width>1140</width>
+                <height>135</height>
+                <itemgap>8</itemgap>
+				<animation effect="zoom" end="88" condition="true">Conditional</animation>
+				<include content="MovieSetInformationCover">
+					<param name="left" value="30"/>
+					<param name="top" value="0" />
+					<param name="leftlabel" value="0"/>
+					<param name="toplabel" value="555" />
+				</include>
+            </control>
+        </control>
+        <control type="group">
+			<visible>!ListItem.IsParentFolder</visible>
+			<include>openclosevisible</include>
+            <include>opencloseslideright</include>
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+            <control type="group">
+                <left>0</left>
+                <top>0</top>
+                <control type="image">
+                    <left>352</left>
+                    <top>578</top>
+                    <width>3</width>
+                    <height>390</height>
+                    <colordiffuse>fanartdiffuse</colordiffuse>
+                    <texture background="true" border="1">Separator4.png</texture>
+                </control>
+                <control type="image">
+                    <left>22</left>
+                    <top>562</top>
+                    <width>1020</width>
+                    <height>3</height>
+                    <colordiffuse>fanartdiffuse</colordiffuse>
+                    <texture background="true" border="1">Separator1.png</texture>
+                </control>
+                <control type="image">
+                    <left>22</left>
+                    <top>982</top>
+                    <width>1020</width>
+                    <height>3</height>
+                    <colordiffuse>fanartdiffuse</colordiffuse>
+                    <texture background="true" border="1">Separator1.png</texture>
+                </control>
+                <control type="label">
+                    <left>30</left>
+                    <top>530</top>
+                    <width>525</width>
+                    <height>30</height>
+                    <textcolor>grey</textcolor>
+                    <label>$LOCALIZE[572]: $INFO[ListItem.Studio]</label>
+                    <visible>!String.IsEmpty(ListItem.Studio)</visible>
+                </control>
+                <control type="label">
+                    <left>555</left>
+                    <top>530</top>
+                    <width>300</width>
+                    <height>30</height>
+                    <align>right</align>
+                    <textcolor>grey</textcolor>
+                    <label>$INFO[ListItem.Votes ,, $LOCALIZE[205] ]</label>
+					<visible>!ListItem.IsCollection</visible>
+                </control>
+                <control type="group">
+                    <include>openclosevisible</include>
+                    <visible>Skin.HasSetting(RightListPlot)+!String.IsEmpty(ListItem.Plot)</visible>
+                    <control type="image">
+                        <left>22</left>
+                        <top>520</top>
+                        <width>1020</width>
+                        <height>3</height>
+                        <colordiffuse>fanartdiffuse</colordiffuse>
+                        <texture background="true" border="1">Separator1.png</texture>
+						<animation effect="slide" end="0,-95" time="0" condition="ListItem.IsCollection">Conditional</animation>
+                    </control>
+                    <control type="textbox">
+                        <left>30</left>
+                        <top>105</top>
+                        <width>1005</width>
+                        <height>390</height>
+                        <shadowcolor>black</shadowcolor>
+                        <include condition="!Skin.HasSetting(BigPlotText)">PlotText16Var</include>
+                        <include condition="Skin.HasSetting(BigPlotText)">PlotTextBigVar</include>
+                        <label fallback="195">$INFO[ListItem.Plot]</label>
+						<visible>!ListItem.IsCollection</visible>
+                    </control>
+                    <control type="textbox">
+                        <left>30</left>
+                        <top>105</top>
+                        <width>1005</width>
+                        <height>310</height>
+                        <shadowcolor>black</shadowcolor>
+                        <include condition="!Skin.HasSetting(BigPlotText)">PlotText16Var</include>
+                        <include condition="Skin.HasSetting(BigPlotText)">PlotTextBigVar</include>
+                        <label fallback="195">$INFO[ListItem.Plot]</label>
+						<visible>ListItem.IsCollection</visible>
+                    </control>
+                </control>
+            </control>
+			<control type="group">
+				<left>0</left>
+				<top>580</top>
+				<control type="group">
+					<left>30</left>
+					<top>-3</top>
+					<visible>!Skin.HasSetting(hideMovieCases)</visible>
+					<control type="image">
+						<description>case by resolution</description>
+						<left>33</left>
+						<top>4</top>
+						<width>267</width>
+						<height>381</height>
+						<texture background="true" diffuse="clear-cases/clearcase_inlay.png" fallback="FallbackCover.png">$VAR[PosterThumb]</texture>
+						<aspectratio>stretch</aspectratio>
+						<visible>!Container.Content(Episodes)</visible>
+					</control>
+					<control type="image">
+						<description>case by resolution</description>
+						<left>33</left>
+						<top>4</top>
+						<width>267</width>
+						<height>381</height>
+						<texture background="true" diffuse="clear-cases/clearcase_inlay.png" fallback="FallbackCover.png">$INFO[ListItem.Art(tvshow.poster)]</texture>
+						<aspectratio>stretch</aspectratio>
+						<visible>Container.Content(Episodes)</visible>
+					</control>
+					<control type="image">
+						<description>case by resolution</description>
+						<left>0</left>
+						<top>0</top>
+						<width>303</width>
+						<height>390</height>
+						<texture background="true" fallback="clear-cases/fallback.png">$VAR[clearcase]</texture>
+					</control>
+				</control>
+				<control type="group">
+					<visible>Skin.HasSetting(hideMovieCases)</visible>
+					<control type="image">
+						<description>Movie cover image</description>
+						<left>48</left>
+						<top>0</top>
+						<width>285</width>
+						<height>390</height>
+						<texture background="true" fallback="FallbackCover.png">$VAR[PosterThumb]</texture>
+						<aspectratio>stretch</aspectratio>
+						<bordertexture border="5">buttons/ButtonNF.png</bordertexture>
+						<bordersize>4</bordersize>
+						<visible>!Container.Content(Episodes)|String.IsEmpty(ListItem.Art(tvshow.poster))</visible>
+					</control>
+					<control type="image">
+						<description>Movie cover image</description>
+						<left>48</left>
+						<top>0</top>
+						<width>285</width>
+						<height>390</height>
+						<texture background="true" diffuse="clear-cases/clearcase_inlay.png" fallback="FallbackCover.png">$INFO[ListItem.Art(tvshow.poster)]</texture>
+						<aspectratio>stretch</aspectratio>
+						<visible>Container.Content(Episodes)+!String.IsEmpty(ListItem.FileExtension)</visible>
+					</control>
+				</control>
+			</control>
+            <control type="group">
+                <left>338</left>
+                <top>548</top>
+				<visible>!ListItem.IsParentFolder</visible>
+                <control type="group">
+                    <control type="group">
+                        <visible>!Container.Content(episodes)</visible>
+						<control type="image" id="700">
+							<!-- <visible>[Container.Content(movies)+Skin.HasSetting(EnableExtendedArt)]|[!Container.Content(movies)+Skin.HasSetting(EnableExtendedArt)]</visible> -->
+							<visible>Skin.HasSetting(EnableExtendedArt)</visible>
+							<left>38</left>
+							<top>34</top>
+							<width>645</width>
+							<height>387</height>
+							<aspectratio align="center" aligny="center">keep</aspectratio>
+							<texture background="true">$VAR[extraart_listitem_rule]</texture>
+							<bordersize>4</bordersize>
+						</control>
+                    </control>
+                    <control type="image" id="704">
+                        <visible>Container.Content(episodes)</visible>
+                        <left>38</left>
+                        <top>34</top>
+                        <width>645</width>
+                        <height>387</height>
+                        <aspectratio align="center" aligny="center">scale</aspectratio>
+                        <texture background="true" fallback="FallbackCover.png">$INFO[ListItem.Icon]</texture>
+                        <bordertexture border="5">buttons/ButtonNF.png</bordertexture>
+                        <bordersize>4</bordersize>
+                    </control>
+                    <control type="image">
+                        <description>Rated</description>
+                        <left>525</left>
+                        <top>-18</top>
+                        <width>180</width>
+                        <height>30</height>
+                        <texture background="true">$INFO[ListItem.Rating,leftratingvideo/,.png]</texture>
+                        <visible>!ListItem.IsCollection</visible>
+                    </control>
+                    <control type="image">
+                        <!-- <visible>Skin.HasSetting(fsk_original)|Skin.HasSetting(fsk_dual)</visible> -->
+                        <left>750</left>
+                        <top>453</top>
+                        <width>225</width>
+                        <height>60</height>
+                        <aspectratio align="left" aligny="bottom">keep</aspectratio>
+                        <texture background="true">$VAR[Furniture_VideoRating]</texture>
+                    </control>
+                </control>
+            </control>
+        </control>
+        <control type="group">
+            <include>opencloseslideup</include>
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+            <include>CommonPageCount</include>
+            <control type="group">
+                <left>22</left>
+                <top>982</top>
+                <control type="grouplist">
+                    <left>8</left>
+                    <top>30</top>
+                    <width>975</width>
+                    <height>45</height>
+                    <itemgap>12</itemgap>
+                    <align>left</align>
+                    <scrolltime tween="sine" easing="out">200</scrolltime>
+                    <orientation>horizontal</orientation>
+                    <include>FlagVideo</include>
+                    <include>FlagVideoAudioStream1</include>
+                </control>
+            </control>
+        </control>
+        <control type="group">
+            <visible>Control.IsVisible(721)+!Control.HasFocus(666)</visible>
+            <include condition="!Skin.HasSetting(HideJumpSMSBar)">AlphaBarV</include>
+        </control>
+    </include>
+</includes>

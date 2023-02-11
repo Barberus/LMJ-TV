@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="147">
+    <defaultcontrol>61</defaultcontrol>
+    <include>openclose</include>
+    <controls>
+        <include>DialogBackgroundSimple</include>
+        <control type="group">
+            <visible>!Window.IsVisible(FileBrowser)</visible>
+            <include>openclosebox</include>
+            <include content="DialogInfoBackgroundParam">
+				<param name="width" value="1740" />
+				<param name="height" value="938" />
+				<param name="bottomimage" value="878" />
+                <param name="id" value="1" />
+                <param name="HeaderLabel" value="" />
+            </include>
+			<control type="textbox" id="5">
+				<description>textarea</description>
+				<left>130</left>
+				<top>150</top>
+				<width>1620</width>
+				<height>785</height>
+				<align>justify</align>
+				<font>bebas19b</font>
+				<pagecontrol>61</pagecontrol>
+			</control>
+			<control type="scrollbar" id="61">
+				<left>1785</left>
+				<top>150</top>
+				<height>785</height>
+				<ondown>61</ondown>
+				<onup>61</onup>
+			</control>
+			<control type="label">
+				<left>130</left>
+				<top>962</top>
+				<width>1700</width>
+				<height>35</height>
+				<font>impacted16</font>
+				<align>center</align>
+				<label>$LOCALIZE[31008] $INFO[Container(5).CurrentPage]/$INFO[Container(5).NumPages]</label>
+				<visible>Integer.IsGreater(Container(5).NumPages,1)</visible>
+			</control>
+        </control>
+    </controls>
+</window>

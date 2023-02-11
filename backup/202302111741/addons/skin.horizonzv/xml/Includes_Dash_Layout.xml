@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+	<include name="DashListLayout_smal">
+		<itemlayout height="105" width="180">
+			<include content="DashItemlayout">
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="keep" />
+				<param name="id" value="$PARAM[id]" />
+			</include>
+		</itemlayout>
+		<focusedlayout height="105" width="180" condition="Control.HasFocus($PARAM[id])">
+			<include content="DashFocusedlayout">
+				<param name="Dash_Label1" value="$INFO[ListItem.TVShowTitle]" />
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Label3" value="$INFO[ListItem.Genre]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="keep" />
+			</include>
+		</focusedlayout>
+		<focusedlayout height="105" width="180" condition="!Control.HasFocus($PARAM[id])">
+			<include content="DashItemlayout">
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="keep" />
+				<param name="id" value="$PARAM[id]" />
+			</include>
+		</focusedlayout>
+	</include>
+	<include name="DashListLayout">
+		<itemlayout height="105" width="360">
+			<include content="DashItemlayout">
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="scale" />
+				<param name="id" value="$PARAM[id]" />
+			</include>
+		</itemlayout>
+		<focusedlayout height="105" width="360" condition="Control.HasFocus($PARAM[id])">
+			<include content="DashFocusedlayout">
+				<param name="Dash_Label1" value="$INFO[ListItem.TVShowTitle]" />
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Label3" value="$INFO[ListItem.Genre]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="scale" />
+			</include>
+		</focusedlayout>
+		<focusedlayout height="105" width="360" condition="!Control.HasFocus($PARAM[id])">
+			<include content="DashItemlayout">
+				<param name="Dash_Label2" value="$INFO[ListItem.Label]" />
+				<param name="Dash_Icon" value="$INFO[ListItem.Icon]" />
+				<param name="aspect" value="scale" />
+				<param name="id" value="$PARAM[id]" />
+			</include>
+		</focusedlayout>
+	</include>
+    <include name="DashItemlayout">
+		<control type="image">
+			<right>5</right>
+            <colordiffuse>grey</colordiffuse>
+			<aspectratio>scale</aspectratio>
+			<texture background="true">SetBanner.png</texture>
+		</control>
+		<control type="image">
+			<right>5</right>
+			<aspectratio>$PARAM[aspect]</aspectratio>
+			<texture background="true">$PARAM[Dash_Icon]</texture>
+		</control>
+		<control type="image">
+			<right>5</right>
+			<top>36</top>
+			<height>36</height>
+			<texture background="true">BlackBack.png</texture>
+		</control>
+		<control type="label">
+			<left>5</left>
+			<right>10</right>
+			<top>35</top>
+			<height>36</height>
+			<font>bebas24</font>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>white</textcolor>
+			<shadowcolor>black</shadowcolor>
+			<label>$PARAM[Dash_Label2]</label>
+		</control>
+		<control type="image">
+			<right>5</right>
+			<colordiffuse>menudiffuse</colordiffuse>
+			<texture border="4" background="true">BlackBack.png</texture>
+			<visible>Skin.HasSetting(WidgetDimDashrows)|Control.HasFocus($PARAM[id])</visible>
+		</control>
+		<control type="image">
+			<colordiffuse>menudiffuse</colordiffuse>
+			<right>5</right>
+			<texture border="4" background="true">masks/Default_sharp.png</texture>
+		</control>
+    </include>
+    <include name="DashFocusedlayout">
+		<control type="group">
+			<include>focuseffect</include>
+			<control type="image">
+				<right>5</right>
+				<colordiffuse>menudiffuse</colordiffuse>
+				<texture background="true">BlackBack.png</texture>
+			</control>
+			<control type="image">
+				<right>5</right>
+				<aspectratio>$PARAM[aspect]</aspectratio>
+				<texture background="true">$PARAM[Dash_Icon]</texture>
+			</control>
+			<control type="image">
+				<description>background</description>
+				<right>5</right>
+				<colordiffuse>description</colordiffuse>
+				<!-- <colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse> -->
+				<texture background="true">WhiteBack.png</texture>
+			</control>
+			<control type="image">
+				<right>5</right>
+				<top>36</top>
+				<height>36</height>
+				<texture background="true">BlackBack.png</texture>
+			</control>
+			<control type="label">
+				<left>5</left>
+				<right>10</right>
+				<top>0</top>
+				<height>40</height>
+				<font>ubuntu-r12</font>
+				<align>center</align>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<label>[B][UPPERCASE]$PARAM[Dash_Label1][/UPPERCASE][/B]</label>
+			</control>
+			<control type="label">
+				<left>5</left>
+				<right>10</right>
+				<top>35</top>
+				<height>36</height>
+				<font>bebas24</font>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<label>$PARAM[Dash_Label2]</label>
+			</control>
+			<control type="label">
+				<left>5</left>
+				<right>10</right>
+				<top>66</top>
+				<height>38</height>
+				<font>ubuntu-r12</font>
+				<align>center</align>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<label>$PARAM[Dash_Label3]</label>
+			</control>
+			<control type="image">
+				<description>background</description>
+				<right>5</right>
+				<colordiffuse>menudiffuse</colordiffuse>
+				<texture background="true" border="4">masks/Default_sharp.png</texture>
+			</control>
+		</control>
+	</include>
+    <include name="DashboardLayout_Row1">
+		<include>openclosemedium</include>
+		<visible>String.IsEqual(Container(9000).ListItem.Property(homemenu_id),dashboard)</visible>
+        <onleft>8009</onleft>
+        <onright>8009</onright>
+        <onup>8006</onup>
+        <ondown>9000</ondown>
+        <viewtype label="535">panel</viewtype>
+        <pagecontrol/>
+        <scrolltime>200</scrolltime>
+        <orientation>horizontal</orientation>
+        <itemlayout height="180" width="180">
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">BlackBack.png</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">$INFO[ListItem.Icon]</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">BlackBack.png</param>
+				<param name="visible">Skin.HasSetting(WidgetDimDashrows)|Control.HasFocus(8009)</param>
+				<param name="right_bottom">5</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">masks/Default_sharp.png</param>
+				<param name="visible">true</param>
+				<param name="right_bottom">5</param>
+				<param name="diffuse">menudiffuse</param>
+			</include>
+        </itemlayout>
+        <focusedlayout height="180" width="180">
+            <control type="group">
+                <include>focuseffect</include>
+				<include content="DashboardAddonIconLayout">
+					<param name="icon">BlackBack.png</param>
+					<param name="visible">true</param>
+					<param name="left_top">10</param>
+					<param name="right_bottom">15</param>
+				</include>
+				<include content="DashboardAddonIconLayout">
+					<param name="icon">WhiteBack.png</param>
+					<param name="visible">Control.HasFocus(8009)</param>
+					<param name="right_bottom">5</param>
+					<param name="diffuse">description</param>
+				</include>
+				<include content="DashboardAddonIconLayout">
+					<param name="icon">$INFO[ListItem.Icon]</param>
+					<param name="visible">true</param>
+					<param name="left_top">10</param>
+					<param name="right_bottom">15</param>
+				</include>
+				<include content="DashboardAddonIconLayout">
+					<param name="icon">BlackBack.png</param>
+					<param name="visible">Skin.HasSetting(WidgetDimDashrows)+!Control.HasFocus(8009)</param>
+					<param name="right_bottom">5</param>
+				</include>
+				<include content="DashboardAddonIconLayout">
+					<param name="icon">masks/Default_sharp.png</param>
+					<param name="visible">true</param>
+					<param name="right_bottom">5</param>
+					<param name="diffuse">menudiffuse</param>
+				</include>
+            </control>
+        </focusedlayout>
+    </include>
+    <include name="DashboardLayout_Row1_Settings"> <!-- need for custom window 1200 -->
+        <itemlayout height="180" width="180">
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">BlackBack.png</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">$INFO[ListItem.Icon]</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">BlackBack.png</param>
+				<param name="visible">Control.HasFocus(8006)</param>
+				<param name="right_bottom">5</param>
+			</include>
+			<control type="label">
+				<width>170</width>
+				<height>170</height>
+				<align>center</align>
+				<font>Home</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<info>ListItem.CurrentItem</info>
+			</control>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">masks/Default_sharp.png</param>
+				<param name="visible">true</param>
+				<param name="right_bottom">5</param>
+				<param name="diffuse">menudiffuse</param>
+			</include>
+		</itemlayout>
+        <focusedlayout height="180" width="180">
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">BlackBack.png</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">WhiteBack.png</param>
+				<param name="visible">true</param>
+				<param name="right_bottom">5</param>
+				<param name="diffuse">description</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">$INFO[ListItem.Icon]</param>
+				<param name="visible">true</param>
+				<param name="left_top">10</param>
+				<param name="right_bottom">15</param>
+			</include>
+			<include content="DashboardAddonIconLayout">
+				<param name="icon">masks/Default_sharp.png</param>
+				<param name="visible">true</param>
+				<param name="right_bottom">5</param>
+				<param name="diffuse">menudiffuse</param>
+			</include>
+			<control type="label">
+				<width>170</width>
+				<height>170</height>
+				<align>center</align>
+				<font>Home</font>
+				<textcolor>red</textcolor>
+				<shadowcolor>black</shadowcolor>
+				<info>ListItem.CurrentItem</info>
+			</control>
+        </focusedlayout>
+        <include>DashboardContent</include>
+    </include>
+    <include name="DashboardAddonIconLayout">
+		<control type="image">
+			<description>background</description>
+			<left>$PARAM[left_top]</left>
+			<right>$PARAM[right_bottom]</right>
+			<top>$PARAM[left_top]</top>
+			<bottom>$PARAM[right_bottom]</bottom>
+			<aspectratio>keep</aspectratio>
+			<texture background="true">$PARAM[icon]</texture>
+			<colordiffuse>$PARAM[diffuse]</colordiffuse>
+			<visible>$PARAM[visible]</visible>
+		</control>
+	</include>
+	<include name="BusyItem">
+		<param name="BusyIcon"></param>
+		<param name="visible_5items">true</param>
+		<param name="visible_9items">false</param>
+		<param name="visible_10items">false</param>
+		<definition>
+			<content>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(0).Icon)</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(1).Icon)</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(2).Icon)</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(3).Icon)</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(4).Icon)</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(5).Icon)</visible>
+					<visible>$PARAM[visible_9items]</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(6).Icon)</visible>
+					<visible>$PARAM[visible_9items]</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(7).Icon)</visible>
+					<visible>$PARAM[visible_9items]</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(8).Icon)</visible>
+					<visible>$PARAM[visible_9items]</visible>
+				</item>
+				<item>
+					<label/>
+					<property name="BusyIcon">$PARAM[icon]</property>
+					<visible>String.IsEmpty(Container($PARAM[id]).ListItemAbsolute(9).Icon)</visible>
+					<visible>$PARAM[visible_10items]</visible>
+				</item>
+			</content>
+		</definition>
+	</include>
+</includes>

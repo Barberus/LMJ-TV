@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+	<include name="DefaultPopupLayout">
+		<include>openclosebox</include>
+		<centertop>50%</centertop>
+		<centerleft>50%</centerleft>
+		<width>1215</width>
+		<height>900</height>
+		<control type="group">
+			<control type="image">
+				<description>popup background image</description>
+				<left>0</left>
+				<top>0</top>
+				<width>1215</width>
+				<height>900</height>
+				<colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+				<texture border="1">White.png</texture>
+				<animation effect="fade" end="90" condition="true">Conditional</animation>
+			</control>
+			<control type="image">
+				<description>popup background image</description>
+				<left>15</left>
+				<top>15</top>
+				<width>1185</width>
+				<height>60</height>
+				<colordiffuse>grey</colordiffuse>
+				<texture border="1">White.png</texture>
+				<animation effect="fade" end="90" condition="true">Conditional</animation>
+			</control>
+			<control type="image">
+				<description>popup background image</description>
+				<left>15</left>
+				<top>135</top>
+				<width>1185</width>
+				<height>750</height>
+				<colordiffuse>grey</colordiffuse>
+				<texture border="1">White.png</texture>
+				<animation effect="fade" end="90" condition="true">Conditional</animation>
+			</control>
+			<control type="label" id="1">
+				<description>header label</description>
+				<left>60</left>
+				<top>22</top>
+				<width>1095</width>
+				<height>45</height>
+				<font>impacted21</font>
+				<label>$PARAM[PopupHeaderTitle]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>grey2</textcolor>
+			</control>
+			<control type="grouplist">
+				<left>870</left>
+				<top>555</top>
+				<width>330</width>
+				<height>330</height>
+				<control type="image">
+					<description>background image</description>
+					<width>450</width>
+					<height>450</height>
+					<aspectratio align="left">keep</aspectratio>
+					<colordiffuse>grey1</colordiffuse>
+					<animation effect="fade" end="50" time="0" condition="true">Conditional</animation>
+					<texture border="1">$PARAM[PopupIcon]</texture>
+				</control>
+			</control>
+			<control type="label">
+				<description>Title label</description>
+				<left>38</left>
+				<top>82</top>
+				<width>1200</width>
+				<label>$PARAM[PopupTitle]</label>
+				<align>left</align>
+				<scroll>false</scroll>
+			</control>
+			<control type="label">
+				<description>Title label</description>
+				<left>1020</left>
+				<top>78</top>
+				<width>150</width>
+				<label>$PARAM[PopupTitle2]</label>
+				<align>right</align>
+				<aligny>center</aligny>
+				<scroll>false</scroll>
+			</control>
+		</control>
+	</include>
+	<include name="DefaultDialogSelectLayout">
+		<control type="group">
+			<include content="DefaultPopupLayout">
+				<param name="PopupTitle">$LOCALIZE[22080] ...</param>
+			</include>
+			<control type="list" id="3">
+                <left>45</left>
+                <top>168</top>
+                <width>680</width>
+                <height>640</height>
+                <itemgap>0</itemgap>
+				<onup>3</onup>
+				<ondown>3</ondown>
+				<onleft>9001</onleft>
+				<onright>61</onright>
+				<pagecontrol>61</pagecontrol>
+				<scrolltime>200</scrolltime>
+				<itemlayout height="60" width="680">
+                    <control type="image">
+                        <description>AudioLanguage Icon</description>
+                        <left>615</left>
+                        <top>8</top>
+                        <width>60</width>
+                        <height>45</height>
+                        <aspectratio>keep</aspectratio>
+                        <texture>$VAR[SelectFlag]</texture>
+                    </control>
+					<control type="label">
+						<left>20</left>
+						<top>0</top>
+						<right>70</right>
+						<height>60</height>
+						<aligny>center</aligny>
+						<shadowcolor>grey1</shadowcolor>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+				</itemlayout>
+				<focusedlayout height="60" width="680">
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<right>0</right>
+						<bottom>0</bottom>
+						<texture border="5">buttons/KeyboardKey.png</texture>
+						<visible>Control.HasFocus(3)</visible>
+					</control>
+                    <control type="image">
+                        <description>AudioLanguage Icon</description>
+                        <left>615</left>
+                        <top>8</top>
+                        <width>60</width>
+                        <height>45</height>
+                        <aspectratio>keep</aspectratio>
+                        <texture>$VAR[SelectFlag]</texture>
+                    </control>
+					<control type="label">
+						<left>20</left>
+						<top>0</top>
+						<right>70</right>
+						<height>60</height>
+						<aligny>center</aligny>
+						<scroll>true</scroll>
+						<textcolor>grey2</textcolor>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+				</focusedlayout>
+			</control>
+			<control type="list" id="6">
+                <left>45</left>
+                <top>168</top>
+                <width>680</width>
+                <height>637</height>
+                <itemgap>3</itemgap>
+				<onup>6</onup>
+				<ondown>6</ondown>
+				<onleft>9001</onleft>
+				<onright>61</onright>
+				<pagecontrol>61</pagecontrol>
+				<scrolltime>200</scrolltime>
+				<itemlayout height="125" width="680">
+					<control type="image">
+						<left>12</left>
+						<top>7</top>
+						<width>110</width>
+						<height>110</height>
+						<texture>$VAR[InfoWallThumbVar]</texture>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="label">
+						<left>135</left>
+						<top>0</top>
+						<right>20</right>
+						<height>60</height>
+						<aligny>center</aligny>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+					<control type="textbox">
+						<left>135</left>
+						<top>52</top>
+						<right>20</right>
+						<height>65</height>
+						<font>font12</font>
+						<textcolor>grey2</textcolor>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label2]</label>
+					</control>
+				</itemlayout>
+				<focusedlayout height="125" width="680">
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<right>0</right>
+						<bottom>0</bottom>
+						<texture border="5">buttons/KeyboardKey.png</texture>
+						<visible>Control.HasFocus(6)</visible>
+					</control>
+					<control type="image">
+						<left>12</left>
+						<top>7</top>
+						<width>110</width>
+						<height>110</height>
+						<texture>$VAR[InfoWallThumbVar]</texture>
+						<aspectratio>keep</aspectratio>
+					</control>
+					<control type="label">
+						<left>135</left>
+						<top>0</top>
+						<right>20</right>
+						<height>60</height>
+						<aligny>center</aligny>
+						<scroll>true</scroll>
+						<textcolor>grey2</textcolor>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+					<control type="textbox">
+						<left>135</left>
+						<top>52</top>
+						<right>20</right>
+						<height>65</height>
+						<font>font12</font>
+						<textcolor>grey2</textcolor>
+						<selectedcolor>focused</selectedcolor>
+						<label>$INFO[ListItem.Label2]</label>
+					</control>
+				</focusedlayout>
+			</control>
+			<control type="scrollbar" id="61">
+				<left>730</left>
+				<top>168</top>
+				<height>637</height>
+				<width>12</width>
+				<bottom>20</bottom>
+				<onleft condition="Control.IsVisible(3)">3</onleft>
+				<onleft condition="Control.IsVisible(6)">6</onleft>
+				<onright>9001</onright>
+				<orientation>vertical</orientation>
+			</control>
+			<control type="label">
+				<left>0</left>
+				<top>830</top>
+				<width>275</width>
+				<height>35</height>
+				<font>font12</font>
+				<align>right</align>
+				<textcolor>grey2</textcolor>
+				<label>$VAR[SelectLabel]</label>
+			</control>
+			<control type="grouplist" id="9001">
+				<left>820</left>
+				<top>168</top>
+				<onleft>61</onleft>
+				<onright>3</onright>
+				<include content="DefaultDialogButton">
+					<param name="width">300</param>
+					<param name="height">60</param>
+					<param name="id" value="5" />
+					<param name="label" value="" />
+					<param name="focus">buttons/KeyboardKey.png</param>
+					<param name="nofocus"/>
+				</include>
+				<include content="DefaultDialogButton">
+					<param name="width">300</param>
+					<param name="height">60</param>
+					<param name="id" value="7" />
+					<param name="label" value="$LOCALIZE[222]" />
+					<param name="focus">buttons/KeyboardKey.png</param>
+					<param name="nofocus"/>
+				</include>
+			</control>
+		</control>
+	</include>
+	<include name="GameDialogSelectLayout">
+		<control type="group">
+            <left>-15</left>
+            <top>660</top>
+            <animation effect="slide" end="0,-75" condition="Control.IsVisible(313)">Conditional</animation>
+            <include>opencloseslideup</include>
+            <visible>!Window.IsVisible(numericinput)</visible>
+            <include content="DialogInfoBackgroundParam">
+                <param name="width" value="1950" />
+                <param name="height" value="570" />
+				<param name="bottomimage" value="510" />
+                <param name="id" value="0" />
+				<param name="HeaderLabel" value="230" />
+            </include>
+			<control type="image">
+				<left>0</left>
+				<top>0</top>
+				<width>1950</width>
+				<height>570</height>
+				<animation effect="fade" end="50" condition="true">Conditional</animation>
+				<colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+				<texture>ShadowWhite.png</texture>
+			</control>
+			<control type="panel" id="11">
+				<left>100</left>
+				<right>100</right>
+				<top>10</top>
+				<scrolltime tween="sine">200</scrolltime>
+				<orientation>horizontal</orientation>
+				<itemlayout width="300" height="280">
+					<control type="image">
+						<right>20</right>
+						<aspectratio>scale</aspectratio>
+						<texture>BlackBack.png</texture>
+					</control>
+					<control type="image">
+						<right>20</right>
+						<height>200</height>
+						<aspectratio>keep</aspectratio>
+						<texture>DefaultVideo.png</texture>
+					</control>
+					<control type="gamewindow">
+						<left>20</left>
+						<top>20</top>
+						<width>240</width>
+						<bottom>20</bottom>
+						<videofilter>$INFO[ListItem.Property(game.videofilter)]</videofilter>
+						<stretchmode>$INFO[ListItem.Property(game.stretchmode)]</stretchmode>
+						<rotation>$INFO[ListItem.Property(game.videorotation)]</rotation>
+					</control>
+					<control type="image">
+						<top>100r</top>
+						<right>20</right>
+						<height>100</height>
+						<aspectratio>scale</aspectratio>
+						<texture>Shadow.png</texture>
+					</control>
+					<control type="label">
+						<top>80r</top>
+						<right>20</right>
+						<height>50</height>
+						<label>$INFO[ListItem.Label][CR][COLOR grey]$INFO[ListItem.Label2][/COLOR]</label>
+						<align>center</align>
+					</control>
+					<control type="image">
+						<right>20</right>
+						<texture border="4" background="true">masks/Default_sharp.png</texture>
+					</control>
+				</itemlayout>
+				<focusedlayout width="300" height="280">
+					<control type="image">
+						<right>20</right>
+						<aspectratio>scale</aspectratio>
+						<texture>BlackBack.png</texture>
+					</control>
+					<control type="image">
+						<right>20</right>
+						<aspectratio>scale</aspectratio>
+						<colordiffuse>$VAR[BackgroundOverlayColorDialog]</colordiffuse>
+						<texture>WhiteBack.png</texture>
+					</control>
+					<control type="image">
+						<right>20</right>
+						<height>200</height>
+						<aspectratio>keep</aspectratio>
+						<texture>DefaultVideo.png</texture>
+					</control>
+					<control type="gamewindow">
+						<left>20</left>
+						<top>20</top>
+						<width>240</width>
+						<bottom>20</bottom>
+						<videofilter>$INFO[ListItem.Property(game.videofilter)]</videofilter>
+						<stretchmode>$INFO[ListItem.Property(game.stretchmode)]</stretchmode>
+						<rotation>$INFO[ListItem.Property(game.videorotation)]</rotation>
+					</control>
+					<control type="image">
+						<top>100r</top>
+						<right>20</right>
+						<height>100</height>
+						<aspectratio>scale</aspectratio>
+						<texture>Shadow.png</texture>
+					</control>
+					<control type="label">
+						<top>80r</top>
+						<right>20</right>
+						<height>50</height>
+						<label>$INFO[ListItem.Label][CR][COLOR grey]$INFO[ListItem.Label2][/COLOR]</label>
+						<align>center</align>
+					</control>
+					<control type="image">
+						<right>20</right>
+						<texture border="4" background="true">masks/Default_sharp.png</texture>
+					</control>
+				</focusedlayout>
+			</control>
+			<control type="textbox" id="12">
+				<description>Description Area</description>
+				<top>310</top>
+				<left>100</left>
+				<width>1720</width>
+				<height>60</height>
+				<align>center</align>
+				<autoscroll time="3000" delay="5000" repeat="5000">true</autoscroll>
+			</control>
+		</control>
+	</include>
+</includes>

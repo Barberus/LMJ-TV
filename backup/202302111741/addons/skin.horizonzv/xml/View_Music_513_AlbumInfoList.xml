@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+    <include name="AlbumInfoListView">
+        <control type="group">
+            <include>openclose</include>
+            <visible>Control.IsVisible(513)+!Control.HasFocus(666)</visible>
+            <control type="button" id="888">
+                <onleft>Control.SetFocus(9000)</onleft>
+                <onright>Control.SetFocus(513)</onright>
+                <ondown>Control.SetFocus(513)</ondown>
+                <include>HiddenButton</include>
+            </control>
+            <include>DialogBackgroundSimple</include>
+            <control type="group">
+                <include>openclosebox</include>
+                <visible>Control.IsVisible(513)+!Control.HasFocus(666)</visible>
+				<include content="DialogInfoBackgroundParam">
+					<param name="width" value="1650" />
+					<param name="height" value="893" />
+					<param name="bottomimage" value="833" />
+					<param name="id" value="" />
+					<param name="HeaderLabel" value="$INFO[ListItem.Label2]" />
+				</include>
+            </control>
+            <control type="group">
+				<centerleft>50%</centerleft>
+				<centertop>50%</centertop>
+				<width>1650</width>
+				<height>893</height>
+                <include>openclosebox</include>
+                <control type="list" id="513">
+                    <left>20</left>
+                    <top>75</top>
+                    <width>1110</width>
+                    <height>740</height>
+                    <onleft>9000</onleft>
+                    <onright condition="Control.IsVisible(62)">62</onright>
+                    <onright condition="!Control.IsVisible(62)">SetFocus(732)</onright>
+                    <onright condition="!Skin.HasSetting(HideJumpSMSBar)">15000</onright>
+                    <onup>513</onup>
+                    <ondown>513</ondown>
+                    <viewtype label="$LOCALIZE[10523]">list</viewtype>
+                    <pagecontrol>62</pagecontrol>
+                    <scrolltime>200</scrolltime>
+                    <visible>Container.Content(Albums)</visible>
+                    <itemlayout height="60" width="1110">
+                        <control type="label">
+                            <left>15</left>
+                            <top>0</top>
+                            <width>1050</width>
+                            <height>60</height>
+                            <textcolor>grey</textcolor>
+                            <align>left</align>
+                            <aligny>center</aligny>
+                            <label>$INFO[ListItem.Label]</label>
+                        </control>
+                        <control type="label">
+                            <left>45</left>
+                            <top>0</top>
+                            <width>1050</width>
+                            <height>60</height>
+                            <textcolor>grey</textcolor>
+                            <align>right</align>
+                            <aligny>center</aligny>
+                            <label>$INFO[ListItem.Label2]</label>
+                        </control>
+                    </itemlayout>
+                    <focusedlayout height="60" width="1110">
+                        <control type="group">
+                            <include>focuseffect</include>
+                            <control type="image">
+                                <left>0</left>
+                                <top>0</top>
+                                <width>1110</width>
+                                <height>62</height>
+                                <colordiffuse>grey1</colordiffuse>
+                                <texture border="5">buttons/ButtonFOlightGlow.png</texture>
+                                <visible>!Control.HasFocus(513)</visible>
+                            </control>
+                            <control type="image">
+                                <left>0</left>
+                                <top>0</top>
+                                <width>1110</width>
+                                <height>62</height>
+                                <colordiffuse>grey1</colordiffuse>
+                                <texture border="5">buttons/ButtonFOlightGlow.png</texture>
+                                <visible>Control.HasFocus(513)</visible>
+                            </control>
+                            <control type="label">
+                                <left>15</left>
+                                <top>0</top>
+                                <width>1095</width>
+                                <height>60</height>
+                                <textcolor>white</textcolor>
+                                <shadowcolor>black</shadowcolor>
+                                <align>left</align>
+                                <aligny>center</aligny>
+                                <label>$INFO[ListItem.Label]</label>
+                            </control>
+                            <control type="label">
+                                <left>45</left>
+                                <top>0</top>
+                                <width>1050</width>
+                                <height>60</height>
+                                <textcolor>white</textcolor>
+                                <shadowcolor>black</shadowcolor>
+                                <align>right</align>
+                                <aligny>center</aligny>
+                                <label>$INFO[ListItem.Label2]</label>
+                            </control>
+                        </control>
+                    </focusedlayout>
+                </control>
+                <control type="scrollbar" id="62">
+                    <left>1140</left>
+                    <top>75</top>
+                    <height>740</height>
+                    <onleft>513</onleft>
+                    <onright condition="!Skin.HasSetting(HideJumpSMSBar)">15000</onright>
+                    <onright condition="Skin.HasSetting(HideJumpSMSBar)">732</onright>
+                    <showonepage>true</showonepage>
+                    <orientation>vertical</orientation>
+                </control>
+                <control type="group">
+                    <left>1170</left>
+                    <top>75</top>
+                    <control type="image">
+                        <centerleft>50%</centerleft>
+                        <width>435</width>
+                        <height>360</height>
+                        <aspectratio aligny="center" align="center">keep</aspectratio>
+                        <texture>$INFO[ListItem.Icon]</texture>
+                        <bordertexture border="8">ThumbShadow.png</bordertexture>
+                        <bordersize>8</bordersize>
+                    </control>
+                    <control type="label">
+                        <description>Description Header txt</description>
+                        <top>360</top>
+                        <width>435</width>
+                        <height>38</height>
+                        <label>21821</label>
+                        <align>center</align>
+                        <aligny>center</aligny>
+                        <textcolor>selected</textcolor>
+                    </control>
+                    <control type="textbox">
+                        <description>Description Value for Album</description>
+                        <left>0</left>
+                        <top>405</top>
+                        <width>435</width>
+                        <height>330</height>
+                        <font>font16</font>
+                        <pagecontrol/>
+                        <textcolor>white</textcolor>
+                        <label>$INFO[ListItem.Property(Album_Description)]</label>
+						<visible>!String.IsEmpty(ListItem.Property(Album_Description))</visible>
+						<include>opencloseboxvisible</include>
+                    </control>
+                </control>
+            </control>
+			<include>CommonPageCount</include>
+			<control type="group"> <!-- Music Flagging -->
+				<left>170</left>
+				<top>135r</top>
+				<include>openclose</include>
+				<include>opencloseslideup</include>
+				<control type="grouplist">
+					<left>0</left>
+					<top>0</top>
+					<width>870</width>
+					<height>120</height>
+					<itemgap>4</itemgap>
+					<align>left</align>
+					<orientation>horizontal</orientation>
+					<include>FlagMusic</include>
+				</control>
+			</control>
+		<include condition="!Skin.HasSetting(HideJumpSMSBar)">AlphaBarV</include>
+		</control>
+    </include>
+</includes>

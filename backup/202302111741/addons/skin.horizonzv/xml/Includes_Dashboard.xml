@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+    <include name="Dashboard">
+        <control type="group">
+			<include>openclosefanart</include>
+			<visible>!Window.IsVisible(1200)</visible>
+			<visible>String.IsEqual(Container(9000).ListItem.Property(homemenu_id),dashboard)</visible>
+			<control type="grouplist" id="8001"> <!-- Row #5 - #2 -->
+				<left>60</left>
+				<top>0</top>
+				<width>1800</width>
+				<height>780</height>
+				<onup/>
+				<ondown>8009</ondown>
+				<itemgap>16</itemgap>
+				<orientation>vertical</orientation>
+				<include>openclosefanart</include>
+				<include>openclosevisible</include>
+				<visible>!Window.IsVisible(favourites)+!Window.IsVisible(1200)</visible>
+				<animation effect="slide" end="0,121" time="0" condition="Skin.HasSetting(Row5_off)">Conditional</animation>
+				<animation effect="slide" end="0,121" time="0" condition="Skin.HasSetting(Row4_off)">Conditional</animation>
+				<animation effect="slide" end="0,121" time="0" condition="Skin.HasSetting(Row3_off)">Conditional</animation>
+				<animation effect="slide" end="0,121" time="0" condition="Skin.HasSetting(Row2_off)">Conditional</animation>
+				<animation effect="slide" end="0,80" time="0" condition="!Control.IsVisible(8006)">Conditional</animation>
+				<include condition="true" content="5DaysWeather_Dash">
+					<param name="id" value="8055"/>
+					<param name="visible" value="Skin.HasSetting(Row5_Weather)+!String.IsEmpty(Weather.plugin)"/>
+				</include>
+				<include condition="true" content="GTO">
+					<param name="id" value="8054"/>
+					<param name="visible" value="Skin.HasSetting(Row5_GTO)+System.HasAddon(script.service.gto)"/>
+				</include>
+				<include condition="true" content="Videopath_Dash3">
+					<param name="id" value="8053"/>
+					<param name="visible" value="Skin.HasSetting(Row5_Path)"/>
+				</include>
+				<include condition="true" content="Fav_Dash">
+					<param name="id" value="8052"/>
+					<param name="visible" value="Skin.HasSetting(Row5_Fav)"/>
+				</include>
+				<include condition="true" content="FritzDect">
+					<param name="id" value="8051"/>
+					<param name="visible" value="Skin.HasSetting(Row5_Fritzact)+System.HasAddon(script.program.fritzact)"/>
+				</include>
+				<include condition="true" content="5DaysWeather_Dash">
+					<param name="id" value="8045"/>
+					<param name="visible" value="Skin.HasSetting(Row4_Weather)+!String.IsEmpty(Weather.plugin)"/>
+				</include>
+				<include condition="true" content="GTO">
+					<param name="id" value="8044"/>
+					<param name="visible" value="Skin.HasSetting(Row4_GTO)+System.HasAddon(script.service.gto)"/>
+				</include>
+				<include condition="true" content="Videopath_Dash2">
+					<param name="id" value="8043"/>
+					<param name="visible" value="Skin.HasSetting(Row4_Path)"/>
+				</include>
+				<include condition="true" content="Fav_Dash">
+					<param name="id" value="8042"/>
+					<param name="visible" value="Skin.HasSetting(Row4_Fav)"/>
+				</include>
+				<include condition="true" content="FritzDect">
+					<param name="id" value="8041"/>
+					<param name="visible" value="Skin.HasSetting(Row4_Fritzact)+System.HasAddon(script.program.fritzact)"/>
+				</include>
+				<include condition="true" content="5DaysWeather_Dash">
+					<param name="id" value="8035"/>
+					<param name="visible" value="Skin.HasSetting(Row3_Weather)+!String.IsEmpty(Weather.plugin)"/>
+				</include>
+				<include condition="true" content="GTO">
+					<param name="id" value="8034"/>
+					<param name="visible" value="Skin.HasSetting(Row3_GTO)+System.HasAddon(script.service.gto)"/>
+				</include>
+				<include condition="true" content="Videopath_Dash1">
+					<param name="id" value="8033"/>
+					<param name="visible" value="Skin.HasSetting(Row3_Path)"/>
+				</include>
+				<include condition="true" content="Fav_Dash">
+					<param name="id" value="8032"/>
+					<param name="visible" value="Skin.HasSetting(Row3_Fav)"/>
+				</include>
+				<include condition="true" content="FritzDect">
+					<param name="id" value="8031"/>
+					<param name="visible" value="Skin.HasSetting(Row3_Fritzact)+System.HasAddon(script.program.fritzact)"/>
+				</include>
+				<include condition="true" content="5DaysWeather_Dash">
+					<param name="id" value="8025"/>
+					<param name="visible" value="Skin.HasSetting(Row2_Weather)+!String.IsEmpty(Weather.plugin)"/>
+				</include>
+				<include condition="true" content="GTO">
+					<param name="id" value="8024"/>
+					<param name="visible" value="Skin.HasSetting(Row2_GTO)+System.HasAddon(script.service.gto)"/>
+				</include>
+				<include condition="true" content="Videopath_Dash">
+					<param name="id" value="8023"/>
+					<param name="visible" value="Skin.HasSetting(Row2_Path)"/>
+				</include>
+				<include condition="true" content="Fav_Dash">
+					<param name="id" value="8022"/>
+					<param name="visible" value="Skin.HasSetting(Row2_Fav)"/>
+				</include>
+				<include condition="true" content="FritzDect">
+					<param name="id" value="8021"/>
+					<param name="visible" value="Skin.HasSetting(Row2_Fritzact)+System.HasAddon(script.program.fritzact)"/>
+				</include>
+			</control>
+			<control type="group"> <!-- Row #1 -->
+				<left>60</left>
+				<top>538</top>
+				<animation effect="slide" start="0,0" end="0,-112" time="400" delay="250" condition="Window.IsVisible(favourites)">Conditional</animation>
+				<include condition="true" content="Dash_Row1">
+					<param name="id" value="8009"/>
+					<param name="visible" value="!Skin.HasSetting(FavDashboard)"/>
+					<param name="content" value="DashboardContent"/>
+				</include>
+				<include condition="true" content="Dash_Row1">
+					<param name="id" value="8009"/>
+					<param name="visible" value="Skin.HasSetting(FavDashboard)"/>
+					<param name="content" value="FavContent"/>
+				</include>
+				<control type="label">
+					<left>5</left>
+					<top>220</top>
+					<width>auto</width>
+					<height>20</height>
+					<font>lcd14</font>
+					<align>left</align>
+					<textcolor>grey</textcolor>
+					<shadowcolor>black</shadowcolor>
+					<label>$INFO[ListItem.Label]</label>
+					<include>openclosevisible</include>
+					<visible>Control.HasFocus(8055)|Control.HasFocus(8054)|Control.HasFocus(8053)|Control.HasFocus(8052)|Control.HasFocus(8051)
+					|Control.HasFocus(8045)|Control.HasFocus(8044)|Control.HasFocus(8043)|Control.HasFocus(8042)|Control.HasFocus(8041)
+					|Control.HasFocus(8035)|Control.HasFocus(8034)|Control.HasFocus(8033)|Control.HasFocus(8032)|Control.HasFocus(8031)
+					|Control.HasFocus(8025)|Control.HasFocus(8024)|Control.HasFocus(8023)|Control.HasFocus(8022)|Control.HasFocus(8021)</visible>
+				</control>
+			</control>
+		</control>
+    </include>
+</includes>

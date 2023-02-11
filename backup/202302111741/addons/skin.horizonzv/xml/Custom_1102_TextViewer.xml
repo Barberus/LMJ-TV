@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog" id="1102">
+    <defaultcontrol>61</defaultcontrol>
+    <include>openclose</include>
+    <controls>
+        <include>DialogBackgroundSimple</include>
+        <control type="image">
+            <description>Fanart Image</description>
+            <include>Dimensions_Fullscreen</include>
+            <colordiffuse>grey1</colordiffuse>
+            <texture>$INFO[ListItem.Art(fanart)]</texture>
+            <visible>Skin.HasSetting(fanart)</visible>
+            <include>openclosemediumnodelay</include>
+        </control>
+        <control type="group">
+            <include>openclosebox</include>
+            <include content="DialogInfoBackgroundParam">
+                <param name="width" value="1448" />
+                <param name="height" value="908" />
+				<param name="bottomimage" value="848" />
+                <param name="id" value="1" />
+                <param name="HeaderLabel" value="$INFO[Window(home).Property(TextViewer_Header)]" />
+            </include>
+            <control type="group">
+                <left>240</left>
+                <top>82</top>
+                <control type="textbox">
+                    <description>textarea</description>
+                    <left>15</left>
+                    <top>90</top>
+                    <width>1383</width>
+                    <height>740</height>
+                    <align>justify</align>
+                    <aligny>center</aligny>
+					<pagecontrol>61</pagecontrol>
+					<include condition="!Skin.HasSetting(BigPlotText)">PlotText16Var</include>
+					<include condition="Skin.HasSetting(BigPlotText)">PlotTextBigVar</include>
+					<label>$INFO[Window(home).Property(TextViewer_Bottom),[COLOR=description],[/COLOR][CR][CR]]$INFO[Window(home).Property(TextViewer_Text)]</label>
+                </control>
+                <control type="scrollbar" id="61">
+                    <left>1410</left>
+                    <top>90</top>
+                    <height>740</height>
+                    <onleft>Close</onleft>
+                    <onright>Close</onright>
+                    <ondown>61</ondown>
+                    <onup>61</onup>
+                </control>
+				<control type="image">
+					<top>730</top>
+					<width>1383</width>
+					<height>100</height>
+					<aspectratio aligny="bottom">keep</aspectratio>
+					<colordiffuse>grey</colordiffuse>
+					<texture>$VAR[BannerVAR]</texture>
+					<visible>!String.IsEmpty(ListItem.Art(banner))</visible>
+				</control>
+				<control type="label">
+					<top>168r</top>
+					<width>1383</width>
+					<height>100</height>
+					<align>center</align>
+					<font>impacted24</font>
+					<label>$INFO[ListItem.Label]</label>
+				</control>
+            </control>
+        </control>
+    </controls>
+</window>
+

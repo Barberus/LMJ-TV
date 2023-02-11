@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.vavoo.tv" name="VAVOO Addon Repository" version="1.0.2" provider-name="VAVOO">
+    <extension point="xbmc.addon.repository" name="VAVOO Repository">
+        <info>http://www.vavoo.tv/repo/addons/1/master/addons.xml.gz</info>
+		<checksum>http://www.vavoo.tv/repo/addons/1/master/addons.xml.gz.md5</checksum>
+		<datadir>http://www.vavoo.tv/repo/addons/1/master/</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>VAVOO Addon Repository</summary>
+		<description></description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

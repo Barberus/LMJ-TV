@@ -1,0 +1,62 @@
+﻿v 1.19.2.0
+- Export der Videodatenbank per Shutdownmenu möglich (Schalter muss in den Skinsettings gesetzt werden)
+- Anzeige der Cpu- und Speicherlast im Shutdownmenu hinzugefügt
+
+- Bugfix FritzAct Text
+
+v 1.19.1.9
+- Fallback für Bluray entfernt
+- Bugfix - Scrollbar in Fanart-View
+
+v 1.19.1.8
+- Bugfixes im PVR Bereich Suche
+- Ansicht leicht überarbeitet im PVR Bereich Suche und Timer
+
+v 1.19.1.7
+- Bugfix: Playerprogress Info
+
+v 1.19.1.6
+- Shutdownmenü: Addon kann mit eigenem Label versehen werden
+
+v 1.19.1.5
+- Shutdownmenü: Addon in den SkinSettings wählen, welches vom Shutdownmenü gestartet werden kann
+
+v 1.19.1.3
+- Bugfix DialogSeekbar
+
+v 1.19.1.0
+- Gamebereich komplett überarbeitet
+- VideoOSD: Untertiteleinstellungen hinzugefügt
+- Kodi Settings: Items/Icons verkleinert
+- Dashboard: Klick im Hauptmenü entfernt, wenn Favoriten für Reihe 1 eingestellt sind
+- Dashboard: Bugfix Row1 (es war möglich, dass nichts angezeigt wurde)
+- Dashboard: Icon für "beschäftigt" eingebaut
+- Dashboard: GTO klicks angepasst
+- Dashboard: Spiele können nun auch in Reihe#1 aufgenommen werden
+
+v 1.19.0.19
+- Dashboard: Listen aktualisieren sich nun sofort, nachdem Umstellen in den Einstellungen
+- Dashboard: Textbreite korrigiert
+- Dashboard: Focusfarbe vereinheintlicht
+- Bugfix Languageflaggs
+- Code aufgeräumt
+
+v 1.19.0.18
+- Dashboard: grafisch Überarbeitet (Feinheiten)
+- Dashboard: Schalter zum Dimmen der Reihen in den Widget-Einstellungen hinterlegt
+- Hauptmenü Widgets: dimmen der Cover grafisch Überarbeiet
+
+v 1.19.0.17
+- Hauptmenü: das Dimmen der Cover überarbeitet
+- Views: das Dimmen der Set-Cover überarbeitet
+- Bugfix Hintergrund in den Settings (discoeffekt ;) )
+- Schrift in Textviewer geändert
+
+v 1.19.0.16
+- Dashboard Umbau (4 Reihen konfigurierbar GTO Addon, Fritzact Addon, 5 Tage Wetter, Video Pfad, Favoriten)
+- Bugfix Miniwetter (oben links im Hauptmenü)
+- Bugfix (meist Labels)
+- Code aufgeräumt
+
+v 1.19.0.1
+- kopie aus Kodi 18
