@@ -35,6 +35,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683394
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13145
 #EXTINF:-1 group-title="TV" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN FHD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Prosieben-Fun.png" ,ProSieben Fun FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6219
+#EXTINF:-1 group-title="TV" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN SD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Fun SD
+http://ipflix.click:8080/sq1x0qr86b/7777/13142
 #EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/voxhd.png" ,VOX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13553
 #EXTINF:-1 group-title="TV" tvg-id="VOXup.de" tvg-name="VOXup HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Voxup_HD_Logo_2019.svg.png" ,VOXup HD
