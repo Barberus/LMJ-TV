@@ -663,7 +663,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683540
 http://ipflix.click:8080/sq1x0qr86b/7777/683534
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,HyperCinema INFO FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683523
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,HyperCinema 1 FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,HyperCinema 1 FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683535
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,HyperCinema 2 HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683525
@@ -729,7 +729,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/5096
 http://ipflix.click:8080/sq1x0qr86b/7777/679846
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Animal Planet FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/8196
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Animal Planet HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Animal Planet HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/13173
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,National Geographic HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/8194
@@ -873,7 +873,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678834
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/678836
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Action FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5093
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Action HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Action HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6205
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Special FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8217
@@ -901,7 +901,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9144
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6190
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best Of FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7368
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best Of HD DE
+#EXTINF:-1 group-title="TV 2" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best Of HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8223
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Family FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9145
