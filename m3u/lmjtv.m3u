@@ -125,15 +125,33 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6252
 http://ipflix.click:8080/sq1x0qr86b/7777/7373
 #EXTINF:-1 group-title="TV" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-24-HD.png" ,Sky Cinema Premieren +24 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6192
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 1 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 1.png" ,Sky Select 1 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/655131
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/7375
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Sky Select 1 HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 1.png" ,Sky Select 1 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7375
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 2 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 2.png" ,Sky Select 2 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/655130
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 2 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/7376
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Sky Select 2 HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 2.png" ,Sky Select 2 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7376
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 3 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 3.png" ,Sky Select 3 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 3 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/655129
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 3 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/7377
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Sky Select 3 HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 3.png" ,Sky Select 3 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7377
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 4 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 4.png" ,Sky Select 4 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 4 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/655128
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 4 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/7378
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Sky Select 4 HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 4.png" ,Sky Select 4 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7378
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 5.png" ,Sky Select 5 HD
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Select 5 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8977
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Sky Select 5 HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 5.png" ,Sky Select 5 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8977
 #EXTINF:-1 group-title="TV" tvg-name="Sky Select 6 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 6.png" ,Sky Select 6 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8976
