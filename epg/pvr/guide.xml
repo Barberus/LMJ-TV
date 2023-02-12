@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2023-02-12 03:17:31.502924 -->
+<!-- created on 2023-02-12 04:08:40.835004 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
+
+<!--  MAGENTA TV (DE)  CHANNEL LIST -->
+    <channel id="Sky Replay">
+        <display-name lang="de">Sky Replay</display-name>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
+    </channel>
 
 <!--  TV SPIELFILM (DE)  CHANNEL LIST -->
     <channel id="ARD.de">
@@ -225,6 +231,10 @@
         <display-name lang="de">kabel eins Doku</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/K1DOKU.png" />
     </channel>
+    <channel id="EuronewsDE.nws">
+        <display-name lang="de">euronews (ger)</display-name>
+        <icon src="http://live.tvspielfilm.de/static/images/channels/large/EURON.png" />
+    </channel>
     <channel id="Sky Cinema Premieren">
         <display-name lang="de">Sky Cinema Premieren</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/CIN.png" />
@@ -407,6 +417,2541 @@
         <display-name lang="ch">VOXup</display-name>
         <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1612_image_7_w90.png" />
     </channel>
+
+<!--  MAGENTA TV (DE)  PROGRAMME LIST -->
+    <programme start="20230211232956 +0000" stop="20230212002536 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Der Krähenmann</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E2 • FSK 16
+        Rita und Kaz tun sich zusammen, um Marie zu Fall zu bringen. Als Vera Greg näherkommt, ist Jake offensichtlich eifersüchtig. Eine unerwartete stellvertretende Direktorin wird ernannt: Linda Miles. 50 Min.
+        AUS 2019. Von Kevin Carlin, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 1 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212002536 +0000" stop="20230212011230 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Schuld und Sühne</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E3 • FSK 12
+        Zur Sicherheit aller kommt Kaz in Isolationshaft. Eine neue Gefangene kommt nach Wentworth. Sie verbindet mit Rita eine gemeinsame Vergangenheit. Linda fängt als stellvertretende Direktorin an. 46 Min.
+        AUS 2019. Von Jonathan Brough, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 2 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212011230 +0000" stop="20230212020303 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Kaz Proctor muss sterben!</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E4 • FSK 16
+        Marie und Kaz versuchen, Frieden zu schließen. Rita steht derweil vor einem unlösbaren Dilemma: Eine neue Gefangene kennt Ritas Vergangenheit als Cop. Sie will Rita erpressen, Kaz zu töten. 48 Min.
+        AUS 2019. Von Jonathan Brough, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212020303 +0000" stop="20230212025055 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Aufstieg</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E5 • FSK 16
+        Die Gefangenen und Wärter beklagen den Verlust ihrer heimlichen Anführerin. Die Suche nach ihrem Mörder geht unterdessen weiter und lässt bald die Emotionen überkochen. 46 Min.
+        AUS 2019. Von Beck Cole, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 4 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212025055 +0000" stop="20230212031702 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Patricia gibt alles</sub-title>
+        <desc lang="de">(US) 2017 • S5 E10 • FSK 12
+        Ein Besuch von Bens Exfrau bringt nicht gerade Mindys positivste Charakterzüge zum Vorschein. Unterdessen zögert Anna, ihre Kollegen um Hilfe zu bitten. 22 Min.
+        USA 2016. Von Daniella Eisman, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Rebecca Rittenhouse</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13026644_b_h9_ab.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">4 . 9 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212031702 +0000" stop="20230212033920 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Reserviert</sub-title>
+        <desc lang="de">(US) 2017 • S5 E11 • FSK 12
+        Nach ihrer Trennung ist Anna am Boden zerstört. Mindy versucht zu helfen - während Jody und Jeremy um Annas Zuneigung wetteifern. 22 Min.
+        USA 2016. Von Michael Spiller, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Garret Dillahunt</actor>
+            <actor>Rebecca Rittenhouse</actor>
+            <actor>Tipper Newton</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13026644_b_h9_ab.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">4 . 10 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212033920 +0000" stop="20230212040410 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Mindy Lahiri ist ein weißer Mann</sub-title>
+        <desc lang="de">(US) 2017 • S5 E12 • FSK 12
+        Mindy wird bei einer Beförderung übergangen. Bevor sie zu Bett geht, wünscht sie sich, dass alles anders wäre - und erwacht im Körper eines gutaussehenden weißen Mannes. 23 Min.
+        USA 2016. Von Marco Fargnoli, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Ryan Hansen</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13026644_b_h9_ab.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">4 . 11 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212040410 +0000" stop="20230212042735 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Mindy's beste Freundin</sub-title>
+        <desc lang="de">(US) 2017 • S5 E13 • FSK 12
+        Mindys bester Freund aus Kindertagen zieht nach New York und beginnt, Morgan zu daten. Ben wird von den Pflegern in einer verfänglichen Situation erwischt und versucht, jeden Verdacht zu zerstreuen. 22 Min.
+        USA 2016. Von Geeta V. Patel, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Geeta Patel</director>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Garret Dillahunt</actor>
+            <actor>Bryan Greenberg</actor>
+            <actor>Casey Wilson</actor>
+            <actor>Tipper Newton</actor>
+            <actor>Fred Grandy</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13026644_b_h9_ab.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">4 . 12 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212042735 +0000" stop="20230212045436 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Der Antrag</sub-title>
+        <desc lang="de">(US) 2017 • S5 E14 • FSK 6
+        Gerade als Mindy beschließt, niemals zu heiraten, erfährt sie, dass Ben ihr möglicherweise einen Heiratsantrag machen will. Colette und Karen verloben sich, aber Colette bekommt sofort kalte Füße. 25 Min.
+        USA 2016. Von Michael Spiller, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 6 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13026644_b_h9_ab.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">4 . 13 . </episode-num>
+        <rating>
+            <value>6</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212045436 +0000" stop="20230212051800 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Soll das alles gewesen sein?</sub-title>
+        <desc lang="de">(US) 2017 • S6 E1 • FSK 12
+        Während Mindy versucht, sich an das Eheleben mit Ben zu gewöhnen, will Jeremy in der Beziehung mit Anna den nächsten Schritt wagen. Tamra muss eine Entscheidung treffen, die ihr Leben verändern wird. 23 Min.
+        USA 2017. Von David Stassen, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 0 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212051800 +0000" stop="20230212054238 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Ein Job in Philadelphia</sub-title>
+        <desc lang="de">(US) 2017 • S6 E2 • FSK 12
+        Anna und Jeremy trennen sich, obwohl sie noch immer Gefühle füreinander hegen. Auch Mindy und Ben sehen keine gemeinsame Zukunft für sich und beschließen, sich scheiden zu lassen. 22 Min.
+        USA 2017. Von Lang Fisher, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Bryan Greenberg</actor>
+            <actor>Rebecca Rittenhouse</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 1 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212054238 +0000" stop="20230212060731 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Scheidungen</sub-title>
+        <desc lang="de">(US) 2017 • S6 E3 • FSK 12
+        Mindy bittet ihren Ex Cliff um Hilfe bei ihren verzwickten Scheidungsangelegenheiten. Unterdessen taucht Peter wieder auf und will Mindy mit einer Karaoke-Party aus ihrem Stimmungstief holen. 22 Min.
+        USA 2017. Von Linda Mendoza, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Glenn Howerton</actor>
+            <actor>Adam Pally</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 2 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212060731 +0000" stop="20230212065943 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Muttergefühle</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E6 • FSK 16
+        Die Spannungen unter den Gefangenen sind immer noch hoch. Da erfährt Marie die Wahrheit über den Tod ihres Sohnes. Boomer hat unterdessen einiges mit ihrer Mutter nachzuholen. 49 Min.
+        AUS 2019. Von Beck Cole, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 5 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212065943 +0000" stop="20230212075625 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Böses Blut</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E7 • FSK 16
+        Ruby kämpft nach einem geplatzten Aneurysma um ihr Leben. Rita bittet Vera, sie besuchen zu dürfen. Aber Marie drängt Will, ihr das zu verbieten. Vera setzt sich über ihn hinweg. 51 Min.
+        AUS 2019. Von Fiona Banks, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 6 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212075625 +0000" stop="20230212084857 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Verbündete wider Willen</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E8 • FSK 16
+        Rita findet heraus, was wirklich Rubys Zusammenbruch verursacht hat. Marie versucht ihre Freilassung zu erpressen, doch Heston will sie zum Schweigen bringen. Liz sieht nach vielen Jahren ihren Sohn. 49 Min.
+        AUS 2019. Von Fiona Banks, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 7 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212084857 +0000" stop="20230212093633 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Ausnahmezustand</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E9 • FSK 16
+        Bei Liz schreitet die Demenz merklich voran. Sie bittet ihren Sohn, sie nicht mehr zu besuchen. Sean will Marie aus dem Gefängnis befreien. Doch Vera wird misstrauisch und warnt Will. 46 Min.
+        AUS 2019. Von Kevin Carlin, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 8 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212093633 +0000" stop="20230212102903 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Ausnahmezustand</sub-title>
+        <desc lang="de">(AU) 2019 • S7 E10 • FSK 16
+        Seans Versuch, Marie zu befreien ist gescheitert. Doch er nimmt Geiseln und verlangt freies Geleit für sich, seine Männer und Marie. Gelingt ihnen doch noch die Flucht? 49 Min.
+        AUS 2019. Von Kevin Carlin, mit Leah Purcell, Kate Atkinson, Celia Ireland.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Catherine Millar</director>
+            <director>Tori Garrett</director>
+            <director>Jet Wilkinson</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Aaron Jeffery</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Socratis Otto</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Kris McQuade</actor>
+            <actor>Leah Purcell</actor>
+            <actor>Susie Porter</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Zahra Newman</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Kate Jenkinson</actor>
+            <producer>Jo Porter</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16987342_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">6 . 9 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212102903 +0000" stop="20230212112123 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Wiederauferstehung</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E1 • FSK 16
+        Das Gefängnis wird nach dem Aufstand wiederaufgebaut. Aber viele Gefangene und Wärter haben noch mit den Folgen zu kämpfen. Eine neue Direktorin und die wegen Raubes verurteilte Lou Kelly treffen ein. 50 Min.
+        AUS 2020. Von Kevin Carlin, mit Leah Purcell, Pamela Rabe, Kate Atkinson.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 0 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212112123 +0000" stop="20230212121545 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Manipulierte Beweise</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E2 • FSK 16
+        Lou kehrt mit ihrem wieder angenähten Finger aus der Krankenstation zurück. Sie entwickelt mit Reb einen Plan, um das Geld für seine Geschlechtsangleichung aufzutreiben. Marie ist verzweifelt. 50 Min.
+        AUS 2020. Von Kevin Carlin, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 1 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212121545 +0000" stop="20230212130522 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Staatsfeindin</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E3 • FSK 16
+        Nach ihrem Selbstmordversuch kämpft Marie mit ihren Dämonen. Reb hat Schwierigkeiten die Medikamente für seine Geschlechtsangleichung zu bekommen. Seine Freundin Lou greift zu verzweifelten Mitteln. 45 Min.
+        AUS 2020. Von Beck Cole, mit Kate Atkinson, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 2 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212130522 +0000" stop="20230212135910 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Das Böse erwacht</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E4 • FSK 16
+        Das ganze Gefängnis wird von der Nachricht erschüttert, dass Joan Ferguson nicht tot, sondern entkommen ist. Lou ist bereit alles zu tun, um Reb seine Geschlechtsangleichung zu ermöglichen. 49 Min.
+        AUS 2020. Von Beck Cole, mit Pamela Rabe, Kate Atkinson, Katrina Milosevic.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212135910 +0000" stop="20230212144721 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Gekidnappt</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E5 • FSK 16
+        Judy macht sich Ann Reynolds zur Feindin, als sie eine ihrer Präsentationen sabotiert. Allie muss mit Lous Anhängerinnen fertig werden. Und besucht auf ihrem Freigang Rita. 47 Min.
+        AUS 2020. Von Fiona Banks, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 4 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212144721 +0000" stop="20230212153923 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Auf der Flucht</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E6 • FSK 16
+        Rita bringt für Ruby das größte Opfer. Will gerät mit Ann wegen des Managements des Gefängnisses aneinander. Zum Entsetzten von Häftlingen und Wärtern kehrt Ferguson nach Wentworth zurück. 49 Min.
+        AUS 2020. Von Fiona Banks, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 5 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212153923 +0000" stop="20230212163239 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Väter und Verräter</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E7 • FSK 16
+        Am Rande ihrer Kräfte kommt es zu einer Auseinandersetzung zwischen Allie und Ferguson, die Erinnerungen an vergangene Jahre wachruft. Als Judys Vater sie zurückweist, rastet sie aus. 47 Min.
+        AUS 2020. Von Corrie Chen, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 6 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212163239 +0000" stop="20230212172353 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Mordauftrag</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E8 • FSK 16
+        Nach Anns Angriff wird das Gefängnis abgeriegelt. Joan setzt ihre Behandlung bei Dr. Miller fort. Da kommt es unter den Insassen zum Aufstand. 48 Min.
+        AUS 2020. Von Corrie Chen, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 7 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212172353 +0000" stop="20230212181715 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Verdammte Schlange</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E9 • FSK 16
+        Sheila kommt nach Wentworth und weckt bei Reb und Lou schmerzhafte Erinnerungen. Ferguson wartet auf das Ergebnis ihrer Anhörung. Vera bittet Allie um Hilfe - mit verheerenden Folgen. 51 Min.
+        AUS 2020. Von Corrie Chen, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 8 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212181715 +0000" stop="20230212190815 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Ich bin das Monster!</sub-title>
+        <desc lang="de">(AU) 2020 • S8 E10 • FSK 16
+        Lou entdeckt, dass ihr Telefon und ihr Geld gestohlen wurden und sinnt auf Rache. Sheila versucht einen Keil zwischen Lou und Reb zu treiben. Vera schmiedet einen gefährlichen Plan. 48 Min.
+        AUS 2020. Von Corrie Chen, mit Leah Purcell, Katrina Milosevic, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/8/p18579616_b_h9_ab.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 9 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212190815 +0000" stop="20230212200223 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Einen Schritt voraus</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E1 • FSK 16
+        Allie kommt aus dem Krankenhaus zurück ins Frauengefängnis Wentworth. Zum Entsetzen ihrer Knastschwestern ist sie jetzt für immer auf einen Rollstuhl angewiesen. Wer wird der neue Boss? 47 Min.
+        AUS 2021. Von Gundi Eberhard, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 0 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212200223 +0000" stop="20230212205116 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Totenmesse</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E2 • FSK 16
+        Lou erfährt, wer Reb ermordet hat, und nimmt Rache, um sich ihren Platz in der Knasthierarchie zu sichern. Judy schafft es, ihre Auslieferung zu verzögern. Boomer geht mit Gavin einen Handel ein. 46 Min.
+        AUS 2021. Von Gundi Eberhard, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 1 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212205116 +0000" stop="20230212213718 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Bosskampf</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E3 • FSK 16
+        Knast-Chefin Ann führt im Gefängnis Fixier-Bänke ein, um aufmüpfige Insassinnen zu bestrafen. Sie versucht weiterhin Will loszuwerden. Lou fordert Boomer heraus. 46 Min.
+        AUS 2021. Von Gundi Eberhard, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 2 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212213718 +0000" stop="20230212222657 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Judaskuss</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E4 • FSK 16
+        Nanny-Wilder ist ein Neuzugang in Wentworth. Zu Joans Entsetzen erkennt diese sie sofort als ehemalige Wärterin. Allie muss zum Zahnarzt und entwickelt dort einen Plan, um sich an Lou zu rächen. 47 Min.
+        AUS 2021. Von Gundi Eberhard, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212222657 +0000" stop="20230212231324 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Todesurteil</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E5 • FSK 16
+        Knast-Chefin Ann bringt zunehmend die Gefängnismitarbeiter gegen sich auf. Allie entlockt Judy ein Geständnis. Doch die will Allie daraufhin aus dem Weg schaffen. 46 Min.
+        AUS 2021. Von Gundi Eberhard, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 4 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212231324 +0000" stop="20230213000043 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Auge um Auge</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E6 • FSK 16
+        Joan hat Eve eingeredet, dass Jake sich für sie interessiert. Als Eve eine Abfuhr von ihm bekommt, ist sie tief gekränkt. Joan drängt sie, sich zu rächen. 45 Min.
+        AUS 2021, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 5 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213000043 +0000" stop="20230213004846 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Kollateralschaden</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E7 • FSK 16
+        Vera, Will und Allie stellen Miller eine Falle. Marie erzählt Rita von Lous Plänen. Als Lou begreift, dass unter ihren Anhängerinnen eine Verräterin steckt, sinnt sie auf Rache. 47 Min.
+        AUS 2021. Von Beck Cole, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 6 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213004846 +0000" stop="20230213013514 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Am Abgrund</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E8 • FSK 12
+        Rita konfrontiert Judy mit ihren Verbindungen zum Attentat. Judy bittet Lou, Rita zum Schweigen zu bringen. Als Lou erfährt, dass Rita ein Cop ist, wirft sie sie den Frauen auf dem Hof "zum Fraß" vor. 45 Min.
+        AUS 2021. Von Beck Cole, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213013514 +0000" stop="20230213022437 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Abrechnung</sub-title>
+        <desc lang="de">(AU) 2017 • S5 E12 • FSK 16
+        Joan steht vor ihrem Freispruch. Aber dann bekennt sie sich schuldig. Judy soll bald freigelassen werden. Sie bittet Lou, den Anschlag abzusagen. Doch die zieht den Tag der Abrechnung vor. 49 Min.
+        AUS 2021. Von Kevin Carlin, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <actor>Pamela Rabe</actor>
+            <actor>Nicole da Silva</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Celia Ireland</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Tammy Macintosh</actor>
+            <actor>Libby Tanner</actor>
+            <actor>Sigrid Thornton</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Jacqueline Brennan</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13870417_b_h9_aa.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">4 . 11 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213022437 +0000" stop="20230213031236 +0000" channel="Sky Replay">
+        <title lang="de">Wentworth</title>
+        <sub-title lang="de">Abschied</sub-title>
+        <desc lang="de">(AU) 2021 • S9 E10 • FSK 16
+        Finale der knallharten Knastserie: Judy und Rita warnen vergeblich. Die Bombe explodiert vor dem Gefängnis. In seinen Trümmern kommt es zum letzten Kampf. 47 Min.
+        AUS 2021. Von Kevin Carlin, mit Leah Purcell, Kate Atkinson, Robbie Magasiva.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Kevin Carlin</director>
+            <director>Beck Cole</director>
+            <director>Fiona Banks</director>
+            <director>Corrie Chen</director>
+            <director>Roger Hodgman</director>
+            <director>Mat King</director>
+            <actor>Leah Purcell</actor>
+            <actor>Pamela Rabe</actor>
+            <actor>Kate Atkinson</actor>
+            <actor>Marta Dusseldorp</actor>
+            <actor>Katrina Milosevic</actor>
+            <actor>Robbie Magasiva</actor>
+            <actor>Kate Jenkinson</actor>
+            <actor>Bernard Curry</actor>
+            <actor>Rarriwuy Hick</actor>
+            <actor>Susie Porter</actor>
+            <actor>Kate Box</actor>
+            <actor>Jane Hall</actor>
+            <actor>Zoe Terakes</actor>
+            <actor>Jacqueline Brennan</actor>
+            <actor>David de Lautour</actor>
+            <actor>Vivienne Awosoga</actor>
+            <actor>Louisa Mignone</actor>
+            <actor>Ian Bliss</actor>
+            <producer>Jo Porter</producer>
+            <producer>Penny Win</producer>
+            <producer>Pino Amenta</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/0/p20500406_b_h9_ad.jpg"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">8 . 9 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213031236 +0000" stop="20230213033750 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Die Single Flitterwochen</sub-title>
+        <desc lang="de">(US) 2017 • S6 E7 • FSK 12
+        Mindy tritt die Hochzeitsreise, die Ben geplant hatte, alleine an. Doch statt Erholung und einer neuen Romanze erwartet sie ein veganes Wellness-Wochenende mit ihrem Ex Casey und seiner neuen Frau. 22 Min.
+        USA 2017. Von David Rogers, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Anders Holm</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 6 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213033750 +0000" stop="20230213040202 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Ärzte ohne Grenzen</sub-title>
+        <desc lang="de">(US) 2017 • S6 E8 • FSK 12
+        Annette wird wütend, als Mindy ein Geheimnis über sie herausfindet und sich einmischt. Jody versucht, seine neue Freundin davon abzuhalten, einen Job im Ausland anzunehmen. 22 Min.
+        USA 2017. Von Marco Fargnoli, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <actor>Rhea Perlman</actor>
+            <actor>Ana Ortiz</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213040202 +0000" stop="20230213042807 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Und immer wieder Danny</sub-title>
+        <desc lang="de">(US) 2017 • S6 E9 • FSK 12
+        Mindy und Danny können sich nicht einigen, welche Behandlung die beste für die kranke Annette ist. Anna gibt eine Brautparty für Tamra - die ziemlich katastrophal verläuft. 25 Min.
+        USA 2017. Von Michael Spiller, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 8 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213042807 +0000" stop="20230213044838 +0000" channel="Sky Replay">
+        <title lang="de">Making of: Das Boot</title>
+        <desc lang="de">(DE) 2018 • FSK 12
+        Ein exklusiver Blick hinter die Kulissen der Serie "Das Boot" mit Interviews und Bildern von den Dreharbeiten. 18 Min.
+        D 2018. Von Felix Schröder.
+        Ab 12 Jahren</desc>
+        <date>2018</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16212066_e_h10_aa.jpg"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213044838 +0000" stop="20230213051938 +0000" channel="Sky Replay">
+        <title lang="de">The Mindy Project</title>
+        <sub-title lang="de">Immer nur Du</sub-title>
+        <desc lang="de">(US) 2017 • S6 E10 • FSK 12
+        Annettes Operation steht an. Unterdessen nimmt Mindy an Morgans und Tamras Hochzeitsfeier teil - wo sie selbst und alle anderen aus der Shulman-Clique versuchen, ihr eigenes Happy End zu finden. 29 Min.
+        USA 2017. Von Michael Spiller, mit Mindy Kaling, Ike Barinholtz, Ed Weeks.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Mindy Kaling</actor>
+            <actor>Ed Weeks</actor>
+            <actor>Ike Barinholtz</actor>
+            <actor>Beth Grant</actor>
+            <actor>Xosha Roquemore</actor>
+            <actor>Fortune Feimster</actor>
+            <producer>Mindy Kaling</producer>
+            <producer>Matt Warburton</producer>
+            <producer>Howard Klein</producer>
+            <producer>Charlie Grandy</producer>
+            <producer>Michael Alan Spiller</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/4/p14384865_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 9 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213051938 +0000" stop="20230213054610 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Das Ortsschild</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E3 • FSK 12
+        Johnny ärgert sich über das vulgäre Stadtschild von Schitt's Creek. David versucht eine neue Beschäftigung zu finden - obwohl er keinerlei Berufserfahrung vorzuweisen hat. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Paul Fox</director>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Emily Hampshire</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213054610 +0000" stop="20230213061105 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Meine lieben Rabeneltern</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E4 • FSK 12
+        Johnny und Moira machen sich Vorwürfe, schlechte Eltern zu sein und wollen wieder einen bessern Draht zu ihren Kindern aufbauen. Unterdessen hilft Stevie David, seine Klamotten zu Geld zu machen. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Jerry Ciccoritti</director>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Emily Hampshire</actor>
+            <producer>Andrew Barnsley</producer>
+            <producer>Ben Feigin</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213061105 +0000" stop="20230213063611 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Hüttenzauber</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E5 • FSK 12
+        Johnny und Moira genießen ihre Zweisamkeit in der Waldhütte des Bürgermeisters. Alexis und David schmeißen währenddessen eine Party in der sturmfreien Bude. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Tim Rozon</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 4 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213063611 +0000" stop="20230213070106 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Lampenfieber</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E6 • FSK 12
+        Moira versucht sich als Sprecherin eines Weinunternehmens. David hat derweil mit einem gesundheitlichen Problem zu kämpfen. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213070106 +0000" stop="20230213072622 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Verwöhntag</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E7 • FSK 12
+        David begleitet eine Gruppe von Einheimischen bei einer Truthahnjagd. In der Zwischenzeit genießen Jocelyn und Moira einen Tag im Spa, während Alexis sich in den liebenswerten Tierarzt Ted verguckt. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213072622 +0000" stop="20230213075107 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Das exklusive Geschäftsmodell</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E8 • FSK 12
+        Moira und David versuchen, den Kleinstadtbewohnern überteuerte Kosmetikartikel aus einem Schneeballsystem anzudrehen. Unterdessen bemüht sich Johnny, an Arbeitslosenversicherungsgeld zu kommen. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213075107 +0000" stop="20230213081611 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Leben und sterben in Schitt's Creek</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E9 • FSK 6
+        Johnny manövriert sich in die undankbare Situation, eine Trauerrede eines ihm unbekannten verstorbenen Bewohners von Schitt's Creek zu halten. Alexis geht derweil die Zuneigung ihres Tierfreunds entschieden zu weit. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 6 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Emily Hampshire</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 8 . </episode-num>
+        <rating>
+            <value>6</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213081611 +0000" stop="20230213084127 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Je oller, je doller</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E10 • FSK 12
+        Alexis und Ted sind Gastgeber einer Pärchen-Dinnerparty, bei der unangenehme Gesprächsthemen aufkommen. David und Stevie geraten nach ihren sexuellen Erfahrungen immer wieder aneinander. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Tim Rozon</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 9 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213084127 +0000" stop="20230213090602 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Freundschaft Plus-Minus</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E11 • FSK 12
+        Als Moiras Schwester Deedee zu Besuch ist, hofft Johnny darauf, dass sie vielleicht einen Scheck ausstellt. David und Stevie stellen währenddessen ihre Freundschaft Plus in Frage. 21 Min.
+        CDN 2015, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Tim Rozon</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 10 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213090602 +0000" stop="20230213093107 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Die total überraschende Überraschungsparty</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E12 • FSK 12
+        Johnny will seiner Frau eine Überraschungsparty zum Geburtstag schmeißen, doch Moira hat ganz eigene Vorstellungen von ihrer Feier. Alexis versucht derweil Mutt näher zu kommen. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Tim Rozon</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 11 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213093107 +0000" stop="20230213095603 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Kaff zu verkaufen</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E13 • FSK 12
+        Johnny findet unerwartet einen interessierten Käufer für Schitt's Creek. Derweil merken David und Alexis, dass sie das Städtchen wider Erwarten ziemlich ins Herz geschlossen haben. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Dan Levy</actor>
+            <actor>Jennifer Robertson</actor>
+            <actor>Tim Rozon</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 12 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213095603 +0000" stop="20230213104534 +0000" channel="Sky Replay">
+        <title lang="de">Einstein</title>
+        <sub-title lang="de">Strömung</sub-title>
+        <desc lang="de">(DE) 2018 • S2 E4 • FSK 16
+        Aufregung auf dem Campingplatz: Ein Stiefel inklusiv Fuß wird angeschwemmt. Einstein ermittelt undercover und kommt einigen illegalen Machenschaften bei den Campern auf die Schliche. 45 Min.
+        D 2018. Von Dominic Müller, mit Tom Beck, Annika Ernst, Rolf Kanies.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Thomas Jahn</director>
+            <director>Dominic Müller</director>
+            <actor>Tom Beck</actor>
+            <actor>Annika Ernst</actor>
+            <actor>Rolf Kanies</actor>
+            <actor>Nic Romm</actor>
+            <actor>Tim Oliver Schultz</actor>
+            <actor>Marian Meder</actor>
+            <actor>Antje Lewald</actor>
+            <actor>Mathias Dinter</actor>
+            <actor>Martin Ritzenhoff</actor>
+            <actor>Tom Gerhardt</actor>
+            <actor>Sabine Vitua</actor>
+            <actor>Steffen Groth</actor>
+            <actor>Jana Julie Kilka</actor>
+            <actor>Remo Schulze</actor>
+            <actor>Ralf M. Mendle</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Comedy</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15068403_i_h9_aa.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">1 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213104534 +0000" stop="20230213114538 +0000" channel="Sky Replay">
+        <title lang="de">Der Bestatter</title>
+        <sub-title lang="de">Der erste Stein</sub-title>
+        <desc lang="de">(CH) 2015 • S3 E4 • FSK 16
+        Nahe Kloster Josefsstein tötet ein Unbekannter mit einem Pflasterstein alle vier Insassen eines Autos. Als ein weiterer Stein das Kloster beschädigt, drängt die Zeit für die Ermittler. 58 Min.
+        CH 2015. Von Chris Niemeyer, mit Michael Müller, Barbara Terpoorten, Reto Stalder.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Chris Niemeyer</director>
+            <actor>Mike Müller</actor>
+            <actor>Barbara Terpoorten-Maurer</actor>
+            <actor>Suly Röthlisberger</actor>
+            <actor>Samuel Streiff</actor>
+            <actor>Reto Stalder</actor>
+            <actor>Martin Ostermeier</actor>
+            <actor>Mathias Gnädinger</actor>
+            <actor>Eva Scheurer</actor>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11355215_b_h9_aq.jpg"/>
+        <country>CH</country>
+        <episode-num system="xmltv_ns">2 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213114538 +0000" stop="20230213121922 +0000" channel="Sky Replay">
+        <title lang="de">Getting On - Fiese alte Knochen</title>
+        <sub-title lang="de">Didis Einstand</sub-title>
+        <desc lang="de">(US) 2013 • S1 E1 • FSK 12
+        Schwester Didi (Niecy Nash) muss sich an ihrem ersten Tag auf der Geriatrie-Station einer ungewöhnlichen Herausforderung stellen: Ein Kothaufen auf einem Stuhl in der Aufnahme sorgt für Aufregung. Denn während Schwester Dawn (Alex Borstein) auf einem offiziellen Bericht besteht, beansprucht Dr. Jenna James (Laurie Metcalf) die Fäkalie für eine wichtige Studie. Oberschwester Beverly fürchtet einen Hygiene-Skandal. Der Konflikt eskaliert. - Im Doku-Stil gedrehte Comedyserie, die mit groteskem Witz den Alltag auf einer Altenpflegestation beschreibt. 29 Min.
+        USA 2013. Von Miguel Arteta, mit Laurie Metcalf, Alex Borstein, Niecy Nash.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Laurie Metcalf</actor>
+            <actor>Niecy Nash</actor>
+            <actor>Alex Borstein</actor>
+            <actor>Mel Rodriguez</actor>
+            <producer>Mark V. Olsen</producer>
+            <producer>Will Scheffer</producer>
+        </credits>
+        <date>2013</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10212654_ce_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213121922 +0000" stop="20230213130306 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Neustart für Dr. Bashir Hamed</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E1 • FSK 16
+        Unfallchirurg Bashir Hamed flieht aus seiner syrischen Heimat nach Kanada. Zunächst darf er dort nicht als Arzt arbeiten. Doch bei einem Notfall kann er sich beweisen. 42 Min.
+        CDN/USA 2020. Von Holly Dale, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Holly Dale</director>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213130306 +0000" stop="20230213134826 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Sag mir, wer du bist</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E2 • FSK 16
+        Nach seiner spektakulären Rettungsaktion bekommt Bash eine Chance am renommierten York Memorial Hospital in Toronto. Doch seine unkonventionellen Methoden sorgen für Aufsehen. 42 Min.
+        CDN/USA 2020. Von Holly Dale, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213134826 +0000" stop="20230213143706 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Wissen, Können und Wollen</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E3 • FSK 16
+        Die Zukunft von Bash am York Memorial erscheint ungewiss. Wie kann er die Skepsis der anderen entkräften? Unterdessen stößt er bei einer jungen Patientin auf eine seltene Krankheit. 42 Min.
+        CDN/USA 2020. Von Holly Dale, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213143706 +0000" stop="20230213152237 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Unterdessen in Aleppo</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E4 • FSK 16
+        Dr. Bishop übt immer mehr Druck auf Bash aus. Eine Patientin stellt Magalies moralische Überzeugungen auf die Probe. Theo fühlt sich machtlos, als seiner Tochter etwas zustößt. 42 Min.
+        CDN/USA 2020. Von Alain DesRochers, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213152237 +0000" stop="20230213160807 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Eid</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E5 • FSK 16
+        Bash versucht, eine alte Familientradition zu pflegen, um seiner Schwester einen Wunsch zu erfüllen. Theo behandelt einen jungen Patienten, der etwas vor seinen Eltern zu verbergen hat. 42 Min.
+        CDN/USA 2020. Von Alain DesRochers, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 4 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213160807 +0000" stop="20230213165306 +0000" channel="Sky Replay">
+        <title lang="de">Transplant</title>
+        <sub-title lang="de">Keiner möchte</sub-title>
+        <desc lang="de">(CA) 2020 • S1 E6 • FSK 16
+        Aus Bashs Vergangenheit kommt etwas ans Licht, das seine Arbeit beeinträchtigt. Mags lässt sich von einer Feuerwehrfrau inspirieren. June muss lernen, besser mit anderen zusammenzuarbeiten. 42 Min.
+        CDN/USA 2020. Von Alain DesRochers, mit Laurence Leboeuf, Ayisha Issa, Jim Watson.
+        Ab 12 Jahren</desc>
+        <credits>
+            <actor>Hamza Haq</actor>
+            <actor>Laurence Leboeuf</actor>
+            <actor>John Hannah</actor>
+            <actor>Ayisha Issa</actor>
+            <actor>Jim Watson</actor>
+            <actor>Sirena Gulamgaus</actor>
+            <actor>Torri Higginson</actor>
+            <actor>Linda E. Smith</actor>
+            <actor>Grace Lynn Kung</actor>
+            <actor>Kenny Wong</actor>
+            <producer>Jocelyn Deschênes</producer>
+            <producer>Bruno Dubé</producer>
+            <producer>Virginia Rankin</producer>
+            <producer>Jeremy Spry</producer>
+            <producer>Tara Woodbury</producer>
+            <producer>Joseph Kay</producer>
+            <producer>Randy Lennox</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/7/p17034900_b_h9_ad.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213165306 +0000" stop="20230213174035 +0000" channel="Sky Replay">
+        <title lang="de">Einstein</title>
+        <sub-title lang="de">Expansion</sub-title>
+        <desc lang="de">(DE) 2018 • S2 E3 • FSK 16
+        Einstein präsentiert seinen Physikstudenten sein findiges System, um Banktresore zu sprengen. Die Polizei ist wenig glücklich, als sich Kriminelle seine Methode bei ihren Raubzügen zu eigen machen. 45 Min.
+        D 2018. Von Dominic Müller, mit Tom Beck, Annika Ernst, Rolf Kanies.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Thomas Jahn</director>
+            <director>Dominic Müller</director>
+            <actor>Tom Beck</actor>
+            <actor>Annika Ernst</actor>
+            <actor>Rolf Kanies</actor>
+            <actor>Nic Romm</actor>
+            <actor>Tim Oliver Schultz</actor>
+            <actor>Marian Meder</actor>
+            <actor>Antje Lewald</actor>
+            <actor>Mathias Dinter</actor>
+            <actor>Martin Ritzenhoff</actor>
+            <actor>Jeanne Goursaud</actor>
+            <actor>Guido Broscheit</actor>
+            <actor>Axel Moustache</actor>
+            <actor>Martin Klempnow</actor>
+            <actor>Christina Petersen</actor>
+            <actor>Patrick Mölleken</actor>
+            <actor>Ralf M. Mendle</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Comedy</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15068403_i_h9_aa.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">1 . 2 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213174035 +0000" stop="20230213190923 +0000" channel="Sky Replay">
+        <title lang="de">True Detective</title>
+        <sub-title lang="de">Omega Station</sub-title>
+        <desc lang="de">(US) 2015 • S2 E8 • FSK 16
+        Ermittler Ray Velcoro und Polizistin Ani Bezzerides kommen dem Killer von Ben Caspere allmählich auf die Spur. Das macht ihre Lage nur noch gefährlicher. Lieutenant Burris hängt Ray den Mord an Paul Woodrugh an. Halbwelt-Größe Frank Semyon trifft Vorbereitungen, um sich nach Venezuela abzusetzen.</desc>
+        <credits>
+            <actor>Colin Farrell</actor>
+            <actor>Vince Vaughn</actor>
+            <actor>Rachel McAdams</actor>
+            <actor>Taylor Kitsch</actor>
+            <actor>Kelly Reilly</actor>
+            <actor>Ritchie Coster</actor>
+            <actor>Ronny Cox</actor>
+            <actor>Fred Ward</actor>
+            <actor>Rick Springfield</actor>
+            <actor>Abigail Spencer</actor>
+            <actor>James Frain</actor>
+            <actor>Timothy V. Murphy</actor>
+            <actor>Chris Kerson</actor>
+            <actor>Andy Mackenzie</actor>
+            <actor>Afemo Omilami</actor>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11689212_b_h9_aa.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 7 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213190923 +0000" stop="20230213195630 +0000" channel="Sky Replay">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Vorbei ist vorbei</sub-title>
+        <desc lang="de">(US) 2018 • S8 E13 • FSK 12
+        Ein Mann, der seine Frau ermordet haben soll, steht kurz davor, Suizid zu begehen. Er beteuert seine Unschuld. Grover versucht, ihn zu beruhigen - während das Team den wahren Mörder sucht. 41 Min.
+        USA 2017. Von Roderick Davis, mit Alex O'Loughlin, Scott Caan, Ian Anthony Dale.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Roderick Davis</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Chi McBride</actor>
+            <actor>Jorge Garcia</actor>
+            <actor>Meaghan Rath</actor>
+            <actor>Dennis Chun</actor>
+            <actor>Ian Anthony Dale</actor>
+            <actor>Beulah Koale</actor>
+            <actor>Chosen Jacobs</actor>
+            <actor>Michelle Hurd</actor>
+            <actor>Devon Sawa</actor>
+            <actor>Aaron Yoo</actor>
+            <actor>J. Downing</actor>
+            <actor>Darah Dung</actor>
+            <actor>Kenric Green</actor>
+            <actor>Stephanie Anne Lewis</actor>
+            <actor>Renata Guarana</actor>
+            <actor>Quinton Ray</actor>
+            <actor>Kate Tobia</actor>
+            <producer>Peter M. Lenkov</producer>
+            <producer>Alex Kurtzman</producer>
+            <producer>Roberto Orci</producer>
+            <producer>Eric Guggenheim</producer>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/1/p8130405_i_h9_ak.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">7 . 12 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213195630 +0000" stop="20230213203929 +0000" channel="Sky Replay">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Ausgegraben</sub-title>
+        <desc lang="de">(US) 2018 • S8 E14 • FSK 12
+        Jemand hat die Leiche eines Diamantenschmugglers aus einem Friedhof gestohlen. Versucht ein Ex-Komplize, so Beute zu schmuggeln? Adam rekrutiert unterdessen einen neuen Informanten. 39 Min.
+        USA 2017. Von Peter Weller, mit Alex O'Loughlin, Scott Caan, Ian Anthony Dale.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Peter Weller</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Chi McBride</actor>
+            <actor>Jorge Garcia</actor>
+            <actor>Meaghan Rath</actor>
+            <actor>Taylor Wily</actor>
+            <actor>Kimee Balmilero</actor>
+            <actor>Ian Anthony Dale</actor>
+            <actor>Beulah Koale</actor>
+            <actor>Kunal Sharma</actor>
+            <actor>Shawn Thomsen</actor>
+            <actor>Christine Ko</actor>
+            <actor>Misa Tupou</actor>
+            <actor>Claudio Pinto</actor>
+            <actor>Walter S. Gaines</actor>
+            <actor>Kathleen Stuart</actor>
+            <actor>Phillip Phillips</actor>
+            <actor>Ben Wong</actor>
+            <actor>Gino Montesinos</actor>
+            <actor>Wayne M. Kane</actor>
+            <actor>Esteban Díaz</actor>
+            <producer>Peter M. Lenkov</producer>
+            <producer>Alex Kurtzman</producer>
+            <producer>Roberto Orci</producer>
+            <producer>Eric Guggenheim</producer>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/1/p8130405_i_h9_ak.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">7 . 13 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213203929 +0000" stop="20230213214014 +0000" channel="Sky Replay">
+        <title lang="de">Der Bestatter</title>
+        <sub-title lang="de">Der erste Stein</sub-title>
+        <desc lang="de">(CH) 2015 • S3 E4 • FSK 12
+        Nahe Kloster Josefsstein tötet ein Unbekannter mit einem Pflasterstein alle vier Insassen eines Autos. Als ein weiterer Stein das Kloster beschädigt, drängt die Zeit für die Ermittler. 58 Min.
+        CH 2015. Von Chris Niemeyer, mit Michael Müller, Barbara Terpoorten, Reto Stalder.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Chris Niemeyer</director>
+            <actor>Mike Müller</actor>
+            <actor>Barbara Terpoorten-Maurer</actor>
+            <actor>Suly Röthlisberger</actor>
+            <actor>Samuel Streiff</actor>
+            <actor>Reto Stalder</actor>
+            <actor>Martin Ostermeier</actor>
+            <actor>Mathias Gnädinger</actor>
+            <actor>Eva Scheurer</actor>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11355215_b_h9_aq.jpg"/>
+        <country>CH</country>
+        <episode-num system="xmltv_ns">2 . 3 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213214014 +0000" stop="20230213222733 +0000" channel="Sky Replay">
+        <title lang="de">L.A.'s Finest</title>
+        <sub-title lang="de">Nur 60 Sekunden</sub-title>
+        <desc lang="de">(US) 2020 • S2 E5 • FSK 12
+        Nancy und Syd entdecken eine Verbindung zwischen einer Serie von Verbrechen und einer neuen App. Zudem scheint die Gewalt in Koreatown noch nicht vorbei zu sein. Syd enthüllt Schockierendes über Jen. 42 Min.
+        USA 2020. Von Ray Daniels, mit Jessica Alba, Gabrielle Union, Duane Martin.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Daniels </director>
+            <actor>Gabrielle Union</actor>
+            <actor>Jessica Alba</actor>
+            <actor>Ernie Hudson</actor>
+            <actor>Zach Gilford</actor>
+            <actor>Duane Martin</actor>
+            <actor>Ryan McPartlin</actor>
+            <actor>Zach McGowan</actor>
+            <actor>Sophie Reynolds</actor>
+            <producer>Gabrielle Union</producer>
+            <producer>Jessica Alba</producer>
+            <producer>Jerry Bruckheimer</producer>
+            <producer>Jonathan Littman</producer>
+            <producer>KristieAnne Reed</producer>
+            <producer>Brandon Margolis</producer>
+            <producer>Brandon Sonnier</producer>
+            <producer>Pam Veasey</producer>
+            <producer>Doug Belgrad</producer>
+            <producer>Jeff Gaspin</producer>
+            <producer>Jeff Morrone</producer>
+            <producer>Anton Cropper</producer>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16684070_b_h9_bc.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 4 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213222733 +0000" stop="20230213231707 +0000" channel="Sky Replay">
+        <title lang="de">Gomorrha - Die Serie</title>
+        <sub-title lang="de">Alles endet hier</sub-title>
+        <desc lang="de">(DE,IT) 2016 • S2 E12 • FSK 16
+        Ciro befiehlt seinen verbliebenen Getreuen, so viele Männer und Waffen wie möglich zu organisieren. Denn die entscheidende Schlacht gegen die Savastanos scheint unvermeidlich. 46 Min.
+        I/D 2015, mit Marco D'Amore, Fortunato Cerlino, Marco Palvetti.
+        Ab 16 Jahren</desc>
+        <credits>
+            <director>Stefano Sollima</director>
+            <actor>Marco D'Amore</actor>
+            <actor>Salvatore Esposito</actor>
+            <actor>Fortunato Cerlino</actor>
+            <actor>Marco Palvetti</actor>
+            <actor>Fabio De Caro</actor>
+            <actor>Cristina Donadio</actor>
+            <actor>Cristiana Dell'Anna</actor>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/2/p12824644_b_h8_aa.jpg"/>
+        <country>DE,IT</country>
+        <episode-num system="xmltv_ns">1 . 11 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213231707 +0000" stop="20230213234113 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Das Ortsschild</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E3 • FSK 12
+        Johnny ärgert sich über das vulgäre Stadtschild von Schitt's Creek. David versucht eine neue Beschäftigung zu finden - obwohl er keinerlei Berufserfahrung vorzuweisen hat. 21 Min.
+        CDN 2015. Von Paul Fox, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Paul Fox</director>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Emily Hampshire</actor>
+            <producer>Andrew Barnsley</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213234113 +0000" stop="20230214000618 +0000" channel="Sky Replay">
+        <title lang="de">Schitt's Creek</title>
+        <sub-title lang="de">Meine lieben Rabeneltern</sub-title>
+        <desc lang="de">(CA) 2015 • S1 E4 • FSK 12
+        Johnny und Moira machen sich Vorwürfe, schlechte Eltern zu sein und wollen wieder einen bessern Draht zu ihren Kindern aufbauen. Unterdessen hilft Stevie David, seine Klamotten zu Geld zu machen. 21 Min.
+        CDN 2015. Von Gerard Ciccoritti, mit Eugene Levy, Catherine O'Hara, Dan Levy.
+        Ab 12 Jahren</desc>
+        <credits>
+            <director>Jerry Ciccoritti</director>
+            <actor>Eugene Levy</actor>
+            <actor>Catherine O'Hara</actor>
+            <actor>Annie Murphy</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Dan Levy</actor>
+            <actor>Emily Hampshire</actor>
+            <producer>Andrew Barnsley</producer>
+            <producer>Ben Feigin</producer>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11335763_b_h9_aa.jpg"/>
+        <country>CA</country>
+        <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
 
 <!--  TV SPIELFILM (DE)  PROGRAMME LIST -->
     <programme start="20230212035500 +0000" stop="20230212043000 +0000" channel="ARD.de">
@@ -25362,6 +27907,939 @@
         <rating>
             <value>16</value>
         </rating>
+    </programme>
+
+    <programme start="20230212040000 +0000" stop="20230212040500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212040500 +0000" stop="20230212041600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212041600 +0000" stop="20230212042800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212042800 +0000" stop="20230212043000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212043000 +0000" stop="20230212043700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212043700 +0000" stop="20230212044800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212044800 +0000" stop="20230212045800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212045800 +0000" stop="20230212050000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212050000 +0000" stop="20230212050500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212050500 +0000" stop="20230212052800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212052800 +0000" stop="20230212053000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212053000 +0000" stop="20230212053500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212053500 +0000" stop="20230212054400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212054400 +0000" stop="20230212054900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212054900 +0000" stop="20230212055800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212055800 +0000" stop="20230212060000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212060000 +0000" stop="20230212060500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212060500 +0000" stop="20230212061600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212061600 +0000" stop="20230212062800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212062800 +0000" stop="20230212063000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212063000 +0000" stop="20230212063600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212063600 +0000" stop="20230212064700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212064700 +0000" stop="20230212065800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212065800 +0000" stop="20230212070000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212070000 +0000" stop="20230212070500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212070500 +0000" stop="20230212072800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212072800 +0000" stop="20230212073000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212073000 +0000" stop="20230212073500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212073500 +0000" stop="20230212074400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212074400 +0000" stop="20230212074900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212074900 +0000" stop="20230212075800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212075800 +0000" stop="20230212080000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212080000 +0000" stop="20230212080500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212080500 +0000" stop="20230212081600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212081600 +0000" stop="20230212082800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212082800 +0000" stop="20230212083000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212083000 +0000" stop="20230212083700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212083700 +0000" stop="20230212084700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212084700 +0000" stop="20230212085800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212085800 +0000" stop="20230212090000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212090000 +0000" stop="20230212090500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212090500 +0000" stop="20230212092800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212092800 +0000" stop="20230212093000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212093000 +0000" stop="20230212093500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212093500 +0000" stop="20230212094400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212094400 +0000" stop="20230212094900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212094900 +0000" stop="20230212095800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212095800 +0000" stop="20230212100000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212100000 +0000" stop="20230212100500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212100500 +0000" stop="20230212101600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212101600 +0000" stop="20230212102800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212102800 +0000" stop="20230212103000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212103000 +0000" stop="20230212103700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212103700 +0000" stop="20230212104700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212104700 +0000" stop="20230212105800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212105800 +0000" stop="20230212110000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212110000 +0000" stop="20230212110500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212110500 +0000" stop="20230212112800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212112800 +0000" stop="20230212113000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212113000 +0000" stop="20230212113500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212113500 +0000" stop="20230212114400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212114400 +0000" stop="20230212114900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212114900 +0000" stop="20230212115800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212115800 +0000" stop="20230212120000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212120000 +0000" stop="20230212120500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212120500 +0000" stop="20230212121600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212121600 +0000" stop="20230212122800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212122800 +0000" stop="20230212123000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212123000 +0000" stop="20230212123700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212123700 +0000" stop="20230212124800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212124800 +0000" stop="20230212125800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212125800 +0000" stop="20230212130000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212130000 +0000" stop="20230212130500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212130500 +0000" stop="20230212132800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212132800 +0000" stop="20230212133000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212133000 +0000" stop="20230212133500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212133500 +0000" stop="20230212134400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212134400 +0000" stop="20230212134900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212134900 +0000" stop="20230212135800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212135800 +0000" stop="20230212140000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212140000 +0000" stop="20230212140500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212140500 +0000" stop="20230212141600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212141600 +0000" stop="20230212142800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212142800 +0000" stop="20230212143000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212143000 +0000" stop="20230212143700 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212143700 +0000" stop="20230212144900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212144900 +0000" stop="20230212145800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212145800 +0000" stop="20230212150000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212150000 +0000" stop="20230212150500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212150500 +0000" stop="20230212152800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212152800 +0000" stop="20230212153000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212153000 +0000" stop="20230212153500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212153500 +0000" stop="20230212154400 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212154400 +0000" stop="20230212154900 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212154900 +0000" stop="20230212155800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">State Of the Union</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212155800 +0000" stop="20230212160000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230212160000 +0000" stop="20230212160500 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Global Week-End</title>
+        <desc lang="de">(F) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>F</country>
+    </programme>
+
+    <programme start="20230212160500 +0000" stop="20230212161600 +0000" channel="EuronewsDE.nws">
+        <title lang="de">Witness</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212161600 +0000" stop="20230212162800 +0000" channel="EuronewsDE.nws">
+        <title lang="de">WITNESS</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230212162800 +0000" stop="20230212163000 +0000" channel="EuronewsDE.nws">
+        <title lang="de">News</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
     </programme>
 
     <programme start="20230212032000 +0000" stop="20230212053000 +0000" channel="Sky Cinema Premieren">
