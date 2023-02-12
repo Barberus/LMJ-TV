@@ -611,9 +611,9 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7364
 http://ipflix.click:8080/sq1x0qr86b/7777/5087
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Syfy DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6164
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,WarnerTV Comedy FHD DE
+#EXTINF:-1 group-title="TV 1" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6157
-#EXTINF:-1 group-title="TV 1" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV1" tvg-logo="http://127.0.0.1/" ,WarnerTV Comedy HD
+#EXTINF:-1 group-title="TV 1" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy HD
 http://ipflix.click:8080/sq1x0qr86b/7777/687541
 #EXTINF:-1 group-title="TV 1" tvg-id="TNTFilm.de" tvg-name="WarnerTV Film FHD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-F.png" ,WarnerTV Film FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6156
@@ -975,9 +975,9 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7364
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5087
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Syfy DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,WarnerTV Comedy FHD DE
+#EXTINF:-1 group-title="TV 2" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV2" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6157
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,WarnerTV Comedy HD DE
+#EXTINF:-1 group-title="TV 2" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV2" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,WarnerTV Film FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
