@@ -161,13 +161,13 @@ http://ipflix.click:8080/sq1x0qr86b/7777/8976
 http://ipflix.click:8080/sq1x0qr86b/7777/8975
 #EXTINF:-1 group-title="TV" tvg-name="Sky Select 8 HD" tvg-logo="http://100.10.10.12/kodi/select 8.png" ,Sky Select 8 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8974
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Horror HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Horror HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Horror HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Horror HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681942
 #EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Thriller HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Thriller HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681950
 #EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Sci-Fi HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Sci-Fi HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681949
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Animation HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Animation HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Animation HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Animation HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681939
 #EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Mythologie HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Mythologie HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681945
@@ -217,7 +217,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6217
 http://ipflix.click:8080/sq1x0qr86b/7777/687568
 #EXTINF:-1 group-title="TV" tvg-id="SWR.de" tvg-name="SWR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/swrhd.png" ,SWR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6165
-#EXTINF:-1 group-title="TV" tvg-id="WDR.de" tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/wdrhd.png" ,WDR HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="WDR.de" tvg-name="WDR HD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/wdrhd.png" ,WDR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6152
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Heimatkanal.de" tvg-name="Sky Heimat Kanal HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Heimat-Kanal.png" ,Sky Heimat Kanal HD
 http://ipflix.click:8080/sq1x0qr86b/7777/678481
@@ -265,7 +265,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/9148
 http://ipflix.click:8080/sq1x0qr86b/7777/9147
 #EXTINF:-1 group-title="OFFLINE" tvg-id="BILD HD" tvg-name="BILD HD TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png" ,BILD HD
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="EuroNewsDE.news" tvg-name="euronews" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Euronews.png" ,Euronews
+#EXTINF:-1 group-title="OFFLINE" tvg-id="EuroNewsDE.news" tvg-name="euronews TV!" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Euronews.png" ,Euronews
 http://ipflix.click:8080/sq1x0qr86b/7777/6248
 #EXTINF:-1 group-title="TV" tvg-id="WELT.de" tvg-name="WELT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" ,Welt HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6228
