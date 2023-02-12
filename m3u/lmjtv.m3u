@@ -113,7 +113,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6190
 http://ipflix.click:8080/sq1x0qr86b/7777/8223
 #EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-HD-Family.png" ,Sky Cinema Family HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9145
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/classics hd.png" ,Sky Cinema Classics HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" ,Sky Cinema Classics HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13131
 #EXTINF:-1 group-title="TV" tvg-id="SkyComedy.de" tvg-name="Sky Comedy HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-Comedy.png" ,Sky Cinema Comedy VIP HD
 http://ipflix.click:8080/sq1x0qr86b/7777/688822
@@ -575,9 +575,9 @@ http://ipflix.click:8080/sq1x0qr86b/7777/8223
 http://ipflix.click:8080/sq1x0qr86b/7777/9145
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Cinema Family HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/7369
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics HD DE
+#EXTINF:-1 group-title="TV 1" tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" ,Sky Cinema Classics HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13131
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics DE
+#EXTINF:-1 group-title="TV 1" tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics SD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" ,Sky Cinema Classics SD
 http://ipflix.click:8080/sq1x0qr86b/7777/6186
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best of DE
 http://ipflix.click:8080/sq1x0qr86b/7777/5088
@@ -939,9 +939,9 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8223
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9145
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Family HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7369
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics HD DE
+#EXTINF:-1 group-title="TV 2" tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics HD TV2" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" ,Sky Cinema Classics HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13131
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics DE
+#EXTINF:-1 group-title="TV 2" tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics SD TV2" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" ,Sky Cinema Classics SD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6186
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best of DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5088
