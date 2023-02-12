@@ -1,257 +1,257 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="TV" tvg-id="ARD.de" tvg-name="Das Erste HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosARD-HD.png" ,Das Erste HD
+#EXTINF:-1 group-title="TV" tvg-id="ARD.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ARD-HD.png" ,Das Erste HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6256
-#EXTINF:-1 group-title="TV" tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoszdfhd.png" ,ZDF HD
+#EXTINF:-1 group-title="TV" tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/zdfhd.png" ,ZDF HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6151
-#EXTINF:-1 group-title="TV" tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos3sathd.png" ,3sat HD
+#EXTINF:-1 group-title="TV" tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/3sathd.png" ,3sat HD
 http://ipflix.click:8080/sq1x0qr86b/7777/16289
-#EXTINF:-1 group-title="TV" tvg-id="RTL.de" tvg-name="RTL HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrtlhd.png" ,RTL HD
+#EXTINF:-1 group-title="TV" tvg-id="RTL.de" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtlhd.png" ,RTL HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683243
-#EXTINF:-1 group-title="OFFLINE" tvg-id="RTL2.de" tvg-name="RTLZWEI HD TV2" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrtl2hd.png" ,RTLZWEI HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="RTL2.de" tvg-name="RTLZWEI HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtl2hd.png" ,RTLZWEI HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6215
-#EXTINF:-1 group-title="TV" tvg-id="RTL2.de" tvg-name="RTLZWEi HD TV1" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrtl2hd.png" ,RTLZWEi HD
+#EXTINF:-1 group-title="TV" tvg-id="RTL2.de" tvg-name="RTLZWEi HD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtl2hd.png" ,RTLZWEi HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13136
-#EXTINF:-1 group-title="TV" tvg-id="RTLNitro.de" tvg-name="RTL Nitro HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrtlnitrohd.png" ,RTL Nitro HD
+#EXTINF:-1 group-title="TV" tvg-id="RTLNitro.de" tvg-name="RTL Nitro HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtlnitrohd.png" ,RTL Nitro HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13137
-#EXTINF:-1 group-title="OFFLINE" tvg-id="RTLCrime.de" tvg-name="RTLCrime.de TV2" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosRTL-Crime-HD.png" ,RTL Crime HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="RTLCrime.de" tvg-name="RTLCrime.de TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/RTL-Crime-HD.png" ,RTL Crime HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/17012
-#EXTINF:-1 group-title="OFFLINE" tvg-id="RTLup HD" tvg-name="RTLup TV1" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosRTLup_Logo_2021.svg.png" ,RTLup HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="RTLup" tvg-name="RTLup TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/RTLup_Logo_2021.svg.png" ,RTLup HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9152
-#EXTINF:-1 group-title="TV" tvg-id="RTLup HD" tvg-name="RTLup TV1" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosRTLup_Logo_2021.svg.png" ,RTLup
+#EXTINF:-1 group-title="TV" tvg-id="RTLup" tvg-name="RTLup TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/RTLup_Logo_2021.svg.png" ,RTLup
 http://ipflix.click:8080/sq1x0qr86b/7777/9152
-#EXTINF:-1 group-title="TV" tvg-id="Sat1.de" tvg-name="SAT1 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossat1hd.png" ,Sat.1 HD
+#EXTINF:-1 group-title="TV" tvg-id="Sat1.de" tvg-name="SAT1 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/sat1hd.png" ,Sat.1 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6210
-#EXTINF:-1 group-title="TV" tvg-id="Sat1Gold.de" tvg-name="SAT.1 GOLD HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossat1goldhd.png" ,SAT.1 GOLD HD
+#EXTINF:-1 group-title="TV" tvg-id="Sat1Gold.de" tvg-name="SAT.1 GOLD HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/sat1goldhd.png" ,SAT.1 GOLD HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6209
-#EXTINF:-1 group-title="TV" tvg-id="Sat1Emotions.de" tvg-name="SAT1 Emotions HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSat1-emotions-HD.png" ,Sat1 Emotion
+#EXTINF:-1 group-title="TV" tvg-id="Sat1Emotions.de" tvg-name="SAT1 Emotions HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sat1-emotions-HD.png" ,Sat1 Emotion
 http://ipflix.click:8080/sq1x0qr86b/7777/13135
-#EXTINF:-1 group-title="TV" tvg-id="Pro7.de" tvg-name="ProSieben HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosprosiebenhd.png" ,ProSieben HD
+#EXTINF:-1 group-title="TV" tvg-id="Pro7.de" tvg-name="ProSieben HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/prosiebenhd.png" ,ProSieben HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8235
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosprosiebenmaxxhd.png" ,ProSieben MAXX HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/prosiebenmaxxhd.png" ,ProSieben MAXX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6218
 #EXTINF:-1 group-title="TV" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Maxx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683394
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenFun.de" tvg-name="PRO7 FUN HD TV2" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosProsieben-Fun.png" ,ProSieben Fun HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenFun.de" tvg-name="PRO7 FUN HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Prosieben-Fun.png" ,ProSieben Fun HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13145
-#EXTINF:-1 group-title="TV" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN FHD TV1" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosProsieben-Fun.png" ,ProSieben Fun FHD
+#EXTINF:-1 group-title="TV" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN FHD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Prosieben-Fun.png" ,ProSieben Fun FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6219
 #EXTINF:-1 group-title="TV" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN SD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Fun SD
 http://ipflix.click:8080/sq1x0qr86b/7777/13142
-#EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosvoxhd.png" ,VOX HD
+#EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/voxhd.png" ,VOX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13553
-#EXTINF:-1 group-title="OFFLINE" tvg-id="VOXup.de" tvg-name="VOXup HD TV2" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosVoxup_HD_Logo_2019.svg.png" ,VOXup HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="VOXup.de" tvg-name="VOXup HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Voxup_HD_Logo_2019.svg.png" ,VOXup HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679836
 #EXTINF:-1 group-title="TV" tvg-id="VOXup.de" tvg-name="VOXup TV1" tvg-logo="http://127.0.0.1/" ,VOXup SD
 http://ipflix.click:8080/sq1x0qr86b/7777/679836
-#EXTINF:-1 group-title="TV" tvg-id="Kabel.de" tvg-name="Kabel eins HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoskabeleinshd.png" ,Kabel eins HD
+#EXTINF:-1 group-title="TV" tvg-id="Kabel.de" tvg-name="Kabel eins HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/kabeleinshd.png" ,Kabel eins HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6242
-#EXTINF:-1 group-title="TV" tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosKabel-1-Doku.png" ,Kabel Eins Doku HD
+#EXTINF:-1 group-title="TV" tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Doku.png" ,Kabel Eins Doku HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13147
-#EXTINF:-1 group-title="TV" tvg-id="KabelEinsClassic.de" tvg-name="KABEL 1 CLASSIC HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosKabel-1-Classics-HD.png" ,Kabel 1 Classic HD
+#EXTINF:-1 group-title="TV" tvg-id="KabelEinsClassic.de" tvg-name="KABEL 1 CLASSIC HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Classics-HD.png" ,Kabel 1 Classic HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9151
-#EXTINF:-1 group-title="TV" tvg-id="13thStreet.de" tvg-name="13TH STREET" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos13th-Street-HD.png" ,13TH Street HD
+#EXTINF:-1 group-title="TV" tvg-id="13thStreet.de" tvg-name="13TH STREET" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/13th-Street-HD.png" ,13TH Street HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5098
-#EXTINF:-1 group-title="TV" tvg-id="ComedyCentral/VIVA.de" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscomedycentralhd.png" ,COMEDY CENTRAL HD
+#EXTINF:-1 group-title="TV" tvg-id="ComedyCentral/VIVA.de" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/comedycentralhd.png" ,COMEDY CENTRAL HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6154
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SciFi.de" tvg-name="SYFY SD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossyfy hd.png" ,Syfy SD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SciFi.de" tvg-name="SYFY SD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/syfy hd.png" ,Syfy SD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
-#EXTINF:-1 group-title="TV" tvg-id="DMax.de" tvg-name="DMAX HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosdmaxhd.png" ,DMAX HD
+#EXTINF:-1 group-title="TV" tvg-id="DMax.de" tvg-name="DMAX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/dmaxhd.png" ,DMAX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6249
-#EXTINF:-1 group-title="TV" tvg-id="Sixx.de" tvg-name="sixx HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossixxhd.png" ,Sixx HD
+#EXTINF:-1 group-title="TV" tvg-id="Sixx.de" tvg-name="sixx HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/sixxhd.png" ,Sixx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6207
-#EXTINF:-1 group-title="TV" tvg-id="Tele5.de" tvg-name="Tele 5 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logostele5hd.png" ,Tele 5 HD
+#EXTINF:-1 group-title="TV" tvg-id="Tele5.de" tvg-name="Tele 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/tele5hd.png" ,Tele 5 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9150
-#EXTINF:-1 group-title="OFFLINE" tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosUniversal-Channel-HD.png" ,Universal HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Universal-Channel-HD.png" ,Universal HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5265
-#EXTINF:-1 group-title="TV" tvg-id="SONY CHANNEL HD" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSony-Entertainment-TV-HD.png" ,Sony Channel HD
+#EXTINF:-1 group-title="TV" tvg-id="SONY CHANNEL HD" tvg-name="SONY CHANNEL" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sony-Entertainment-TV-HD.png" ,Sony Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6167
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SONY AXN HD" tvg-name="SONY AXN HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosAXN-HD.png" ,AXN HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SONY AXN HD" tvg-name="SONY AXN HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/AXN-HD.png" ,AXN HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5097
-#EXTINF:-1 group-title="TV" tvg-id="NatGeo.de" tvg-name="NatGeo HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosNational-Geographic-Channel-HD.png" ,NatGeo HD
+#EXTINF:-1 group-title="TV" tvg-id="NatGeo.de" tvg-name="NatGeo HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/National-Geographic-Channel-HD.png" ,NatGeo HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8194
-#EXTINF:-1 group-title="TV" tvg-id="DiscoveryHD.de" tvg-name="Discovery Channel HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosDiscovery-Channel-HD.png" ,Discovery Channel HD
+#EXTINF:-1 group-title="TV" tvg-id="DiscoveryHD.de" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Discovery-Channel-HD.png" ,Discovery Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13570
-#EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosNat-Geo-Wild-HD.png" ,National Geographic Wild HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Nat-Geo-Wild-HD.png" ,National Geographic Wild HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6227
-#EXTINF:-1 group-title="TV" tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosanimal planet hd.png" ,Animal Planet HD
+#EXTINF:-1 group-title="TV" tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/animal planet hd.png" ,Animal Planet HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13173
-#EXTINF:-1 group-title="TV" tvg-id="SpiegelTV.de" tvg-name="Spiegel TV Wissen HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSpiegel-TV-Wissen-HD.png" ,Spiegel TV Wissen HD
+#EXTINF:-1 group-title="TV" tvg-id="SpiegelTV.de" tvg-name="Spiegel TV Wissen HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-TV-Wissen-HD.png" ,Spiegel TV Wissen HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9135
-#EXTINF:-1 group-title="TV" tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSpiegel-Geschichte-HD.png" ,Spiegel Geschichte HD
+#EXTINF:-1 group-title="TV" tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-Geschichte-HD.png" ,Spiegel Geschichte HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6174
-#EXTINF:-1 group-title="TV" tvg-id="History.de" tvg-name="The HISTORY Channel HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHistory-HD.png" ,The HISTORY Channel HD
+#EXTINF:-1 group-title="TV" tvg-id="History.de" tvg-name="The HISTORY Channel HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/History-HD.png" ,The HISTORY Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
-#EXTINF:-1 group-title="TV" tvg-id="AnixePlus.de" tvg-name="ANIXE+" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosanixe hd.png" ,Anixe HD
+#EXTINF:-1 group-title="TV" tvg-id="AnixePlus.de" tvg-name="ANIXE+" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/anixe hd.png" ,Anixe HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6264
-#EXTINF:-1 group-title="TV" tvg-id="Kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosKinowelt-HD.png" ,Kinowelt FHD
+#EXTINF:-1 group-title="TV" tvg-id="Kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kinowelt-HD.png" ,Kinowelt FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6240
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscrime + investigation.png" ,Crime + Investigation HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/crime + investigation.png" ,Crime + Investigation HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8197
-#EXTINF:-1 group-title="TV" tvg-id="Warner TV Comedy (Sky)" tvg-name="Warner TV Comedy" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosWarnerTV_COMEDY_HD_Logo_2021.svg.png" ,WarnerTV Comedy HD
+#EXTINF:-1 group-title="TV" tvg-id="Warner TV Comedy (Sky)" tvg-name="Warner TV Comedy" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/WarnerTV_COMEDY_HD_Logo_2021.svg.png" ,WarnerTV Comedy HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
-#EXTINF:-1 group-title="TV" tvg-id="Warner TV Film (Sky)" tvg-name="Warner TV Film" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosWarnerTV_FILM_HD_Logo_2021.svg.png" ,WarnerTV Film HD
+#EXTINF:-1 group-title="TV" tvg-id="Warner TV Film (Sky)" tvg-name="Warner TV Film" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/WarnerTV_FILM_HD_Logo_2021.svg.png" ,WarnerTV Film HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Warner TV Serie HD" tvg-name="Warner TV Serie TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosWarnerTV_Serie_Logo_2021.svg.png" ,WarnerTV Serie HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Warner TV Serie HD" tvg-name="Warner TV Serie TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/WarnerTV_Serie_Logo_2021.svg.png" ,WarnerTV Serie HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6155
-#EXTINF:-1 group-title="TV" tvg-id="SkyKrimi.de" tvg-name="SkyKrimi.de" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Krimi.png" ,Sky Krimi VIP HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyKrimi.de" tvg-name="SkyKrimi.de" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Krimi.png" ,Sky Krimi VIP HD
 http://ipflix.click:8080/sq1x0qr86b/7777/688821
-#EXTINF:-1 group-title="TV" tvg-id="SkyAtlanticHD.de" tvg-name="SkyAtlantic" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Atlantic-HD.png" ,Sky Atlantic
+#EXTINF:-1 group-title="TV" tvg-id="SkyAtlanticHD.de" tvg-name="SkyAtlantic" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Atlantic-HD.png" ,Sky Atlantic
 http://ipflix.click:8080/sq1x0qr86b/7777/6204
-#EXTINF:-1 group-title="TV" tvg-id="Sky One HD" tvg-name="Sky One" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-1-HD.png" ,Sky One HD
+#EXTINF:-1 group-title="TV" tvg-id="Sky One HD" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-1-HD.png" ,Sky One HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9138
-#EXTINF:-1 group-title="TV" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky_Replay_DE_Logo_2021.svg.png" ,Sky Replay HD
+#EXTINF:-1 group-title="TV" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky_Replay_DE_Logo_2021.svg.png" ,Sky Replay HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23770
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky_Cinema_Fun_DE_Logo_2020.svg.png" ,Sky Cinema Fun
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky_Cinema_Fun_DE_Logo_2020.svg.png" ,Sky Cinema Fun
 http://ipflix.click:8080/sq1x0qr86b/7777/6190
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best of" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky_Cinema_Best_Of_HD_DE_2020_Logo.png" ,Sky Cinema Best Of HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best of" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky_Cinema_Best_Of_HD_DE_2020_Logo.png" ,Sky Cinema Best Of HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8223
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema-HD-Family.png" ,Sky Cinema Family HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-HD-Family.png" ,Sky Cinema Family HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9145
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosclassics hd.png" ,Sky Cinema Classics HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics" tvg-name="Sky Cinema Classics TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/classics hd.png" ,Sky Cinema Classics HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13131
-#EXTINF:-1 group-title="TV" tvg-id="SkyComedy.de" tvg-name="Sky Comedy HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema-Comedy.png" ,Sky Cinema Comedy VIP HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyComedy.de" tvg-name="Sky Comedy HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-Comedy.png" ,Sky Cinema Comedy VIP HD
 http://ipflix.click:8080/sq1x0qr86b/7777/688822
-#EXTINF:-1 group-title="TV" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema-Action.png" ,Sky Cinema Special HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-Action.png" ,Sky Cinema Special HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8217
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema-HD.png" ,Sky Cinema Special HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-HD.png" ,Sky Cinema Special HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6252
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema.png" ,Sky Cinema Premieren HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema.png" ,Sky Cinema Premieren HD
 http://ipflix.click:8080/sq1x0qr86b/7777/7373
-#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosSky-Cinema-24-HD.png" ,Sky Cinema Premieren +24 HD
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-24-HD.png" ,Sky Cinema Premieren +24 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6192
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 1 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 1.png" ,Sky Select 1 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 1 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 1.png" ,Sky Select 1 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7375
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 2 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 2.png" ,Sky Select 2 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 2 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 2.png" ,Sky Select 2 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7376
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 3 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 3.png" ,Sky Select 3 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 3 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 3.png" ,Sky Select 3 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7377
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 4 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 4.png" ,Sky Select 4 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 4 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 4.png" ,Sky Select 4 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7378
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 5 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 5.png" ,Sky Select 5 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 5.png" ,Sky Select 5 HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8977
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 6 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 6.png" ,Sky Select 6 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 6 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 6.png" ,Sky Select 6 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8976
-#EXTINF:-1 group-title="TV" tvg-name="Sky Select 7 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosselect 7.png" ,Sky Select 7 HD
+#EXTINF:-1 group-title="TV" tvg-name="Sky Select 7 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/select 7.png" ,Sky Select 7 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8975
 #EXTINF:-1 group-title="TV" tvg-name="Sky Select 8 HD" tvg-logo="http://100.10.10.12/kodi/select 8.png" ,Sky Select 8 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8974
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Horror HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Horror HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Horror HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Horror HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681942
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Thriller HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Thriller HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Thriller HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Thriller HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681950
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Sci-Fi HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Sci-Fi HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Sci-Fi HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Sci-Fi HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681949
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Animation HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Animation HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Animation HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Animation HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681939
-#EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Mythologie HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Mythologie HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Mythologie HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Mythologie HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681945
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Lcheln HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Lcheln HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Lcheln HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Lcheln HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681944
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Geschichte HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Geschichte HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Geschichte HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Geschichte HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681941
-#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Romantisch HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logos" ,Eagle Cinema Romantisch HD
+#EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Romantisch HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Romantisch HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681948
-#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 1 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,PopCorn Select 1 HD
+#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 1 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,PopCorn Select 1 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23778
-#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 2 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,PopCorn Select 2 HD
+#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 2 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,PopCorn Select 2 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23777
-#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 3 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,PopCorn Select 3 HD
+#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 3 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,PopCorn Select 3 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23776
-#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 4 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,PopCorn Select 4 HD
+#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 4 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,PopCorn Select 4 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23775
-#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 5 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,PopCorn Select 5 HD
+#EXTINF:-1 group-title="TV" tvg-name="PopCorn Select 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,PopCorn Select 5 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683540
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema Boxset HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoscinema-popcorn.jpg" ,HyperCinema Boxset HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema Boxset HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/cinema-popcorn.jpg" ,HyperCinema Boxset HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683534
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema INFO HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema INFO HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema INFO HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema INFO HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683523
-#EXTINF:-1 group-title="OFFLINE" tvg-name="HyperCinema 1 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 1 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="HyperCinema 1 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 1 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683535
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 2 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 2 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 2 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 2 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683525
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 3 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 3 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 3 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 3 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683526
-#EXTINF:-1 group-title="OFFLINE" tvg-name="HyperCinema 4 HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 4 HD
+#EXTINF:-1 group-title="OFFLINE" tvg-name="HyperCinema 4 HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 4 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683527
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 5 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 5 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 5 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683528
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 6 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 6 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 6 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 6 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683529
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 7 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 7 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 7 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 7 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683530
-#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 8 HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHyperCinema.jpg" ,HyperCinema 8 HD
+#EXTINF:-1 group-title="TV" tvg-name="HyperCinema 8 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/HyperCinema.jpg" ,HyperCinema 8 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683531
-#EXTINF:-1 group-title="TV" tvg-id="SRFernsehen.de" tvg-name="SRF 1" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossrfernsehenhd.png" ,SRF 1
+#EXTINF:-1 group-title="TV" tvg-id="SRFernsehen.de" tvg-name="SRF 1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/srfernsehenhd.png" ,SRF 1
 http://ipflix.click:8080/sq1x0qr86b/7777/6170
-#EXTINF:-1 group-title="TV" tvg-id="ndrnds.de" tvg-name="NDR HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosndrhd.png" ,NDR HD
+#EXTINF:-1 group-title="TV" tvg-id="ndrnds.de" tvg-name="NDR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ndrhd.png" ,NDR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6225
-#EXTINF:-1 group-title="TV" tvg-id="HR.de" tvg-name="HR HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoshrfernsehenhd.png" ,HR HD
+#EXTINF:-1 group-title="TV" tvg-id="HR.de" tvg-name="HR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/hrfernsehenhd.png" ,HR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13150
-#EXTINF:-1 group-title="TV" tvg-id="rbbBerlin.de" tvg-name="RBB Berlin HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrbbhd.png" ,RBB Berlin HD
+#EXTINF:-1 group-title="TV" tvg-id="rbbBerlin.de" tvg-name="RBB Berlin HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rbbhd.png" ,RBB Berlin HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6217
-#EXTINF:-1 group-title="TV" tvg-id="BR.de" tvg-name="BR HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosbrhd.png" ,BR HD
+#EXTINF:-1 group-title="TV" tvg-id="BR.de" tvg-name="BR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/brhd.png" ,BR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/687568
-#EXTINF:-1 group-title="TV" tvg-id="SWR.de" tvg-name="SWR HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosswrhd.png" ,SWR HD
+#EXTINF:-1 group-title="TV" tvg-id="SWR.de" tvg-name="SWR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/swrhd.png" ,SWR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6165
-#EXTINF:-1 group-title="TV" tvg-id="WDR.de" tvg-name="WDR HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoswdrhd.png" ,WDR HD
+#EXTINF:-1 group-title="TV" tvg-id="WDR.de" tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/wdrhd.png" ,WDR HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6152
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Heimatkanal.de" tvg-name="Sky Heimat Kanal HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosHeimat-Kanal.png" ,Sky Heimat Kanal HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Heimatkanal.de" tvg-name="Sky Heimat Kanal HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Heimat-Kanal.png" ,Sky Heimat Kanal HD
 http://ipflix.click:8080/sq1x0qr86b/7777/678481
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Romance.de" tvg-name="Romance TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosRomance-TV.png" ,Romance TV
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Romance.de" tvg-name="Romance TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Romance-TV.png" ,Romance TV
 http://ipflix.click:8080/sq1x0qr86b/7777/6211
-#EXTINF:-1 group-title="TV" tvg-id="TLC.de" tvg-name="TLC HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logostlc hd.png" ,TLC HD
+#EXTINF:-1 group-title="TV" tvg-id="TLC.de" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/tlc hd.png" ,TLC HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8224
-#EXTINF:-1 group-title="TV" tvg-id="RTLLiving.de" tvg-name="RTL Living HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosRTL-Living.png" ,RTL Living HD
+#EXTINF:-1 group-title="TV" tvg-id="RTLLiving.de" tvg-name="RTL Living HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/RTL-Living.png" ,RTL Living HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6213
-#EXTINF:-1 group-title="TV" tvg-id="RTLPassion.de" tvg-name="RTL Passion HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosrtl passion hd.png" ,RTL Passion HD
+#EXTINF:-1 group-title="TV" tvg-id="RTLPassion.de" tvg-name="RTL Passion HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtl passion hd.png" ,RTL Passion HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8219
-#EXTINF:-1 group-title="TV" tvg-id="disneychannel.de" tvg-name="Disney HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosdisneychannel.png" ,Disney HD
+#EXTINF:-1 group-title="TV" tvg-id="disneychannel.de" tvg-name="Disney HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/disneychannel.png" ,Disney HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6253
-#EXTINF:-1 group-title="TV" tvg-id="SuperRTL.de" tvg-name="Super RTL HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logossuperrtlhd.png" ,Super RTL HD
+#EXTINF:-1 group-title="TV" tvg-id="SuperRTL.de" tvg-name="Super RTL HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/superrtlhd.png" ,Super RTL HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6166
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Kika.de" tvg-name="KiKa HD TV" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoskikahd.png" ,KiKa HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Kika.de" tvg-name="KiKa HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/kikahd.png" ,KiKa HD
 http://ipflix.click:8080/sq1x0qr86b/7777/679839
-#EXTINF:-1 group-title="TV" tvg-id="TOGGOplus.de" tvg-name="ToggoPlus HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosTOGGO-plus.png" ,Toggo Plus HD
+#EXTINF:-1 group-title="TV" tvg-id="TOGGOplus.de" tvg-name="ToggoPlus HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/TOGGO-plus.png" ,Toggo Plus HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5086
-#EXTINF:-1 group-title="TV" tvg-id="Boomerang.de" tvg-name="Boomerang HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosBoomerang.png" ,Boomerang HD
+#EXTINF:-1 group-title="TV" tvg-id="Boomerang.de" tvg-name="Boomerang HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Boomerang.png" ,Boomerang HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6258
-#EXTINF:-1 group-title="TV" tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosCartoon-Network-HD.png" ,Cartoon Network HD
+#EXTINF:-1 group-title="TV" tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Cartoon-Network-HD.png" ,Cartoon Network HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6257
-#EXTINF:-1 group-title="TV" tvg-id="Nick HD" tvg-name="Nickelodeon HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosnickelodeonhd.png" ,Nickelodeon HD
+#EXTINF:-1 group-title="TV" tvg-id="Nick HD" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/nickelodeonhd.png" ,Nickelodeon HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6224
-#EXTINF:-1 group-title="TV" tvg-id="Fix&amp;Foxi" tvg-name="Fix&amp;Foxi" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosFix-und-Foxi.png" ,Fix & Foxi
+#EXTINF:-1 group-title="TV" tvg-id="Fix&amp;Foxi" tvg-name="Fix&amp;Foxi" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Fix-und-Foxi.png" ,Fix & Foxi
 http://ipflix.click:8080/sq1x0qr86b/7777/23771
-#EXTINF:-1 group-title="TV" tvg-id="Home &amp; Garden TV" tvg-name="HOME &amp; GARDEN TV HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logoshgtv.png" ,HGTV
+#EXTINF:-1 group-title="TV" tvg-id="Home &amp; Garden TV" tvg-name="HOME &amp; GARDEN TV HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/hgtv.png" ,HGTV
 http://ipflix.click:8080/sq1x0qr86b/7777/688723
-#EXTINF:-1 group-title="TV" tvg-id="ServusHD.de" tvg-name="ServusTV HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosServus-TV-HD.png" ,ServusTV HD
+#EXTINF:-1 group-title="TV" tvg-id="ServusHD.de" tvg-name="ServusTV HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Servus-TV-HD.png" ,ServusTV HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6208
-#EXTINF:-1 group-title="TV" tvg-id="MDRThuringen.de" tvg-name="MDR Thüringen HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosMDR-HD.png" ,MDR Thüringen HD
+#EXTINF:-1 group-title="TV" tvg-id="MDRThuringen.de" tvg-name="MDR Thüringen HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/MDR-HD.png" ,MDR Thüringen HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6238
-#EXTINF:-1 group-title="TV" tvg-id="ARD-alpha.de" tvg-name="ARD-alpha HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosardalpha.png" ,ARD-alpha HD
+#EXTINF:-1 group-title="TV" tvg-id="ARD-alpha.de" tvg-name="ARD-alpha HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ardalpha.png" ,ARD-alpha HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13171
-#EXTINF:-1 group-title="TV" tvg-id="ARTE.de" tvg-name="arte HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosartehd.png" ,arte HD
+#EXTINF:-1 group-title="TV" tvg-id="ARTE.de" tvg-name="arte HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/artehd.png" ,arte HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5091
-#EXTINF:-1 group-title="TV" tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosweltderwunder.png" ,Welt der Wunder HD
+#EXTINF:-1 group-title="TV" tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/weltderwunder.png" ,Welt der Wunder HD
 http://ipflix.click:8080/sq1x0qr86b/7777/679838
-#EXTINF:-1 group-title="TV" tvg-id="ZDFneo.de" tvg-name="ZDF_neo HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosZDF-Neo-HD.png" ,ZDF_neo HD
+#EXTINF:-1 group-title="TV" tvg-id="ZDFneo.de" tvg-name="ZDF_neo HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ZDF-Neo-HD.png" ,ZDF_neo HD
 http://ipflix.click:8080/sq1x0qr86b/7777/17304
-#EXTINF:-1 group-title="TV" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosZDF-Info-HD.png" ,ZDFinfo HD
+#EXTINF:-1 group-title="TV" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ZDF-Info-HD.png" ,ZDFinfo HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9148
 #EXTINF:-1 group-title="TV" tvg-id="One.de" tvg-name="ONE HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" ,One HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9147
 #EXTINF:-1 group-title="OFFLINE" tvg-id="BILD HD" tvg-name="BILD HD TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png" ,BILD HD
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="EuroNewsDE.news" tvg-name="euronews" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosEuronews.png" ,Euronews
+#EXTINF:-1 group-title="TV" tvg-id="EuroNewsDE.news" tvg-name="euronews" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Euronews.png" ,Euronews
 http://ipflix.click:8080/sq1x0qr86b/7777/6248
 #EXTINF:-1 group-title="TV" tvg-id="WELT.de" tvg-name="WELT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" ,Welt HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6228
-#EXTINF:-1 group-title="TV" tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosntvhd.png" ,N-TV HD
+#EXTINF:-1 group-title="TV" tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/ntvhd.png" ,N-TV HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13149
-#EXTINF:-1 group-title="TV" tvg-id="N24Doku.de" tvg-name="N24 Doku HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosN24-Doku.png" ,N24 Doku
+#EXTINF:-1 group-title="TV" tvg-id="N24Doku.de" tvg-name="N24 Doku HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/N24-Doku.png" ,N24 Doku
 http://ipflix.click:8080/sq1x0qr86b/7777/679837
-#EXTINF:-1 group-title="TV" tvg-id="phoenix.de" tvg-name="phoenix HD" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logosphoenixhd.png" ,Phoenix HD
+#EXTINF:-1 group-title="TV" tvg-id="phoenix.de" tvg-name="phoenix HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/phoenixhd.png" ,Phoenix HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6221
-#EXTINF:-1 group-title="TV" tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://github.com/Barberus/LMJ-TV/tree/LMJ-TV/logostagesschau24hd.png" ,Tagesschau 24 HD
+#EXTINF:-1 group-title="TV" tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/tagesschau24hd.png" ,Tagesschau 24 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6163
 #EXTINF:-1 group-title="TV 1" tvg-id="ARD.de" tvg-name="Das Erste TV1" tvg-logo="http://127.0.0.1/" ,Das Erste SD
 http://ipflix.click:8080/sq1x0qr86b/7777/6256
