@@ -95,6 +95,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/687541
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
 #EXTINF:-1 group-title="TV" tvg-id="TNTFilm.de" tvg-name="WarnerTV Film FHD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-F.png" ,WarnerTV Film FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6156
+#EXTINF:-1 group-title="TV" tvg-id="TNTSerie.de" tvg-name="WarnerTV Serie SD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-S.png" ,WarnerTV Serie SD
+http://ipflix.click:8080/sq1x0qr86b/7777/13154
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTSerie.de" tvg-name="Warner TV Serie TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/WarnerTV_Serie_Logo_2021.svg.png" ,WarnerTV Serie HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6155
 #EXTINF:-1 group-title="TV" tvg-id="SkyKrimi.de" tvg-name="SkyKrimi.de" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Krimi.png" ,Sky Krimi VIP HD
@@ -603,7 +605,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683894
 http://ipflix.click:8080/sq1x0qr86b/7777/5084
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,WarnerTV Serie HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6155
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,WarnerTV Serie DE
+#EXTINF:-1 group-title="TV 1" tvg-id="TNTSerie.de" tvg-name="WarnerTV Serie SD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-S.png" ,WarnerTV Serie SD
 http://ipflix.click:8080/sq1x0qr86b/7777/13154
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Universal FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/5265
