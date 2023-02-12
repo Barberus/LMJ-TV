@@ -39,8 +39,10 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6219
 http://ipflix.click:8080/sq1x0qr86b/7777/13142
 #EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/voxhd.png" ,VOX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13553
-#EXTINF:-1 group-title="TV" tvg-id="VOXup.de" tvg-name="VOXup HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Voxup_HD_Logo_2019.svg.png" ,VOXup HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="VOXup.de" tvg-name="VOXup HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Voxup_HD_Logo_2019.svg.png" ,VOXup HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679836
+#EXTINF:-1 group-title="TV" tvg-id="VOXup.de" tvg-name="VOXup TV1" tvg-logo="http://127.0.0.1/" ,VOXup SD
+http://ipflix.click:8080/sq1x0qr86b/7777/679836
 #EXTINF:-1 group-title="TV" tvg-id="Kabel.de" tvg-name="Kabel eins HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/kabeleinshd.png" ,Kabel eins HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6242
 #EXTINF:-1 group-title="TV" tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Doku.png" ,Kabel Eins Doku HD
