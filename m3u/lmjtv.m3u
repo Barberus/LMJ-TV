@@ -29,13 +29,13 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13135
 http://ipflix.click:8080/sq1x0qr86b/7777/8235
 #EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/prosiebenmaxxhd.png" ,ProSieben MAXX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6218
-#EXTINF:-1 group-title="TV" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Maxx HD
+#EXTINF:-1 group-title="TV" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,ProSieben Maxx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683394
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenFun.de" tvg-name="PRO7 FUN HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Prosieben-Fun.png" ,ProSieben Fun HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenFun.de" tvg-name="PRO7 FUN HD TV2" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7F.png" ,ProSieben Fun HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13145
-#EXTINF:-1 group-title="TV" tvg-id="ProSiebenFun.de" tvg-name="ProSieben FUN FHD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Prosieben-Fun.png" ,ProSieben Fun FHD
+#EXTINF:-1 group-title="TV" tvg-id="ProSiebenFun.de" tvg-name="ProSieben FUN FHD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7F.png" ,ProSieben Fun FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6219
-#EXTINF:-1 group-title="TV" tvg-id="ProSiebenFun.de" tvg-name="ProSieben FUN SD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Fun SD
+#EXTINF:-1 group-title="TV" tvg-id="ProSiebenFun.de" tvg-name="ProSieben FUN SD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7F.png" ,ProSieben Fun SD
 http://ipflix.click:8080/sq1x0qr86b/7777/13142
 #EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="VOX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/voxhd.png" ,VOX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13553
