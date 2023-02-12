@@ -105,7 +105,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/688821
 http://ipflix.click:8080/sq1x0qr86b/7777/6204
 #EXTINF:-1 group-title="TV" tvg-id="Sky One HD" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-1-HD.png" ,Sky One HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9138
-#EXTINF:-1 group-title="TV" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky_Replay_DE_Logo_2021.svg.png" ,Sky Replay HD
+#EXTINF:-1 group-title="TV" tvg-id="Sky Replay" tvg-name="Sky Replay TV1" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" ,Sky Replay HD
 http://ipflix.click:8080/sq1x0qr86b/7777/23770
 #EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7F.png" ,Sky Cinema Fun
 http://ipflix.click:8080/sq1x0qr86b/7777/6190
@@ -601,9 +601,9 @@ http://ipflix.click:8080/sq1x0qr86b/7777/8198
 http://ipflix.click:8080/sq1x0qr86b/7777/9138
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,One HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9147
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Replay FHD DE
+#EXTINF:-1 group-title="TV 1" tvg-id="Sky Replay" tvg-name="Sky Replay TV1" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" ,Sky Replay FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/23770
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sky Replay HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Sky Replay" tvg-name="Sky Replay TV1" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" ,Sky Replay HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6245
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Syfy FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/7364
@@ -965,9 +965,9 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8198
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9138
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,One HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9147
-#EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Sky Replay FHD DE
+#EXTINF:-1 group-title="TV 2" tvg-id="Sky Replay" tvg-name="Sky Replay TV2" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" ,Sky Replay FHD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/23770
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV2" tvg-logo="http://127.0.0.1/" ,Sky Replay HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Sky Replay" tvg-name="Sky Replay TV2" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" ,Sky Replay HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6245
 #EXTINF:-1 group-title="TV 2" tvg-logo="http://127.0.0.1/" ,Syfy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7364
