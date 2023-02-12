@@ -27,7 +27,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6209
 http://ipflix.click:8080/sq1x0qr86b/7777/13135
 #EXTINF:-1 group-title="TV" tvg-id="Pro7.de" tvg-name="ProSieben HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/prosiebenhd.png" ,ProSieben HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8235
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/prosiebenmaxxhd.png" ,ProSieben MAXX HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,ProSieben MAXX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6218
 #EXTINF:-1 group-title="TV" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,ProSieben Maxx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683394
