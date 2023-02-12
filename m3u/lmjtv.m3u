@@ -349,13 +349,13 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6219
 http://ipflix.click:8080/sq1x0qr86b/7777/13145
 #EXTINF:-1 group-title="TV 1" tvg-id="ProSieben FUN HD" tvg-name="ProSieben FUN SD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Fun SD
 http://ipflix.click:8080/sq1x0qr86b/7777/13142
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX FHD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Maxx FHD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX FHD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,ProSieben Maxx FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6218
-#EXTINF:-1 group-title="TV 1" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://127.0.0.1/" ,ProSieben Maxx HD
+#EXTINF:-1 group-title="TV 1" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,ProSieben Maxx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683394
-#EXTINF:-1 group-title="TV 1" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://127.0.0.1/" ,Pro Sieben Maxx HD
+#EXTINF:-1 group-title="TV 1" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,Pro Sieben Maxx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13143
-#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSieben MAXX HD" tvg-name="ProSieben MAXX FHD TV1" tvg-logo="http://127.0.0.1/" ,Pro Sieben Maxx FHD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX FHD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/PRO7M.png" ,Pro Sieben Maxx FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/8234
 #EXTINF:-1 group-title="TV 1" tvg-id="SRFernsehen.de" tvg-name="SRF 1 SD TV1" tvg-logo="http://127.0.0.1/" ,SRF 1 SD
 http://ipflix.click:8080/sq1x0qr86b/7777/6170
