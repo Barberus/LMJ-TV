@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2023-02-12 02:00:14.134728 -->
+<!-- created on 2023-02-12 03:17:31.502924 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  TV SPIELFILM (DE)  CHANNEL LIST -->
@@ -402,6 +402,10 @@
     <channel id="RTLup">
         <display-name lang="ch">RTLup</display-name>
         <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/919_image_7_w90.png" />
+    </channel>
+    <channel id="VOXup.de">
+        <display-name lang="ch">VOXup</display-name>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/1612_image_7_w90.png" />
     </channel>
 
 <!--  TV SPIELFILM (DE)  PROGRAMME LIST -->
@@ -50001,6 +50005,1034 @@
         <rating>
             <value>12</value>
         </rating>
+    </programme>
+
+    <programme start="20230211232500 +0000" stop="20230212001500 +0000" channel="VOXup.de">
+        <title lang="ch">Chicago Fire</title>
+        <sub-title lang="ch">An allen Fronten</sub-title>
+        <desc lang="ch">(US) 2018 • S6 E21 • FSK 16 • IMDb:★★★★☆
+        Severide ist überrascht, als Renée Royce zurückkehrt. Casey hilft Chief Boden bei seiner neuesten Unternehmung, während Kidd eine Entscheidung bereut. Herrmann kann sich nicht mit Colannino über das Coaching eines Basketballteam einigen.</desc>
+        <credits>
+            <actor>Jesse Spencer</actor>
+            <actor>Taylor Kinney</actor>
+            <actor>Monica Raymund</actor>
+            <actor>Eamonn Walker</actor>
+            <actor>David Eigenberg</actor>
+            <actor>Joe Minoso</actor>
+            <actor>Yuri Sardarov</actor>
+            <actor>Christian Stolte</actor>
+            <actor>Kara Killmer</actor>
+            <actor>Miranda Mayo</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="ch">Adventure / Western / War</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p15391216eh10ab_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 20 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.4/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212001500 +0000" stop="20230212005500 +0000" channel="VOXup.de">
+        <title lang="ch">Chicago P.D.</title>
+        <sub-title lang="ch">Der Preis, den wir bezahlen</sub-title>
+        <desc lang="ch">(US) 2014 • S1 E7 • FSK 18
+        Justin, Hank Voights Sohn, ist einfach nicht auf den richtigen Weg zu bringen. Anstatt seiner Arbeit nachzugehen, verstrickt er sich immer mehr in kriminelle Machenschaften. Das bringt nicht nur ihn, sondern auch seinen Vater in Schwierigkeiten.</desc>
+        <credits>
+            <actor>Jason Beghe</actor>
+            <actor>Sophia Bush</actor>
+            <actor>Patrick Flueger</actor>
+            <actor>LaRoyce Hawkins</actor>
+            <actor>Archie Kao</actor>
+            <actor>Elias Koteas</actor>
+            <actor>Jon Seda</actor>
+            <actor>Jesse Soffer</actor>
+            <actor>Marina Squerciati</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10548641eh8ab_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+        <rating>
+            <value>18</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212005500 +0000" stop="20230212013500 +0000" channel="VOXup.de">
+        <title lang="ch">Chicago P.D.</title>
+        <sub-title lang="ch">Bring bewaffnete Freunde mit</sub-title>
+        <desc lang="ch">(US) 2014 • S1 E8 • FSK 18
+        Die Intelligence Unit ermittelt im Mafia-Milieu rund um Sergeant Voight. Sie werden zu einem Einsatz mit mehreren Toten gerufen, wo die Triaden professionelle Glücksspiel-Höhlen betreiben. Die Cermak-Bande fällt sofort unter Verdacht.</desc>
+        <credits>
+            <actor>Jason Beghe</actor>
+            <actor>Sophia Bush</actor>
+            <actor>Patrick Flueger</actor>
+            <actor>LaRoyce Hawkins</actor>
+            <actor>Archie Kao</actor>
+            <actor>Elias Koteas</actor>
+            <actor>Jon Seda</actor>
+            <actor>Jesse Soffer</actor>
+            <actor>Marina Squerciati</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10563277eh8ab_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+        <rating>
+            <value>18</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212013500 +0000" stop="20230212015000 +0000" channel="VOXup.de">
+        <title lang="ch">Dr House</title>
+        <sub-title lang="ch">Ziemlich allerbeste Freunde</sub-title>
+        <desc lang="ch">(US) 2012 • S8 E19 • FSK 16
+        Houses Team versucht, einem kranken Mädchen zu helfen, das einer doppelten Belastung ausgesetzt ist: In ihr schlummert eine tickende genetische Zeitbombe und ihre Familie droht daran zu zerbrechen. House besucht den krebskranken Wilson.</desc>
+        <credits>
+            <director>Hugh Laurie</director>
+            <actor>Hugh Laurie</actor>
+            <actor>Robert Sean Leonard</actor>
+            <actor>Omar Epps</actor>
+            <actor>Jesse Spencer</actor>
+            <actor>Peter Jacobson</actor>
+            <actor>Odette Annable</actor>
+            <actor>Charlyne Yi</actor>
+        </credits>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p9209458eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">7 . 18 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212015000 +0000" stop="20230212045000 +0000" channel="VOXup.de">
+        <title lang="ch">Teleshopping</title>
+        <desc lang="ch">(GB) 2002
+        Diese Sendung präsentiert die neuesten Produkte live im Fernsehen, sodass die Zuschauer ihre Wunschobjekte direkt bestellen können. Dabei reicht die Produktpalette von Staubsaugern über Badetücher bis hin zu Sportgeräten.</desc>
+        <date>2002</date>
+        <category lang="ch">Advertisement / Shopping</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p501178ih10aa_Iconic_w1920.png"/>
+        <country>GB</country>
+    </programme>
+
+    <programme start="20230212045000 +0000" stop="20230212054500 +0000" channel="VOXup.de">
+        <title lang="ch">McLeods Töchter</title>
+        <sub-title lang="ch">Trauerarbeit</sub-title>
+        <desc lang="ch">(AU) 2008 • S8 E7 • FSK 0
+        Stevie will nach Killarney ziehen und dort eine neue Rinderzucht aufbauen. Nur Moira gelingt es nach einiger Zeit, zu Stevie durchzudringen. Regan kehrt indes auf die Farm zurück und erfährt von dem Kuss zwischen Marcus und Grace.</desc>
+        <credits>
+            <actor>Lisa Chappell</actor>
+            <actor>Bridie Carter</actor>
+            <actor>Rachael Carpani</actor>
+            <actor>Sonia Todd</actor>
+            <actor>Jessica Napier</actor>
+            <actor>Simmone Mackinnon</actor>
+            <actor>Michala Banas</actor>
+        </credits>
+        <date>2008</date>
+        <category lang="ch">Movie / Drama</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p2586670eh10ab_Iconic_w1920.png"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 6 . </episode-num>
+        <rating>
+            <value>0</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212054500 +0000" stop="20230212063500 +0000" channel="VOXup.de">
+        <title lang="ch">McLeods Töchter</title>
+        <sub-title lang="ch">Der falsche Koffer</sub-title>
+        <desc lang="ch">(AU) 2008 • S8 E8 • FSK 0
+        Tayler ist total vernarrt in Stevies kleinen Sohn Xander und vergöttert ihn regelrecht. Patrick bekommt langsam Angst, ob Tayler eventuell selbst bald Mutter werden möchte. Indes tauchen auf Drover's Run wieder einmal unerwartete Gäste auf.</desc>
+        <credits>
+            <actor>Lisa Chappell</actor>
+            <actor>Bridie Carter</actor>
+            <actor>Rachael Carpani</actor>
+            <actor>Sonia Todd</actor>
+            <actor>Jessica Napier</actor>
+            <actor>Simmone Mackinnon</actor>
+            <actor>Michala Banas</actor>
+        </credits>
+        <date>2008</date>
+        <category lang="ch">Movie / Drama</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p2586671eh10ab_Iconic_w1920.png"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 7 . </episode-num>
+        <rating>
+            <value>0</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212063500 +0000" stop="20230212072000 +0000" channel="VOXup.de">
+        <title lang="ch">McLeods Töchter</title>
+        <sub-title lang="ch">Verdammt</sub-title>
+        <desc lang="ch">(AU) 2008 • S8 E9 • FSK 0
+        Als die Regierung ihre Pläne veröffentlicht, einen Staudamm zu bauen, der sämtliche Farmen in der Nachbarschaft von der Wasserzufuhr abschneiden würde, gehen die Bürger auf die Barrikaden. Patrick möchte bei Marcus als Vorarbeiter anfangen.</desc>
+        <credits>
+            <actor>Lisa Chappell</actor>
+            <actor>Bridie Carter</actor>
+            <actor>Rachael Carpani</actor>
+            <actor>Sonia Todd</actor>
+            <actor>Jessica Napier</actor>
+            <actor>Simmone Mackinnon</actor>
+            <actor>Michala Banas</actor>
+        </credits>
+        <date>2008</date>
+        <category lang="ch">Movie / Drama</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p3494587eh10ab_Iconic_w1920.png"/>
+        <country>AU</country>
+        <episode-num system="xmltv_ns">7 . 8 . </episode-num>
+        <rating>
+            <value>0</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212072000 +0000" stop="20230212090500 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Der Schwarzbau</sub-title>
+        <desc lang="ch">(DE) 2012 • FSK 12
+        Pro Folge ein Streitfall vorgestellt, vom Baupfusch über Hausfriedensbruch bis zu Erbstreitigkeiten.</desc>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p9837117eh10ae_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212090500 +0000" stop="20230212100000 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Die herrische Tyrannin</sub-title>
+        <desc lang="ch">(DE) 2013 • FSK 12
+        Der russische Ingenieur Alexander Römer zieht der Liebe wegen nach Deutschland. Seine zukünftige Ehefrau entpuppt sich jedoch als herrische Tyrannin. Als sie sogar handgreiflich wird, will Alexander juristisch gegen sie vorgehen.</desc>
+        <credits>
+            <director>Uwe Stemmler</director>
+        </credits>
+        <date>2013</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11586061eh10aa_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212100000 +0000" stop="20230212105000 +0000" channel="VOXup.de">
+        <title lang="ch">Shopping Queen</title>
+        <sub-title lang="ch">Motto in Dresden/Berlin: Doppelte Hottchen - Kreiert den perfekten Zwillingslook!, Tag 1: Carmen &amp; Claudia</sub-title>
+        <desc lang="ch">(DE) 2017 • FSK 12
+        Die Zwillinge Carmen und Claudia treten an, um zusammen das perfekte Outfit zu finden.</desc>
+        <date>2017</date>
+        <category lang="ch">Leisure hobbies</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p13894621eh10af_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212105000 +0000" stop="20230212114500 +0000" channel="VOXup.de">
+        <title lang="ch">Shopping Queen</title>
+        <sub-title lang="ch">Motto in Dresden/Berlin: Doppelte Hottchen - Kreiert den perfekten Zwillingslook!, Tag 2: Celin &amp; Darja</sub-title>
+        <desc lang="ch">(DE) 2017 • FSK 12
+        Fünf Zwillingspärchen treten gegeneinander an, um den besten Stil zu finden. Am Anfang der jeweiligen Woche werden die Aufgabe und das Budget bekanntgegeben. Jedes Teilnehmerpaar hat vier Stunden Zeit. Heute sind Celin und Darja an der Reihe.</desc>
+        <date>2017</date>
+        <category lang="ch">Leisure hobbies</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p13894626eh8ac_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212114500 +0000" stop="20230212123500 +0000" channel="VOXup.de">
+        <title lang="ch">Shopping Queen</title>
+        <sub-title lang="ch">Motto in Dresden/Berlin: Doppelte Hottchen - Kreiert den perfekten Zwillingslook!, Tag 3: Manuela &amp; Cornelia</sub-title>
+        <desc lang="ch">(DE) 2017 • FSK 12
+        Fünf Zwillingspärchen treten gegeneinander an, um den besten Stil zu finden. Am Anfang der jeweiligen Woche werden die Aufgabe und das Budget bekanntgegeben. Jedes Teilnehmerpaar hat vier Stunden Zeit. Heute sind Manuela und Cornelia an der Reihe.</desc>
+        <date>2017</date>
+        <category lang="ch">Leisure hobbies</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p13894631eh10af_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212123500 +0000" stop="20230212133500 +0000" channel="VOXup.de">
+        <title lang="ch">Shopping Queen</title>
+        <sub-title lang="ch">Motto in Dresden/Berlin: Doppelte Hottchen - Kreiert den perfekten Zwillingslook!, Tag 4: Nicole &amp; Nadine</sub-title>
+        <desc lang="ch">(DE) 2017 • FSK 12
+        Fünf Zwillingspärchen treten gegeneinander an, um den besten Stil zu finden. Am Anfang der jeweiligen Woche werden die Aufgabe und das Budget bekanntgegeben. Jedes Teilnehmerpaar hat vier Stunden Zeit. Heute sind Nicole und Nadine an der Reihe.</desc>
+        <date>2017</date>
+        <category lang="ch">Leisure hobbies</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p13894636eh8aa_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212133500 +0000" stop="20230212153000 +0000" channel="VOXup.de">
+        <title lang="ch">Für Immer In Meinem Herzen</title>
+        <desc lang="ch">(US) 2019 • FSK 0
+        Jenna und Charlie verlieben sich in Irland ineinander, doch sie haben verschiedene Träume, die sie auseinander treiben. Fünf Jahre später führt ihr Job Jenna erneut auf die grüne Insel, und sie trifft unerwartet Charlie wieder.</desc>
+        <credits>
+            <director>Steven Monroe</director>
+            <actor>Merritt Patterson</actor>
+            <actor>Jack Turner</actor>
+            <actor>Emmet Byrne</actor>
+            <actor>Róisín O'Donovan</actor>
+            <actor>David Herlihy</actor>
+            <actor>Blake Berris</actor>
+            <actor>Ingrid Craigie</actor>
+            <actor>John Olohan</actor>
+            <actor>Clinton Liberty</actor>
+            <actor>Catherine Byrne</actor>
+            <actor>Kathleen Warner Yeates</actor>
+            <actor>Lauren Farrell</actor>
+            <actor>Ally Chiarain</actor>
+            <actor>Chris McHallem</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="ch">Romance</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p17227909bdh8aa_Backdrop_w1920.png"/>
+        <country>US</country>
+        <rating>
+            <value>0</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212153000 +0000" stop="20230212160000 +0000" channel="VOXup.de">
+        <title lang="ch">Schneller als die Polizei erlaubt</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zusammen mit der Polizei und modernster Technik werden Autobahnraser geschnappt. Die PKW und Motorräder der Polizei sind mit Messgeräten ausgerüstet und können so die Durchschnittsgeschwindigkeit eines Fahrzeuges bestimmen.</desc>
+        <date>2008</date>
+        <category lang="ch">Magazines / Reports / Documentary</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10844024ih10an_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212160000 +0000" stop="20230212163000 +0000" channel="VOXup.de">
+        <title lang="ch">Schneller als die Polizei erlaubt</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zusammen mit der Polizei und modernster Technik werden Autobahnraser geschnappt. Die PKW und Motorräder der Polizei sind mit Messgeräten ausgerüstet und können so die Durchschnittsgeschwindigkeit eines Fahrzeuges bestimmen.</desc>
+        <date>2008</date>
+        <category lang="ch">Magazines / Reports / Documentary</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10844024ih10an_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212163000 +0000" stop="20230212170000 +0000" channel="VOXup.de">
+        <title lang="ch">Schneller als die Polizei erlaubt</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zusammen mit der Polizei und modernster Technik werden Autobahnraser geschnappt. Die PKW und Motorräder der Polizei sind mit Messgeräten ausgerüstet und können so die Durchschnittsgeschwindigkeit eines Fahrzeuges bestimmen.</desc>
+        <date>2008</date>
+        <category lang="ch">Magazines / Reports / Documentary</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10844024ih10an_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212170000 +0000" stop="20230212173000 +0000" channel="VOXup.de">
+        <title lang="ch">Schneller als die Polizei erlaubt</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zusammen mit der Polizei und modernster Technik werden Autobahnraser geschnappt. Die PKW und Motorräder der Polizei sind mit Messgeräten ausgerüstet und können so die Durchschnittsgeschwindigkeit eines Fahrzeuges bestimmen.</desc>
+        <date>2008</date>
+        <category lang="ch">Magazines / Reports / Documentary</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10844024ih10an_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212173000 +0000" stop="20230212182000 +0000" channel="VOXup.de">
+        <title lang="ch">Without a Trace - Spurlos verschwunden</title>
+        <sub-title lang="ch">Chamäleon</sub-title>
+        <desc lang="ch">(US) 2009 • S7 E15 • FSK 6 • IMDb:★★★★☆
+        Der Student Jay Lester wird nach einer Party von seinem Freund als vermisst gemeldet. Jack und sein Team nehmen die Ermittlungen auf und finden dabei heraus, dass Jay in Wirklichkeit John heisst und gar kein Student ist.</desc>
+        <credits>
+            <director>Eric Close</director>
+            <actor>Anthony LaPaglia</actor>
+            <actor>Poppy Montgomery</actor>
+            <actor>Marianne Jean-Baptiste</actor>
+            <actor>Enrique Murciano</actor>
+            <actor>Eric Close</actor>
+            <actor>Roselyn Sanchez</actor>
+        </credits>
+        <date>2009</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p2723227eh8ab_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">6 . 14 . </episode-num>
+        <rating>
+            <value>6</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.8/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212182000 +0000" stop="20230212191500 +0000" channel="VOXup.de">
+        <title lang="ch">Without a Trace - Spurlos verschwunden</title>
+        <sub-title lang="ch">Leichen im Keller</sub-title>
+        <desc lang="ch">(US) 2009 • S7 E16 • FSK 12
+        Während eines Feuerarlarms in einem Sportzentrum verschwindet eine junge Mutter mit ihrem Kind. Das ganze sieht nach einer Entführung aus, doch Jack und sein Team machen eine überraschende Entdeckung.</desc>
+        <credits>
+            <director>Diego Gutierrez</director>
+            <actor>Anthony LaPaglia</actor>
+            <actor>Poppy Montgomery</actor>
+            <actor>Marianne Jean-Baptiste</actor>
+            <actor>Enrique Murciano</actor>
+            <actor>Eric Close</actor>
+            <actor>Roselyn Sanchez</actor>
+        </credits>
+        <date>2009</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p2723228eh8ab_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">6 . 15 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212191500 +0000" stop="20230212200500 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Mein Freund, der Mörder</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E6 • FSK 12 • IMDb:★★★★☆
+        Ein Journalist beauftragt Magnum, seine Quelle aufzuspüren, nachdem die Kommunikation zum Erliegen gekommen ist. Higgins erhält einen neuen Auftrag vom MI-6. TC fragt sich, was der wahre Grund dafür ist, dass Ricks alter Freund auf die Insel kommt.</desc>
+        <credits>
+            <director>Claudia Yarmy</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p20886162eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 5 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.0/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212200500 +0000" stop="20230212210000 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Alter schützt vor Morden nicht</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E7 • FSK 12 • IMDb:★★★★☆
+        Als Rick gebeten wird, bei einer bundesstaatlichen Untersuchung von Robbie zu helfen, beginnt Magnum mit seinen eigenen Ermittlungen. Higgins untersucht in der Zwischenzeit das Verschwinden der Ersparnisse eines Altersheims.</desc>
+        <credits>
+            <director>Ruba Nadda</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p20910065eh10af_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 6 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.0/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212210000 +0000" stop="20230212215500 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Aufgeflogen!</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E8 • FSK 12
+        Magnum folgt Higgins, um herauszufinden, was sie versteckt, da sie heimlich damit beauftragt ist, eine Gruppe zu infiltrieren, die droht, den MI-6 auszuschalten. Rick kämpft, als eine Explosion jemanden tötet, der ihm wichtig ist.</desc>
+        <credits>
+            <director>Lisa Robinson</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+            <actor>Christopher Thornton</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p21017930eh10ad_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230212215500 +0000" stop="20230212223500 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Mein Freund, der Mörder</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E6 • FSK 12 • IMDb:★★★★☆
+        Ein Journalist beauftragt Magnum, seine Quelle aufzuspüren, nachdem die Kommunikation zum Erliegen gekommen ist. Higgins erhält einen neuen Auftrag vom MI-6. TC fragt sich, was der wahre Grund dafür ist, dass Ricks alter Freund auf die Insel kommt.</desc>
+        <credits>
+            <director>Claudia Yarmy</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p20886162eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 5 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.0/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212223500 +0000" stop="20230212233500 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Alter schützt vor Morden nicht</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E7 • FSK 12 • IMDb:★★★★☆
+        Als Rick gebeten wird, bei einer bundesstaatlichen Untersuchung von Robbie zu helfen, beginnt Magnum mit seinen eigenen Ermittlungen. Higgins untersucht in der Zwischenzeit das Verschwinden der Ersparnisse eines Altersheims.</desc>
+        <credits>
+            <director>Ruba Nadda</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p20910065eh10af_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 6 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.0/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230212233500 +0000" stop="20230213002500 +0000" channel="VOXup.de">
+        <title lang="ch">Magnum P.I.</title>
+        <sub-title lang="ch">Aufgeflogen!</sub-title>
+        <desc lang="ch">(US) 2021 • S4 E8 • FSK 12
+        Magnum folgt Higgins, um herauszufinden, was sie versteckt, da sie heimlich damit beauftragt ist, eine Gruppe zu infiltrieren, die droht, den MI-6 auszuschalten. Rick kämpft, als eine Explosion jemanden tötet, der ihm wichtig ist.</desc>
+        <credits>
+            <director>Lisa Robinson</director>
+            <actor>Jay Hernandez</actor>
+            <actor>Perdita Weeks</actor>
+            <actor>Zachary Knighton</actor>
+            <actor>Stephen Hill</actor>
+            <actor>Tim Kang</actor>
+            <actor>Amy Hill</actor>
+            <actor>Christopher Thornton</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p21017930eh10ad_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213002500 +0000" stop="20230213004500 +0000" channel="VOXup.de">
+        <title lang="ch">Schneller als die Polizei erlaubt</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zusammen mit der Polizei und modernster Technik werden Autobahnraser geschnappt. Die PKW und Motorräder der Polizei sind mit Messgeräten ausgerüstet und können so die Durchschnittsgeschwindigkeit eines Fahrzeuges bestimmen.</desc>
+        <date>2008</date>
+        <category lang="ch">Magazines / Reports / Documentary</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10844024ih10an_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213004500 +0000" stop="20230213035000 +0000" channel="VOXup.de">
+        <title lang="ch">Teleshopping</title>
+        <desc lang="ch">(GB) 2002
+        Diese Sendung präsentiert die neuesten Produkte live im Fernsehen, sodass die Zuschauer ihre Wunschobjekte direkt bestellen können. Dabei reicht die Produktpalette von Staubsaugern über Badetücher bis hin zu Sportgeräten.</desc>
+        <date>2002</date>
+        <category lang="ch">Advertisement / Shopping</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p501178ih10aa_Iconic_w1920.png"/>
+        <country>GB</country>
+    </programme>
+
+    <programme start="20230213035000 +0000" stop="20230213044000 +0000" channel="VOXup.de">
+        <title lang="ch">Hilf mir doch!</title>
+        <sub-title lang="ch">Die Frau im Spiegel</sub-title>
+        <desc lang="ch">(DE) 2012 • FSK 12
+        Hanna macht für ihre Hochzeit eine radikale Hungerkur. Aus dem anfänglichen Abspecken wird jedoch eine ernstzunehmende Essstörung. Hanna treibt immer weiter in die Isolation und keiner erkennt, dass sie alleine nicht heraus kommt.</desc>
+        <credits>
+            <director>Ludger Hoffmann</director>
+        </credits>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11366273eh10ab_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213044000 +0000" stop="20230213054000 +0000" channel="VOXup.de">
+        <title lang="ch">Hilf mir doch!</title>
+        <sub-title lang="ch">Der Superklau</sub-title>
+        <desc lang="ch">(DE) 2013 • FSK 12
+        Mona leidet an Kleptomanie. Jedes mal, wenn sie ein Geschäft betritt, hat sie das Verlangen, etwas zu klauen. Sie möchte die Krankheit vertuschen und bringt somit sich und ihren 16-jährigen Sohn in ernsthafte Schwierigkeiten.</desc>
+        <credits>
+            <director>Ludger Hoffmann</director>
+        </credits>
+        <date>2013</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11448494eh10ab_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213054000 +0000" stop="20230213063500 +0000" channel="VOXup.de">
+        <title lang="ch">Hilf mir doch!</title>
+        <sub-title lang="ch">Das getunte Kind</sub-title>
+        <desc lang="ch">(DE) 2013 • FSK 12
+        Als Renate erfährt, dass ihre Tochter eine Klasse überspringen könnte, hält sie sie für hochbegabt. Sie fixiert sich nur noch auf sie, alles andere wird ignoriert. Dass darunter die Ehe, der Sohn und sogar der Job leidet, ist zweitrangig.</desc>
+        <credits>
+            <director>Ludger Hoffmann</director>
+        </credits>
+        <date>2013</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11448487eh10aa_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213063500 +0000" stop="20230213072000 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Informant wider Willen</sub-title>
+        <desc lang="ch">(DE) 2012 • FSK 12
+        Silvia arbeitet für ein Call-Center. Im Internet verdächtigt sie ihr Unternehmen des Betruges. Ihr Arbeitgeber kündigt ihr daraufhin fristlos. Doch Silvia klagt sich wieder ein, weil sie schwanger ist und unter dem Mutterschutz steht.</desc>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11053372eh10aa_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213072000 +0000" stop="20230213082000 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Nichts ist, wie es scheint</sub-title>
+        <desc lang="ch">(DE) 2013 • FSK 12
+        Thorsten versucht, seine Ex-Frau Andrea und ihren neuen Freund Dirk auseinanderzubringen. Andrea ist fassungslos, denn eigentlich war sie es, die von Thorsten betrogen wurde. Daher kann sie sich seine Rachelust nicht erklären.</desc>
+        <date>2013</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11219905eh10aa_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213082000 +0000" stop="20230213091500 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Vom Kredithai gejagt</sub-title>
+        <desc lang="ch">(DE) 2013 • FSK 12
+        Die einjährige Marissa, die Tocher von Theo und Sabine Lammert, ist an Leukämie erkrankt. Jedoch will die Krankenkasse die Operation nicht bezahlen. Deswegen nimmt Theo einen Kredit mit hohen Zinsen auf, den er schnell nicht mehr bedienen kann.</desc>
+        <credits>
+            <director>Uwe Stemmler</director>
+        </credits>
+        <date>2013</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11625981eh10ac_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213091500 +0000" stop="20230213100500 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Schlüsselerlebnis</sub-title>
+        <desc lang="ch">(DE) 2012 • FSK 12
+        Klaus Hartmann muss sein Elternhaus verkaufen, um aus einer schwierigen finanziellen Situation zu kommen. Er vertraut dem neuen Mieter Randolf Prinz und lässt ihn vor der Überweisung der Kaufsumme einziehen. Zu spät bemerkt er seinen schweren Fehler.</desc>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11347871eh11ad_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213100500 +0000" stop="20230213110000 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Unterhalt aus Schwarzarbeit</sub-title>
+        <desc lang="ch">(DE) 2011 • FSK 12
+        Vera Kunzes Ex-Mann zahlt keinen Unterhalt für die gemeinsamen Kinder, weil er arbeitslos ist. Vera glaubt aber, dass er mit Schwarzarbeit genug Geld verdient und sie, die Kinder und den Staat hintergeht.</desc>
+        <credits>
+            <director>Uwe Stemmler</director>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p13410941eh10ad_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213110000 +0000" stop="20230213124500 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Berufstätige Mutter wird gemobbt</sub-title>
+        <desc lang="ch">(DE) 2011 • FSK 12
+        Nach 12 Jahren Kinderpause beginnt Sabine Heuken einen neuen Job. Jedoch wird sie von ihrer Chefin gemobbt und fühlt sich drangsaliert. Kann das Verhältnis zwischen Angestellter und Chefin noch geklärt werden oder muss Sabine einen neuen Job suchen?</desc>
+        <credits>
+            <director>Uwe Stemmler</director>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11863274eh10ab_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213124500 +0000" stop="20230213134500 +0000" channel="VOXup.de">
+        <title lang="ch">Verklag mich doch!</title>
+        <sub-title lang="ch">Du lässt mir keine Wahl</sub-title>
+        <desc lang="ch">(DE) 2012 • FSK 12
+        Boutique-Inhaberin Tina Marsdorf hat Sorgen wegen ihrer jugendlichen Tochter. Diese macht ihr nur Probleme, schwänzt die Schule und stiehlt sogar. Doch Tina glaubt an das Gute in ihrer Tochter und will sie nicht aufgeben.</desc>
+        <date>2012</date>
+        <category lang="ch">Soap / Melodrama / Folkloric</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p11039423eh10ad_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213134500 +0000" stop="20230213144000 +0000" channel="VOXup.de">
+        <title lang="ch">Mieten, kaufen, wohnen</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Viele sind es leid, Woche für Woche den Immobilienteil der Zeitung zu studieren. Die Sendung begleitet Makler, die alles tun, um das perfekte Objekt für ihren Klienten zu finden.</desc>
+        <date>2008</date>
+        <category lang="ch">Handicraft</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10842138ih10ab_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213144000 +0000" stop="20230213154500 +0000" channel="VOXup.de">
+        <title lang="ch">Mieten, kaufen, wohnen</title>
+        <desc lang="ch">(DE) 2008 • FSK 12
+        Zu den wichtigsten Dingen im Leben zählen die eigenen vier Wände. Viele sind es leid, Woche für Woche den Immobilienteil der Zeitung zu studieren. Die Sendung begleitet Makler, die alles tun, um das perfekte Objekt für ihren Klienten zu finden.</desc>
+        <date>2008</date>
+        <category lang="ch">Handicraft</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p10842138ih10ab_Iconic_w1920.png"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213154500 +0000" stop="20230213164000 +0000" channel="VOXup.de">
+        <title lang="ch">Law &amp; Order</title>
+        <sub-title lang="ch">Redaktioneller Mord</sub-title>
+        <desc lang="ch">(US) 2006 • S17 E5 • FSK 16 • IMDb:★★★★☆
+        Nachdem Carl Mullally im Fernsehen als pädophil geoutet wurde, wurde er danach ermordet aufgefunden. Weder sein Nachbar, noch seine schtjährige Tochter wollen etwas von dem Mord mitbekommen haben.</desc>
+        <credits>
+            <actor>Jesse Martin</actor>
+            <actor>Milena Govich</actor>
+            <actor>S. Merkerson</actor>
+            <actor>Sam Waterston</actor>
+            <actor>Alana De La Garza</actor>
+            <actor>Fred Thompson</actor>
+        </credits>
+        <date>2006</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p1289943eh10ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">16 . 4 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.4/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213164000 +0000" stop="20230213173500 +0000" channel="VOXup.de">
+        <title lang="ch">Law &amp; Order</title>
+        <sub-title lang="ch">Profitgeier</sub-title>
+        <desc lang="ch">(US) 2006 • S17 E6 • FSK 16 • IMDb:★★★★☆
+        Der Firmenvorsitzende Gary Howard wird auf der Geburtstagsparty seiner Tochter ermordet. Die Spuren führen zu den beiden Ex-Soldaten Alan Crockett und Kenny Ellis. Die beiden gestehen, dass sie Gary erpresst haben.</desc>
+        <credits>
+            <actor>Jesse Martin</actor>
+            <actor>Milena Govich</actor>
+            <actor>S. Merkerson</actor>
+            <actor>Sam Waterston</actor>
+            <actor>Fred Thompson</actor>
+            <actor>Alana De La Garza</actor>
+        </credits>
+        <date>2006</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p1289944eh10ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">16 . 5 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.6/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213173500 +0000" stop="20230213182000 +0000" channel="VOXup.de">
+        <title lang="ch">Leverage</title>
+        <sub-title lang="ch">Lebendig begraben</sub-title>
+        <desc lang="ch">(US) 2011 • S4 E7 • FSK 12
+        In dem Bestattungsunternehmen von Darlene Wickett geht es nicht mit rechten Dingen zu: Der verstorbene Vater von Ann und Roger Newton wurde von Darlene um viel Geld gebracht. Doch nun behauptet sie, ihn gar nicht zu kennen.</desc>
+        <credits>
+            <director>John Harrison</director>
+            <actor>Timothy Hutton</actor>
+            <actor>Aldis Hodge</actor>
+            <actor>Christian Kane</actor>
+            <actor>Beth Riesgraf</actor>
+            <actor>Gina Bellman</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8741677eh10ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 6 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213182000 +0000" stop="20230213191500 +0000" channel="VOXup.de">
+        <title lang="ch">Leverage</title>
+        <sub-title lang="ch">Die Schoko-Falle</sub-title>
+        <desc lang="ch">(US) 2011 • S4 E8 • FSK 12
+        Eine Förderschule steht kurz vor dem finanziellen Ruin. Sheila Emmers hat dem Aktienhai Greg Shermann vertraut - ein Fehler. Hardison wird in Shermanns Firma eingeschleust. Dabei stellt sich bald heraus, dass er in Hackerkreisen zu bekannt ist.</desc>
+        <credits>
+            <director>Arvin Brown</director>
+            <actor>Timothy Hutton</actor>
+            <actor>Aldis Hodge</actor>
+            <actor>Christian Kane</actor>
+            <actor>Beth Riesgraf</actor>
+            <actor>Gina Bellman</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8741678eh10ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">3 . 7 . </episode-num>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20230213191500 +0000" stop="20230213201000 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Schatten des Vaters</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E9 • FSK 16 • IMDb:★★★★☆
+        Am Hafen wird eine tote Frau gefunden, die mit einem Eispickel erstochen wurde. Das ist das Markenzeichen des skrupellosen Mafiabosses Doyle, was allerdings schnell ein Problem wird, denn Maura hat eine ganz besondere Verbindung zu ihm.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8755475eh8ad_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 8 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.9/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213201000 +0000" stop="20230213210500 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Nemesis</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E10 • FSK 16 • IMDb:★★★★☆
+        Ein Häftling wird plötzlich ermordet. Maura und Jane werden zur Gefängnisanstalt gerufen.. Dort blickt Jane Charles Hoyt.in die Augen, ihrem schlimmsten Albtraum. Bei der offenbar letzten Begegnung berichtet er Jane von früheren Morden.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8765408eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 9 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.2/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213210500 +0000" stop="20230213220500 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Stummer Zeuge</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E11 • FSK 16 • IMDb:★★★★☆
+        Bill O'Reilly übt harte Kritik an der Polizei und ihrer Arbeitsweise. Ein Zeuge will aussagen, nachdem ein Aktivist erschossen worden ist. Gemeinsam mit einer Anwältin bereitet Maura den Jungen auf eine Aussage vor. Doch dann wird auch er erschossen.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8850708eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 10 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.7/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213220500 +0000" stop="20230213230500 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Schatten des Vaters</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E9 • FSK 16 • IMDb:★★★★☆
+        Am Hafen wird eine tote Frau gefunden, die mit einem Eispickel erstochen wurde. Das ist das Markenzeichen des skrupellosen Mafiabosses Doyle, was allerdings schnell ein Problem wird, denn Maura hat eine ganz besondere Verbindung zu ihm.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8755475eh8ad_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 8 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.9/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213230500 +0000" stop="20230213235000 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Nemesis</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E10 • FSK 16 • IMDb:★★★★☆
+        Ein Häftling wird plötzlich ermordet. Maura und Jane werden zur Gefängnisanstalt gerufen.. Dort blickt Jane Charles Hoyt.in die Augen, ihrem schlimmsten Albtraum. Bei der offenbar letzten Begegnung berichtet er Jane von früheren Morden.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8765408eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 9 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>8.2/10</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20230213235000 +0000" stop="20230214004500 +0000" channel="VOXup.de">
+        <title lang="ch">Rizzoli &amp; Isles</title>
+        <sub-title lang="ch">Stummer Zeuge</sub-title>
+        <desc lang="ch">(US) 2011 • S2 E11 • FSK 16 • IMDb:★★★★☆
+        Bill O'Reilly übt harte Kritik an der Polizei und ihrer Arbeitsweise. Ein Zeuge will aussagen, nachdem ein Aktivist erschossen worden ist. Gemeinsam mit einer Anwältin bereitet Maura den Jungen auf eine Aussage vor. Doch dann wird auch er erschossen.</desc>
+        <credits>
+            <actor>Angie Harmon</actor>
+            <actor>Sasha Alexander</actor>
+            <actor>Lorraine Bracco</actor>
+            <actor>Lee Young</actor>
+            <actor>Bruce McGill</actor>
+            <actor>Jordan Bridges</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="ch">Detective / Thriller</category>
+        <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1612/p8850708eh8ac_Iconic_w1920.png"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">1 . 10 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
+        <star-rating system="IMDb">
+            <value>7.7/10</value>
+        </star-rating>
     </programme>
 
 </tv>
