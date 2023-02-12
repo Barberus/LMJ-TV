@@ -1,0 +1,15 @@
+<settings version="2">
+    <setting id="type">2</setting>
+    <setting id="path">plugin://plugin.googledrive/?content_type=image&amp;item_driveid=15816834811946873728&amp;item_id=album-AKQyfuh7W-ohT_UWIS6K1oHAnVUHYtucI4MPrlAIw7QOni5uOYJsaZUSrfLM8lEZhzwXnYcZJ9Hh&amp;driveid=15816834811946873728&amp;action=_list_folder</setting>
+    <setting id="time" default="true">10</setting>
+    <setting id="level" default="true">100</setting>
+    <setting id="effect">1</setting>
+    <setting id="random" default="true">true</setting>
+    <setting id="resume" default="true">false</setting>
+    <setting id="background" default="true">true</setting>
+    <setting id="scale" default="true">false</setting>
+    <setting id="label" default="true">0</setting>
+    <setting id="date" default="true">false</setting>
+    <setting id="iptc" default="true">false</setting>
+    <setting id="music" default="true">false</setting>
+</settings>

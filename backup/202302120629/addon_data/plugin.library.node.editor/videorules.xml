@@ -1,0 +1,6 @@
+<rules>
+	<node name="/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/library/video/tvshows" />
+	<node name="/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/library/video/movies" />
+	<node name="/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/library/video/musicvideos" />
+	<node name="/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/library/video/tvshows/jack" />
+</rules>

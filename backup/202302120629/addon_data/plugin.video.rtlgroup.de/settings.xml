@@ -1,0 +1,46 @@
+<settings version="2">
+    <setting id="Notify_Select">2</setting>
+    <setting id="zz_dummy_01" default="true" />
+    <setting id="zz_dummy_02" default="true" />
+    <setting id="zz_dummy_03" default="true" />
+    <setting id="zz_dummy_04" default="true" />
+    <setting id="zz_dummy_05" default="true" />
+    <setting id="zz_dummy_06" default="true" />
+    <setting id="username">markusdittrich456@gmail.com</setting>
+    <setting id="password">(/)Lmj*26#12(\)</setting>
+    <setting id="zz_dummy_07" default="true" />
+    <setting id="zz_dummy_08" default="true" />
+    <setting id="license_ending">21.02.23 • 10:00</setting>
+    <setting id="authtoken">eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjEwNjQ2NDk5OTEsInBlcm1pc3Npb25zIjp7InBvcnRhYmlsaXR5Ijp0cnVlLCJ2b2RIcSI6dHJ1ZSwibGl2ZUhxIjp0cnVlLCJwbGF5b3V0QXBwcyI6dHJ1ZSwibGl2ZUhkIjp0cnVlLCJ2b2RIZCI6dHJ1ZSwibGl2ZUZyZWUiOnRydWUsImxpdmVQYXkiOnRydWUsInZvZEZyZWUiOnRydWUsInZvZFByZW1pdW0iOnRydWUsInNpbmdsZVByZVJvbGwiOnRydWUsIm5vUG9zdFJvbGxzIjp0cnVlLCJub0NoYXB0ZXJzIjp0cnVlLCJhcmNoaXZlQW5kUHJlIjp0cnVlLCJvcmlnaW5hbFZlcnNpb24iOmZhbHNlLCJjb250ZW50RG93bmxvYWQiOmZhbHNlLCJhZEZyZWUiOmZhbHNlLCJmYWxsYmFjayI6ZmFsc2V9LCJwZXJtaXNzaW9uc1YyIjp7ImdlbmVyYWwiOnsicG9ydGFiaWxpdHkiOnRydWUsImFscGhhViI6ZmFsc2UsIm1heEFtb3VudE9mUHJvZmlsZXMiOjMsIm1heE1wYVByb2ZpbGVzIjoxLCJzZXRQaW4iOnRydWUsIm1heERvd25sb2FkRGV2aWNlcyI6MH0sInN0cmVhbWluZyI6eyJ2b2RBY2Nlc3NUb0ZyZWVDb250ZW50Ijp0cnVlLCJ2b2RBY2Nlc3NUb1BheUNvbnRlbnQiOnRydWUsImxpdmVzdHJlYW1BY2Nlc3NUb0ZyZWVUdiI6dHJ1ZSwibGl2ZXN0cmVhbUFjY2Vzc1RvUGF5VHYiOnRydWUsImxpdmVzdHJlYW1BY2Nlc3NUb0Zhc3QiOnRydWUsInZvZFF1YWxpdHkiOiJISUdIIiwibGl2ZVF1YWxpdHkiOiJISUdIIiwiZmFzdFF1YWxpdHkiOiJISUdIIiwibWF4UGFyYWxsZWxTdHJlYW1zIjoxLCJsaXZlZXZlbnRBY2Nlc3NUb0ZyZWVUdiI6dHJ1ZSwibGl2ZWV2ZW50QWNjZXNzVG9QYXlUdiI6dHJ1ZX0sIndhdGNoRmVhdHVyZXMiOnsiY29udGVudERvd25sb2FkIjpmYWxzZSwib3JpZ2luYWxWZXJzaW9uIjpmYWxzZSwiY29udGludWVXYXRjaGluZyI6dHJ1ZSwic2tpcEFkIjpmYWxzZSwiZG9sYnkiOmZhbHNlLCJib29rbWFya1dhdGNoIjp0cnVlfSwiYWR2ZXJ0aXNpbmciOnsibWF4UHJlUm9sbHMiOjEsIm1pZFJvbGxzIjpmYWxzZSwicG9zdFJvbGxzIjpmYWxzZSwiY2hhcHRlcnMiOmZhbHNlLCJzcGVjaWFsQWRzIjpmYWxzZSwiYnJlYWtBZHMiOmZhbHNlfSwibXVzaWMiOnsiYWNjZXNzTXVzaWNDb250ZW50IjpmYWxzZSwiZGVlemVyT2ZmZXJDb2RlIjoxNjkxMDIsImRlZXplclRyaWFsT2ZmZXJDb2RlIjoxNjkxMDIsImRlZXplck1heFBhcmFsbGVsU3RyZWFtcyI6MCwidmlld011c2ljQ29udGVudCI6dHJ1ZX0sInBvZGNhc3RzIjp7ImJvb2ttYXJrUG9kY2FzdHMiOnRydWUsImFjY2Vzc0ZyZWVQb2RjYXN0cyI6dHJ1ZSwiYWNjZXNzUHJlbWl1bVBvZGNhc3RzIjpmYWxzZX0sInJhZGlvIjp7ImFjY2Vzc1JhZGlvQ29udGVudCI6dHJ1ZX0sIm1hZ2F6aW5lIjp7ImFydGljbGVDcmVkaXRzIjowLCJicmFuZFN1YnNjcmlwdGlvblNsb3RzIjowfSwiYXVkaW9ib29rcyI6eyJjYW5SZWRlZW1DcmVkaXQiOmZhbHNlLCJhY2Nlc3NEZWV6ZXJBdWRpb2Jvb2tzIjpmYWxzZSwiYWNjZXNzUHJoQXVkaW9ib29rcyI6ZmFsc2UsInByaENyZWRpdHMiOjAsInByaE1heFBhcmFsbGVsU3RyZWFtcyI6MH0sInRvZ2dvIjp7InNraXBBZHZlcnRpc2luZyI6dHJ1ZX19LCJiYWNrZW5kVG9rZW4iOiJleUoxYVdRaU9pSmtaR0UwTVRVM056Y3pNMlkwTmpSbU9EQXdPREU1TW1KbVltWXpaREV3TkNJc0luUnZhMlZ1SWpvaWMzUXlMbk11UVdOaVNEUkdURGxzUVM1U2FrOUdiR0ZYTm5sVk4wTkpZalUwT0RoblNVcHlXRGg2Y1dab1pHdDBjakZtZVRGb09ITnhUV3h3WVhWcmJFOXpTMlZFTUdjMWRuSm5kbTV3Wmtob01YQXpWVVl5VHpOd04xcGFjSEZEWjFaQmIyd3hORmxvYzA5WVgzVjBOWEF0ZGw5bE5tRTVlakY1ZHk1TVZsZFVkMmh3UzJWUmJVWk9ZVFE0ZDJsVWRUVkhNblpVYTBOalJuTmZiV1E1UTAxSWRIbEdSVTF6YmtvMVYycHRhMVJUTlVGWldUSkxTMHhST1dKVFRuTnVYMk5FZDNwWWRsUndVbTVzTjNCb1RVUkNVUzV6WXpNaUxDSnpaV055WlhRaU9pSnhRV2hZVGpGbFVISldjbkZrYjNWak4xUmFWVU0xWmlzd2RFVTlJbjA9IiwiaGFzQWNxdWlyZWRQYWNrYWdlcyI6dHJ1ZSwicm9sZXMiOlsidXNlciJdLCJjbGllbnRJZCI6Ijg5OGY0ZmEzODRhZjRiZjY4ZWNmOGQxZGJiNjQ0NTVmIiwiYWNjb3VudFBlcnNvbmFsaXphdGlvbklkIjoiODk4ZjRmYTM4NGFmNGJmNjhlY2Y4ZDFkYmI2NDQ1NWYiLCJwcm9maWxlUGVyc29uYWxpemF0aW9uSWQiOiI4OThmNGZhMzg0YWY0YmY2OGVjZjhkMWRiYjY0NDU1ZiIsInN1YnNjcmlwdGlvblN0YXRlIjo1LCJyZXNpZGVuY2UiOiJERSIsImNrIjoiNzk1MTk0MTdjYjQ4Y2JmM2Y2MjU2NTUyOTdmZTc4OTY5MTY5YWFlY2Y1OGU4YWUyZTRkYTk3MDkzOTA5NjYyMCIsInByb2ZpbGVUeXBlIjoiZGVmYXVsdCIsImZhbGxiYWNrIjpmYWxzZSwibWF4UGFyYWxsZWxTdHJlYW1zIjoxLCJsaWNlbmNlRW5kRGF0ZSI6IjIwMjMtMDItMjFUMTA6MDA6MDMrMDA6MDAiLCJqd3RWZXJzaW9uIjoiMzY0MjFjYWMtNTM3OS00MTgxLWE3ODctZWU1YTY3YzdlNTk4IiwiaXNzIjoidHZub3ctcHJvZCIsImlhdCI6MTY3NjE1NjQwOCwic3ViIjoiMTA2NDY0OTk5MSIsImV4cCI6MTY3Nzk3MDgwOH0.HnbruSwPJVpcnqpQAe4mjQiKyWi7g9Koxl4ImmtvBMk</setting>
+    <setting id="encrypt_credentials">false</setting>
+    <setting id="select_start">1</setting>
+    <setting id="zz_dummy_09" default="true" />
+    <setting id="liveFree">true</setting>
+    <setting id="livePay">true</setting>
+    <setting id="vodFree">true</setting>
+    <setting id="vodPay">true</setting>
+    <setting id="login_status">3</setting>
+    <setting id="verified_Account">true</setting>
+    <setting id="maximum_tries" default="true">0</setting>
+    <setting id="cache_rhythm" default="true">4</setting>
+    <setting id="force_best">1</setting>
+    <setting id="high_definition" default="true">false</setting>
+    <setting id="prefer_content">1</setting>
+    <setting id="sorting_technique">1</setting>
+    <setting id="mark_movies">true</setting>
+    <setting id="show_date" default="true">true</setting>
+    <setting id="useSerieAsFanart">true</setting>
+    <setting id="verify_ssl" default="true">true</setting>
+    <setting id="checkwidevine" default="true">true</setting>
+    <setting id="last_starttime">12-02-2023 00:20:05 / 01</setting>
+    <setting id="service_startWINDOW" default="true">true</setting>
+    <setting id="service_startWIDEVINE" default="true">true</setting>
+    <setting id="show_settings" default="true">true</setting>
+    <setting id="enableDebug" default="true">false</setting>
+    <setting id="tvnow_library">true</setting>
+    <setting id="mediapath">smb://markus:matrix@100.10.10.12/kodi/rtl+media/</setting>
+    <setting id="new_separation">true</setting>
+    <setting id="library_rhythm" default="true">24</setting>
+    <setting id="zz_dummy_11" default="true" />
+    <setting id="zz_dummy_12" default="true" />
+</settings>

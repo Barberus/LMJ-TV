@@ -1,0 +1,22 @@
+{
+    "channellist": [
+        {
+            "contentId": "919",
+            "name": "RTLup",
+            "pictures": [
+                {
+                    "href": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/919_image_7_w90.png"
+                }
+            ]
+        },
+        {
+            "contentId": "1612",
+            "name": "VOXup",
+            "pictures": [
+                {
+                    "href": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1612_image_7_w90.png"
+                }
+            ]
+        }
+    ]
+}
