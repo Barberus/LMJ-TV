@@ -1,6 +1,0 @@
-<settings version="2">
-    <setting id="debug" default="true">false</setting>
-    <setting id="autostart">true</setting>
-    <setting id="port">59994</setting>
-    <setting id="timeout">15</setting>
-</settings>

@@ -1,8 +1,0 @@
-<mediasources>
-    <network>
-        <location id="0">smb://markus:matrix@100.10.10.12/kodi</location>
-        <location id="1">smb://Jack:hallo@/serie</location>
-        <location id="2">smb://Jack:hallo@\\192.168.178.104\serie/</location>
-        <location id="3">smb://Markus:matrix@\\LAPTOP-MARKUS\Users\Markus\OneDrive\Dokumente\GitHub\LMJ-TV/</location>
-    </network>
-</mediasources>

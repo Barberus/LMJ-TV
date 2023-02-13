@@ -1,8 +1,0 @@
-<settings version="2">
-    <setting id="username">markusdittrich456@t-online.de</setting>
-    <setting id="password">(Matrix12)</setting>
-    <setting id="folder">smb://markus:matrix@100.10.10.12/kodi/m3u/Main/</setting>
-    <setting id="notification">true</setting>
-    <setting id="e">true</setting>
-    <setting id="s" default="true">false</setting>
-</settings>

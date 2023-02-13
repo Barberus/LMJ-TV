@@ -1,4 +1,0 @@
-<node visible="Library.HasContent(TVShows)">
-	<label>Jack</label>
-	<icon>DefaultTVShows.png</icon>
-</node>
