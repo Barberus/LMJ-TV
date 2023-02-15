@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2023-02-15 08:00:26.944135 -->
+<!-- created on 2023-02-15 16:00:16.737950 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  TV SPIELFILM (DE)  CHANNEL LIST -->
@@ -662,7 +662,9 @@
     <programme start="20230215215000 +0000" stop="20230215230500 +0000" channel="ARD.de">
         <title lang="de">Maischberger</title>
         <desc lang="de"> 2023
-        Trotz des historisch schlechten Abschneidens bei der Berlin-Wahl, will die SPD in der Hauptstadt an der Macht bleiben. Ist das eine Missachtung des Wählerwillens oder normale Mehrheitsbildung in der Demokratie? Was bedeutet das Ergebnis in Berlin für die Ampel-Regierung im Bund? Fragen an SPD-Parteichef Lars Klingbeil. Ein Jahr nach dem Einmarsch Russlands in die Ukraine scheint keine friedliche Lösung in Sicht. Kann der Krieg noch durch Verhandlungen beendet werden? Darüber diskutieren die Vizepräsidentin des Bundestages und Grünen-Politikerin Katrin Göring-Eckardt und der Journalist und Buchautor Franz Alt. Es erklären, kommentieren und diskutieren der Kabarettist Urban Priol, die Korrespondentin im ARD-Hauptstadtstudio Kerstin Palzer sowie der stellvertretende Bild-Chefredakteur und Kriegsreporter Paul Ronzheimer. Die Gäste: Lars Klingbeil, SPD (Parteivorsitzender) Katrin Göring-Eckardt, B'90/Grüne (Vizepräsidentin des Bundestages) Franz Alt (Journalist und Buchautor) Urban Priol (Kabarettist) Kerstin Palzer (ARD-Hauptstadtstudio) Paul Ronzheimer (Bild) "maischberger" ist eine Gemeinschaftsproduktion der ARD, hergestellt vom WDR in Zusammenarbeit mit Vincent productions GmbH. (Senderinfo)</desc>
+        Trotz des historisch schlechten Abschneidens bei der Berlin-Wahl will die SPD in der Hauptstadt an der Macht bleiben. Ist das eine Missachtung des Wählerwillens oder normale Mehrheitsbildung in der Demokratie? Was bedeutet das Ergebnis in Berlin für die Ampel-Regierung im Bund? Fragen an SPD-Parteichef Lars Klingbeil. 
+        
+        Ein Jahr nach dem Einmarsch Russlands in die Ukraine scheint keine friedliche Lösung in Sicht. Kann der Krieg noch durch Verhandlungen beendet werden? Darüber diskutieren die Vizepräsidentin des Bundestages und Grünen-Politikerin Katrin Göring-Eckardt und der Journalist und Buchautor Franz Alt. (Senderinfo)</desc>
         <date>2023</date>
         <category lang="de">Discussion / Interview / Debate</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/546bdfe4e4b03c03eae85b73.jpg"/>
@@ -1080,7 +1082,7 @@
         <desc lang="de">(D/A/CH) 2023
         Rudi Cerne stellt Fälle vor, in denen die Kriminalpolizei auf wichtige Hinweise aus der Bevölkerung hofft. So etwa zu einem Überfall auf eine Filiale der Sparkasse Reutlingen im Februar 2022. Der bewaffnete Täter hatte von einer Mitarbeiterin Geld gefordert und mit einem mittleren, fünfstelligen Geldbetrag zu Fuß die Flucht ergriffen.
         
-        Im Mai 2022 wurde ein alleinstehender Mann aus Weißenburg wurde im Schlaf überfallen, gefesselt, ausgeraubt. Das Opfer wurde glücklicherweise nur leicht verletzt. Gestohlen wurde u. a. eine hochwertige silberfarbene Uhr der Marke "Baume &amp; Mercier".
+        Im Mai 2022 wurde ein alleinstehender Mann aus Weißenburg im Schlaf überfallen, gefesselt, ausgeraubt. Das Opfer wurde glücklicherweise nur leicht verletzt. Gestohlen wurde u. a. eine hochwertige silberfarbene Uhr der Marke "Baume &amp; Mercier".
         
         Am Dienstag, 14.2., wurde ein Cold Case mit Hilfe der Fahndungssendung gelöst: der Mord an der damals 24-jährigen alleinerziehenden Petra N. im Februar 1988. Cerne rollte den Fall im Dezember 22 auf und aufgrund eines Zeugenhinweises konnte nun ein 56-jähriger Mann festgenommen werden.</desc>
         <date>2023</date>
@@ -1493,9 +1495,9 @@
         <desc lang="de">(D) 2022
         "Auf einer Skala von 1 bis 10 ist meine Stimme eine 12!", so schätzt sich Bobette Landu selbst ein. Als Teilnehmerin beim "Bachelor" hat die 37-Jährige auch schon TV-Luft geschnuppert.  Mit "Push The Button" von Sugababes will sie heute die Juroren von ihrem Gesangstalent überzeugen.
         
-        Selbstbewusst tritt auch Germain Winter an: "Garantiert verkacke ich nicht vor Dieter Bohlen - ich habe Persönlichkeit!" Der Stuttgarter hat bereits viel Willensstärke bewiesen.  Mithilfe einer Magenverkleinerung nahm er viele seiner ursprünglich 200 Kilo ab, fasste neuen Lebensmut und fand sein Glück in der Musik. 
+        Selbstbewusst tritt auch Germain Winter an: "Garantiert verkacke ich nicht vor Dieter Bohlen - ich habe Persönlichkeit!" Der Stuttgarter hat bereits viel Willensstärke bewiesen. Mithilfe einer Magenverkleinerung nahm er viele seiner ursprünglich 200 Kilo ab, fasste neuen Lebensmut und fand sein Glück in der Musik. 
         
-        Für Raffaela Raab ist die Musik nur ein Mittel, um ihre Botschaft zu verbreiten. Die Ärztin, die sich selbst auf Social Media als "militante Veganerin" bezeichnet, setzt sich auch auf der Bühne für die Tierrechte ein. Sie ist überzeugt, Veganismus und Tierechte müssen in die Popkultur vordringen - und dafür ist DSDS eine riesige Plattform".</desc>
+        Für Raffaela Raab ist die Musik nur ein Mittel, um ihre Botschaft zu verbreiten. Die Ärztin, die sich selbst auf Social Media als "militante Veganerin" bezeichnet, setzt sich auch auf der Bühne für die Tierrechte ein. Sie ist überzeugt, Veganismus und Tierrechte müssen in die Popkultur vordringen - und dafür ist DSDS eine riesige Plattform".</desc>
         <date>2022</date>
         <category lang="de">Game show / Quiz / Contest</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61e6b5708189656e35c6280e.jpg"/>
@@ -3092,7 +3094,7 @@
         </credits>
         <date>2006</date>
         <category lang="de">Science fiction / Fantasy / Horror</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/54737629e4b03c03eaf02dcf.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/54737631e4b03c03eaf02ddb.jpg"/>
         <country>USA</country>
         <rating>
             <value>12</value>
@@ -3838,7 +3840,7 @@
         </credits>
         <date>2013</date>
         <category lang="de">Detective / Thriller</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5637b237ea60e556a31df857.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/54732276e4b03c03eaef75fc.jpg"/>
         <country>USA</country>
         <episode-num system="xmltv_ns">7 . 19 . </episode-num>
     </programme>
@@ -3991,7 +3993,7 @@
         <country>CH</country>
     </programme>
 
-    <programme start="20230215042700 +0000" stop="20230215051000 +0000" channel="3sat.de">
+    <programme start="20230215042700 +0000" stop="20230215051100 +0000" channel="3sat.de">
         <title lang="de">unterwegs – Südtirol</title>
         <sub-title lang="de">Vom Reschensee zu den Dolomiten</sub-title>
         <desc lang="de">(CH)
@@ -4001,14 +4003,20 @@
         <country>CH</country>
     </programme>
 
-    <programme start="20230215051000 +0000" stop="20230215052000 +0000" channel="3sat.de">
-        <title lang="de">Pause</title>
+    <programme start="20230215051100 +0000" stop="20230215052400 +0000" channel="3sat.de">
+        <title lang="de">Mein Perigord</title>
         <desc lang="de">
-        No Program Information available</desc>
-        <category lang="de">undefined content</category>
+        In bislang acht Romanen lässt Martin Walker den französischen Dorfpolizisten Bruno ermitteln ("Bruno – Chef de police"). Die Provinz Périgord ist nicht nur Schauplatz der Krimis, sondern auch Wahlheimat des aus Schottland stammenden Autors. 
+        
+        Die Doku macht verständlich, warum er sich in Landschaft und Leute verliebt hat.</desc>
+        <credits>
+            <director>Günter Schilhan</director>
+        </credits>
+        <category lang="de">Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63eca26276ed8b13b4d491d1.jpg"/>
     </programme>
 
-    <programme start="20230215052000 +0000" stop="20230215060000 +0000" channel="3sat.de">
+    <programme start="20230215052400 +0000" stop="20230215060100 +0000" channel="3sat.de">
         <title lang="de">Kulturzeit</title>
         <desc lang="de">(D/A/CH) 2023
         "Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen. (Senderinfo)</desc>
@@ -4018,7 +4026,7 @@
         <country>D/A/CH</country>
     </programme>
 
-    <programme start="20230215060000 +0000" stop="20230215063000 +0000" channel="3sat.de">
+    <programme start="20230215060100 +0000" stop="20230215063000 +0000" channel="3sat.de">
         <title lang="de">nano</title>
         <desc lang="de"> 2023
         Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin und enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und wissenschaftlich beleuchtet. (Senderinfo)</desc>
@@ -4036,7 +4044,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5632a5b4ea60e556a31af42e.jpg"/>
     </programme>
 
-    <programme start="20230215070000 +0000" stop="20230215070500 +0000" channel="3sat.de">
+    <programme start="20230215070000 +0000" stop="20230215070800 +0000" channel="3sat.de">
         <title lang="de">ZIB</title>
         <desc lang="de"> 2023
         Die "Früh-ZIB" informiert von Montag bis Freitag über das aktuelle Geschehen aus Innen- und Außenpolitik, Wirtschaft, Wissenschaft, Kultur und Chronik. Reportagen und Hintergrundberichte vertiefen das Verständnis der aktuellen Ereignisse. (Senderinfo)</desc>
@@ -4045,7 +4053,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/563ca50cea60e556a32660f6.jpg"/>
     </programme>
 
-    <programme start="20230215070500 +0000" stop="20230215073000 +0000" channel="3sat.de">
+    <programme start="20230215070800 +0000" stop="20230215073000 +0000" channel="3sat.de">
         <title lang="de">Alpenpanorama</title>
         <desc lang="de"> 2023
         "Alpenpanorama" zeigt über zahlreiche Web- und Panoramakameras täglich Livebilder aus ausgewählten Urlaubsorten. Die Sendung informiert auch über Temperatur- und Wetterbedingungen vor Ort. (Senderinfo)</desc>
@@ -4072,7 +4080,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5632a5b4ea60e556a31af42e.jpg"/>
     </programme>
 
-    <programme start="20230215080000 +0000" stop="20230215080500 +0000" channel="3sat.de">
+    <programme start="20230215080000 +0000" stop="20230215080900 +0000" channel="3sat.de">
         <title lang="de">ZIB</title>
         <desc lang="de"> 2023
         Die "Früh-ZIB" informiert von Montag bis Freitag über das aktuelle Geschehen aus Innen- und Außenpolitik, Wirtschaft, Wissenschaft, Kultur und Chronik. Reportagen und Hintergrundberichte vertiefen das Verständnis der aktuellen Ereignisse. (Senderinfo)</desc>
@@ -4081,7 +4089,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/563ca50cea60e556a32660f6.jpg"/>
     </programme>
 
-    <programme start="20230215080500 +0000" stop="20230215084500 +0000" channel="3sat.de">
+    <programme start="20230215080900 +0000" stop="20230215084600 +0000" channel="3sat.de">
         <title lang="de">Kulturzeit</title>
         <desc lang="de">(D/A/CH) 2023
         "Kulturzeit" ist das werktägliche Kulturmagazin von 3sat. "Kulturzeit" mischt sich in kulturelle und gesellschaftspolitische Fragen ein. Das Magazin bietet Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen. (Senderinfo)</desc>
@@ -4091,7 +4099,7 @@
         <country>D/A/CH</country>
     </programme>
 
-    <programme start="20230215084500 +0000" stop="20230215091500 +0000" channel="3sat.de">
+    <programme start="20230215084600 +0000" stop="20230215091500 +0000" channel="3sat.de">
         <title lang="de">nano</title>
         <desc lang="de"> 2023
         Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin und enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und wissenschaftlich beleuchtet. (Senderinfo)</desc>
@@ -4100,7 +4108,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/639ae9c6818965394519050c.jpg"/>
     </programme>
 
-    <programme start="20230215091500 +0000" stop="20230215100000 +0000" channel="3sat.de">
+    <programme start="20230215091500 +0000" stop="20230215095900 +0000" channel="3sat.de">
         <title lang="de">Waffen der Tiere: Dschungel</title>
         <sub-title lang="de">Dschungel</sub-title>
         <desc lang="de">(AUS) 2020 E1
@@ -4112,7 +4120,7 @@
         <episode-num system="xmltv_ns">0 . 0 . </episode-num>
     </programme>
 
-    <programme start="20230215100000 +0000" stop="20230215104500 +0000" channel="3sat.de">
+    <programme start="20230215095900 +0000" stop="20230215104400 +0000" channel="3sat.de">
         <title lang="de">Waffen der Tiere: Offenes Gelände</title>
         <sub-title lang="de">Offenes Gelände</sub-title>
         <desc lang="de">(AUS) 2020 E2
@@ -4124,7 +4132,7 @@
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20230215104500 +0000" stop="20230215111500 +0000" channel="3sat.de">
+    <programme start="20230215104400 +0000" stop="20230215111500 +0000" channel="3sat.de">
         <title lang="de">Mit Herz am Herd</title>
         <sub-title lang="de">Kabeljau mit Perlgraupen-Risotto</sub-title>
         <desc lang="de">(D) 2020 E69
@@ -4154,7 +4162,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63a1ed6b818965394536a0a7.jpg"/>
     </programme>
 
-    <programme start="20230215121500 +0000" stop="20230215124500 +0000" channel="3sat.de">
+    <programme start="20230215121500 +0000" stop="20230215124400 +0000" channel="3sat.de">
         <title lang="de">Mit dem Moped durch Vietnam</title>
         <sub-title lang="de">Mit dem Moped durch Vietnam</sub-title>
         <desc lang="de">(D) 2015
@@ -4168,7 +4176,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215124500 +0000" stop="20230215133000 +0000" channel="3sat.de">
+    <programme start="20230215124400 +0000" stop="20230215132800 +0000" channel="3sat.de">
         <title lang="de">Fährpassagen: Rush Hour am Mekong</title>
         <sub-title lang="de">Rush Hour am Mekong</sub-title>
         <desc lang="de">(D) 2015 E3
@@ -4183,7 +4191,7 @@
         <episode-num system="xmltv_ns">0 . 2 . </episode-num>
     </programme>
 
-    <programme start="20230215133000 +0000" stop="20230215140000 +0000" channel="3sat.de">
+    <programme start="20230215132800 +0000" stop="20230215135800 +0000" channel="3sat.de">
         <title lang="de">Gober – Eine Orang-Utan-Geschichte</title>
         <desc lang="de">(D) 2015
         Was macht eine Orang-Utan-Mutter auf Sumatra, deren Augenlicht durch den Grauen Star zunehmend schwindet, die aber noch ein Jungtier zu versorgen hat? Der Film erzählt eine bewegende Geschichte, in der das Schicksal Weichen stellt, die ganz unvermutet Hoffnung keimen lasst. Im letzten Augenblick versuchen Naturschützer, die beiden Orang-Utans zu retten – wird es gelingen? Das Schicksal trifft das Orang-Utan-Weibchen sehr hart – und das gleich mehrfach: Vor allem durch die Ausdehnung der Ölpalmplantagen wird das ohnehin schon kümmerliche Waldgebiet auf der indonesischen Insel Sumatra für diese Tiere so gut wie unbewohnbar. Naturschützer, die nach Auswegen für die Tierwelt suchen, stellen bei dem Orang-Utan-Weibchen, das sie bald "Gober" nennen, dann auch noch eine schleichende Erblindung fest. Es ist die Tochter, die der kranken Mutter zunächst das Überleben sichert und sie mit Nahrung versorgt. Schließlich aber wird Gober evakuiert und findet Aufnahme in einer Rettungsstation. In einer bahnbrechenden Operation wird ihr dort das Augenlicht zurückgegeben – und auch neues Mutterglück kann Gober erleben. Sogar der Plan für eine Auswilderung wächst heran. (Senderinfo)</desc>
@@ -4196,8 +4204,9 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215140000 +0000" stop="20230215143000 +0000" channel="3sat.de">
+    <programme start="20230215135800 +0000" stop="20230215142800 +0000" channel="3sat.de">
         <title lang="de">Gober kommt frei</title>
+        <sub-title lang="de">Welt der Tiere</sub-title>
         <desc lang="de">(D) 2015
         Mit einer kühnen Operation wurde der Orang-Utan-Mutter Gober das Augenlicht zurückgegeben. Ihre Zwillinge, die sie in der Rettungsstation zur Welt gebracht hat, sind knapp vier Jahre alt. Wenn Ginting und Ganteng jemals den Regenwald von Sumatra als ihre Heimat kennenlernen sollen, dann ist es jetzt höchste Zeit. Die drei werden in eines der letzten unberührten Waldgebiete der indonesischen Insel gebracht. Für Gober und ihre beiden Zwillinge sind es alles entscheidende Tage: Klappt der Plan, sie nach Jahren in einer Rettungsstation in die Freiheit zu entlassen? Seit Gober an beiden Augen operiert wurde, kann sie wieder sehen. Aber wird sie, die nicht mehr zu den Jüngsten zählt, es noch einmal schaffen, sich durch die Kronendächer des Regenwalds von Sumatra zu hangeln? Und das gleich mit doppeltem Nachwuchs – im Schlepptau oder ins Fell geklammert? Die vierjährigen Kinder kennen bislang nur das Leben in einem Käfig. Können sie ihrer Mutter bei der Nahrungssuche überhaupt folgen? Wie werden sie zuvor die anstrengende und lange Reise verkraften, die über holprige Straßen, verschlammte Pisten und durch einen unberechenbaren Fluss führt? Ein Filmteam hat das bislang einzigartige Unternehmen begleitet. (Senderinfo)</desc>
         <credits>
@@ -4209,7 +4218,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215143000 +0000" stop="20230215151500 +0000" channel="3sat.de">
+    <programme start="20230215142800 +0000" stop="20230215151300 +0000" channel="3sat.de">
         <title lang="de">Der wilde Norden Sumatras</title>
         <sub-title lang="de">Dschungeltour zu den Orang-Utans</sub-title>
         <desc lang="de">(D) 2018
@@ -4223,7 +4232,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215151500 +0000" stop="20230215160000 +0000" channel="3sat.de">
+    <programme start="20230215151300 +0000" stop="20230215155800 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Kalka-Shimla-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E1
@@ -4238,7 +4247,7 @@
         <episode-num system="xmltv_ns">0 . 0 . </episode-num>
     </programme>
 
-    <programme start="20230215160000 +0000" stop="20230215164500 +0000" channel="3sat.de">
+    <programme start="20230215155800 +0000" stop="20230215164300 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Kangra Valley-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E2
@@ -4253,7 +4262,7 @@
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20230215164500 +0000" stop="20230215173000 +0000" channel="3sat.de">
+    <programme start="20230215164300 +0000" stop="20230215172800 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Matheran-Hill-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E3
@@ -4268,9 +4277,8 @@
         <episode-num system="xmltv_ns">0 . 2 . </episode-num>
     </programme>
 
-    <programme start="20230215173000 +0000" stop="20230215180000 +0000" channel="3sat.de">
+    <programme start="20230215172800 +0000" stop="20230215180000 +0000" channel="3sat.de">
         <title lang="de">nano</title>
-        <sub-title lang="de">Die Welt von morgen</sub-title>
         <desc lang="de"> 2023
         Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin und enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und wissenschaftlich beleuchtet. (Senderinfo)</desc>
         <date>2023</date>
@@ -4278,7 +4286,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/639ae9c6818965394519050c.jpg"/>
     </programme>
 
-    <programme start="20230215180000 +0000" stop="20230215181800 +0000" channel="3sat.de">
+    <programme start="20230215180000 +0000" stop="20230215181900 +0000" channel="3sat.de">
         <title lang="de">heute</title>
         <desc lang="de"> 2023
         Die Nachrichtensendung des Zweiten Deutschen Fernsehens versorgt die Zuschauer mit aktuellen Meldungen des Tages aus den Bereichen Politik, Wirtschaft, Kultur, Gesellschaft, Sport und Wetter. (Senderinfo)</desc>
@@ -4287,7 +4295,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5bb5bf428189650d3a76eee9.jpg"/>
     </programme>
 
-    <programme start="20230215181800 +0000" stop="20230215182000 +0000" channel="3sat.de">
+    <programme start="20230215181900 +0000" stop="20230215182100 +0000" channel="3sat.de">
         <title lang="de">3sat-Wetter</title>
         <desc lang="de"> 2023
         3sat zeigt das Wetter aus den 3sat-Ländern Deutschland, Österreich und der Schweiz. (Senderinfo)</desc>
@@ -4296,7 +4304,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/621f46b78189655ed968b295.jpg"/>
     </programme>
 
-    <programme start="20230215182000 +0000" stop="20230215190000 +0000" channel="3sat.de">
+    <programme start="20230215182100 +0000" stop="20230215190000 +0000" channel="3sat.de">
         <title lang="de">Kulturzeit</title>
         <sub-title lang="de">Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD</sub-title>
         <desc lang="de">(D/A/CH) 2023
@@ -4317,7 +4325,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215191500 +0000" stop="20230215200500 +0000" channel="3sat.de">
+    <programme start="20230215191500 +0000" stop="20230215200700 +0000" channel="3sat.de">
         <title lang="de">Die Schweizer Alpen – Bräuche, Käuze, Aberglauben II</title>
         <sub-title lang="de">Alpen – Woldmanndli</sub-title>
         <desc lang="de">(CH) 2023 E7
@@ -4341,7 +4349,7 @@
         <episode-num system="xmltv_ns">0 . 6 . </episode-num>
     </programme>
 
-    <programme start="20230215200500 +0000" stop="20230215210000 +0000" channel="3sat.de">
+    <programme start="20230215200700 +0000" stop="20230215210000 +0000" channel="3sat.de">
         <title lang="de">Die Schweizer Alpen – Bräuche, Käuze, Aberglauben II</title>
         <sub-title lang="de">Silvesterchlausen</sub-title>
         <desc lang="de">(CH) 2023 E8
@@ -4377,7 +4385,7 @@
         <country>A</country>
     </programme>
 
-    <programme start="20230215212500 +0000" stop="20230215221000 +0000" channel="3sat.de">
+    <programme start="20230215212500 +0000" stop="20230215220900 +0000" channel="3sat.de">
         <title lang="de">Thin Ice</title>
         <sub-title lang="de">Bangen um Viktor</sub-title>
         <desc lang="de">(S/Isl./F) 2019 • S1 E6
@@ -4408,7 +4416,7 @@
         <episode-num system="xmltv_ns">0 . 5 . </episode-num>
     </programme>
 
-    <programme start="20230215221000 +0000" stop="20230216000000 +0000" channel="3sat.de">
+    <programme start="20230215220900 +0000" stop="20230216000200 +0000" channel="3sat.de">
         <title lang="de">Körper und Seele</title>
         <desc lang="de">(Ung.) 2017
         Mária, die neue Fleischkontrolleurin, meidet den Kontakt zu ihren Kollegen. Die junge Frau ist scheu und unnahbar. Endre, der Leiter des Schlachthofs, versucht trotzdem, mit ihr ins Gespräch zu kommen. Durch Zufall machen die beiden eine seltsame Entdeckung: Nacht für Nacht teilen sie denselben Traum. Darin ziehen sie als Hirsch und Hirschkuh durch einen verschneiten Wald. 
@@ -4432,7 +4440,7 @@
         <country>Ung.</country>
     </programme>
 
-    <programme start="20230216000000 +0000" stop="20230216003000 +0000" channel="3sat.de">
+    <programme start="20230216000200 +0000" stop="20230216003200 +0000" channel="3sat.de">
         <title lang="de">10 vor 10</title>
         <desc lang="de">(CH) 2023
         "10 vor 10" ist eine Informationssendung von Schweizer Radio und Fernsehen (SRF). Vertiefende Berichte, Reportagen, Porträts und Live-Gespräche informieren über die wichtigsten Themen des Tages aus der Schweiz und der Welt. (Senderinfo)</desc>
@@ -4442,7 +4450,7 @@
         <country>CH</country>
     </programme>
 
-    <programme start="20230216003000 +0000" stop="20230216013000 +0000" channel="3sat.de">
+    <programme start="20230216003200 +0000" stop="20230216013200 +0000" channel="3sat.de">
         <title lang="de">STÖCKL</title>
         <desc lang="de"> 2023
         Einmal wöchentlich lädt Barbara Stöckl prominente Persönlichkeiten und Menschen mit interessanter Lebensgeschichte in ihre Talkshow "STÖCKL". Die Themen geben die Gäste selbst vor. Sie sprechen über ihr Leben, ihre Erfahrungen, Haltungen, Zukunftsvisionen und über gesellschaftlich relevante Themen. (Senderinfo)</desc>
@@ -4451,7 +4459,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63e27ab11c2a996c58e6dff3.jpg"/>
     </programme>
 
-    <programme start="20230216013000 +0000" stop="20230216015500 +0000" channel="3sat.de">
+    <programme start="20230216013200 +0000" stop="20230216015600 +0000" channel="3sat.de">
         <title lang="de">Slowenien Magazin</title>
         <desc lang="de">(A) 2023
         In Kooperation mit dem slowenischen Fernsehen berichtet das österreichische Magazin über Entwicklungen in Politik, Gesellschaft und Kultur Sloweniens. Im Mittelpunkt der Sendung stehen das Land, seine Menschen, Bräuche und Traditionen sowie die Schönheiten der Landschaft. (Senderinfo)</desc>
@@ -4461,7 +4469,7 @@
         <country>A</country>
     </programme>
 
-    <programme start="20230216015500 +0000" stop="20230216024000 +0000" channel="3sat.de">
+    <programme start="20230216015600 +0000" stop="20230216024100 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Kalka-Shimla-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E1
@@ -4476,7 +4484,7 @@
         <episode-num system="xmltv_ns">0 . 0 . </episode-num>
     </programme>
 
-    <programme start="20230216024000 +0000" stop="20230216032500 +0000" channel="3sat.de">
+    <programme start="20230216024100 +0000" stop="20230216032600 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Kangra Valley-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E2
@@ -4491,7 +4499,7 @@
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20230216032500 +0000" stop="20230216041000 +0000" channel="3sat.de">
+    <programme start="20230216032600 +0000" stop="20230216041000 +0000" channel="3sat.de">
         <title lang="de">Auf schmaler Spur durch Indien</title>
         <sub-title lang="de">Die "Matheran-Hill-Bahn" – Unterwegs mit Indiens "Toy Trains"</sub-title>
         <desc lang="de">(D) 2011 E3
@@ -5563,7 +5571,7 @@
         </credits>
         <date>2021</date>
         <category lang="de">Science fiction / Fantasy / Horror</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8db8189652ccb4a40ef.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61d6b1e78189656e35ad969d.jpg"/>
         <country>USA</country>
         <episode-num system="xmltv_ns">0 . 2 . </episode-num>
         <rating>
@@ -5591,7 +5599,7 @@
         </credits>
         <date>2021</date>
         <category lang="de">Science fiction / Fantasy / Horror</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8db8189652ccb4a40ef.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61d6b1e78189656e35ad969d.jpg"/>
         <country>USA</country>
         <episode-num system="xmltv_ns">0 . 3 . </episode-num>
         <rating>
@@ -5729,7 +5737,7 @@
         </credits>
         <date>2021</date>
         <category lang="de">Science fiction / Fantasy / Horror</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8db8189652ccb4a40ef.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61d6b1e78189656e35ad969d.jpg"/>
         <country>USA</country>
         <episode-num system="xmltv_ns">0 . 2 . </episode-num>
         <rating>
@@ -5757,7 +5765,7 @@
         </credits>
         <date>2021</date>
         <category lang="de">Science fiction / Fantasy / Horror</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8db8189652ccb4a40ef.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61d6b1e78189656e35ad969d.jpg"/>
         <country>USA</country>
         <episode-num system="xmltv_ns">0 . 3 . </episode-num>
         <rating>
@@ -7989,7 +7997,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177e14e8189652ccb4a5e07.jpg"/>
     </programme>
 
-    <programme start="20230216034500 +0000" stop="20230216044500 +0000" channel="RTLPlus.de">
+    <programme start="20230216034500 +0000" stop="20230216043000 +0000" channel="RTLPlus.de">
         <title lang="de">Das Jugendgericht</title>
         <desc lang="de"> 2002
         "Das Jugendgericht" befasst sich ausschließlich mit Fällen jugendlicher Straftäter (Alter: 14 bis 21 Jahre) und gibt einen realistischen Einblick in die nicht öffentlichen Verhandlungen vor einem Jugendgericht. Es werden klassische Straftaten verhandelt: von Diebstahl über Drogendelikte bis zu Raub, Erpressung und Körperverletzung. Aber es geht auch um Bagatelldelikte und die kleinen Dramen, die dahinter stecken. (Senderinfo)</desc>
@@ -9558,7 +9566,7 @@
         <episode-num system="xmltv_ns">5 . 13 . </episode-num>
     </programme>
 
-    <programme start="20230215081500 +0000" stop="20230215084000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215081500 +0000" stop="20230215084500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Modern Family</title>
         <sub-title lang="de">Der Schlaf der Vernunft</sub-title>
         <desc lang="de">(USA) 2013 • S4 E15
@@ -9580,7 +9588,7 @@
         <episode-num system="xmltv_ns">3 . 14 . </episode-num>
     </programme>
 
-    <programme start="20230215084000 +0000" stop="20230215090000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215084500 +0000" stop="20230215090000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Malcolm gegen Reese</sub-title>
         <desc lang="de">(USA) 2001 • S2 E21
@@ -9602,7 +9610,7 @@
         <episode-num system="xmltv_ns">1 . 20 . </episode-num>
     </programme>
 
-    <programme start="20230215090000 +0000" stop="20230215092500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215090000 +0000" stop="20230215093000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Mini-Bike</sub-title>
         <desc lang="de">(USA) 2001 • S2 E22
@@ -9626,7 +9634,7 @@
         <episode-num system="xmltv_ns">1 . 21 . </episode-num>
     </programme>
 
-    <programme start="20230215092500 +0000" stop="20230215095000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215093000 +0000" stop="20230215095000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Die Goldbergs</title>
         <sub-title lang="de">Fürze in Flaschen</sub-title>
         <desc lang="de">(USA) 2017 • S4 E14
@@ -9648,7 +9656,7 @@
         <episode-num system="xmltv_ns">3 . 13 . </episode-num>
     </programme>
 
-    <programme start="20230215095000 +0000" stop="20230215101000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215095000 +0000" stop="20230215101500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Die Goldbergs</title>
         <sub-title lang="de">Agassi</sub-title>
         <desc lang="de">(USA) 2016 • S4 E13
@@ -9669,7 +9677,7 @@
         <episode-num system="xmltv_ns">3 . 12 . </episode-num>
     </programme>
 
-    <programme start="20230215101000 +0000" stop="20230215103500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215101500 +0000" stop="20230215103500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">American Dad</title>
         <sub-title lang="de">Travis oder Stan?</sub-title>
         <desc lang="de">(USA) 2008 • S5 E4
@@ -9686,17 +9694,20 @@
 
     <programme start="20230215103500 +0000" stop="20230215110000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">American Dad</title>
-        <sub-title lang="de">Avatussi</sub-title>
-        <desc lang="de">(USA) 2011 • S8 E5
+        <sub-title lang="de">Indian Smith: Auf der Suche nach Ollis Gold</sub-title>
+        <desc lang="de">(USA) 2008 • S4 E15 • FSK 16
         No Program Information available</desc>
         <credits>
-            <director>Joseph Daniello</director>
+            <director>Pam Cooke</director>
         </credits>
-        <date>2011</date>
+        <date>2008</date>
         <category lang="de">Cartoons / Puppets</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5472f42ee4b03c03eaef1149.jpg"/>
         <country>USA</country>
-        <episode-num system="xmltv_ns">7 . 4 . </episode-num>
+        <episode-num system="xmltv_ns">3 . 14 . </episode-num>
+        <rating>
+            <value>16</value>
+        </rating>
     </programme>
 
     <programme start="20230215110000 +0000" stop="20230215112500 +0000" channel="ComedyCentral/VIVA.de">
@@ -9729,7 +9740,7 @@
         <episode-num system="xmltv_ns">12 . 5 . </episode-num>
     </programme>
 
-    <programme start="20230215115000 +0000" stop="20230215121000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215115000 +0000" stop="20230215121500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">South Park</title>
         <sub-title lang="de">Käpt'n Fettbart</sub-title>
         <desc lang="de">(USA) 2009 • S13 E7
@@ -9744,7 +9755,7 @@
         <episode-num system="xmltv_ns">12 . 6 . </episode-num>
     </programme>
 
-    <programme start="20230215121000 +0000" stop="20230215123500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215121500 +0000" stop="20230215124000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">The Cleveland Show</title>
         <sub-title lang="de">Die Läuseplage</sub-title>
         <desc lang="de">(USA) 2009 • S4 E20
@@ -9756,7 +9767,7 @@
         <episode-num system="xmltv_ns">3 . 19 . </episode-num>
     </programme>
 
-    <programme start="20230215123500 +0000" stop="20230215130000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215124000 +0000" stop="20230215130000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">The Cleveland Show</title>
         <sub-title lang="de">Die Messe</sub-title>
         <desc lang="de">(USA) 2009 • S4 E22
@@ -9768,7 +9779,7 @@
         <episode-num system="xmltv_ns">3 . 21 . </episode-num>
     </programme>
 
-    <programme start="20230215130000 +0000" stop="20230215132000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215130000 +0000" stop="20230215132500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Einsatzprogramm</title>
         <sub-title lang="de">Benderama</sub-title>
         <desc lang="de"> 2011
@@ -9777,7 +9788,7 @@
         <category lang="de">undefined content</category>
     </programme>
 
-    <programme start="20230215132000 +0000" stop="20230215134000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215132500 +0000" stop="20230215135000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Futurama</title>
         <sub-title lang="de">Ein Upgrade kommt selten allein</sub-title>
         <desc lang="de">(USA) 2012 • S7 E7
@@ -9792,22 +9803,7 @@
         <episode-num system="xmltv_ns">6 . 6 . </episode-num>
     </programme>
 
-    <programme start="20230215134000 +0000" stop="20230215140000 +0000" channel="ComedyCentral/VIVA.de">
-        <title lang="de">Bob’s Burgers</title>
-        <sub-title lang="de">Hawk &amp; Chick</sub-title>
-        <desc lang="de">(USA) 2015 • S5 E20
-        No Program Information available</desc>
-        <credits>
-            <director>Jennifer Coyle</director>
-        </credits>
-        <date>2015</date>
-        <category lang="de">Comedy</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/563eea61ea60e556a32a7b30.jpg"/>
-        <country>USA</country>
-        <episode-num system="xmltv_ns">4 . 19 . </episode-num>
-    </programme>
-
-    <programme start="20230215140000 +0000" stop="20230215142500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215135000 +0000" stop="20230215141000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Bob’s Burgers</title>
         <sub-title lang="de">Laus-Dinger sind Läuse</sub-title>
         <desc lang="de">(USA) 2016 • S6 E10 • FSK 12
@@ -9826,7 +9822,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215142500 +0000" stop="20230215145000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215141000 +0000" stop="20230215143500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Bob’s Burgers</title>
         <sub-title lang="de">Haus der 1000 Hüpfer</sub-title>
         <desc lang="de">(USA) 2016 • S6 E11 • FSK 12
@@ -9846,7 +9842,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215145000 +0000" stop="20230215150500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215143500 +0000" stop="20230215145500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">American Dad</title>
         <sub-title lang="de">Das darf man nur als Teenager</sub-title>
         <desc lang="de">(USA) 2008 • S5 E1
@@ -9861,7 +9857,7 @@
         <episode-num system="xmltv_ns">4 . 0 . </episode-num>
     </programme>
 
-    <programme start="20230215150500 +0000" stop="20230215153000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215145500 +0000" stop="20230215152000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">American Dad</title>
         <sub-title lang="de">Ein Roger sieht rot</sub-title>
         <desc lang="de">(USA) 2008 • S5 E2
@@ -9873,7 +9869,7 @@
         <episode-num system="xmltv_ns">4 . 1 . </episode-num>
     </programme>
 
-    <programme start="20230215153000 +0000" stop="20230215155500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215152000 +0000" stop="20230215154500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">American Dad</title>
         <sub-title lang="de">Spring Break Wahnsinn</sub-title>
         <desc lang="de">(USA) 2008 • S4 E16
@@ -9888,7 +9884,7 @@
         <episode-num system="xmltv_ns">3 . 15 . </episode-num>
     </programme>
 
-    <programme start="20230215155500 +0000" stop="20230215161500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215154500 +0000" stop="20230215161000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">South Park</title>
         <sub-title lang="de">Urlaub mit Kenny &amp; Butters</sub-title>
         <desc lang="de">(USA) 2012 • S16 E11
@@ -9900,7 +9896,7 @@
         <episode-num system="xmltv_ns">15 . 10 . </episode-num>
     </programme>
 
-    <programme start="20230215161500 +0000" stop="20230215164000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215161000 +0000" stop="20230215163500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">South Park</title>
         <sub-title lang="de">Ein toller Applaus</sub-title>
         <desc lang="de">(USA) 2012 • S16 E13 • FSK 6
@@ -9919,7 +9915,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215164000 +0000" stop="20230215170000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215163500 +0000" stop="20230215165500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Großalarm</sub-title>
         <desc lang="de">(USA) 2001 • S2 E24
@@ -9941,7 +9937,7 @@
         <episode-num system="xmltv_ns">1 . 23 . </episode-num>
     </programme>
 
-    <programme start="20230215170000 +0000" stop="20230215172500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215165500 +0000" stop="20230215172500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Schwangerschaftsalarm</sub-title>
         <desc lang="de">(USA) 2001 • S2 E25
@@ -10099,7 +10095,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215204000 +0000" stop="20230215210000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215204000 +0000" stop="20230215210500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">South Park</title>
         <sub-title lang="de">Ei-fersucht</sub-title>
         <desc lang="de">(USA) 2005 • S9 E10
@@ -10114,15 +10110,19 @@
         <episode-num system="xmltv_ns">8 . 9 . </episode-num>
     </programme>
 
-    <programme start="20230215210000 +0000" stop="20230215213000 +0000" channel="ComedyCentral/VIVA.de">
-        <title lang="de">Einsatzprogramm</title>
-        <desc lang="de"> 2023
+    <programme start="20230215210500 +0000" stop="20230215213500 +0000" channel="ComedyCentral/VIVA.de">
+        <title lang="de">South Park</title>
+        <sub-title lang="de">Cupid Ye</sub-title>
+        <desc lang="de">(USA) 2023 • S26 E1
         No Program Information available</desc>
         <date>2023</date>
-        <category lang="de">undefined content</category>
+        <category lang="de">Cartoons / Puppets</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/56320c9eea60e556a319b436.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">25 . 0 . </episode-num>
     </programme>
 
-    <programme start="20230215213000 +0000" stop="20230215215000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215213500 +0000" stop="20230215220000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Rick &amp; Morty</title>
         <sub-title lang="de">Was wäre wenn?</sub-title>
         <desc lang="de">(USA) 2014 • S1 E8
@@ -10143,7 +10143,7 @@
         <episode-num system="xmltv_ns">0 . 7 . </episode-num>
     </programme>
 
-    <programme start="20230215215000 +0000" stop="20230215221500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215220000 +0000" stop="20230215222500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Fugget About It</title>
         <sub-title lang="de">Jimmy Rakete</sub-title>
         <desc lang="de">(Kan.) 2015 • S3 E5
@@ -10158,7 +10158,7 @@
         <episode-num system="xmltv_ns">2 . 4 . </episode-num>
     </programme>
 
-    <programme start="20230215221500 +0000" stop="20230215224000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215222500 +0000" stop="20230215225000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">It’s Always Sunny in Philadelphia</title>
         <sub-title lang="de">Franks Pretty Woman</sub-title>
         <desc lang="de">(USA) 2011 • S7 E1 • FSK 12
@@ -10188,7 +10188,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215224000 +0000" stop="20230215230000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215225000 +0000" stop="20230215230000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">CCN</title>
         <sub-title lang="de">Tattoos</sub-title>
         <desc lang="de"> 2019
@@ -10198,7 +10198,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/591c6cd0f033af5b5810b9b2.jpg"/>
     </programme>
 
-    <programme start="20230215230000 +0000" stop="20230215233000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215230000 +0000" stop="20230215232500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Pastewka</title>
         <sub-title lang="de">Eine Nacht zum Vergessen</sub-title>
         <desc lang="de">(D) 2018 • S8 E7 • FSK 12
@@ -10224,7 +10224,7 @@
         </rating>
     </programme>
 
-    <programme start="20230215233000 +0000" stop="20230215235000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215232500 +0000" stop="20230215235000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Modern Family</title>
         <sub-title lang="de">Unsere Kinder und wir</sub-title>
         <desc lang="de">(USA) 2010 • S2 E12
@@ -10246,7 +10246,7 @@
         <episode-num system="xmltv_ns">1 . 11 . </episode-num>
     </programme>
 
-    <programme start="20230215235000 +0000" stop="20230216001500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230215235000 +0000" stop="20230216002000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Modern Family</title>
         <sub-title lang="de">Bremsen Sie Ihre Nachbarn</sub-title>
         <desc lang="de">(USA) 2010 • S2 E11
@@ -10268,7 +10268,7 @@
         <episode-num system="xmltv_ns">1 . 10 . </episode-num>
     </programme>
 
-    <programme start="20230216001500 +0000" stop="20230216003500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216002000 +0000" stop="20230216004000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Das Familien-Duell</sub-title>
         <desc lang="de">(USA) 2001 • S2 E17
@@ -10294,7 +10294,7 @@
         <episode-num system="xmltv_ns">1 . 16 . </episode-num>
     </programme>
 
-    <programme start="20230216003500 +0000" stop="20230216005500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216004000 +0000" stop="20230216010000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Malcolm mittendrin</title>
         <sub-title lang="de">Der Meisterkoch</sub-title>
         <desc lang="de">(USA) 2001 • S2 E18
@@ -10321,7 +10321,7 @@
         <episode-num system="xmltv_ns">1 . 17 . </episode-num>
     </programme>
 
-    <programme start="20230216005500 +0000" stop="20230216013500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216010000 +0000" stop="20230216014500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">It’s Always Sunny in Philadelphia</title>
         <sub-title lang="de">Ein sonniges Weihnachtsfest</sub-title>
         <desc lang="de">(USA) 2010 • S6 E13
@@ -10346,7 +10346,7 @@
         <episode-num system="xmltv_ns">5 . 12 . </episode-num>
     </programme>
 
-    <programme start="20230216013500 +0000" stop="20230216020000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216014500 +0000" stop="20230216020500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Reno 911!</title>
         <sub-title lang="de">Heirat aus Versehen</sub-title>
         <desc lang="de">(USA) 2004 E28
@@ -10368,7 +10368,7 @@
         <episode-num system="xmltv_ns">0 . 27 . </episode-num>
     </programme>
 
-    <programme start="20230216020000 +0000" stop="20230216021000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216020500 +0000" stop="20230216021500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">CCN</title>
         <sub-title lang="de">Pressefreiheit</sub-title>
         <desc lang="de"> 2019
@@ -10378,7 +10378,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/591c6cd0f033af5b5810b9b2.jpg"/>
     </programme>
 
-    <programme start="20230216021000 +0000" stop="20230216023500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216021500 +0000" stop="20230216024000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Comedy Central Presents</title>
         <sub-title lang="de">Fremd &amp; unbekannt</sub-title>
         <desc lang="de">
@@ -10387,31 +10387,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/547f0c02e4b089153cb74c69.jpg"/>
     </programme>
 
-    <programme start="20230216023500 +0000" stop="20230216025500 +0000" channel="ComedyCentral/VIVA.de">
-        <title lang="de">Ugly Americans</title>
-        <sub-title lang="de">Marks Klon greift an</sub-title>
-        <desc lang="de">(USA) 2011 • S2 E6 • FSK 16
-        No Program Information available</desc>
-        <credits>
-            <director>Devin Clark</director>
-            <director> Lucy Snyder</director>
-            <actor>Matt Oberg</actor>
-            <actor>Mike Britt</actor>
-            <actor>Devin Clark</actor>
-            <actor>Pete Holmes</actor>
-            <actor>Rebekka Johnson</actor>
-        </credits>
-        <date>2011</date>
-        <category lang="de">Cartoons / Puppets</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5717a5d7ea60e50b6b8fbe67.jpg"/>
-        <country>USA</country>
-        <episode-num system="xmltv_ns">1 . 5 . </episode-num>
-        <rating>
-            <value>16</value>
-        </rating>
-    </programme>
-
-    <programme start="20230216025500 +0000" stop="20230216031500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216024000 +0000" stop="20230216030000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Ugly Americans</title>
         <sub-title lang="de">Die Geheimwaffe</sub-title>
         <desc lang="de">(USA) 2012 • S2 E12 • FSK 16
@@ -10435,7 +10411,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216031500 +0000" stop="20230216034000 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216030000 +0000" stop="20230216032000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Drawn Together</title>
         <sub-title lang="de">Kornflakes-Maskottchen</sub-title>
         <desc lang="de">(USA) 2007 • S3 E102 • FSK 16
@@ -10453,7 +10429,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216034000 +0000" stop="20230216035500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216032000 +0000" stop="20230216034000 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Drawn Together</title>
         <sub-title lang="de">Die Musical-Ausscheidungsfolge</sub-title>
         <desc lang="de">(USA) 2005 • S3 E14 • FSK 16
@@ -10472,7 +10448,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216035500 +0000" stop="20230216041500 +0000" channel="ComedyCentral/VIVA.de">
+    <programme start="20230216034000 +0000" stop="20230216040500 +0000" channel="ComedyCentral/VIVA.de">
         <title lang="de">Broad City</title>
         <sub-title lang="de">Weisheitszähne</sub-title>
         <desc lang="de">(USA) 2015 • S2 E3
@@ -12530,8 +12506,9 @@
 
     <programme start="20230215174500 +0000" stop="20230215183000 +0000" channel="SWR/SR">
         <title lang="de">RP: SWR Landesschau Rheinland-Pfalz</title>
-        <desc lang="de">
+        <desc lang="de"> 2023
         Es wird vom aktuellen Geschehen in Rheinland-Pfalz berichtet. Neben vielen umfangreich recherchierten Beiträgen gibt es auch interessante Gäste, die sich zu den jeweiligen Themen äußern. (Senderinfo)</desc>
+        <date>2023</date>
         <category lang="de">Magazines / Reports / Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5ee7848481896507f07f4d84.jpg"/>
     </programme>
@@ -12868,8 +12845,9 @@
 
     <programme start="20230216034500 +0000" stop="20230216043000 +0000" channel="SWR/SR">
         <title lang="de">RP: SWR Landesschau Rheinland-Pfalz</title>
-        <desc lang="de">
+        <desc lang="de"> 2023
         Es wird vom aktuellen Geschehen in Rheinland-Pfalz berichtet. Neben vielen umfangreich recherchierten Beiträgen gibt es auch interessante Gäste, die sich zu den jeweiligen Themen äußern. (Senderinfo)</desc>
+        <date>2023</date>
         <category lang="de">Magazines / Reports / Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5ee7848481896507f07f4d84.jpg"/>
     </programme>
@@ -13717,7 +13695,6 @@
 
     <programme start="20230215150000 +0000" stop="20230215153000 +0000" channel="MDR.de">
         <title lang="de">MDR um 4</title>
-        <sub-title lang="de">Neues von hier</sub-title>
         <desc lang="de"> 2023
         Die wichtigsten und aktuellsten Nachrichten aus den drei Ländern Sachsen, Sachsen-Anhalt und Thüringen. Die Reporter sind vor Ort unterwegs und liefern alle relevanten Hintergrundinformationen. (Senderinfo)</desc>
         <date>2023</date>
@@ -15052,7 +15029,7 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/54597287e4b0f17a831759cf.jpg"/>
     </programme>
 
-    <programme start="20230216020000 +0000" stop="20230216034500 +0000" channel="SPORT1Plus.de">
+    <programme start="20230216020000 +0000" stop="20230216031000 +0000" channel="SPORT1Plus.de">
         <title lang="de">Volleyball: Bundesliga der Frauen</title>
         <sub-title lang="de">VC Neuwied 77 – Ladies in Black Aachen, 16. ST, Frauen</sub-title>
         <desc lang="de">
@@ -15061,13 +15038,30 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177e38f8189652ccb4a71b3.jpg"/>
     </programme>
 
-    <programme start="20230216034500 +0000" stop="20230216040500 +0000" channel="SPORT1Plus.de">
+    <programme start="20230216031000 +0000" stop="20230216033500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Wasserball: Champions League</title>
         <sub-title lang="de">Highlights Waspo98 – NC Vouliagmeni/GRE, 7.ST</sub-title>
         <desc lang="de">
         No Program Information available</desc>
         <category lang="de">Wasserball</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/61ee6a7a8189656e35d47cae.jpg"/>
+    </programme>
+
+    <programme start="20230216033500 +0000" stop="20230216034000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/54597287e4b0f17a831759cf.jpg"/>
+    </programme>
+
+    <programme start="20230216034000 +0000" stop="20230216052500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Fußball: Pro League</title>
+        <sub-title lang="de">Royal Antwerpen – FC Brügge, 24. Spieltag</sub-title>
+        <desc lang="de">
+        No Program Information available</desc>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177ce218189652ccb4a2429.jpg"/>
     </programme>
 
     <programme start="20230215020000 +0000" stop="20230215041500 +0000" channel="Sport1US.de">
@@ -16775,7 +16769,7 @@
         Thema: Songs raten: Ben und Sarah stellen sich der Musik-Challenge! In verschiedenen Disziplinen müssen die beiden ihr Musikwissen unter Beweis stellen. Schaffen sie es nicht, warten fiese Bestrafungen auf sie. Also Augen und Ohren auf! (Senderinfo)</desc>
         <date>2022</date>
         <category lang="de">Magazines / Reports / Documentary</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/586cccc8f033af4d0f52a307.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63ecc24176ed8b13b4d52e39.jpg"/>
     </programme>
 
     <programme start="20230215191000 +0000" stop="20230215200000 +0000" channel="Kika.de">
@@ -24333,7 +24327,7 @@
         Osmo und Anders verirren sich, während sie aneinandergeklebt sind. /; Ritas Talent für Kettensägen-Eisskulpturen ist ein Rätsel. (Senderinfo)</desc>
         <date>2022</date>
         <category lang="de">Cartoons / Puppets</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177c36e8189652ccb4a024e.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63ece56b76ed8b13b4d649f8.jpg"/>
         <country>GB/FIN/F</country>
         <episode-num system="xmltv_ns">0 . 10 . </episode-num>
     </programme>
@@ -24345,7 +24339,7 @@
         Das Trio bringt einen Online-Lieferservice nach Winterton. (Senderinfo)</desc>
         <date>2021</date>
         <category lang="de">Cartoons / Puppets</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177c36e8189652ccb4a024e.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/63ece56b76ed8b13b4d649f8.jpg"/>
         <country>GB/FIN/F</country>
         <episode-num system="xmltv_ns">0 . 9 . </episode-num>
     </programme>
@@ -25011,13 +25005,24 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/590c3882f033af5b58dd0ae3.jpg"/>
     </programme>
 
-    <programme start="20230215073000 +0000" stop="20230215103000 +0000" channel="phoenix.de">
+    <programme start="20230215073000 +0000" stop="20230215101500 +0000" channel="phoenix.de">
         <title lang="de">phoenix vor ort</title>
         <desc lang="de"> 2023
         phoenix informiert über das politische und gesellschaftliche Geschehen in Deutschland, Europa und der Welt so ausführlich wie kaum ein anderer Sender. Wann immer und wo immer wichtige Ereignisse passieren, ist phoenix vor Ort dabei – mit eigenen Reportern oder mit dem Korrespondenten-Netzwerk von ARD und ZDF. Doch kein Ereignis steht für sich allein. Mit einordnenden Gesprächen, vertiefenden Dokumentationen und einem umfangreichen Online-Angebot beleuchtet phoenix Ereignisse aus unterschiedlichen Perspektiven, stellt Zusammenhänge dar und zeichnet Entwicklungen nach. Damit Sie sich zu den großen Themen unserer Zeit eine eigene, fundierte Meinung bilden können. Wann immer und wo immer wichtige Ereignisse passieren, ist phoenix vor Ort dabei. Doch kein Ereignis steht für sich allein. Mit einordnenden Gesprächen, vertiefenden Dokumentationen und einem umfangreichen Online-Angebot beleuchtet phoenix Ereignisse aus unterschiedlichen Perspektiven, stellt Zusammenhänge dar und zeichnet Entwicklungen nach. Damit Sie sich zu den großen Themen unserer Zeit eine eigene, fundierte Meinung bilden können. phoenix vor ort Montag bis Freitag, 9.00 Uhr, 10.00 Uhr, 12.00 Uhr, 14.00 Uhr "phoenix vor ort" zeigt Ihnen so ausführlich und so viele politische Ereignisse wie kein anderer Sender im deutschen Fernsehen. "phoenix vor ort" finden Sie zu vier festen Uhrzeiten am Tag, darüber hinaus immer wenn ein politisch relevantes Ereignis stattfindet. phoenix überträgt für Sie live die Plenarsitzungen des Deutschen Bundestages und aus dem Bundesrat, dem Europäischen Parlament, dem US-Kongress, der Duma oder anderen Parlamenten dieser Welt. Auch bei aktuellen Geschehnissen und Debatten außerhalb der Parlamente ist phoenix dabei – etwa bei Parteitagen, Pressekonferenzen oder Hauptversammlungen großer Aktien-Konzerne. Jedes Ereignis von Relevanz finden Sie hier – in der Regel live! In Gesprächen mit Expertinnen und Experten, Entscheidern und Journalistenkollegen werden aktuelle Themen und Debatten eingeordnet: Im "phoenix tagesgespräch" in der 9-Uhr-Sendung befragen wir Persönlichkeiten aus Politik, Wirtschaft und Gesellschaft zu aktuellen Themen und Ereignissen. Oft haben diese Interviews Einfluss auf die politische Agenda des Tages. In "phoenix nachgefragt" bitten wir Kolleginnen und Kollegen anderer Medienhäuser um ihre Meinung und Einschätzung. (Senderinfo)</desc>
         <date>2023</date>
         <category lang="de">News / Current affairs</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5b98dfcb8189652d080780e7.jpg"/>
+    </programme>
+
+    <programme start="20230215101500 +0000" stop="20230215103000 +0000" channel="phoenix.de">
+        <title lang="de">ukraine krieg nachgehakt</title>
+        <sub-title lang="de">Marder, Leopard &amp; Co. – der Krieg und die Panzer</sub-title>
+        <desc lang="de">(D) 2023
+        Gut ein Jahr währt inzwischen der Angriffskrieg Russlands gegen die Ukraine. Ein Jahr, in dem Gewissheiten erschüttert und Maßstäbe neu gesetzt wurden – und das mit großer Wucht. War es in Deutschland etwa bis zum Februar 2022 weitgehend tabu, Waffen – erst recht schwere – in Krisenoder gar Kriegsgebiete zu liefern, so konnte das kürzlich Vielen nicht schnell genug gehen. Im Mittelpunkt: Kampfpanzer wie der "Leopard". Aber: Welche Bedeutung hat eigentlich das im Westen gebaute Kriegsgerät für die Kämpfe in der Ukraine? Wie sehr kann es tatsächlich den Kriegsverlauf zugunsten des angegriffenen Landes beeinflussen? Und wie steht es um Nachschub an Munition, Ersatzteilen oder an Know-how bei Reparaturbedarf? Über diese und weitere Fragen spricht phoenix-Korrespondent Erhard Scherfer mit dem Verteidigungs- und Sicherheitsexperten Thomas Wiegold. (Senderinfo)</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
+        <country>D</country>
     </programme>
 
     <programme start="20230215103000 +0000" stop="20230215110000 +0000" channel="phoenix.de">
@@ -29701,8 +29706,9 @@
 
     <programme start="20230216020500 +0000" stop="20230216025000 +0000" channel="tagesschau24.de">
         <title lang="de">Landesschau Rheinland-Pfalz</title>
-        <desc lang="de">
+        <desc lang="de"> 2023
         Es wird vom aktuellen Geschehen in Rheinland-Pfalz berichtet. Neben vielen umfangreich recherchierten Beiträgen gibt es auch interessante Gäste, die sich zu den jeweiligen Themen äußern. (Senderinfo)</desc>
+        <date>2023</date>
         <category lang="de">Magazines / Reports / Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5ee7848481896507f07f4d84.jpg"/>
     </programme>
@@ -30028,7 +30034,7 @@
     </programme>
 
     <programme start="20230215113000 +0000" stop="20230215114500 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30056,7 +30062,7 @@
     </programme>
 
     <programme start="20230215123000 +0000" stop="20230215130000 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30111,7 +30117,7 @@
     </programme>
 
     <programme start="20230215144000 +0000" stop="20230215150000 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30138,7 +30144,7 @@
     </programme>
 
     <programme start="20230215153000 +0000" stop="20230215160000 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30165,7 +30171,7 @@
     </programme>
 
     <programme start="20230215163000 +0000" stop="20230215170000 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30220,7 +30226,7 @@
     </programme>
 
     <programme start="20230215183000 +0000" stop="20230215190000 +0000" channel="ntv.de">
-        <title lang="de">News Spezial</title>
+        <title lang="de">News Spezial: Krieg in der Ukraine</title>
         <desc lang="de"> 2023
         Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab. (Senderinfo)</desc>
         <date>2023</date>
@@ -30430,7 +30436,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215060000 +0000" stop="20230215061500 +0000" channel="WELT.de">
+    <programme start="20230215060000 +0000" stop="20230215060500 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30440,7 +30446,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215061500 +0000" stop="20230215063000 +0000" channel="WELT.de">
+    <programme start="20230215060500 +0000" stop="20230215061500 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30450,7 +30456,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215063000 +0000" stop="20230215064500 +0000" channel="WELT.de">
+    <programme start="20230215061500 +0000" stop="20230215062500 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30460,7 +30466,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215064500 +0000" stop="20230215070000 +0000" channel="WELT.de">
+    <programme start="20230215062500 +0000" stop="20230215063500 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30470,7 +30476,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215070000 +0000" stop="20230215071500 +0000" channel="WELT.de">
+    <programme start="20230215063500 +0000" stop="20230215064000 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30480,7 +30486,37 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215071500 +0000" stop="20230215073000 +0000" channel="WELT.de">
+    <programme start="20230215064000 +0000" stop="20230215064500 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Morgen</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215064500 +0000" stop="20230215071500 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Morgen</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215071500 +0000" stop="20230215072500 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Morgen</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215072500 +0000" stop="20230215073000 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30500,7 +30536,17 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215074500 +0000" stop="20230215080000 +0000" channel="WELT.de">
+    <programme start="20230215074500 +0000" stop="20230215075000 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Morgen</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215075000 +0000" stop="20230215080000 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Morgen</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30521,6 +30567,15 @@
     </programme>
 
     <programme start="20230215081500 +0000" stop="20230215083000 +0000" channel="WELT.de">
+        <title lang="de">WELT-LIVE Pressekonferenz des Hamburger Senats</title>
+        <desc lang="de"> 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+    </programme>
+
+    <programme start="20230215083000 +0000" stop="20230215083500 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30530,7 +30585,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215083000 +0000" stop="20230215084500 +0000" channel="WELT.de">
+    <programme start="20230215083500 +0000" stop="20230215084500 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30540,7 +30595,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215084500 +0000" stop="20230215090000 +0000" channel="WELT.de">
+    <programme start="20230215084500 +0000" stop="20230215085000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30550,7 +30605,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215090000 +0000" stop="20230215091500 +0000" channel="WELT.de">
+    <programme start="20230215085000 +0000" stop="20230215090000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30560,7 +30615,17 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215091500 +0000" stop="20230215093000 +0000" channel="WELT.de">
+    <programme start="20230215090000 +0000" stop="20230215091000 +0000" channel="WELT.de">
+        <title lang="de">WELT Newsroom</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215091000 +0000" stop="20230215093000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30580,7 +30645,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215094500 +0000" stop="20230215100000 +0000" channel="WELT.de">
+    <programme start="20230215094500 +0000" stop="20230215095000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30590,7 +30655,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215100000 +0000" stop="20230215101500 +0000" channel="WELT.de">
+    <programme start="20230215095000 +0000" stop="20230215095500 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30600,7 +30665,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215101500 +0000" stop="20230215103000 +0000" channel="WELT.de">
+    <programme start="20230215095500 +0000" stop="20230215101500 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30610,7 +30675,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215103000 +0000" stop="20230215104500 +0000" channel="WELT.de">
+    <programme start="20230215101500 +0000" stop="20230215102500 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30620,7 +30685,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215104500 +0000" stop="20230215110000 +0000" channel="WELT.de">
+    <programme start="20230215102500 +0000" stop="20230215105000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30630,7 +30695,27 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215110000 +0000" stop="20230215111500 +0000" channel="WELT.de">
+    <programme start="20230215105000 +0000" stop="20230215110000 +0000" channel="WELT.de">
+        <title lang="de">WELT Newsroom</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215110000 +0000" stop="20230215111000 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Mittag</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215111000 +0000" stop="20230215111500 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Mittag</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30660,17 +30745,47 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215114500 +0000" stop="20230215120000 +0000" channel="WELT.de">
-        <title lang="de">Börse am Mittag</title>
+    <programme start="20230215114500 +0000" stop="20230215115000 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Mittag</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
         <date>2023</date>
         <category lang="de">News / Current affairs</category>
-        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/5633294cea60e556a31be22f.jpg"/>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
         <country>D</country>
     </programme>
 
-    <programme start="20230215120000 +0000" stop="20230215123000 +0000" channel="WELT.de">
+    <programme start="20230215115000 +0000" stop="20230215115500 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Mittag</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215115500 +0000" stop="20230215120000 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Mittag</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215120000 +0000" stop="20230215121500 +0000" channel="WELT.de">
+        <title lang="de">Die Welt am Mittag</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215121500 +0000" stop="20230215123000 +0000" channel="WELT.de">
         <title lang="de">Die Welt am Mittag</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -30710,7 +30825,17 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215140000 +0000" stop="20230215143000 +0000" channel="WELT.de">
+    <programme start="20230215140000 +0000" stop="20230215142000 +0000" channel="WELT.de">
+        <title lang="de">WELT Newsroom</title>
+        <desc lang="de">(D) 2023
+        No Program Information available</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8f58189652ccb4a4110.jpg"/>
+        <country>D</country>
+    </programme>
+
+    <programme start="20230215142000 +0000" stop="20230215143000 +0000" channel="WELT.de">
         <title lang="de">WELT Newsroom</title>
         <desc lang="de">(D) 2023
         No Program Information available</desc>
@@ -42978,7 +43103,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215050000 +0000" stop="20230215055500 +0000" channel="MotorVision.de">
+    <programme start="20230215050000 +0000" stop="20230215055000 +0000" channel="MotorVision.de">
         <title lang="de">400 Thunder Australian Drag Racing Series</title>
         <sub-title lang="de">Pro Slammer Sportsmans, Santo's Summer Thunder, Sydney Dragway</sub-title>
         <desc lang="de">(AUS) 2020
@@ -42988,7 +43113,7 @@
         <country>AUS</country>
     </programme>
 
-    <programme start="20230215055500 +0000" stop="20230215062000 +0000" channel="MotorVision.de">
+    <programme start="20230215055000 +0000" stop="20230215062000 +0000" channel="MotorVision.de">
         <title lang="de">Cars + Life</title>
         <desc lang="de">(D) 2021
         Das neue Mobilmagazin präsentiert wöchentlich die aktuellsten Trends und Neuheiten der Autobranche. Egal ob kompakte Alltagshelden, windige City-Flitzer für den Großstadtdschungel, bullige SUVs für Familienausflüge oder moderne Elektro- und Wasserstofffahrzeuge: Unsere Experten nehmen Sie mit auf Probefahrt durch die Welt der Automobilität von heute und morgen. (Senderinfo)</desc>
@@ -42998,7 +43123,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215062000 +0000" stop="20230215065000 +0000" channel="MotorVision.de">
+    <programme start="20230215062000 +0000" stop="20230215064500 +0000" channel="MotorVision.de">
         <title lang="de">Perfect Ride</title>
         <sub-title lang="de">Alles Neu!</sub-title>
         <desc lang="de">(D) 2013 E21
@@ -43009,7 +43134,7 @@
         <episode-num system="xmltv_ns">0 . 20 . </episode-num>
     </programme>
 
-    <programme start="20230215065000 +0000" stop="20230215074500 +0000" channel="MotorVision.de">
+    <programme start="20230215064500 +0000" stop="20230215074000 +0000" channel="MotorVision.de">
         <title lang="de">NASCAR Cup Series 2022</title>
         <sub-title lang="de">Hollywood Casino 400, Kansas Speedway Highlight</sub-title>
         <desc lang="de">(USA) 2022 E48
@@ -43020,7 +43145,7 @@
         <episode-num system="xmltv_ns">0 . 47 . </episode-num>
     </programme>
 
-    <programme start="20230215074500 +0000" stop="20230215081000 +0000" channel="MotorVision.de">
+    <programme start="20230215074000 +0000" stop="20230215080500 +0000" channel="MotorVision.de">
         <title lang="de">Tuning – Tiefer geht's nicht!</title>
         <sub-title lang="de">Brabus</sub-title>
         <desc lang="de">(D) 2010 E76
@@ -43032,7 +43157,7 @@
         <episode-num system="xmltv_ns">0 . 75 . </episode-num>
     </programme>
 
-    <programme start="20230215081000 +0000" stop="20230215083500 +0000" channel="MotorVision.de">
+    <programme start="20230215080500 +0000" stop="20230215083500 +0000" channel="MotorVision.de">
         <title lang="de">Made in....</title>
         <sub-title lang="de">Bentley</sub-title>
         <desc lang="de">(D) 2017
@@ -43054,7 +43179,7 @@
         <episode-num system="xmltv_ns">0 . 70 . </episode-num>
     </programme>
 
-    <programme start="20230215090000 +0000" stop="20230215093000 +0000" channel="MotorVision.de">
+    <programme start="20230215090000 +0000" stop="20230215092500 +0000" channel="MotorVision.de">
         <title lang="de">Classic</title>
         <desc lang="de">(D) 2009
         Oldtimer und alles, was dazu gehört: Events, Rennsport, Portraits, Schraubertipps und die schönsten Bilder der Automobil-Archive aus aller Welt. Die schönsten Oldies, die schärfsten Rennwagen aus vergangenen Epochen. (Senderinfo)</desc>
@@ -43064,7 +43189,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215093000 +0000" stop="20230215095500 +0000" channel="MotorVision.de">
+    <programme start="20230215092500 +0000" stop="20230215095000 +0000" channel="MotorVision.de">
         <title lang="de">Classic Ride</title>
         <sub-title lang="de">50 Jahre Opel KAD</sub-title>
         <desc lang="de">(D) 2014
@@ -43075,7 +43200,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215095500 +0000" stop="20230215102000 +0000" channel="MotorVision.de">
+    <programme start="20230215095000 +0000" stop="20230215102000 +0000" channel="MotorVision.de">
         <title lang="de">Dumbest Stuff on Wheels</title>
         <sub-title lang="de">; Staffel 1</sub-title>
         <desc lang="de">(USA) 2009 E9
@@ -43132,7 +43257,7 @@
         <episode-num system="xmltv_ns">0 . 47 . </episode-num>
     </programme>
 
-    <programme start="20230215121000 +0000" stop="20230215123500 +0000" channel="MotorVision.de">
+    <programme start="20230215121000 +0000" stop="20230215124500 +0000" channel="MotorVision.de">
         <title lang="de">Dream Cars</title>
         <sub-title lang="de">Deutsche Limousinen</sub-title>
         <desc lang="de">(D) 2016 E7
@@ -43152,7 +43277,7 @@
         <episode-num system="xmltv_ns">0 . 6 . </episode-num>
     </programme>
 
-    <programme start="20230215123500 +0000" stop="20230215130500 +0000" channel="MotorVision.de">
+    <programme start="20230215124500 +0000" stop="20230215131000 +0000" channel="MotorVision.de">
         <title lang="de">High Octane</title>
         <sub-title lang="de">World Jet Ski Championship</sub-title>
         <desc lang="de">(USA) 2011 E57
@@ -43163,11 +43288,11 @@
         <episode-num system="xmltv_ns">0 . 56 . </episode-num>
     </programme>
 
-    <programme start="20230215130500 +0000" stop="20230215133000 +0000" channel="MotorVision.de">
+    <programme start="20230215131000 +0000" stop="20230215133000 +0000" channel="MotorVision.de">
         <title lang="de">Abenteuer Allrad</title>
-        <desc lang="de">(D) 2010
-        Abenteuer Allrad, ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo)</desc>
-        <date>2010</date>
+        <desc lang="de">(D) 2009
+        Ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. Abenteuer Allrad entführt den Zuschauer diesmal nach Nord-und Südamerika. Mit fünf Allrad-VW-Bussen geht es auf eine 23.000 Kilometer lange Reise. (Senderinfo)</desc>
+        <date>2009</date>
         <category lang="de">Magazines / Reports / Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
         <country>D</country>
@@ -43207,7 +43332,7 @@
         <episode-num system="xmltv_ns">0 . 8 . </episode-num>
     </programme>
 
-    <programme start="20230215152000 +0000" stop="20230215154500 +0000" channel="MotorVision.de">
+    <programme start="20230215152000 +0000" stop="20230215155000 +0000" channel="MotorVision.de">
         <title lang="de">Formula E – Specials</title>
         <sub-title lang="de">Die Geschichte der Formula E 3</sub-title>
         <desc lang="de">(F) 2020 E7
@@ -43218,7 +43343,7 @@
         <episode-num system="xmltv_ns">0 . 6 . </episode-num>
     </programme>
 
-    <programme start="20230215154500 +0000" stop="20230215161000 +0000" channel="MotorVision.de">
+    <programme start="20230215155000 +0000" stop="20230215161500 +0000" channel="MotorVision.de">
         <title lang="de">Grüne Welle</title>
         <sub-title lang="de">Kompakte E-SUVs</sub-title>
         <desc lang="de">(D) 2022 E55
@@ -43230,7 +43355,7 @@
         <episode-num system="xmltv_ns">0 . 54 . </episode-num>
     </programme>
 
-    <programme start="20230215161000 +0000" stop="20230215164000 +0000" channel="MotorVision.de">
+    <programme start="20230215161500 +0000" stop="20230215164000 +0000" channel="MotorVision.de">
         <title lang="de">Super Cars</title>
         <sub-title lang="de">Elektropower – Saft als Kraft</sub-title>
         <desc lang="de"> 2020 E216
@@ -43241,7 +43366,7 @@
         <episode-num system="xmltv_ns">0 . 215 . </episode-num>
     </programme>
 
-    <programme start="20230215164000 +0000" stop="20230215170500 +0000" channel="MotorVision.de">
+    <programme start="20230215164000 +0000" stop="20230215171000 +0000" channel="MotorVision.de">
         <title lang="de">Gearing Up 2022</title>
         <desc lang="de">(GR) 2022
         Die pure Leidenschaft für den Rennsport, außergewöhnliche Talente und Nervenkitzel bis zur letzten Sekunde – das verspricht dieses Magazin, das von den spannendsten Motorsportevents berichtet. (Senderinfo)</desc>
@@ -43250,26 +43375,27 @@
         <country>GR</country>
     </programme>
 
-    <programme start="20230215170500 +0000" stop="20230215173500 +0000" channel="MotorVision.de">
+    <programme start="20230215171000 +0000" stop="20230215174000 +0000" channel="MotorVision.de">
         <title lang="de">Extreme E: Electric Odissey 2022</title>
         <desc lang="de">(GB) 2022
-        Die Rennserie will das Bewusstsein für Umwelt und Gleichberechtigung schärfen, indem Fahrer in elektrischen SUVs in einigen der abgelegensten und in Bezug auf die Umwelt am meisten geschädigten Gegenden der Erde gegeneinander antreten. (Senderinfo)</desc>
+        Chile ist Austragungsort der vierten Runde der Extreme-E-Saison 2022. Am Samstag stehen die Qualifyings auf dem Programm, die bereits eine Menge Action versprechen. Außerdem steht Rallye-Legende Sebastien Loeb, der neunmal die WRC gewonnen hat, im Fokus. (Senderinfo)</desc>
         <date>2022</date>
         <category lang="de">Magazines / Reports / Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d1a08189652ccb4a29a1.jpg"/>
         <country>GB</country>
     </programme>
 
-    <programme start="20230215173500 +0000" stop="20230215180000 +0000" channel="MotorVision.de">
+    <programme start="20230215174000 +0000" stop="20230215180500 +0000" channel="MotorVision.de">
         <title lang="de">Bike World</title>
         <desc lang="de">(F) 2022
         No Program Information available</desc>
         <date>2022</date>
-        <category lang="de">undefined content</category>
+        <category lang="de">Motor sport</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8d78189652ccb4a40e9.jpg"/>
         <country>F</country>
     </programme>
 
-    <programme start="20230215180000 +0000" stop="20230215183000 +0000" channel="MotorVision.de">
+    <programme start="20230215180500 +0000" stop="20230215183500 +0000" channel="MotorVision.de">
         <title lang="de">Dream Cars</title>
         <sub-title lang="de">Legendäre Sportautos</sub-title>
         <desc lang="de">(D) 2017
@@ -43280,11 +43406,11 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230215183000 +0000" stop="20230215190000 +0000" channel="MotorVision.de">
+    <programme start="20230215183500 +0000" stop="20230215190000 +0000" channel="MotorVision.de">
         <title lang="de">Alpen Marathon</title>
-        <sub-title lang="de">Dreiländereck Kärnten, Slowenien und Italien</sub-title>
+        <sub-title lang="de">Kärnten und das Dreiländereck</sub-title>
         <desc lang="de">(D) 2022 E6
-        Auf einer Motorradtour durch das Massif Central lernt der Zuschauer die facettenreiche Landschaft, Sehenswürdigkeiten, interessante Leute und beste französische Küche kennen. Ein Einblick mit Tipps in einen unentdeckten Teil Frankreichs. (Senderinfo)</desc>
+        Eine Motorrad-Tour durch das südlichste Bundesland Österreichs und das Dreiländereck zu Slowenien und Italien. Vorbei an malerischen Seen, wie dem Faaker oder Ossiacher See, mit den besten Routen und Tipps zu Kultur und Kulinarik. (Senderinfo)</desc>
         <date>2022</date>
         <category lang="de">Documentary</category>
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177c5e58189652ccb4a0c0a.jpg"/>
@@ -43303,37 +43429,28 @@
         <episode-num system="xmltv_ns">0 . 48 . </episode-num>
     </programme>
 
-    <programme start="20230215195500 +0000" stop="20230215202500 +0000" channel="MotorVision.de">
-        <title lang="de">UIM Aquabike World Championship 2022</title>
-        <sub-title lang="de">GP von Kuwait, Runabout</sub-title>
-        <desc lang="de">(F) 2022 E3
+    <programme start="20230215195500 +0000" stop="20230215205000 +0000" channel="MotorVision.de">
+        <title lang="de">WGP#1 World Series 2022</title>
+        <sub-title lang="de">Lake Havasu City, Arizona, USA</sub-title>
+        <desc lang="de">(GR) 2022 E2
         No Program Information available</desc>
         <date>2022</date>
-        <category lang="de">undefined content</category>
-        <country>F</country>
-        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
-    </programme>
-
-    <programme start="20230215202500 +0000" stop="20230215205500 +0000" channel="MotorVision.de">
-        <title lang="de">UIM F1H2O World Powerboat Championship 2022</title>
-        <sub-title lang="de">GP von Frankreich, Macon</sub-title>
-        <desc lang="de">(F) 2022 E1
-        Vorhang auf für die Formel 1 im Motorbootsport: Laut Weltdachverband UIM ist sie H20 die schnellste Außenbord-Rennbootserie bei Rundstreckenrennen und wird seit Jahren von Philippe Chiappe dominiert. (Senderinfo)</desc>
-        <date>2022</date>
-        <category lang="de">undefined content</category>
-        <country>F</country>
-        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
-    </programme>
-
-    <programme start="20230215205500 +0000" stop="20230215212500 +0000" channel="MotorVision.de">
-        <title lang="de">Class 1 Offshore Championship 2022</title>
-        <sub-title lang="de">Saratosa Offshore Grand Prix, Florida</sub-title>
-        <desc lang="de">(USA) 2022 E2
-        Die Königsklasse unter den Rennsport-Booten, die Class-1-Meisterschaft, startet südlich von Tampa in Sarasota. An der Westküste von Florida steht ein spannendes Rennen mit Katamarane mit über 1.000 PS Leistung auf dem Programm. Wer holt sich den Sieg? (Senderinfo)</desc>
-        <date>2022</date>
-        <category lang="de">undefined content</category>
-        <country>USA</country>
+        <category lang="de">Wassersport</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177e3808189652ccb4a719b.jpg"/>
+        <country>GR</country>
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+    </programme>
+
+    <programme start="20230215205000 +0000" stop="20230215212500 +0000" channel="MotorVision.de">
+        <title lang="de">AquaX Championship 2022</title>
+        <sub-title lang="de">Saisonrückblick</sub-title>
+        <desc lang="de">(USA) 2022 E8
+        Die P1 USA AquaX Championship bietet Wassersportfans eine Reihe von spektakulären Rennevents in den Vereinigten Staaten, bei denen sich wagemutige Jetskifahrer in rasanten Rennen miteinander messen. (Senderinfo)</desc>
+        <date>2022</date>
+        <category lang="de">Wassersport</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177e3808189652ccb4a719b.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">0 . 7 . </episode-num>
     </programme>
 
     <programme start="20230215212500 +0000" stop="20230215221000 +0000" channel="MotorVision.de">
@@ -43357,18 +43474,19 @@
         <episode-num system="xmltv_ns">0 . 2 . </episode-num>
     </programme>
 
-    <programme start="20230215224000 +0000" stop="20230215233500 +0000" channel="MotorVision.de">
+    <programme start="20230215224000 +0000" stop="20230215233000 +0000" channel="MotorVision.de">
         <title lang="de">Australian V8 Superboat Championship 2022</title>
-        <sub-title lang="de">Spitwater Arena, Keith, South Australia, Runde 3</sub-title>
-        <desc lang="de">(AUS) 2022 E3
+        <sub-title lang="de">Cabarita Beach, New South Wales, Runde 2</sub-title>
+        <desc lang="de">(AUS) 2022 E2
         Nach einer zwölfmonatigen Pause, um die Probleme im Zusammenhang mit der Covid-19-Pandemie anzugehen, kehrte die Penrite Australian V8 Superboats Championship in der wohl besten Anlage der Welt zurück. (Senderinfo)</desc>
         <date>2022</date>
-        <category lang="de">undefined content</category>
+        <category lang="de">Wassersport</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177e3808189652ccb4a719b.jpg"/>
         <country>AUS</country>
-        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+        <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20230215233500 +0000" stop="20230216003000 +0000" channel="MotorVision.de">
+    <programme start="20230215233000 +0000" stop="20230216002000 +0000" channel="MotorVision.de">
         <title lang="de">NASCAR Cup Series 2022</title>
         <sub-title lang="de">Bass Pro Shops Night Race, Bristol Motor Speedway</sub-title>
         <desc lang="de">(USA) 2022 E49
@@ -43379,7 +43497,7 @@
         <episode-num system="xmltv_ns">0 . 48 . </episode-num>
     </programme>
 
-    <programme start="20230216003000 +0000" stop="20230216005500 +0000" channel="MotorVision.de">
+    <programme start="20230216002000 +0000" stop="20230216005000 +0000" channel="MotorVision.de">
         <title lang="de">Classic</title>
         <desc lang="de">(D) 2009
         Oldtimer und alles, was dazu gehört: Events, Rennsport, Portraits, Schraubertipps und die schönsten Bilder der Automobil-Archive aus aller Welt. Die schönsten Oldies, die schärfsten Rennwagen aus vergangenen Epochen. (Senderinfo)</desc>
@@ -43389,7 +43507,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230216005500 +0000" stop="20230216012500 +0000" channel="MotorVision.de">
+    <programme start="20230216005000 +0000" stop="20230216011500 +0000" channel="MotorVision.de">
         <title lang="de">Classic Ride</title>
         <sub-title lang="de">50 Jahre Opel KAD</sub-title>
         <desc lang="de">(D) 2014
@@ -43400,7 +43518,7 @@
         <country>D</country>
     </programme>
 
-    <programme start="20230216012500 +0000" stop="20230216015000 +0000" channel="MotorVision.de">
+    <programme start="20230216011500 +0000" stop="20230216013500 +0000" channel="MotorVision.de">
         <title lang="de">Dumbest Stuff on Wheels</title>
         <sub-title lang="de">; Staffel 1</sub-title>
         <desc lang="de">(USA) 2009 E9
@@ -43412,7 +43530,7 @@
         <episode-num system="xmltv_ns">0 . 8 . </episode-num>
     </programme>
 
-    <programme start="20230216015000 +0000" stop="20230216021500 +0000" channel="MotorVision.de">
+    <programme start="20230216013500 +0000" stop="20230216020000 +0000" channel="MotorVision.de">
         <title lang="de">Super Cars</title>
         <sub-title lang="de">Cadillac ATS-V vs. Maserati Ghibli vs. Kia Stinger</sub-title>
         <desc lang="de">(D) 2018 E207
@@ -43424,7 +43542,7 @@
         <episode-num system="xmltv_ns">0 . 206 . </episode-num>
     </programme>
 
-    <programme start="20230216021500 +0000" stop="20230216024000 +0000" channel="MotorVision.de">
+    <programme start="20230216020000 +0000" stop="20230216022500 +0000" channel="MotorVision.de">
         <title lang="de">Crash</title>
         <desc lang="de"> 2015
         Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo)</desc>
@@ -43433,7 +43551,19 @@
         <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177c5e58189652ccb4a0c0a.jpg"/>
     </programme>
 
-    <programme start="20230216024000 +0000" stop="20230216030500 +0000" channel="MotorVision.de">
+    <programme start="20230216022500 +0000" stop="20230216024500 +0000" channel="MotorVision.de">
+        <title lang="de">On Tour</title>
+        <sub-title lang="de">Bavaria Historic Rallye</sub-title>
+        <desc lang="de">(D) 2011 E3
+        Bavaria Historic Rallye Etwa 3000 "Schnauferl" tummeln sich vor einem malerischen. Auf Hochglanz poliert geht's für manche eher sportlich, für andere eher gemütlich und für wieder andere vor allem "geschicklich" auf die Piste. (Senderinfo)</desc>
+        <date>2011</date>
+        <category lang="de">Motor sport</category>
+        <icon src="http://live.tvspielfilm.de/static/images/broadcasts/952/6177d8d78189652ccb4a40e9.jpg"/>
+        <country>D</country>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+    </programme>
+
+    <programme start="20230216024500 +0000" stop="20230216031500 +0000" channel="MotorVision.de">
         <title lang="de">Biker Lifestyle</title>
         <sub-title lang="de">Thailand – Mit dem Motorrad durch den Norden 2018,</sub-title>
         <desc lang="de">(D) 2018 E164
@@ -43445,7 +43575,7 @@
         <episode-num system="xmltv_ns">0 . 163 . </episode-num>
     </programme>
 
-    <programme start="20230216030500 +0000" stop="20230216033500 +0000" channel="MotorVision.de">
+    <programme start="20230216031500 +0000" stop="20230216034000 +0000" channel="MotorVision.de">
         <title lang="de">Car History</title>
         <sub-title lang="de">Mercedes Rally</sub-title>
         <desc lang="de">(D) 2015 E48
@@ -43457,7 +43587,7 @@
         <episode-num system="xmltv_ns">0 . 47 . </episode-num>
     </programme>
 
-    <programme start="20230216033500 +0000" stop="20230216040500 +0000" channel="MotorVision.de">
+    <programme start="20230216034000 +0000" stop="20230216041000 +0000" channel="MotorVision.de">
         <title lang="de">Dream Cars</title>
         <sub-title lang="de">Deutsche Limousinen</sub-title>
         <desc lang="de">(D) 2016 E7
@@ -57988,7 +58118,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216035500 +0000" stop="20230216045000 +0000" channel="Sky Nature">
+    <programme start="20230216035500 +0000" stop="20230216043500 +0000" channel="Sky Nature">
         <title lang="de">Patagonia</title>
         <sub-title lang="de">Der Süden</sub-title>
         <desc lang="de">(USA) 2022 E4 • FSK 6
@@ -58512,7 +58642,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216034500 +0000" stop="20230216044500 +0000" channel="RTLup">
+    <programme start="20230216034500 +0000" stop="20230216043000 +0000" channel="RTLup">
         <title lang="ch">Das Jugendgericht</title>
         <desc lang="ch">(DE) 2001 • FSK 12
         Die Gerichtsshow befasst sicht ausschliesslich mit Fällen jugendlicher Straftäter.</desc>
@@ -58525,7 +58655,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216044500 +0000" stop="20230216053000 +0000" channel="RTLup">
+    <programme start="20230216043000 +0000" stop="20230216051000 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Die Spitze des Eisbergs; Keusch und Keuscher</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58539,7 +58669,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216053000 +0000" stop="20230216062000 +0000" channel="RTLup">
+    <programme start="20230216051000 +0000" stop="20230216055500 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Der verflixte siebte Monat; Fussball ist unser Leben</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58553,7 +58683,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216062000 +0000" stop="20230216071000 +0000" channel="RTLup">
+    <programme start="20230216055500 +0000" stop="20230216065500 +0000" channel="RTLup">
         <title lang="ch">Das Jugendgericht</title>
         <desc lang="ch">(DE) 2001 • FSK 12
         Die Gerichtsshow befasst sicht ausschliesslich mit Fällen jugendlicher Straftäter.</desc>
@@ -58566,7 +58696,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216071000 +0000" stop="20230216080000 +0000" channel="RTLup">
+    <programme start="20230216065500 +0000" stop="20230216074500 +0000" channel="RTLup">
         <title lang="ch">Das Jugendgericht</title>
         <desc lang="ch">(DE) 2001 • FSK 12
         Die Gerichtsshow befasst sicht ausschliesslich mit Fällen jugendlicher Straftäter.</desc>
@@ -58579,7 +58709,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216080000 +0000" stop="20230216085500 +0000" channel="RTLup">
+    <programme start="20230216074500 +0000" stop="20230216084500 +0000" channel="RTLup">
         <title lang="ch">Das Jugendgericht</title>
         <desc lang="ch">(DE) 2001 • FSK 12
         Die Gerichtsshow befasst sicht ausschliesslich mit Fällen jugendlicher Straftäter.</desc>
@@ -58592,7 +58722,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216085500 +0000" stop="20230216095000 +0000" channel="RTLup">
+    <programme start="20230216084500 +0000" stop="20230216094500 +0000" channel="RTLup">
         <title lang="ch">Die Trovatos: Detektive decken auf</title>
         <sub-title lang="ch">Rufmord</sub-title>
         <desc lang="ch">(DE) 2015 • FSK 12
@@ -58606,7 +58736,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216095000 +0000" stop="20230216105000 +0000" channel="RTLup">
+    <programme start="20230216094500 +0000" stop="20230216104500 +0000" channel="RTLup">
         <title lang="ch">Die Trovatos: Detektive decken auf</title>
         <sub-title lang="ch">Der Freispruch</sub-title>
         <desc lang="ch">(DE) 2020 • FSK 12
@@ -58620,7 +58750,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216105000 +0000" stop="20230216114000 +0000" channel="RTLup">
+    <programme start="20230216104500 +0000" stop="20230216113500 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Mamakind; Ehe mit Hindernissen</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58634,7 +58764,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216114000 +0000" stop="20230216123500 +0000" channel="RTLup">
+    <programme start="20230216113500 +0000" stop="20230216123000 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Gefangene der Liebe; Treusorgende Schwestern</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58648,7 +58778,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216123500 +0000" stop="20230216132500 +0000" channel="RTLup">
+    <programme start="20230216123000 +0000" stop="20230216132000 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Bis dass der Tod uns scheidet; Hinter dem Horizont</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58662,7 +58792,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216132500 +0000" stop="20230216141500 +0000" channel="RTLup">
+    <programme start="20230216132000 +0000" stop="20230216141000 +0000" channel="RTLup">
         <title lang="ch">Das Familiengericht</title>
         <sub-title lang="ch">Magda macht Schluss; Des Menschen Wille</sub-title>
         <desc lang="ch">(DE) 2014 • FSK 12
@@ -58676,7 +58806,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216141500 +0000" stop="20230216150500 +0000" channel="RTLup">
+    <programme start="20230216141000 +0000" stop="20230216150500 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">Junge zieht Bollerwagen; Randale beim Paartherapeuten</sub-title>
         <desc lang="ch">(DE) 2017 • FSK 12
@@ -58704,7 +58834,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216155500 +0000" stop="20230216165000 +0000" channel="RTLup">
+    <programme start="20230216155500 +0000" stop="20230216164500 +0000" channel="RTLup">
         <title lang="ch">Das Strafgericht</title>
         <desc lang="ch">(DE) 2002 • FSK 12
         Der Richter Ulrich Wetzel fällt Urteile, nachdem die Staatsanwaltschaft sowie die Verteidiger alle Beteiligten ins Kreuzverhör genommen haben. In den Fällen geht es zum Beispiel um Körperverletzung, Diebstahl, Kinderhandel und Mord.</desc>
@@ -58720,7 +58850,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216165000 +0000" stop="20230216174000 +0000" channel="RTLup">
+    <programme start="20230216164500 +0000" stop="20230216174000 +0000" channel="RTLup">
         <title lang="ch">Das Strafgericht</title>
         <desc lang="ch">(DE) 2002 • FSK 12
         Der Richter Ulrich Wetzel fällt Urteile, nachdem die Staatsanwaltschaft sowie die Verteidiger alle Beteiligten ins Kreuzverhör genommen haben. In den Fällen geht es zum Beispiel um Körperverletzung, Diebstahl, Kinderhandel und Mord.</desc>
@@ -58768,7 +58898,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216191500 +0000" stop="20230216201000 +0000" channel="RTLup">
+    <programme start="20230216191500 +0000" stop="20230216200500 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">Puppe mit Regenwürmern und Käfern</sub-title>
         <desc lang="ch">(DE) 2017 • FSK 12
@@ -58782,7 +58912,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216201000 +0000" stop="20230216210000 +0000" channel="RTLup">
+    <programme start="20230216200500 +0000" stop="20230216210000 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">u.a.: 6-jähriger Junge übernachtet auf Spielplatz; Bewaffnete Braut randaliert in Supermarkt</sub-title>
         <desc lang="ch">(DE) 2017 • FSK 12
@@ -58796,7 +58926,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216210000 +0000" stop="20230216215500 +0000" channel="RTLup">
+    <programme start="20230216210000 +0000" stop="20230216215000 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">u.a.: Unfall entlarvt dreisten Betrug; Frau nach blutiger Paketsendung verschwunden</sub-title>
         <desc lang="ch">(DE) 2017 • FSK 12
@@ -58810,7 +58940,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216215500 +0000" stop="20230216224500 +0000" channel="RTLup">
+    <programme start="20230216215000 +0000" stop="20230216224000 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">Tankstellenräuber entführt Auto mit</sub-title>
         <desc lang="ch">(DE) 2017 • FSK 12
@@ -58824,7 +58954,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216224500 +0000" stop="20230216233000 +0000" channel="RTLup">
+    <programme start="20230216224000 +0000" stop="20230216232500 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">Vertauschte Sporttaschen; Ehepaar wird überfallen; Mutter bedroht Freundin der Tochter</sub-title>
         <desc lang="ch">(DE) 2015 • FSK 12
@@ -58838,7 +58968,7 @@
         </rating>
     </programme>
 
-    <programme start="20230216233000 +0000" stop="20230217001500 +0000" channel="RTLup">
+    <programme start="20230216232500 +0000" stop="20230217001500 +0000" channel="RTLup">
         <title lang="ch">Der Blaulicht Report</title>
         <sub-title lang="ch">Frau beim Couch-Surfing verschwunden</sub-title>
         <desc lang="ch">(DE) 2016 • FSK 12
