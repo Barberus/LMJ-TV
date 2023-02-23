@@ -1,0 +1,1833 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/ARD-HD.png",	Das Erste HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6256
+
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/ARD-HD.png",	Das Erste HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6256
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/zdfhd.png",  ZDF FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6151
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/zdfhd.png", ZDF FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6151
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/zdfhd.png", ZDF HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/17011
+
+#EXTINF:-1 tvg-name="RTL HD" tvg-id="RTL HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlhd.png",  RTL FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/13565
+
+#EXTINF:-1 tvg-name="RTL HD" tvg-id="RTL HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlhd.png",  RTL FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/683243
+
+#EXTINF:-1 tvg-name="RTL HD" tvg-id="RTL HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlhd.png",  RTL HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6216
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6210
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/683455
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6210
+
+#EXTINF:-1 tvg-name="SAT1 HD" id="SAT.1 HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683455
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6210
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/683455
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6210
+
+#EXTINF:-1 tvg-name="SAT1 HD" tvg-id="SAT.1 HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/sat1hd.png",  Sat.1 HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683455
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png",  ProSieben HD
+http://ipflix.click:8080/sq1x0qr86b/7777/694060
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png",  ProSieben HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8235
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png",  ProSieben HD
+http://ipflix.click:8080/sq1x0qr86b/7777/683393
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png",  ProSieben HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13144
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png", ProSieben HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/694060
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png", ProSieben HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8235
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png", ProSieben HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683393
+
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-id="Pro7.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenhd.png", ProSieben HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13144
+
+#EXTINF:-1 tvg-name="VOX HD" tvg-id="Vox.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13553
+
+#EXTINF:-1 tvg-name="VOX HD" tvg-id="Vox.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6153
+
+#EXTINF:-1 tvg-name="VOX HD" tvg-id="Vox.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13553
+
+#EXTINF:-1 tvg-name="VOX HD" tvg-id="Vox.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6153
+
+#EXTINF:-1 tvg-name="Kabel eins HD" tvg-id="Kabel eins HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/kabeleinshd.png",  Kabel eins HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6242
+
+#EXTINF:-1 tvg-name="Kabel eins HD" tvg-id="Kabel eins HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/kabeleinshd.png",	 Kabel eins HD	
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6242
+
+#EXTINF:-1 tvg-name="RTLZWEI HD" tvg-id="RTL2.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtl2hd.png",  RTLZWEI HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6215
+
+#EXTINF:-1 tvg-name="RTLZWEI HD" tvg-id="RTL2.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtl2hd.png",  RTLZWEI HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13136
+
+#EXTINF:-1 tvg-name="RTLZWEI HD" tvg-id="RTL2.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/rtl2hd.png",  RTLZWEI HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6215
+
+#EXTINF:-1 tvg-name="RTLZWEI HD" tvg-id="RTL2.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/rtl2hd.png",  RTLZWEI HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13136
+
+#EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/3sathd.png",  3sat HD 
+http://ipflix.click:8080/sq1x0qr86b/7777/16289
+
+#EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/3sathd.png",  3sat HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6265
+
+#EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="TV" tvg-logo="http://100.10.10.12/kodi/logo/3sathd.png",  3sat HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="arte HD" tvg-id="ARTE.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/artehd.png",  arte HD
+http://ipflix.click:8080/sq1x0qr86b/7777/5091
+
+#EXTINF:-1 tvg-name="arte HD" tvg-id="ARTE.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/artehd.png",  arte HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9139
+
+#EXTINF:-1 tvg-name="arte HD" tvg-id="ARTE.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/artehd.png",  arte HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6261
+
+#EXTINF:-1 tvg-name="arte HD" tvg-id="ARTE.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",  arte HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Servus-TV-HD.png",  ServusTV HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6208
+
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="TV" tvg-logo="http://100.10.10.12/kodi/logo/Servus-TV-HD.png",  ServusTV HD
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
+
+#EXTINF:-1 tvg-name="BILD HD" tvg-id="BILD HD" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",  BILD HD
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name)="MDR Thüringen HD" tvg-id="MDRThuringen.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/MDR-HD.png",  MDR Thüringen HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6238
+
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMmax.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/dmaxhd.png",  DMAX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6249
+
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/ZDF-Info-HD.png",  ZDFinfo HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9148
+
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",  ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/ardalpha.png",  ARD-alpha HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13171
+
+#EXTINF:-1 tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="TV" tvg-logo="http://100.10.10.12/kodi/logo/ardalpha.png", ARD-alpha HD 
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-id="NatGeo.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/National-Geographic-Channel-HD.png",  NatGeo HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8194
+
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-id="NatGeo.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/National-Geographic-Channel-HD.png",  NatGeo HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6226
+
+#EXTINF:-1 tvg-name="Spiegel TV Wissen HD" tvg-id="Spiegel TV Wissen HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Spiegel-TV-Wissen-HD.png",  Spiegel TV Wissen HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9135
+
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-id="DiscoveryChannel.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Discovery-Channel-HD.png",  Discovery Channel HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13570
+
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-id="DiscoveryChannel.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Discovery-Channel-HD.png",  Discovery Channel HD  
+http://ipflix.click:8080/sq1x0qr86b/7777/5096
+
+#EXTINF:-1 tvg-name="The HISTORY Channel HD" tvg-id="The HISTORY Channel HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/History-HD.png",  The HISTORY Channel HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6244
+
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-id="NatGeoWild.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Nat-Geo-Wild-HD.png",  National Geographic Wild HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6227
+
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-id="NatGeoWild.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Nat-Geo-Wild-HD.png",  National Geographic Wild HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9136
+
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-id="NatGeoWild.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Nat-Geo-Wild-HD.png",  National Geographic Wild HD
+http://ipflix.click:8080/sq1x0qr86b/7777/5085
+
+#EXTINF:-1 tvg-namet="Crime + Investigation HD" vg-id="Crime + Investigation HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Crime + Investigation HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8197
+
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" tvg-id="ComedyCentral/VIVA.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/comedycentralhd.png",  COMEDY CENTRAL HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6154
+
+#EXTINF:-1 tvg-name="ZDF_neo HD" tvg-id="ZDFneo.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/ZDF-Neo-HD.png",  ZDF_neo HD
+http://ipflix.click:8080/sq1x0qr86b/7777/17304
+
+#EXTINF:-1 tvg-name="ZDF_neo HD" tvg-id="ZDFneo.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/ZDF-Neo-HD.png",  ZDF_neo HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/17304
+
+#EXTINF:-1 tvg-name="Nitro HD" tvg-id="RTLNitro.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/rtlnitrohd.png",  Nitro HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6212
+
+#EXTINF:-1 tvg-name="Nitro HD" tvg-id="RTLNitro.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/rtlnitrohd.png",  Nitro HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13137
+
+#EXTINF:-1 tvg-name="Nitro HD" tvg-id="RTLNitro.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlnitrohd.png",  Nitro HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6212
+
+#EXTINF:-1 tvg-name="Nitro HD" tvg-id="RTLNitro.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlnitrohd.png",  Nitro HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13137
+
+#EXTINF:-1 tvg-name="SAT.1 GOLD HD" tvg-id="Sat1Gold.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sat1goldhd.png",  SAT.1 GOLD HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6209
+
+#EXTINF:-1 tvg-name="Tele 5 HD" tvg-id="Tele5.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/tele5hd.png",  Tele 5 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9150
+
+#EXTINF:-1 tvg-name="Disney HD" tvg-id="disneychannel.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/disneychannel.png",  Disney HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6253
+
+#EXTINF:-1 tvg-name="sixx HD" tvg-id="Sixx.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/sixxhd.png",  Sixx FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6207
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6218
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben Maxx HD
+http://ipflix.click:8080/sq1x0qr86b/7777/683394
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13143
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8234
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6218
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683394
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13143
+
+#EXTINF:-1 tvg-name="ProSieben MAXX HD" tvg-id="ProSieben MAXX HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/prosiebenmaxxhd.png",  ProSieben MAXX HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8234
+
+#EXTINF:-1 tvg-name="RTLup" tvg-id="RTLup HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/rtlup.png",  RTLup
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9152
+
+#EXTINF:-1 tvg-name="RTLup" tvg-id="RTLup HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/rtlup.png",  RTLup
+http://ipflix.click:8080/sq1x0qr86b/7777/9152
+
+#EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" group-title="TV 1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",  One HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9147
+
+#EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Warner TV Comedy" tvg-id="Warner TV Comedy HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Comedy FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6157
+
+#EXTINF:-1 tvg-name="Warner TV Comedy" id="Warner TV Comedy HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Comedy HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
+
+#EXTINF:-1 tvg-name="Warner TV Film" tvg-id="Warner TV Film HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Film FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
+
+#EXTINF:-1 tvg-name="Warner TV Film" tvg-id="Warner TV Film HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Film HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683894
+
+#EXTINF:-1 tvg-name="Warner TV Serie" tvg-id="Warner TV Serie HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Serie FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5084
+
+#EXTINF:-1 tvg-name="Warner TV Serie" tvg-id="Warner TV Serie HD" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Serie HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6155
+
+#EXTINF:-1 tvg-name="13TH STREET" tvg-id="13thStreet.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/13th-Street-HD.png", 13TH Street FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/5098
+
+#EXTINF:-1 tvg-name="13TH STREET" tvg-id="13thStreet.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/13th-Street-HD.png", 13TH Street HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7365
+
+#EXTINF:-1 tvg-name="13TH STREET" tvg-id="13thStreet.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/13th-Street-HD.png"", 13TH Street HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8198
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Syfy-HD-Alt.png",  Syfy FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/7364
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Syfy-HD-Alt.png",  Syfy HD
+http://ipflix.click:8080/sq1x0qr86b/7777/5087
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Syfy-HD-Alt.png",  Syfy
+http://ipflix.click:8080/sq1x0qr86b/7777/6164
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 2" tvg-logo="http://127.0.0.1/",  Syfy FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7364
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 2" tvg-logo="http://127.0.0.1/",  Syfy HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5087
+
+#EXTINF:-1 tvg-name="SYFY" tvg-id="SciFi.de" group-title="TV 2" tvg-logo="http://127.0.0.1/",  Syfy DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
+
+#EXTINF:-1 tvg-name="KABEL 1 CLASSIC HD" tvg-id="KabelEinsClassic.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Kabel-1-Classics-HD.png",  Kabel 1 Classic HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9151
+
+#EXTINF:-1 tvg-name="KABEL 1 CLASSIC" tvg-id="KabelEinsClassic.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/kabel_eins_classics.png",  Kabel 1 Classic
+http://ipflix.click:8080/sq1x0qr86b/7777/679844
+
+#EXTINF:-1 tvg-name="KABEL 1 CLASSIC HD" tvg-id="KabelEinsClassic.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/Kabel-1-Classics-HD.png",  Kabel 1 Classic HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9151
+
+#EXTINF:-1 tvg-name="KABEL 1 CLASSIC" tvg-id="KabelEinsClassic.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/kabel_eins_classics.png",  Kabel 1 Classic
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679844
+
+#EXTINF:-1 tvg-name="RTL Crime" tvg-id="RTLCrime.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/RTL-Crime-HD.png",  RTL Crime FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6214
+
+#EXTINF:-1 tvg-name="RTL Crime" tvg-id="RTLCrime.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/RTL-Crime-HD.png",  RTL Crime HD
+http://ipflix.click:8080/sq1x0qr86b/7777/17012
+
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) RTL Crime FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6214
+
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) RTL Crime HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/17012
+
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Kinowelt FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6240
+
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Kinowelt HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/672086
+
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Kinowelt FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6240
+
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Kinowelt HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/672086
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6219
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13145
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13142
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun FHD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6219
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13145
+
+#EXTINF:-1 tvg-name="PRO7 FUN HD" tvg-id="ProSieben FUN HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/Prosieben-Fun.png",  ProSieben Fun HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13142
+
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Universal-Channel-HD.png",  Universal FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/5265
+
+#EXTINF:-1 tvg-name="SAT1 Emotions HD" tvg-id="SAT.1 emotions HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sat1-emotions-HD.png",  Sat1 Emotion
+http://ipflix.click:8080/sq1x0qr86b/7777/13135
+
+#EXTINF:-1 tvg-name="SAT1 Emotions HD" tvg-id="SAT.1 emotions HD" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/Sat1-emotions-HD.png", Sat1 Emotion
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13135
+
+#EXTINF:-1 tvg-name="SONY CHANNEL" tvg-id="SONY CHANNEL HD" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sony-Entertainment-TV-HD.png",  Sony Channel HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6167
+
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="TV 1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
+#EXTINF:-1 tvg-name="WELT News (loop)" tvg-id="WELTNewsLoop.de" group-title="TV 2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT News (Dauerschleife)
+https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
+
+
+
+
+
+
+
+
+tvg-name="" tvg- group-title="TV 1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="TLC HD" tvg-id="TLC.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  TLC HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8224
+
+#EXTINF:-1 tvg-name="HOME &amp; GARDEN TV HD" tvg-id="HOME &amp; GARDEN TV HD" tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HGTV DE
+http://ipflix.click:8080/sq1x0qr86b/7777/688723
+
+#EXTINF:-1 tvg-name="RTL Living HD" tvg-id="RTLLiving.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/RTL-Living.png",  RTL Living HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6213
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 vg-logo="http://100.10.10.12/kodi/logo/RTL-Passion.png" group-title="TV 1",  RTL Passion FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/8219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (OFFLINE) RTL Living FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) RTL Living HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6213
+
+#EXTINF:-1 tvg-name="VOXup HD" tvg-id="VOXup.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOXup
+http://ipflix.click:8080/sq1x0qr86b/7777/679836
+
+#EXTINF:-1 tvg-name="VOXup HD" tvg-id="VOXup.de" group-title="TV 2" tvg-logo="http://100.10.10.12/kodi/logo/voxhd.png",  VOXup HD
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679836
+
+#EXTINF:-1 tvg-name="Kabel Eins Doku" tvg-id="KabelEinsDoku.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Kabel-1-Doku.png",  Kabel Eins Doku FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/13147
+
+#EXTINF:-1 tvg-name="Kabel Eins Doku" tvg-id="KabelEinsDoku.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Kabel-1-Doku.png",  Kabel Eins Doku
+http://ipflix.click:8080/sq1x0qr86b/7777/679843
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="AnimalPlanet.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Animal Planet FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/8196
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="AnimalPlanet.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/"tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Animal Planet HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13173
+
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/weltderwunder.png",  Welt der Wunder HD
+http://ipflix.click:8080/sq1x0qr86b/7777/679838
+
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/weltderwunder.png",  Welt der Wunder
+http://ipflix.click:8080/sq1x0qr86b/7777/13129
+
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" group-title="TV" tvg-logo="http://100.10.10.12/kodi/logo/weltderwunder.png",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spiegel Geschichte" tvg-id="SpiegelGeschichte.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Spiegel-Geschichte-HD.png",  Spiegel Geschichte HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6174
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Anixe HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6264
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/AXN-HD.png" group-title="TV 1",  AXN FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/5097
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/AXN-HD.png" group-title="TV 1",  AXN HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6259
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/superrtlhd.png" group-title="TV 1",  Super RTL HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6166
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/kikahd.png" group-title="TV 1",  KiKa FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/679839
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/kikahd.png" group-title="TV 1",  Kika HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6241
+
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/TOGGO-plus.png" group-title="TV 1",  Toggo Plus HD
+http://ipflix.click:8080/sq1x0qr86b/7777/5086
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/TOGGO-plus.png" group-title="TV 1",  Toggo Plus
+http://ipflix.click:8080/sq1x0qr86b/7777/9133
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Boomerang.png" group-title="TV 1",  Boomerang HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6258
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Cartoon-Network-HD.png" group-title="TV 1", Cartoon Network FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6257
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/nickelodeonhd.png" group-title="TV 1",  Nickelodeon HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6224
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Fix-und-Foxi.png" group-title="TV 1",  Fix & Foxi
+http://ipflix.click:8080/sq1x0qr86b/7777/23771
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Euronews.png" group-title="TV 1",  Euronews
+http://ipflix.click:8080/sq1x0qr86b/7777/6248
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="TV 1",  Welt HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6228
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/ntvhd.png" group-title="TV 1",  N-TV FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/13149
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/ntvhd.png" group-title="TV 1",  N-TV HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8195
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/NTV.png" group-title="TV 1",  N-TV
+http://ipflix.click:8080/sq1x0qr86b/7777/13566
+
+#EXTINF:-1 tvg-name="N24 Doku HD" tvg-id="N24Doku.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/N24-Doku.png", N24 Doku
+http://ipflix.click:8080/sq1x0qr86b/7777/679837
+
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/phoenixhd.png" group-title="TV 1",  Phoenix HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6221
+
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/tagesschau24hd.png",  Tagesschau 24 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6163
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="TV" tvg-logo="http://100.10.10.12/kodi/logo/tagesschau24hd.png",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-id="SkyAction.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Action.png", Sky Cinema Action FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/5093
+
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-id="SkyAction.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Action.png",  Sky Cinema Action HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6205
+
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-id="SkyAction.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Action.png",  Sky Cinema Special FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/8217
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-id="SkyCinemaThriller.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD.png",  Sky Cinema Special HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6252
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-id="SkyCinemaThriller.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD.png",  Sky Cinema Thriller FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/5089
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-id="SkyCinemaThriller.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD.png",  Sky Cinema Thriller HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7372
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-id="SkyCinemaThriller.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD.png",  Sky Cinema Thriller
+http://ipflix.click:8080/sq1x0qr86b/7777/6193
+
+#EXTINF:-1 tvg-name="Sky Cinema Premieren" tvg-id="SkyCinemaPremieren.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema.png",  Sky Cinema Premieren FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6194
+
+#EXTINF:-1 tvg-name="Sky Cinema Premieren" tvg-id="SkyCinemaPremieren.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema.png",  Sky Cinema Premieren HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7373
+
+#EXTINF:-1 tvg-name="Sky Cinema Premieren +24" tvg-id="SkyCinemaPremierenPlus24.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-24-HD.png",  Sky Cinema Premieren +24 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6192
+
+#EXTINF:-1 tvg-name="Sky Cinema Premieren +24" tvg-id="SkyCinemaPremierenPlus24.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-24-HD.png",  Sky Cinema Premieren +24 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13133
+
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-id="SkyAction.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Action.png",  Sky Cinema Action
+http://ipflix.click:8080/sq1x0qr86b/7777/9146
+
+#EXTINF:-1 tvg-name="Sky Cinema Fun" tvg-id="SkyCinemaFun.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Fun HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9144
+
+#EXTINF:-1 tvg-name="Sky Cinema Fun" tvg-id="SkyCinemaFun.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Fun
+http://ipflix.click:8080/sq1x0qr86b/7777/6190
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Heimat-Kanal.png" group-title="TV 1",  Sky Heimat Kanal HD
+http://ipflix.click:8080/sq1x0qr86b/7777/678481
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Heimat-Kanal.png" group-title="TV 1",  Sky Heimat Kanal
+http://ipflix.click:8080/sq1x0qr86b/7777/6188
+
+#EXTINF:-1 tvg-name="Sky Cinema Best of" tvg-id="SkyCinemaBestPf.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Best Of FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/7368
+
+#EXTINF:-1 tvg-name="Sky Cinema Best of" tvg-id="SkyCinemaBestPf.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Best Of HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8223
+
+#EXTINF:-1 tvg-name="Sky Cinema Family" tvg-id="SkyCinemaFamily.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD-Family.png",  Sky Cinema Family FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/9145
+
+#EXTINF:-1 tvg-name="Sky Cinema Family" tvg-id="SkyCinemaFamily.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-HD-Family.png",  Sky Cinema Family HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7369
+
+#EXTINF:-1 tvg-name="Sky Cinema Classics" tvg-id="SkyCinemaClassics" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Classics HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13131
+
+#EXTINF:-1 tvg-name="Sky Cinema Classics" tvg-id="SkyCinemaClassics" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Cinema Classics
+http://ipflix.click:8080/sq1x0qr86b/7777/6186
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Cinema Best of
+http://ipflix.click:8080/sq1x0qr86b/7777/5088
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Romance-TV.png" group-title="TV 1",  Romance TV HD
+http://ipflix.click:8080/sq1x0qr86b/7777/13152
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Romance-TV.png" group-title="TV 1",  Romance TV
+http://ipflix.click:8080/sq1x0qr86b/7777/6211
+
+#EXTINF:-1 tvg-name="Sky Comedy" tvg-id="Sky Comedy" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Cinema-Comedy.png",  Sky Cinema Comedy VIP HD
+http://ipflix.click:8080/sq1x0qr86b/7777/688822
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Sky-Krimi.png" group-title="TV 1",  Sky Krimi VIP HD
+http://ipflix.click:8080/sq1x0qr86b/7777/688821
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/Sky-Krimi.png" group-title="TV 1",  Sky Krimi HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8220
+
+#EXTINF:-1 tvg-name="SkyAtlantic" tvg-id="SkyAtlanticHD.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Atlantic-HD.png",  Sky Atlantic HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7367
+
+#EXTINF:-1 tvg-name="SkyAtlantic" tvg-id="SkyAtlanticHD.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/Sky-Atlantic-HD.png",  Sky Atlantic
+http://ipflix.click:8080/sq1x0qr86b/7777/6204
+
+
+
+#EXTINF:-1 tvg-name="Sky One" tvg-id="Sky1.de" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky One FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/9138
+
+#EXTINF:-1 tvg-name="Sky Replay" tvg-id="Sky Replay" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/",  Sky Replay FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/23770
+
+#EXTINF:-1 tvg-name="Sky Replay" tvg-id="Sky Replay" group-title="TV 1" tvg-logo="http://100.10.10.12/kodi/logo/,  Sky Replay HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6245
+
+#EXTINF:-1 tvg-name="Warner TV Serie" tvg-id="Warner TV Serie" group-title="TV 2" tvg-logo="http://127.0.0.1/",  WarnerTV Serie
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13154
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 1 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/655131
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 1 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7375
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/655131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7375
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 2 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/655130
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 2 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7376
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 2 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/655130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 2 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7376
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 3 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/655129
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 3 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 3 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/655129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 3 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7377
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 4 FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/655128
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 4 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/7378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 4 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/655128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 4 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7378
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 5 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8977
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 5 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/655127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 5 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 5 HD [demnchst] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/655127
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 6 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 6 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8976
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 7 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 7 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8975
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Select 8 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Sky Select 8 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8974
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Premiere FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681946
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Eagle Cinema Premiere FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681946
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Horror FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681942
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Eagle Cinema Horror FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681942
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Thriller FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Eagle Cinema Thriller FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681950
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Sci-Fi FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Eagle Cinema Animation HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV 2", (ONLINE) Eagle Cinema Sci-Fi FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681949
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Animation HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681939
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Mythologie HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681945
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Lcheln HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681944
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Geschichte HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681941
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Eagle Cinema Romantisch FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681948
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/23778
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683536
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 2 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/23777
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 3 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683537
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 3 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/23776
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 4 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/23775
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  PopCorn Select 5 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683540
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema Boxset FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683534
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema INFO FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683523
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683535
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 2 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683525
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 3 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683526
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 4 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683527
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 5 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683528
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 6 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683529
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 7 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683530
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  HyperCinema 8 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683531
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1", (OFFLINE) ??? DE Music ???
+http://ipflix.click:8080/sq1x0qr86b/7777/678925
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  MTV FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/35466
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  MTV 80s DE
+http://ipflix.click:8080/sq1x0qr86b/7777/638080
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Sky Classica DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6191
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Classica HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13167
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Jukebox DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13148
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Deluxe Music HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6255
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Kronehit FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/14200
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Deutsches Musik Fernsehen DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13165
+
+#EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
+https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
+
+#EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
+https://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
+
+#EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio
+http://stream.spreeradio.de/spree-live/mp3-128/konsole
+
+#EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio 80er
+http://stream.spreeradio.de/spree-80er/mp3-128/konsole
+
+#EXTINF:-1 tvg-name="105'5 Spreeradio Love" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio Love
+http://stream.spreeradio.de/spree-love/mp3-128/konsole
+
+#EXTINF:-1 tvg-name="105'5 Spreeradio Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio Rock
+http://stream.spreeradio.de/spree-rock/mp3-128/konsole
+
+#EXTINF:-1 tvg-name="105'5 Spreeradio Weihnachtsradio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio Weihnachtsradio
+http://stream.spreeradio.de/spree-event/mp3-128/konsole
+
+#EXTINF:-1 tvg-name="1LIVE" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png",1LIVE
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="1LIVE diggi" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png",1LIVE diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="89.0 RTL" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
+http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
+
+#EXTINF:-1 tvg-name="Absolut Radio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio
+http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de
+
+#EXTINF:-1 tvg-name="Absolut relax" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png",Absolut relax
+http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de
+
+#EXTINF:-1 tvg-name="antenne 1" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png",antenne 1
+http://stream.antenne1.de/a1stg/livestream2.mp3
+
+#EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
+http://mp3SPORT 1.webradio.antenne.de:80/antenne
+
+#EXTINF:-1 tvg-name="Antenne Brandenburg" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png",Antenne Brandenburg
+https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
+
+#EXTINF:-1 tvg-name="ANTENNE THÜRINGEN" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png",ANTENNE THÜRINGEN
+http://stream.antennethueringen.de/live/mp3-192
+
+#EXTINF:-1 tvg-name="AntenneSaar" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png",AntenneSaar
+http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
+
+#EXTINF:-1 tvg-name="BR24" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+
+#EXTINF:-1 tvg-name="BR24 live" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 1 Mittel- und Oberfranken" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mittel- und Oberfranken
+https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 1 Mainfranken" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mainfranken
+https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 1 Oberbayern" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Oberbayern
+https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 1 Niederbayern und Oberpfalz" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Niederbayern und Oberpfalz
+https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 1 Schwaben" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Schwaben
+https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 2 Nord" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Nord
+https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 2 Süd" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Süd
+https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+
+#EXTINF:-1 tvg-name="Bayern 3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
+https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+
+#EXTINF:-1 tvg-name="bigFM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
+https://streams.bigfm.de/bigfm-deutschland-128-mp3
+
+#EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
+http://stream.blackbeatslive.de/
+
+#EXTINF:-1 tvg-name="BR Heimat" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
+https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+
+#EXTINF:-1 tvg-name="BR-Klassik" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+
+#EXTINF:-1 tvg-name="Bremen Eins" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremeneins.png",Bremen Eins
+https://dispatcher.rndfnk.com/rb/bremeneins/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="Bremen Vier" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier
+https://dispatcher.rndfnk.com/rb/bremenvier/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="Bremen Vier rockt" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier rockt
+https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="Bremen Zwei" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png",Bremen Zwei
+https://dispatcher.rndfnk.com/rb/bremenzwei/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="Campusradio Köln (Kölncampus)" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/koelncampus.png",Campusradio Köln (Kölncampus)
+http://koelncampus.uni-koeln.de:80/hq
+
+#EXTINF:-1 tvg-name="Campusradio Münster (Radio Q)" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioq.png",Campusradio Münster (Radio Q)
+https://rqstream.radioq.de/stream/192.mp3
+
+#EXTINF:-1 tvg-name="Campusradio Paderborn (L'UniCo)" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lunico.png",Campusradio Paderborn (L'UniCo)
+http://icecast.l-uni.co:8001/lunico_high_mp3
+
+#EXTINF:-1 tvg-name="Campusradio Bielefeld (Hertz 87.9)" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png",Campusradio Bielefeld (Hertz 87.9)
+http://stream.radiohertz.de/hertz-hq.mp3
+
+#EXTINF:-1 tvg-name="DASDING" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
+https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="DELUXE 80S EXTREME" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE 80S EXTREME
+https://audiostreams.deluxemusic.tv/80s/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE RCK Radio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE RCK Radio
+https://audiostreams.deluxemusic.tv/rck/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE CHEFSESSEL by WAGNER" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE CHEFSESSEL by WAGNER
+https://audiostreams.deluxemusic.tv/chefsessel/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE EASY" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
+https://audiostreams.deluxemusic.tv/easy/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png",DELUXE LOUNGE RADIO
+https://audiostreams.deluxemusic.tv/lounge/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC RADIO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png",DELUXE MUSIC RADIO
+https://audiostreams.deluxemusic.tv/music/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE NEW ARRIVALS" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE NEW ARRIVALS
+https://audiostreams.deluxemusic.tv/arrivals/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE TOP 40" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE TOP 40
+https://audiostreams.deluxemusic.tv/top40/mp3-192
+
+#EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Kultur" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Nova" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png",Deutschlandfunk Nova
+https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
+
+#EXTINF:-1 tvg-name="Deutschlandradio Dokumente und Debatten" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandradiodud.png",Deutschlandradio Dokumente und Debatten
+https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
+
+#EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
+http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
+
+#EXTINF:-1 tvg-name="DELUXE DISCO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE DISCO
+https://audiostreams.deluxemusic.tv/disco/mp3-192
+
+#EXTINF:-1 tvg-name="domradio.de" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png",domradio.de
+https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3
+
+#EXTINF:-1 tvg-name="DONAU 3 FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png",DONAU 3 FM
+http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
+
+#EXTINF:-1 tvg-name="egoFM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png",egoFM
+http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
+
+#EXTINF:-1 tvg-name="ERF Plus" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfplus.png",ERF Plus
+http://erf1a64-ice-edge-1106-fra-eco-cdn.cast.addradio.de/erf1a64/live/mp3/high
+
+#EXTINF:-1 tvg-name="ERF Pop" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png",ERF Pop
+http://erf1068-ice-edge-1103-fra-eco-cdn.cast.addradio.de/erf1068/live/mp3/high
+
+#EXTINF:-1 tvg-name="FluxFM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
+http://streams.fluxfm.de/live/mp3-320/audio/
+
+#EXTINF:-1 tvg-name="Fritz" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
+https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
+
+#EXTINF:-1 tvg-name="harmony.fm" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
+
+#EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
+http://mp3.ffh.de/radioffh/hqlivestream.mp3
+
+#EXTINF:-1 tvg-name="hr-info" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
+https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
+
+#EXTINF:-1 tvg-name="hr1" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png",hr1
+https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="hr2-kultur" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png",hr2-kultur
+https://dispatcher.rndfnk.com/hr/hr2/live/mp3/256/stream.mp3
+
+#EXTINF:-1 tvg-name="hr3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr3.png",hr3
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="hr4" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png",hr4
+https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="JAM FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM
+http://stream.jam.fm/jamfm-live/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="JAM FM Black Label" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Black Label
+http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="JAM FM New Music Radio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM New Music Radio
+http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="JazzRadio Berlin" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png",JazzRadio Berlin
+http://streaming.radio.co:80/s774887f7b/listen
+
+#EXTINF:-1 tvg-name="JUKEBOX RADIO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",JUKEBOX RADIO
+https://audiostreams.deluxemusic.tv/jukebox/mp3-192
+
+#EXTINF:-1 tvg-name="WDR Die Maus" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png",WDR Die Maus
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="LandesWelle Thüringen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png",LandesWelle Thüringen
+http://stream.landeswelle.de/lwt/mp3-192
+
+#EXTINF:-1 tvg-name="MDR AKTUELL" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png",MDR AKTUELL
+http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR JUMP" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png",MDR JUMP
+http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR KLASSIK" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png",MDR KLASSIK
+http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR KULTUR" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrkultur.png",MDR KULTUR
+http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR SACHSEN" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsen.png",MDR SACHSEN
+http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR SPUTNIK" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsputnik.png",MDR SPUTNIK
+http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="MDR THÜRINGEN" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png",MDR THÜRINGEN
+http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+
+#EXTINF:-1 tvg-name="Metal Only" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/metalonly.png",Metal Only
+http://metal-only.streampanel.cloud/stream
+
+#EXTINF:-1 tvg-name="multicult.fm" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png",multicult.fm
+http://stream.multicult.fm:8000/hifi
+
+#EXTINF:-1 tvg-name="N-JOY" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png",N-JOY
+https://dispatcher.rndfnk.com/ndr/njoy/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR 1 Niedersachsen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1niedersachsen.png",NDR 1 Niedersachsen
+https://dispatcher.rndfnk.com/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR 1 Radio MV" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png",NDR 1 Radio MV
+https://dispatcher.rndfnk.com/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR 1 Welle Nord" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1wellenord.png",NDR 1 Welle Nord
+https://dispatcher.rndfnk.com/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR 2" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr2.png",NDR 2
+https://dispatcher.rndfnk.com/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR 90.3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr903.png",NDR 90.3
+https://dispatcher.rndfnk.com/ndr/ndr903/hamburg/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR Blue" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrblue.png",NDR Blue
+https://dispatcher.rndfnk.com/ndr/ndrblue/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR Info" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfo.png",NDR Info
+https://dispatcher.rndfnk.com/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR Info Spezial" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfospezial.png",NDR Info Spezial
+https://dispatcher.rndfnk.com/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR kultur" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrkultur.png",NDR kultur
+https://dispatcher.rndfnk.com/ndr/ndrkultur/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="NDR Plus" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrplus.png",NDR Plus
+https://dispatcher.rndfnk.com/ndr/ndrplus/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="nice" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice
+https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
+
+#EXTINF:-1 tvg-name="oldenburg eins" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oldenburgeins.png",oldenburg eins
+http://radio.oeins.de:8000/oeins
+
+#EXTINF:-1 tvg-name="Ostseewelle HIT-RADIO" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ostseewelle.png",Ostseewelle HIT-RADIO
+http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
+
+#EXTINF:-1 tvg-name="planet radio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png",planet radio
+http://mp3.planetradio.de/planetradio/hqlivestream.mp3
+
+#EXTINF:-1 tvg-name="PULS" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png",PULS
+https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
+
+#EXTINF:-1 tvg-name="Radio 7" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png",Radio 7
+https://edge04.streamonkey.net/radio7-dab
+
+#EXTINF:-1 tvg-name="Radio 90.1" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png",Radio 90.1
+http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
+
+#EXTINF:-1 tvg-name="radio B2" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+
+#EXTINF:-1 tvg-name="RADIO BOB! national" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! national
+https://bob.hoerradar.de/radiobob-national-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! NRW" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! NRW
+https://bob.hoerradar.de/bob-live-nrw-mitte-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Schleswig-Holstein" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Schleswig-Holstein
+https://bob.hoerradar.de/radiobob-shlive-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Hessen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Hessen
+https://bob.hoerradar.de/radiobob-live-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Metal" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metal
+https://bob.hoerradar.de/radiobob-metal-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Alternative Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Alternative Rock
+https://bob.hoerradar.de/radiobob-alternativerock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Classic Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Classic Rock
+https://bob.hoerradar.de/radiobob-classicrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! ACDC" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! ACDC
+https://bob.hoerradar.de/radiobob-acdc-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Deutschrock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Deutschrock
+https://bob.hoerradar.de/radiobob-deutschrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Wacken" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Wacken
+https://bob.hoerradar.de/radiobob-wacken-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Grunge" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Grunge
+https://bob.hoerradar.de/radiobob-grunge-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! 90er Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! 90er Rock
+https://bob.hoerradar.de/radiobob-90srock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Hardrock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Hardrock
+https://bob.hoerradar.de/radiobob-hardrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Metalcore" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metalcore
+https://bob.hoerradar.de/radiobob-metalcore-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Metallica" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metallica
+https://bob.hoerradar.de/radiobob-metallica-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Tobias Sammet Rockshow" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Tobias Sammet Rockshow
+https://bob.hoerradar.de/radiobob-sammet-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Mittelalter Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Mittelalter Rock
+https://bob.hoerradar.de/radiobob-mittelalter-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Symphonic Metal" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Symphonic Metal
+https://bob.hoerradar.de/radiobob-symphmetal-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Punk" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Punk
+https://bob.hoerradar.de/radiobob-punk-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Kuschelrock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Kuschelrock
+https://bob.hoerradar.de/radiobob-kuschelrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Death Metal" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Death Metal
+https://bob.hoerradar.de/radiobob-deathmetal-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Rockparty" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rockparty
+https://bob.hoerradar.de/radiobob-rockparty-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Southern Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Southern Rock
+https://bob.hoerradar.de/radiobob-southernrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Der Dunkle Parabelritter" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Der Dunkle Parabelritter
+https://bob.hoerradar.de/radiobob-dunklepritter-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Newcomer" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Newcomer
+https://bob.hoerradar.de/radiobob-newcomer-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Gothic Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Gothic Rock
+https://bob.hoerradar.de/radiobob-gothic-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Best of Rock" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Best of Rock
+https://bob.hoerradar.de/radiobob-bestofrock-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Festival" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Festival
+https://bob.hoerradar.de/radiobob-festival-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Unplugged" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Unplugged
+https://bob.hoerradar.de/radiobob-chillout-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Rockabilly" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rockabilly
+https://bob.hoerradar.de/radiobob-rockabilly-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Harte Saite" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Harte Saite
+https://bob.hoerradar.de/radiobob-hartesaite-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Singer-Songwriter" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Singer-Songwriter
+https://bob.hoerradar.de/radiobob-singersong-mp3-hq
+
+#EXTINF:-1 tvg-name="RADIO BOB! Rock Hits" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rock Hits
+https://bob.hoerradar.de/radiobob-rockhits-mp3-hq
+
+#EXTINF:-1 tvg-name="Radio Brocken" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png",Radio Brocken
+http://stream.radiobrocken.de/live/mp3-256
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Sachsen
+https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Stuttgart" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergystuttgart.png",RADIO ENERGY Stuttgart
+https://scdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3
+
+#EXTINF:-1 tvg-name="RADIO ENERGY Bremen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png",RADIO ENERGY Bremen
+http://ffn-stream24.radiohost.de/energybremen_mp3-192
+
+#EXTINF:-1 tvg-name="Radio Horeb" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohoreb.png",Radio Horeb
+http://rs16.stream24.org:8000/horeb.mp3
+
+#EXTINF:-1 tvg-name="Radio Paloma" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiopaloma.png",Radio Paloma
+http://pool.radiopaloma.de/RADIOPALOMA.mp3
+
+#EXTINF:-1 tvg-name="Radio Regenbogen" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioregenbogen.png",Radio Regenbogen
+http://streams.regenbogen.de/rr-mannheim-128-mp3
+
+#EXTINF:-1 tvg-name="radio SAW" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png",radio SAW
+http://stream.radiosaw.de
+
+#EXTINF:-1 tvg-name="radio TOP 40" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotop40.png",radio TOP 40
+http://stream.radiotop40.de/live/mp3-192
+
+#EXTINF:-1 tvg-name="Radio TEDDY" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY
+http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
+
+#EXTINF:-1 tvg-name="rbb Inforadio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png",rbb Inforadio
+https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
+
+#EXTINF:-1 tvg-name="rbbKultur" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png",rbbKultur
+https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
+
+#EXTINF:-1 tvg-name="radioeins" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png",radioeins
+https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
+
+#EXTINF:-1 tvg-name="rbb 88.8" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png",rbb 88.8
+https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
+
+#EXTINF:-1 tvg-name="reboot.fm" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png",reboot.fm
+http://87.118.122.220:8002/stream
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
+http://mp3SPORT 1.webradio.rockantenne.de/rockantenne
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
+http://stream.rockantenne.de/heavy-metal
+
+#EXTINF:-1 tvg-name="Rockland Radio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png",Rockland Radio
+https://stream.rockland.de/rockland.mp3
+
+#EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
+http://stream.rockland-digital.de
+
+#EXTINF:-1 tvg-name="RPR1" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1
+http://streams.rpr1.de/rpr-koeln-128-mp3
+
+#EXTINF:-1 tvg-name="RTF.3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png",RTF.3
+http://37.187.93.104:8414/stream
+
+#EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png",SR 1 Europawelle
+http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+
+#EXTINF:-1 tvg-name="SR 2 Kulturradio" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png",SR 2 Kulturradio
+http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+
+#EXTINF:-1 tvg-name="SR 3 Saarlandwelle" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png",SR 3 Saarlandwelle
+http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+
+#EXTINF:-1 tvg-name="sunshine live" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
+http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+
+#EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
+https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Rheinland-Pfalz
+https://dispatcher.rndfnk.com/swr/swr1/rp/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="SWR2" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png",SWR2
+https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3
+
+#EXTINF:-1 tvg-name="SWR3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3
+https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="SWR4 Baden-Württemberg" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Baden-Württemberg
+https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Rheinland-Pfalz
+https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="UNSERDING" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING
+http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
+
+#EXTINF:-1 tvg-name="WDR 2" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png",WDR 2
+http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="WDR 3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr3.png",WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+
+#EXTINF:-1 tvg-name="WDR 4" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr4.png",WDR 4
+http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="WDR 5" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr5.png",WDR 5
+http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="YOU FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM
+https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/srfernsehenhd.png" group-title="TV 1",  SRF 1
+http://ipflix.click:8080/sq1x0qr86b/7777/6170
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/ndrhd.png" group-title="TV 1",  NDR HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6225
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/hrfernsehenhd.png" group-title="TV 1",  HR FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/13150
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/hrfernsehenhd.png" group-title="TV 1",  HR HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6243
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/rbbhd.png" group-title="TV 1",  RBB Berlin HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6217
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/brhd.png" group-title="TV 1",  BR HD
+http://ipflix.click:8080/sq1x0qr86b/7777/687568
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/brhd.png" group-title="TV 1",  BR
+http://ipflix.click:8080/sq1x0qr86b/7777/13168
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/swrhd.png" group-title="TV 1",  SWR HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6165
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/wdrhd.png" group-title="TV 1",  WDR HD
+http://ipflix.click:8080/sq1x0qr86b/7777/6152
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="TV 1",  Franken Fernsehen FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/677835
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) ??? DE Sports ???
+http://ipflix.click:8080/sq1x0qr86b/7777/678834
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport F1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/687666
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport F1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/687667
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sports News FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13555
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sports News HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/684431
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/684432
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683895
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 1 DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9125
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 1  DE
+http://ipflix.click:8080/sq1x0qr86b/7777/684429
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) Sky Sport 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/7362
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 2 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683896
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 3 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13563
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 3 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6182
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 4 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13562
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 4 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9127
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 5 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13561
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 5 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9126
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 6 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6181
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 7 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6180
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 8 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6179
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 9 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6178
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport 10 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6177
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/684430
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683408
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/73136
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/683409
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13538
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 1 [Match Time-B] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/684005
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/62223
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/135258
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/135671
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 3 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/62220
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/91235
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/135335
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 5 [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/62002
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/619225
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 7 [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6198
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6197
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 9 [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6196
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6195
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/661090
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 1  FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/694188
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/625243
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 1  HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/661088
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/661089
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  DAZN 2 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/50775
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6173
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8221
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8226
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport1+ FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679847
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport1+ HD  DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679848
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  eSports 1 HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/687730
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 1 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679821
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 2 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679822
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 3 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679823
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 4 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679824
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 5 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679825
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 6 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679826
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 7 HD [Match Time] DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679827
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Fuball 8 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/688721
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) Telekom Eishockey 1 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679671
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Eishockey 2 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679672
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) Telekom Eishockey 3 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679673
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) Telekom Eishockey 4 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679676
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT", (OFFLINE) Telekom Basketball 1 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679674
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Telekom Basketball 2 [Match Time] HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/679675
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Eurosport 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8218
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Eurosport 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9131
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Eurosport 2 Xtra FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13163
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Eurosport 2 Xtra HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9130
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport Digital FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8244
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Sport Digital HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6171
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Motorvision HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8222
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  Auto Motor Sport FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9132
+
+#EXTINF:-1 tvg-logo="http://100.10.10.12/kodi/logo/" group-title="SPORT",  FC Bayern TV HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport F1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687666
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport F1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sports News FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sports News HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/684431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/684432
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 1 DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 1  DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/684429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Sky Sport 2 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 2 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683896
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13563
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 5 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/684430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683408
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/73136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/684005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/62223
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/135258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/135671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/62220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/91235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/135335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/62002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/619225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/661090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 1  FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/694188
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/625243
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 1  HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/661088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 2 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/661089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) DAZN 2 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/50775
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8226
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport1+ FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679847
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport1+ HD  DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679848
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) eSports 1 HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687730
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 1 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679821
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 2 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679822
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 3 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679823
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 4 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679824
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 5 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Fuball 6 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679826
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Fuball 7 HD [Match Time] DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679827
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Fuball 8 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688721
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Eishockey 1 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Telekom Eishockey 2 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679672
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Eishockey 3 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Eishockey 4 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679676
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Basketball 1 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679674
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (OFFLINE) Telekom Basketball 2 [Match Time] HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679675
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Eurosport 1 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Eurosport 2 FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Eurosport 2 Xtra FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Eurosport 2 Xtra HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport Digital FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8244
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Sport Digital HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6171
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Motorvision HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) Auto Motor Sport FHD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT 1", (ONLINE) FC Bayern TV HD DE
+http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9128
