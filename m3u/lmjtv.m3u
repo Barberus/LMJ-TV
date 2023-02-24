@@ -11,13 +11,13 @@ http://ipflix.click:8080/sq1x0qr86b/7777/17011
 http://ipflix.click:8080/sq1x0qr86b/7777/6151
 #EXTINF:-1 group-title="TV" tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/3sathd.png" ,3sat HD
 http://ipflix.click:8080/sq1x0qr86b/7777/16289
-#EXTINF:-1 group-title="TV" tvg-id="RTL.de" tvg-name="RTL.de TV1" tvg-logo="http://127.0.0.1/" ,RTL FHD DE
+#EXTINF:-1 group-title="TV" tvg-id="RTL" tvg-name="RTL.de TV1" tvg-logo="http://127.0.0.1/" ,RTL FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/13565
-#EXTINF:-1 group-title="TV 1" tvg-id="RTL.de" tvg-name="RTL.de TV1" tvg-logo="http://127.0.0.1/" ,RTL FHD  DE
+#EXTINF:-1 group-title="TV 1" tvg-id="RTL" tvg-name="RTL.de TV1" tvg-logo="http://127.0.0.1/" ,RTL FHD  DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683243
-#EXTINF:-1 group-title="TV 1" tvg-id="RTL.de" tvg-name="RTL HD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtlhd.png" ,RTL HD
+#EXTINF:-1 group-title="TV 1" tvg-id="RTL" tvg-name="RTL HD TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtlhd.png" ,RTL HD
 http://ipflix.click:8080/sq1x0qr86b/7777/683243
-#EXTINF:-1 group-title="TV 1" tvg-id="RTL HD" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,RTL HD DE
+#EXTINF:-1 group-title="TV 1" tvg-id="RTL" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,RTL HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6216
 #EXTINF:-1 group-title="TV 2" tvg-id="RTL2.de" tvg-name="RTLZWEI HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/rtl2hd.png" ,RTLZWEI HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6215
