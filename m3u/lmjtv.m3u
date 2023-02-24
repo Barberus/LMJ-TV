@@ -89,8 +89,12 @@ http://ipflix.click:8080/sq1x0qr86b/7777/679836
 http://ipflix.click:8080/sq1x0qr86b/7777/6242
 #EXTINF:-1 group-title="TV" tvg-id="Kabel eins HD" tvg-name="Kabel 1 FHD TV1" tvg-logo="http://127.0.0.1/" ,Kabel 1 FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6242
-#EXTINF:-1 group-title="TV" tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Doku.png" ,Kabel Eins Doku HD
+#EXTINF:-1 group-title="TV 1" tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Doku.png" ,Kabel Eins Doku HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13147
+#EXTINF:-1 group-title="TV" tvg-id="KabelEinsDoku.de" tvg-logo="http://127.0.0.1/" ,Kabel Eins Doku FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/13147
+#EXTINF:-1 group-title="OFFLINE" tvg-id="KabelEinsDoku.de" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Kabel Eins Doku
+http://ipflix.click:8080/sq1x0qr86b/7777/679843
 #EXTINF:-1 group-title="TV" tvg-id="KabelEinsClassic.de" tvg-name="KABEL 1 CLASSIC HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kabel-1-Classics-HD.png" ,Kabel 1 Classic HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9151
 #EXTINF:-1 group-title="TV 1" tvg-id="KabelEinsClassic.de" tvg-name="Kabel 1 Classic SD TV1" tvg-logo="http://127.0.0.1/" ,Kabel 1 Classic SD
@@ -103,6 +107,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7365
 http://ipflix.click:8080/sq1x0qr86b/7777/8198
 #EXTINF:-1 group-title="TV" tvg-id="ComedyCentral/VIVA.de" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/comedycentralhd.png" ,COMEDY CENTRAL HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6154
+#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Comedy Central FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6154
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SciFi.de" tvg-name="SYFY SD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/syfy hd.png" ,Syfy SD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Syfy FHD DE
@@ -113,9 +119,13 @@ http://ipflix.click:8080/sq1x0qr86b/7777/5087
 http://ipflix.click:8080/sq1x0qr86b/7777/6164
 #EXTINF:-1 group-title="TV" tvg-id="DMax.de" tvg-name="DMAX HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/dmaxhd.png" ,DMAX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6249
+#EXTINF:-1 group-title="TV 1" tvg-id="Sixx.de" tvg-logo="http://127.0.0.1/" ,Sixx FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6207
 #EXTINF:-1 group-title="TV" tvg-id="Sixx.de" tvg-name="sixx HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/sixxhd.png" ,Sixx HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6207
 #EXTINF:-1 group-title="TV" tvg-id="Tele5.de" tvg-name="Tele 5 HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/tele5hd.png" ,Tele 5 HD
+http://ipflix.click:8080/sq1x0qr86b/7777/9150
+#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Tele 5 HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9150
 #EXTINF:-1 group-title="OFFLINE" tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Universal-Channel-HD.png" ,Universal HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5265
@@ -123,6 +133,10 @@ http://ipflix.click:8080/sq1x0qr86b/7777/5265
 http://ipflix.click:8080/sq1x0qr86b/7777/6167
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SONY AXN HD" tvg-name="SONY AXN HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/AXN-HD.png" ,AXN HD
 http://ipflix.click:8080/sq1x0qr86b/7777/5097
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,AXN FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/5097
+#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,AXN HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6259
 #EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeo.de" tvg-name="NatGeo HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/National-Geographic-Channel-HD.png" ,NatGeo HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8194
 #EXTINF:-1 group-title="TV" tvg-id="DiscoveryHD.de" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Discovery-Channel-HD.png" ,Discovery Channel HD
@@ -139,10 +153,6 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6174
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
 #EXTINF:-1 group-title="TV" tvg-id="Anixe.de" tvg-name="ANIXE TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/anixe hd.png" ,Anixe HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6264
-#EXTINF:-1 group-title="TV" tvg-id="Kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kinowelt-HD.png" ,Kinowelt FHD
-http://ipflix.click:8080/sq1x0qr86b/7777/6240
-#EXTINF:-1 group-title="OFFLINE" tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/crime + investigation.png" ,Crime + Investigation HD
-http://ipflix.click:8080/sq1x0qr86b/7777/8197
 #EXTINF:-1 group-title="TV 1" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6157
 #EXTINF:-1 group-title="TV 1" tvg-id="TNTComedy.de" tvg-name="WarnerTV Comedy HD TV1" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy HD
@@ -227,6 +237,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6193
 http://ipflix.click:8080/sq1x0qr86b/7777/6240
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Kinowelt HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/672086
+#EXTINF:-1 group-title="TV" tvg-id="Kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Kinowelt-HD.png" ,Kinowelt FHD
+http://ipflix.click:8080/sq1x0qr86b/7777/6240
 #EXTINF:-1 group-title="TV" tvg-id="Sky One HD" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-1-HD.png" ,Sky One HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9138
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren TV1" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema.png" ,Sky Cinema Premieren HD
@@ -285,6 +297,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/8976
 http://ipflix.click:8080/sq1x0qr86b/7777/8975
 #EXTINF:-1 group-title="TV" tvg-name="Sky Select 8 HD" tvg-logo="http://100.10.10.12/kodi/select 8.png" ,Sky Select 8 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8974
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eagle Cinema Premiere FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/681946
 #EXTINF:-1 group-title="OFFLINE" tvg-name="Eagle Cinema Horror HD TV2" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Horror HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681942
 #EXTINF:-1 group-title="TV" tvg-name="Eagle Cinema Thriller HD" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Thriller HD
@@ -427,6 +441,24 @@ http://ipflix.click:8080/sq1x0qr86b/7777/679837
 http://ipflix.click:8080/sq1x0qr86b/7777/6221
 #EXTINF:-1 group-title="TV" tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/tagesschau24hd.png" ,Tagesschau 24 HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6163
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 1 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8218
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9131
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 Xtra FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/13163
+#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 Xtra HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9130
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sport Digital FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8244
+#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sport Digital HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/6171
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Motorvision HD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/8222
+#EXTINF:-1 group-title="TV" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Auto Motor Sport FHD DE
+http://ipflix.click:8080/sq1x0qr86b/7777/9132
+#EXTINF:-1 group-title="OFFLINE" tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD TV" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/crime + investigation.png" ,Crime + Investigation HD
+http://ipflix.click:8080/sq1x0qr86b/7777/8197
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Crime & Investigation FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6263
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Crime & Investigation HD DE
@@ -559,22 +591,6 @@ http://ipflix.click:8080/sq1x0qr86b/7777/679676
 http://ipflix.click:8080/sq1x0qr86b/7777/679674
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Telekom Basketball 2 [Match Time] HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/679675
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 1 FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/8218
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/9131
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 Xtra FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/13163
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eurosport 2 Xtra HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/9130
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sport Digital FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/8244
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sport Digital HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/6171
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Motorvision HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/8222
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Auto Motor Sport FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/9132
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,FC Bayern TV HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9128
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? DE Movies & Series ???
@@ -587,8 +603,6 @@ http://ipflix.click:8080/sq1x0qr86b/7777/9147
 http://ipflix.click:8080/sq1x0qr86b/7777/5265
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Sony Channel HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6167
-#EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eagle Cinema Premiere FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/681946
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eagle Cinema Horror FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/681942
 #EXTINF:-1 group-title="TV 1" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Eagle Cinema Thriller FHD DE
@@ -665,12 +679,6 @@ http://ipflix.click:8080/sq1x0qr86b/7777/683529
 http://ipflix.click:8080/sq1x0qr86b/7777/683530
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,HyperCinema 8 FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/683531
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,AXN FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/5097
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,AXN HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/6259
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Comedy Central FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/6154
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Romance TV HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/13152
 #EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Romance TV DE
@@ -679,28 +687,12 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6211
 http://ipflix.click:8080/sq1x0qr86b/7777/678481
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Sky Heimat Kanal DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6188
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Sixx FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/6207
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Servus TV HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6208
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Tele 5 HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/9150
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Bibel TV HD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/677497
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(OFFLINE) FilMax Hits FHD VIP DE
-http://ipflix.click:8080/sq1x0qr86b/7777/688717
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Genius Family DE
-http://ipflix.click:8080/sq1x0qr86b/7777/690457
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,(OFFLINE) ??? Documentary ???
-http://ipflix.click:8080/sq1x0qr86b/7777/678919
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,ZDF Info HD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9148
 #EXTINF:-1 group-title="OFFLINE" tvg-logo="http://127.0.0.1/" ,N24 Doku DE
 http://ipflix.click:8080/sq1x0qr86b/7777/679837
-#EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Kabel Eins Doku FHD DE
-http://ipflix.click:8080/sq1x0qr86b/7777/13147
-#EXTINF:-1 group-title="OFFLINE" tvg-name="TV1" tvg-logo="http://127.0.0.1/" ,Kabel Eins Doku DE
-http://ipflix.click:8080/sq1x0qr86b/7777/679843
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,History Channel FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
 #EXTINF:-1 group-title="TV 1" tvg-logo="http://127.0.0.1/" ,Spiegel Geschichte HD DE
