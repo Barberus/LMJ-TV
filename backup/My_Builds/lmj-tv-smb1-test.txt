@@ -1,2 +1,0 @@
-name="lmj-tv-smb1-test"
-extracted="133229207"
