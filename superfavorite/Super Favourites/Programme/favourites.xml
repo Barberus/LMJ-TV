@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="IPTV Simple Client" thumb="special://home/addons\pvr.iptvsimple\icon.png">ActivateWindow(10025,&quot;plugin://pvr.iptvsimple?sf_options=desc%3DIPTV+Simple+PVR+Client+unterst%C3%BCtzt+M3U-Wiedergabelisten%2C+Streaming+von+Live-TV+f%C3%BCr+Multicast-%2FUnicastquellen%2C+Radiosender+und+EPG.++++%26meta%3Dlabel%253DIPTV%252BSimple%252BClient%26_options_sf&quot;,return)</favourite>
+</favourites>
