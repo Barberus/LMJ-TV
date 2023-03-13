@@ -1,0 +1,67 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Openinfo TVShows</name>
+            <path pathversion="1">special://home/userdata/addon_data/script.diamondinfo/TVShows/</path>
+            <thumbnail pathversion="1">special://home/addons/script.diamondinfo/icon2.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Openinfo Movies</name>
+            <path pathversion="1">special://home/userdata/addon_data/script.diamondinfo/Movies/</path>
+            <thumbnail pathversion="1">special://home/addons/script.diamondinfo/icon2.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Super Favourites</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/superfavorite/Super Favourites/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>Musik</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/superfavorite/Super Favourites/Musik/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Thumbnails</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV-BACKUP/Thumbnails/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>skin</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/fanart/skin/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>LMJ-TV</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>LMJ-TV-BACKUP</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV-BACKUP/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fanart</name>
+            <path pathversion="1">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/fanart/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

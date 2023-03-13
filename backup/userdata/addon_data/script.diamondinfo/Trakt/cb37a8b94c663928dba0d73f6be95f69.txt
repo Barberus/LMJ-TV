@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "Tad the Lost Explorer and the Secret of King Midas", "year": 2017, "ids": {"trakt": 299302, "slug": "tad-the-lost-explorer-and-the-secret-of-king-midas-2017", "imdb": "tt3896102", "tmdb": 452773}}}]

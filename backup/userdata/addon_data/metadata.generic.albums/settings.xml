@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="lang">DE</setting>
+    <setting id="review" default="true">theaudiodb</setting>
+    <setting id="genre" default="true">theaudiodb</setting>
+    <setting id="style" default="true">theaudiodb</setting>
+    <setting id="mood" default="true">theaudiodb</setting>
+    <setting id="theme" default="true">theaudiodb</setting>
+    <setting id="rating" default="true">musicbrainz</setting>
+    <setting id="inaccurate" default="true">false</setting>
+</settings>

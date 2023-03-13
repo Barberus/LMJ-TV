@@ -1,0 +1,63 @@
+<settings version="2">
+    <setting id="user">Barberus</setting>
+    <setting id="Auth_Info" default="true" />
+    <setting id="authorization">{&quot;access_token&quot;: &quot;0377c95ec4732e88e7b2f842753d201959e47a284b1ce23120d4f05877c3424b&quot;, &quot;token_type&quot;: &quot;bearer&quot;, &quot;expires_in&quot;: 7776000, &quot;refresh_token&quot;: &quot;824130a98334d5eb05883b9aca97e2282578b412c466435d297f6553c2ffd406&quot;, &quot;scope&quot;: &quot;public&quot;, &quot;created_at&quot;: 1677752407}</setting>
+    <setting id="version">3.5.0</setting>
+    <setting id="last_reminder" default="true">0</setting>
+    <setting id="startup_delay">5</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="ExcludeLiveTV" default="true">false</setting>
+    <setting id="ExcludeHTTP" default="true">false</setting>
+    <setting id="ExcludePlugin" default="true">false</setting>
+    <setting id="ExcludeScript" default="true">false</setting>
+    <setting id="ExcludePathOption" default="true">false</setting>
+    <setting id="ExcludePath" default="true" />
+    <setting id="ExcludePathOption2" default="true">false</setting>
+    <setting id="ExcludePath2" default="true" />
+    <setting id="ExcludePathOption3" default="true">false</setting>
+    <setting id="ExcludePath3" default="true" />
+    <setting id="ExcludePathOption4" default="true">false</setting>
+    <setting id="ExcludePath4" default="true" />
+    <setting id="ExcludePathOption5" default="true">false</setting>
+    <setting id="ExcludePath5" default="true" />
+    <setting id="ExcludePathOption6" default="true">false</setting>
+    <setting id="ExcludePath6" default="true" />
+    <setting id="ExcludePathOption7" default="true">false</setting>
+    <setting id="ExcludePath7" default="true" />
+    <setting id="ExcludePathOption8" default="true">false</setting>
+    <setting id="ExcludePath8" default="true" />
+    <setting id="ExcludePathOption9" default="true">false</setting>
+    <setting id="ExcludePath9" default="true" />
+    <setting id="ExcludePathOption10" default="true">false</setting>
+    <setting id="ExcludePath10" default="true" />
+    <setting id="ExcludePathOption11" default="true">false</setting>
+    <setting id="ExcludePath11" default="true" />
+    <setting id="ExcludePathOption12" default="true">false</setting>
+    <setting id="ExcludePath12" default="true" />
+    <setting id="scrobble_movie">true</setting>
+    <setting id="scrobble_episode">true</setting>
+    <setting id="scrobble_notification">true</setting>
+    <setting id="scrobble_fallback">true</setting>
+    <setting id="scrobble_start_offset" default="true">0</setting>
+    <setting id="scrobble_mythtv_pvr" default="true">false</setting>
+    <setting id="scrobble_secondary_title">true</setting>
+    <setting id="sync_on_update">true</setting>
+    <setting id="show_sync_notifications">true</setting>
+    <setting id="hide_notifications_playback" default="true">false</setting>
+    <setting id="trakt_sync_ratings">true</setting>
+    <setting id="add_movies_to_trakt">true</setting>
+    <setting id="clean_trakt_movies" default="true">false</setting>
+    <setting id="trakt_movie_playcount">true</setting>
+    <setting id="kodi_movie_playcount">true</setting>
+    <setting id="trakt_movie_playback">true</setting>
+    <setting id="add_episodes_to_trakt">true</setting>
+    <setting id="clean_trakt_episodes" default="true">false</setting>
+    <setting id="trakt_episode_playcount">true</setting>
+    <setting id="kodi_episode_playcount">true</setting>
+    <setting id="trakt_episode_playback">true</setting>
+    <setting id="rate_movie">true</setting>
+    <setting id="rate_episode">true</setting>
+    <setting id="rate_min_view_time">75</setting>
+    <setting id="rate_rerate">true</setting>
+    <setting id="rating_default">6</setting>
+</settings>

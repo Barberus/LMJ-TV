@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "Goodbye Brooklyn Nine-Nine", "year": 2022, "ids": {"trakt": 809632, "slug": "goodbye-brooklyn-nine-nine-2022", "imdb": null, "tmdb": 1007125}}}]

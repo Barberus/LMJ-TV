@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "The Challenger", "year": 2013, "ids": {"trakt": 112239, "slug": "the-challenger-2013", "imdb": "tt2421662", "tmdb": 177203}}}]

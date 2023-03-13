@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>13009</label>
+		<label2>Kodi-Befehl</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>Quit</action>
+		</shortcut>
+	</shortcuts>

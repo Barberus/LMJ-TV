@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>1038</defaultID>
+		<label>1038</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Music,Addons,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2>Benutzerdefinierter Eintrag</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=Addons&amp;mode=400&amp;path=smb%3A%2F%2Froot%3Amatriux%40192.168.2.8%2Fsmb1%2FLMJ-TV%2FLMJ-TV%2Fsuperfavorite%2FSuper+Favourites%2FAddons&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.vavooto%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>10040</defaultID>
+		<label>10040</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Addonbrowser)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1043</defaultID>
+		<label>1043</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>1039</defaultID>
+		<label>1039</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Pictures,Addons,return)</action>
+		</shortcut>
+	</shortcuts>

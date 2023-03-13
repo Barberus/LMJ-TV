@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "Where the Crawdads Sing", "year": 2022, "ids": {"trakt": 527265, "slug": "where-the-crawdads-sing-2022", "imdb": "tt9411972", "tmdb": 682507}}}]

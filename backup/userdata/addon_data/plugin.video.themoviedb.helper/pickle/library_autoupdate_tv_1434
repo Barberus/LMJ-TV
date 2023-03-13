@@ -1,0 +1,34 @@
+{
+    "my_object": {
+        "version": 3,
+        "name": "Family Guy",
+        "skipped": [],
+        "episodes": [
+            "S21E01 - Oscars Guy",
+            "S21E02 - Bend or Blockbuster",
+            "S21E03 - A Wife-Changing Experience",
+            "S21E04 - The Munchurian Candidate",
+            "S21E05 - Unzipped Code",
+            "S21E06 - Happy Holo-ween",
+            "S21E07 - The Stewaway",
+            "S21E08 - Get Stewie",
+            "S21E09 - Carny Knowledge",
+            "S21E10 - The Candidate",
+            "S21E11 - Love Story Guy",
+            "S21E12 - Old West",
+            "S21E13 - Single White Dad",
+            "S21E14 - White Meg Cant Jump",
+            "S21E15 - Adoptation",
+            "S21E16 - The Bird Reich",
+            "S21E17 - A Bottle Episode",
+            "S21E18 - Vat Man And Rob em",
+            "S21E19 - From Russia With Love",
+            "S21E20 - Chris Griffin, Cum Laude"
+        ],
+        "latest_season": 21,
+        "next_check": "2023-03-14",
+        "last_check": "2023-03-13",
+        "log_msg": "Show aired in last month but no next aired date"
+    },
+    "expires": "2023-07-11T00:03:23"
+}

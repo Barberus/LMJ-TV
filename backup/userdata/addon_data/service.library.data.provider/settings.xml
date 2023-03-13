@@ -1,0 +1,7 @@
+<settings version="2">
+    <setting id="plot_enable">true</setting>
+    <setting id="limit" default="true">20</setting>
+    <setting id="include_specials">true</setting>
+    <setting id="randomitems_unplayed">false</setting>
+    <setting id="recentitems_unplayed">false</setting>
+</settings>

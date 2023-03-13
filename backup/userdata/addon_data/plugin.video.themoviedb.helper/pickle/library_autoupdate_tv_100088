@@ -1,0 +1,23 @@
+{
+    "my_object": {
+        "version": 3,
+        "name": "The Last of Us",
+        "skipped": [],
+        "episodes": [
+            "S01E01 - When Youre Lost in the Darkness",
+            "S01E02 - Infected",
+            "S01E03 - Long, Long Time",
+            "S01E04 - Please Hold to My Hand",
+            "S01E05 - Endure and Survive",
+            "S01E06 - Kin",
+            "S01E07 - Left Behind",
+            "S01E08 - When We Are in Need",
+            "S01E09 - Look for the Light"
+        ],
+        "latest_season": 1,
+        "next_check": "2023-03-05",
+        "last_check": "2023-03-04",
+        "log_msg": "Show had next aired date this week"
+    },
+    "expires": "2023-07-02T06:03:34"
+}

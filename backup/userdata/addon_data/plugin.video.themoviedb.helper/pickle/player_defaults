@@ -1,0 +1,12 @@
+{
+    "my_object": {
+        "tv": {
+            "100088": {
+                "name": "The Last of Us",
+                "file": "upnp_network.json",
+                "mode": "play_episode"
+            }
+        }
+    },
+    "expires": ""
+}

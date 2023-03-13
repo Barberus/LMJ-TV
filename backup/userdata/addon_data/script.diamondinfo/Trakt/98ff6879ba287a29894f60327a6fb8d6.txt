@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "Resident Evil", "year": 2002, "ids": {"trakt": 1032, "slug": "resident-evil-2002", "imdb": "tt0120804", "tmdb": 1576}}}]

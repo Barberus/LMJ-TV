@@ -1,0 +1,1 @@
+[{"type": "movie", "score": 1000, "movie": {"title": "Keeping Up with the Joneses", "year": 2016, "ids": {"trakt": 212198, "slug": "keeping-up-with-the-joneses-2016", "imdb": "tt2387499", "tmdb": 331313}}}]

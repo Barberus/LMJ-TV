@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>7</label>
+		<label2 />
+		<icon />
+		<thumb />
+		<action>ActivateWindow(FileManager)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20077</defaultID>
+		<label>20077</label>
+		<label2 />
+		<icon />
+		<thumb />
+		<action>ActivateWindow(SkinSettings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>33060</defaultID>
+		<label>33060</label>
+		<label2 />
+		<icon />
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Skin Shortcuts</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>RunScript(script.skinshortcuts,type=manage&amp;group=mainmenu)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Reload Skin</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>XBMC.ReloadSkin()</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,1 @@
+[{"type": "show", "score": 1000, "show": {"title": "Under the Dome", "year": 2013, "ids": {"trakt": 46073, "slug": "under-the-dome", "tvdb": 264492, "imdb": "tt1553656", "tmdb": 46331, "tvrage": 25988}}}]

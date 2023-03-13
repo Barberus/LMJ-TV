@@ -1,0 +1,14 @@
+<settings version="2">
+    <setting id="keeporiginaltitle">true</setting>
+    <setting id="language">de-DE</setting>
+    <setting id="titleprefix" default="true">Episode </setting>
+    <setting id="titlesuffix" default="true" />
+    <setting id="tmdbart">true</setting>
+    <setting id="fanarttvart">true</setting>
+    <setting id="tvdbwidebanners">true</setting>
+    <setting id="RatingS" default="true">Themoviedb</setting>
+    <setting id="fallback">true</setting>
+    <setting id="alsoimdb" default="true">false</setting>
+    <setting id="tmdbcertcountry" default="true">us</setting>
+    <setting id="certprefix" default="true" />
+</settings>

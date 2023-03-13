@@ -1,0 +1,1 @@
+[{"type": "show", "score": 1000, "show": {"title": "Weeds", "year": 2005, "ids": {"trakt": 185, "slug": "weeds", "tvdb": 74845, "imdb": "tt0439100", "tmdb": 186, "tvrage": 6554}}}]

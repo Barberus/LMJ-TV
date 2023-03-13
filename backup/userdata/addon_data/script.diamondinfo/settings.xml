@@ -1,0 +1,49 @@
+<settings version="2">
+    <setting id="alt_browser_layout">true</setting>
+    <setting id="netflix_view">true</setting>
+    <setting id="netflix_info_view" default="true">false</setting>
+    <setting id="autoplay_trailer" default="true">false</setting>
+    <setting id="LanguageID">de</setting>
+    <setting id="include_adults">true</setting>
+    <setting id="tmdb_api" default="true" />
+    <setting id="fanart_api">18GPG1N7N6RR3bMiaDEneMzWPXKFBECqxq</setting>
+    <setting id="fanart_clearlogos">true</setting>
+    <setting id="settings_user_config">TMDBHelper Context Menu</setting>
+    <setting id="trakt_scrobble">true</setting>
+    <setting id="reopen_window_bool">true</setting>
+    <setting id="trakt_watched_stats">true</setting>
+    <setting id="context_menu">true</setting>
+    <setting id="window_stack_enable">true</setting>
+    <setting id="reopen_play_fail">true</setting>
+    <setting id="auto_clean_cache_bool">false</setting>
+    <setting id="log_urls">true</setting>
+    <setting id="trakt_kodi_mode" default="true">Trakt and Kodi</setting>
+    <setting id="trakt_calendar_auto_sync">true</setting>
+    <setting id="library_auto_sync">true</setting>
+    <setting id="library_sync_hours">8</setting>
+    <setting id="library_folder">smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/trackt/</setting>
+    <setting id="library_tv_sync">true</setting>
+    <setting id="library_movies_sync">true</setting>
+    <setting id="imdb_recommendations">TMDB then IMDB</setting>
+    <setting id="auto_plugin_route_enable">true</setting>
+    <setting id="auto_plugin_route" default="true">script.diamondinfo,info=trakt_watched,trakt_type=tv</setting>
+    <setting id="imdb_plugin_list">true</setting>
+    <setting id="trakt_plugin_list">true</setting>
+    <setting id="userlists_plugin_list">true</setting>
+    <setting id="custom_trakt_json">true</setting>
+    <setting id="trakt_json" default="true">https://bit.ly/3jCkXkw</setting>
+    <setting id="custom_imdb_json">true</setting>
+    <setting id="imdb_json" default="true">https://bit.ly/2WABGMg</setting>
+    <setting id="imdb_ur_id" default="true" />
+    <setting id="trakt_userlist">true</setting>
+    <setting id="trakt_slug">barberus</setting>
+    <setting id="trakt_user_name">Barberus</setting>
+    <setting id="RD_api" default="true" />
+    <setting id="x265_setting">true</setting>
+    <setting id="RD_player" default="true">false</setting>
+    <setting id="RD_bluray_player" default="true">false</setting>
+    <setting id="RD_bluray_player2" default="true">false</setting>
+    <setting id="bluray_dvd_path" default="true">/media</setting>
+    <setting id="rd_seren_prescrape" default="true">false</setting>
+    <setting id="last_played_tmdb_helper">plugin://plugin.video.themoviedb.helper?info=play&amp;amp;type=movie&amp;amp;tmdb_id=61404</setting>
+</settings>

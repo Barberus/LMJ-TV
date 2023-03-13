@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts>
+	<shortcut>
+		<defaultID>136</defaultID>
+		<label>Playlists</label>
+		<label2>item</label2>
+		<icon>DefaultVideoPlaylists.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,special://videoplaylists/,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>32046</defaultID>
+		<label>Update Library</label>
+		<label2>Kodi Command</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>UpdateLibrary(video,,true)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>32055</defaultID>
+		<label>Clean Library</label>
+		<label2>Kodi Command</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>CleanLibrary(video,true)</action>
+	</shortcut>
+</shortcuts>

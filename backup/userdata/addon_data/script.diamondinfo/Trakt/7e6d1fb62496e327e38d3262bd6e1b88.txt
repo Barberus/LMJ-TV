@@ -1,0 +1,1 @@
+[{"collected_at": "2023-03-04T05:03:21.000Z", "updated_at": "2023-03-04T06:12:58.000Z", "movie": {"title": "Family Guy Presents: It's a Trap!", "year": 2010, "ids": {"trakt": 176034, "slug": "family-guy-presents-it-s-a-trap-2010", "imdb": "tt1701991", "tmdb": 278427}}}]

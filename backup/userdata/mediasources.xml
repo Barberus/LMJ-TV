@@ -1,0 +1,5 @@
+<mediasources>
+    <network>
+        <location id="0">smb://root:matriux@192.168.2.8/</location>
+    </network>
+</mediasources>

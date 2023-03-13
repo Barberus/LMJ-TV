@@ -1,0 +1,7 @@
+<favourites>
+    <favourite name="Suche" thumb="special://home/addons/plugin.video.vavooto/resources/search.png">ActivateWindow(10025,&quot;plugin://plugin.video.vavooto/?action=search&amp;id=series.popular&amp;sf_options=fanart%3Dsmb%3A%2F%2F192.168.2.8%2Fsmb1%2FLMJ-TV-BACKUP%2FThumbnails%2Ff%2Ff5e933df.png%26_options_sf&quot;,return)</favourite>
+    <favourite name="Takealug EPG Grabber" thumb="special://home/addons/service.takealug.epg-grabber/icon.png">RunAddon(service.takealug.epg-grabber)</favourite>
+    <favourite name="[COLOR orchid][Back Up]: Build[/COLOR]" thumb="special://home/addons/plugin.program.thecrewiz/resources/art/maintenance.png">PlayMedia(&quot;plugin://plugin.program.thecrewiz/?mode=backupbuild&amp;sf_options=winID%3D10001%26_options_sf&quot;)</favourite>
+    <favourite name="[COLOR orchid][Restore]: Local Build[/COLOR]" thumb="special://home/addons/plugin.program.thecrewiz/resources/art/maintenance.png">PlayMedia(&quot;plugin://plugin.program.thecrewiz/?mode=restorezip&amp;sf_options=winID%3D10001%26_options_sf&quot;)</favourite>
+    <favourite name="skin">ActivateWindow(10003,&quot;smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/fanart/skin/&quot;,return)</favourite>
+</favourites>
