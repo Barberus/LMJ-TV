@@ -9,7 +9,7 @@ http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6256
 http://ipflix.click:8080/sq1x0qr86b/7777/6256
 #EXTINF:-1 group-title="OFFLINE" tvg-id="DasErste.de" tvg-name="001" tvg-logo="http://127.0.0.1/" ,Das Erste DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6256
-#EXTINF:-1 group-title="TV" tvg-id="DasErste.de" tvg-name="001" tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" ,DE : HD DAS ERSTE
+#EXTINF:-1 group-title="TV" tvg-id="Ard.de" tvg-name="001" tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" ,DE : HD DAS ERSTE
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248774
 #EXTINF:-1 group-title="1TV" tvg-id="ZDF.de" tvg-name="002" tvg-logo="http://127.0.0.1/" ,ZDF FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6151
@@ -71,6 +71,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6210
 http://ipflix.click:8080/sq1x0qr86b/7777/683455
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sat1.de" tvg-name="005" tvg-logo="http://127.0.0.1/" ,Sat.1 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683455
+#EXTINF:-1 group-title="TV" tvg-id="Sat1.de" tvg-name="005" tvg-logo="http://fireott.quest:2052/images/28c66a713aa7f1483d6ac0519a228a06.png" ,DE : HD SAT 1
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248791
 #EXTINF:-1 group-title="1TV" tvg-id="Vox.de" tvg-name="006" tvg-logo="http://127.0.0.1/" ,VOX FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13553
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Vox.de" tvg-name="006" ,VOX FHD DE
@@ -83,6 +85,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13553
 http://ipflix.click:8080/sq1x0qr86b/7777/6153
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Vox.de" tvg-name="006" tvg-logo="http://127.0.0.1/" ,VOX HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6153
+#EXTINF:-1 group-title="TV" tvg-id="Vox.de" tvg-name="006" tvg-logo="http://fireott.quest:2052/images/fa17c4c2263e7e442d6ce94f2f574013.png" ,DE : HD VOX
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248795
 #EXTINF:-1 group-title="1TV" tvg-id="Kabel.de" tvg-name="007" tvg-logo="http://127.0.0.1/" ,Kabel 1 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6242
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Kabel.de" tvg-name="007" ,Kabel 1 FHD DE
@@ -171,6 +175,8 @@ http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6249
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6249
 #EXTINF:-1 group-title="OFFLINE" tvg-id="DMax.de" tvg-name="011" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/dmaxhd.png" ,DMAX HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6249
+#EXTINF:-1 group-title="TV" tvg-id="DMax.de" tvg-name="011" tvg-logo="http://fireott.quest:2052/images/a34822afd269060a6b7990b6df980bdf.png" ,DE : HD DMAX
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248820
 #EXTINF:-1 group-title="1TV" tvg-id="ComedyCentralVIVA.de" tvg-name="012" ,Comedy Central FHD CH
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/688616
 #EXTINF:-1 group-title="OFFLINE" tvg-id="ComedyCentralVIVA.de" tvg-name="012" ,Comedy Central FHD DE
@@ -195,6 +201,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13137
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13137
 #EXTINF:-1 group-title="OFFLINE" tvg-id="RTLNitro.de" tvg-name="014" tvg-logo="http://127.0.0.1/" ,RTL Nitro FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6212
+#EXTINF:-1 group-title="TV" tvg-id="RTLNitro.de" tvg-name="014" tvg-logo="http://fireott.quest:2052/images/be2c7610029b01cea253914f622b2455.png" ,DE : HD NITRO
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248799
 #EXTINF:-1 group-title="1TV" tvg-id="RTLCrime.de" tvg-name="015" tvg-logo="http://127.0.0.1/" ,RTL Crime FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6214
 #EXTINF:-1 group-title="OFFLINE" tvg-id="RTLCrime.de" tvg-name="015" ,RTL Crime HD DE
@@ -235,12 +243,16 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679836
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679836
 #EXTINF:-1 group-title="OFFLINE" tvg-id="VOXup.de" tvg-name="017" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Voxup_HD_Logo_2019.svg.png" ,VOXup DE
 http://ipflix.click:8080/sq1x0qr86b/7777/679836
+#EXTINF:-1 group-title="TV" tvg-id="VOXup.de" tvg-name="017" tvg-logo="http://fireott.quest:2052/images/65ae0e4e04a57c407241c2975abc667a.png" ,DE : HD VOX UP
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248796
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sat1Gold.de" tvg-name="018" ,Sat1 Gold FHD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6209
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sat1Gold.de" tvg-name="018" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/sat1goldhd.png" ,SAT.1 GOLD HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6209
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sat1Gold.de" tvg-name="018" tvg-logo="http://127.0.0.1/" ,Sat1 Gold FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6209
+#EXTINF:-1 group-title="TV" tvg-id="Sat1Gold.de" tvg-name="018" tvg-logo="http://fireott.quest:2052/images/364bf99a41eae4bd68a57804ac6f0cc7.png" ,DE : HD SAT 1 GOLD
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248792
 #EXTINF:-1 group-title="1TV" tvg-id="KabelEinsClassic.de" tvg-name="019" tvg-logo="http://127.0.0.1/" ,Kabel 1 Classic DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679844
 #EXTINF:-1 group-title="OFFLINE" tvg-id="KabelEinsClassic.de" tvg-name="019" ,Kabel 1 Classic DE
@@ -253,7 +265,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/679844
 http://ipflix.click:8080/sq1x0qr86b/7777/9151
 #EXTINF:-1 group-title="OFFLINE" tvg-id="KabelEinsClassic.de" tvg-name="019" tvg-logo="http://127.0.0.1/" ,Kabel 1 Classic HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9151
-#EXTINF:-1 group-title="TV" tvg-name="019" tvg-logo="http://fireott.quest:2052/images/5f8dda589b0c7b61399b9d75c79cad1f.png" ,DE : HD KABEL 1 CLASSICS
+#EXTINF:-1 group-title="TV" tvg-id="KabelEinsClassic.de" tvg-name="019" tvg-logo="http://fireott.quest:2052/images/5f8dda589b0c7b61399b9d75c79cad1f.png" ,DE : HD KABEL 1 CLASSICS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248798
 #EXTINF:-1 group-title="1TV" tvg-id="Sixx.de" tvg-name="020" tvg-logo="http://127.0.0.1/" ,Sixx FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6207
@@ -273,7 +285,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13173
 http://ipflix.click:8080/sq1x0qr86b/7777/8196
 #EXTINF:-1 group-title="OFFLINE" tvg-id="AnimalPlanet.de" tvg-name="021" tvg-logo="http://127.0.0.1/" ,Animal Planet HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13173
-#EXTINF:-1 group-title="TV" tvg-name="021" tvg-logo="http://fireott.quest:2052/images/33cf36f647ffc9d1a6c355aa8b1a05fd.png" ,DE : HD ANIMAL PLANET
+#EXTINF:-1 group-title="TV" tvg-id="AnimalPlanet.de" tvg-name="021" tvg-logo="http://fireott.quest:2052/images/33cf36f647ffc9d1a6c355aa8b1a05fd.png" ,DE : HD ANIMAL PLANET
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248828
 #EXTINF:-1 group-title="1TV" tvg-id="NatGeoWild.de" tvg-name="022" tvg-logo="http://127.0.0.1/" ,Nat Geo Wild DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5085
@@ -293,7 +305,7 @@ http://ipflix.click:8080/sq1x0qr86b/7777/9136
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6227
 #EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeoWild.de" tvg-name="022" tvg-logo="http://127.0.0.1/" ,Nat Geo Wild HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9136
-#EXTINF:-1 group-title="TV" tvg-name="022" tvg-logo="http://fireott.quest:2052/images/1c764d2a1f99ab3b3a42ce6a4e411a70.png" ,DE : HD NAT GEO WILD
+#EXTINF:-1 group-title="TV" tvg-id="NatGeoWild.de" tvg-name="022" tvg-logo="http://fireott.quest:2052/images/1c764d2a1f99ab3b3a42ce6a4e411a70.png" ,DE : HD NAT GEO WILD
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248816
 #EXTINF:-1 group-title="1TV" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://127.0.0.1/" ,National Geographic HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8194
@@ -309,26 +321,32 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6226
 http://ipflix.click:8080/sq1x0qr86b/7777/8194
 #EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://127.0.0.1/" ,National Geographic DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6226
-#EXTINF:-1 group-title="TV" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/4b6988d26fb314a627d4aff63da48e0a.png" ,DE : HD NAT GEO
+#EXTINF:-1 group-title="TV" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/4b6988d26fb314a627d4aff63da48e0a.png" ,DE : HD NAT GEO
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248817
-#EXTINF:-1 group-title="1TV" tvg-id="HistoryHD.de" tvg-name="024" tvg-logo="http://127.0.0.1/" ,History Channel FHD DE
+#EXTINF:-1 group-title="1TV" tvg-id="History.de" tvg-name="024" tvg-logo="http://127.0.0.1/" ,History Channel FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6244
-#EXTINF:-1 group-title="OFFLINE" tvg-id="HistoryHD.de" tvg-name="024" ,History Channel FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="History.de" tvg-name="024" ,History Channel FHD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6244
 #EXTINF:-1 group-title="OFFLINE" tvg-id="History.de" tvg-name="024" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/History-HD.png" ,The HISTORY Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
+#EXTINF:-1 group-title="TV" tvg-id="History.de" tvg-name="024" tvg-logo="http://fireott.quest:2052/images/5fa77a931dac4e1b38279b644fc379b5.png" ,DE : HD HISTORY HD
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248819
 #EXTINF:-1 group-title="1TV" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="http://127.0.0.1/" ,Spiegel Geschichte HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6174
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelGeschichte.de" tvg-name="025" ,Spiegel Geschichte HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6174
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-Geschichte-HD.png" ,Spiegel Geschichte HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6174
+#EXTINF:-1 group-title="TV" tvg-id="SpiegelGeschichte.de" tvg-name="025" ,DE : HD SPIEGEL GESCHICHTE
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248830
 #EXTINF:-1 group-title="1TV" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://127.0.0.1/" ,Spiegel TV Wissen HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9135
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" ,Spiegel TV Wissen HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/9135
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-TV-Wissen-HD.png" ,Spiegel TV Wissen HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9135
+#EXTINF:-1 group-title="TV" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,DE : HD SPIEGEL TV WISSEN
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248831
 #EXTINF:-1 group-title="1TV" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://127.0.0.1/" ,Discovery FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13570
 #EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" ,Discovery FHD DE
@@ -357,12 +375,16 @@ http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679837
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679837
 #EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/N24-Doku.png" ,N24 Doku
 http://ipflix.click:8080/sq1x0qr86b/7777/679837
+#EXTINF:-1 group-title="TV" tvg-id="Sky One" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,DE : HD N24 DOKU
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248825
 #EXTINF:-1 group-title="1TV" tvg-id="Sky One" tvg-name="030" tvg-logo="http://127.0.0.1/" ,Sky One FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9138
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sky One" tvg-name="030" ,Sky One FHD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/9138
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sky One" tvg-name="030" tvg-logo="http://127.0.0.1/" ,Sky One FHD DE
 http://ipflix.click:8080/sq1x0qr86b/7777/9138
+#EXTINF:-1 group-title="TV" tvg-id="Sky One" tvg-name="030" tvg-logo="http://fireott.quest:2052/images/b7e13d2ae9b984c80150fae6c02bb762.png" ,DE : HD SKY 1
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248880
 #EXTINF:-1 group-title="1TV" tvg-id="SkyAtlanticHD.de" tvg-name="031" tvg-logo="http://127.0.0.1/" ,Sky Atlantic DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6204
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyAtlanticHD.de" tvg-name="031" ,Sky Atlantic DE
@@ -375,6 +397,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6204
 http://ipflix.click:8080/sq1x0qr86b/7777/7367
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyAtlanticHD.de" tvg-name="031" tvg-logo="http://127.0.0.1/" ,Sky Atlantic HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7367
+#EXTINF:-1 group-title="TV" tvg-id="SkyAtlanticHD.de" tvg-name="031" tvg-logo="http://fireott.quest:2052/images/d19c2828fad9c680a33c908a8289fd2b.png" ,DE | SKY ATLANTIC HD
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248881
 #EXTINF:-1 group-title="1TV" tvg-id="SkyAction.de" tvg-name="032" tvg-logo="http://127.0.0.1/" ,Sky Cinema Action FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5093
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyAction.de" tvg-name="032" ,Sky Cinema Action FHD DE
@@ -391,6 +415,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6205
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6205
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyAction.de" tvg-name="032" tvg-logo="http://127.0.0.1/" ,Sky Cinema Action DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9146
+#EXTINF:-1 group-title="TV" tvg-id="SkyAction.de" tvg-name="032" tvg-logo="http://fireott.quest:2052/images/662ebabc4fec1349c68c4124a37f8bc3.png" ,DE : HD SKY ACTION
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248872
 #EXTINF:-1 group-title="1TV" tvg-id="SkyKrimi.de" tvg-name="033" tvg-logo="http://127.0.0.1/" ,Sky Krimi VIP HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688821
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyKrimi.de" tvg-name="033" ,Sky Krimi VIP HD DE
@@ -403,6 +429,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/688821
 http://ipflix.click:8080/sq1x0qr86b/7777/8220
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyKrimi.de" tvg-name="033" tvg-logo="http://127.0.0.1/" ,Sky Krimi HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8220
+#EXTINF:-1 group-title="TV" tvg-id="SkyKrimi.de" tvg-name="033" tvg-logo="http://fireott.quest:2052/images/680491536d4e3483605d49e26f50d1a2.png" ,DE : HD SKY KRIMI
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248882
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaBestOf.de" tvg-name="034" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best Of FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7368
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaBestOf.de" tvg-name="034" ,Sky Cinema Best of DE
@@ -419,6 +447,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/8223
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5088
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaBestOf.de" tvg-name="034" tvg-logo="http://127.0.0.1/" ,Sky Cinema Best Of HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/8223
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaBestOf.de" tvg-name="034" tvg-logo="http://fireott.quest:2052/images/8fd5fea763f8b6edeb69944220f5b336.png" ,DE : HD SKY BEST Of
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248875
 #EXTINF:-1 group-title="1TV" tvg-id="SkyComedy.de" tvg-name="035" tvg-logo="http://127.0.0.1/" ,Sky Cinema Comedy VIP HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/688822
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyComedy.de" tvg-name="035" ,Sky Cinema Comedy VIP HD DE
@@ -437,6 +467,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7369
 http://ipflix.click:8080/sq1x0qr86b/7777/9145
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaFamily.de" tvg-name="036" tvg-logo="http://127.0.0.1/" ,Sky Cinema Family HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7369
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFamily.de" tvg-name="036" tvg-logo="http://fireott.quest:2052/images/54c364c6d45b53ad723aff3681775e2c.png" ,DE : HD SKY CINEMA FAMILY
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248873
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaFun.de" tvg-name="037" tvg-logo="http://127.0.0.1/" ,Sky Cinema Fun DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6190
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaFun.de" tvg-name="037" ,Sky Cinema Fun DE
@@ -449,6 +481,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6190
 http://ipflix.click:8080/sq1x0qr86b/7777/9144
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaFun.de" tvg-name="037" tvg-logo="http://127.0.0.1/" ,Sky Cinema Fun HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9144
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaFun.de" tvg-name="037" tvg-logo="http://fireott.quest:2052/images/8df1edf6a26e464da32b3577ee4d240e.png" ,DE : HD SKY FUN
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248877
 #EXTINF:-1 group-title="1TV" tvg-id="Kinowelt.de" tvg-name="038" tvg-logo="http://127.0.0.1/" ,Kinowelt FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6240
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Kinowelt.de" tvg-name="038" ,Kinowelt FHD DE
@@ -471,6 +505,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/5097
 http://ipflix.click:8080/sq1x0qr86b/7777/6259
 #EXTINF:-1 group-title="OFFLINE" tvg-id="AXN.de" tvg-name="039" tvg-logo="http://127.0.0.1/" ,AXN FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5097
+#EXTINF:-1 group-title="TV" tvg-id="AXN.de" tvg-name="039" tvg-logo="http://fireott.quest:2052/images/04f41a12f6dc17a51325d40fc1249117.png" ,DE : HD SONY AXN
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248893
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyPremieren.de" tvg-name="040" ,Sky Cinema Premieren FHD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6194
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyPremieren.de" tvg-name="040" ,Sky Cinema Premieren HD DE
@@ -483,7 +519,9 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7373
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6194
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyPremieren.de" tvg-name="040" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7373
-#EXTINF:-1 group-title="1TV" tvg-name="041" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren +24 FHD DE
+#EXTINF:-1 group-title="TV" tvg-id="SkyPremieren.de" tvg-name="040" tvg-logo="http://fireott.quest:2052/images/cdca7c647214461304219ddcb7014e57.png" ,DE: HD SKY PREMIEREN
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248874
+#EXTINF:-1 group-title="1TV" tvg-id="SkyPremieren.de" tvg-name="041" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren +24 FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6192
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaPlus24.de" tvg-name="041" ,Sky Cinema Premieren +24 HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13133
@@ -491,8 +529,10 @@ http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13133
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6192
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sky Cinema Premieren +24" tvg-name="041" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren +24 FHD
 http://ipflix.click:8080/sq1x0qr86b/7777/6192
-#EXTINF:-1 group-title="OFFLINE" tvg-name="041" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren +24 HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaSpecial.de" tvg-name="041" tvg-logo="http://127.0.0.1/" ,Sky Cinema Premieren +24 HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13133
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaSpecial.de" tvg-name="041" tvg-logo="http://fireott.quest:2052/images/474d671eb2a13ce762d6ddf624acd496.png" ,DE : HD SKY PREMIEREN 24
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248871
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaSpecial.de" tvg-name="042" tvg-logo="http://127.0.0.1/" ,Sky Cinema Special HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6252
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaSpecial.de" tvg-name="042" tvg-logo="http://127.0.0.1/" ,Sky Cinema Special FHD DE
@@ -505,6 +545,8 @@ http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/8217
 http://ipflix.click:8080/sq1x0qr86b/7777/6252
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sky Cinema Special HD" tvg-name="042" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sky-Cinema-Action.png" ,Sky Cinema Special HD
 http://ipflix.click:8080/sq1x0qr86b/7777/8217
+#EXTINF:-1 group-title="TV" tvg-id="Sky Cinema Special HD" tvg-name="042" tvg-logo="http://fireott.quest:2052/images/b246d0ec3c114bf95111c59656bfc4df.png" ,DE : HD SKY SPECIAL
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248876
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaThriller.de" tvg-name="043" tvg-logo="http://127.0.0.1/" ,Sky Cinema Thriller DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6193
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaThriller.de" tvg-name="043" ,Sky Cinema Thriller FHD DE
@@ -523,6 +565,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7372
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5089
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaThriller.de" tvg-name="043" tvg-logo="http://127.0.0.1/" ,Sky Cinema Thriller HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7372
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaThriller.de" tvg-name="043" tvg-logo="http://fireott.quest:2052/images/ab0925fa04ac08af3572f69619d899f8.png" ,DE : HD SKY CINEMA THRILLER
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248869
 #EXTINF:-1 group-title="1TV" tvg-id="SkyCinemaClassics.de" tvg-name="044" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13131
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaClassics.de" tvg-name="044" ,Sky Cinema Classics HD DE
@@ -535,6 +579,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13131
 http://ipflix.click:8080/sq1x0qr86b/7777/6186
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SkyCinemaClassics.de" tvg-name="044" tvg-logo="http://127.0.0.1/" ,Sky Cinema Classics DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6186
+#EXTINF:-1 group-title="TV" tvg-id="SkyCinemaClassics.de" tvg-name="044" ,DE : HD SKY CLASSICS
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248879
 #EXTINF:-1 group-title="1TV" tvg-id="Sky Replay" tvg-name="045" tvg-logo="http://127.0.0.1/" ,Sky Replay FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/23770
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sky Replay" tvg-name="045" ,Sky Replay FHD DE
@@ -553,6 +599,8 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6167
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6167
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Sony Channel" tvg-name="046" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Sony-Entertainment-TV-HD.png" ,Sony Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6167
+#EXTINF:-1 group-title="TV" tvg-id="Sony Channel" tvg-name="046" tvg-logo="http://fireott.quest:2052/images/2b00e75c0a8384f76d3d0bc6cacabfa3.png" ,DE : HD SONY CHANNEL
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248894
 #EXTINF:-1 group-title="1TV" tvg-id="SciFi.de" tvg-name="047" tvg-logo="http://127.0.0.1/" ,Syfy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/7364
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SciFi.de" tvg-name="047" ,Syfy HD DE
@@ -571,6 +619,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/7364
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5087
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SciFi.de" tvg-name="047" tvg-logo="http://127.0.0.1/" ,Syfy DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6164
+#EXTINF:-1 group-title="TV" tvg-id="SciFi.de" tvg-name="047" tvg-logo="http://fireott.quest:2052/images/15387bcc5f6a1ddbfb32f5cf1a2ea552.png" ,DE : HD SYFY
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248891
 #EXTINF:-1 group-title="1TV" tvg-id="TNTComedy.de" tvg-name="048" tvg-logo="http://127.0.0.1/" ,WarnerTV Comedy FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6157
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTComedy.de" tvg-name="048" ,WarnerTV Comedy FHD DE
@@ -583,6 +633,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6157
 http://ipflix.click:8080/sq1x0qr86b/7777/687541
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTComedy.de" tvg-name="048" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-C.png" ,WarnerTV Comedy HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/687541
+#EXTINF:-1 group-title="TV" tvg-id="TNTComedy.de" tvg-name="048" tvg-logo="http://fireott.quest:2052/images/60827221d6174ea680b5a0b1be88688c.png" ,DE : HD TNT COMEDY
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248886
 #EXTINF:-1 group-title="1TV" tvg-id="TNTSerie.de" tvg-name="049" tvg-logo="http://127.0.0.1/" ,WarnerTV Serie DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13154
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTSerie.de" tvg-name="049" ,WarnerTV Serie DE
@@ -601,6 +653,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6155
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5084
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTSerie.de" tvg-name="049" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-S.png" ,WarnerTV Serie HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6155
+#EXTINF:-1 group-title="TV" tvg-id="TNTSerie.de" tvg-name="049" tvg-logo="http://fireott.quest:2052/images/33ee0880542cd70da79c3f9011b4289c.png" ,DE : HD TNT SERIE
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248888
 #EXTINF:-1 group-title="1TV" tvg-id="TNTFilm.de" tvg-name="050" tvg-logo="http://127.0.0.1/" ,WarnerTV Film FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6156
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTFilm.de" tvg-name="050" ,WarnerTV Film FHD DE
@@ -613,6 +667,8 @@ http://ipflix.click:8080/sq1x0qr86b/7777/6156
 http://ipflix.click:8080/sq1x0qr86b/7777/683894
 #EXTINF:-1 group-title="OFFLINE" tvg-id="TNTFilm.de" tvg-name="050" tvg-logo="http://127.0.0.1/" ,WarnerTV Film HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/683894
+#EXTINF:-1 group-title="TV" tvg-id="TNTFilm.de" tvg-name="050" tvg-logo="http://fireott.quest:2052/images/4ccfb96db97eb60e088ba5f4eadcccc9.png" ,DE : HD TNT FILM
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248887
 #EXTINF:-1 group-title="1TV" tvg-id="Romance.de" tvg-name="051" tvg-logo="http://127.0.0.1/" ,Romance TV HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13152
 #EXTINF:-1 group-title="OFFLINE" tvg-id="Romance.de" tvg-name="051" ,Romance TV HD DE
@@ -711,6 +767,8 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9147
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/9147
 #EXTINF:-1 group-title="OFFLINE" tvg-id="One.de" tvg-name="060" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" ,One HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9147
+#EXTINF:-1 group-title="TV" tvg-id="One.de" tvg-name="060" tvg-logo="http://fireott.quest:2052/images/6feefb9f6eba51f8d70612e8e996576c.png" ,DE : HD ONE
+http://xtra.fireottplus.com:2052/098927148295/653251946378/248783
 #EXTINF:-1 group-title="1TV" tvg-name="061" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Animation HD
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681939
 #EXTINF:-1 group-title="OFFLINE" tvg-name="061" ,Eagle Cinema Animation HD DE
@@ -759,7 +817,7 @@ http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/681950
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/681950
 #EXTINF:-1 group-title="OFFLINE" tvg-name="069" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/" ,Eagle Cinema Thriller HD
 http://ipflix.click:8080/sq1x0qr86b/7777/681950
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD  DAZN 1 BAR" tvg-logo="http://fireott.quest:2052/images/b07d88e5efa3947c2a187fabe4a34861.png" ,DE : HD  DAZN 1 BAR
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD  DAZN 1 BAR" tvg-logo="http://fireott.quest:2052/images/b07d88e5efa3947c2a187fabe4a34861.png" ,DE : HD  DAZN 1 BAR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248843
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD 3 SAT" tvg-logo="http://fireott.quest:2052/images/337a562c85cc0fff9f433ef9846ea9bd.png" ,DE : HD 3 SAT
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248784
@@ -769,7 +827,7 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248801
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248802
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD ARTE" tvg-logo="http://fireott.quest:2052/images/0f5013b6b0359b93eb28a25b0022e180.png" ,DE : HD ARTE
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248803
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD AUTO MOTOR SPORT" tvg-logo="http://fireott.quest:2052/images/ca63392f14a5173551b33ceb353fdeb6.png" ,DE : HD AUTO MOTOR SPORT
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD AUTO MOTOR SPORT" tvg-logo="http://fireott.quest:2052/images/ca63392f14a5173551b33ceb353fdeb6.png" ,DE : HD AUTO MOTOR SPORT
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248856
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD BOOMERANG" ,DE : HD BOOMERANG
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248898
@@ -781,7 +839,7 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248804
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248805
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD CRIME INVESTIGATION" tvg-logo="http://fireott.quest:2052/images/1df94f43b77efff33ac9f747b2be7926.png" ,DE : HD CRIME INVESTIGATION
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248827
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD DAZN 2 BAR" tvg-logo="http://fireott.quest:2052/images/5266535da7084d37d94e3f11b521d952.png" ,DE : HD DAZN 2 BAR
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD DAZN 2 BAR" tvg-logo="http://fireott.quest:2052/images/5266535da7084d37d94e3f11b521d952.png" ,DE : HD DAZN 2 BAR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248844
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD DELUXE MUSIC" ,DE : HD DELUXE MUSIC
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248915
@@ -795,19 +853,15 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248818
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248900
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD DISNEY JUNIOR" ,DE : HD DISNEY JUNIOR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248901
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD DMAX" tvg-logo="http://fireott.quest:2052/images/a34822afd269060a6b7990b6df980bdf.png" ,DE : HD DMAX
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248820
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD E! ENTERTAINMENT" ,DE : HD E! ENTERTAINMENT
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248916
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD ESPORTS 1" tvg-logo="http://fireott.quest:2052/images/25e5ecbfb2a2cdfadcf29b9e16de6d8b.png" ,DE : HD ESPORTS 1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD ESPORTS 1" tvg-logo="http://fireott.quest:2052/images/25e5ecbfb2a2cdfadcf29b9e16de6d8b.png" ,DE : HD ESPORTS 1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248866
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD EURONEWS GERMANY" tvg-logo="http://fireott.quest:2052/images/957d1b0479404bebe7dbe8624c5fffac.png" ,DE : HD EURONEWS GERMANY
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248806
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD EUROSPORT 1" tvg-logo="http://fireott.quest:2052/images/fc6743959e2f1e1999402d0987997d06.png" ,DE : HD EUROSPORT 1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD EUROSPORT 1" tvg-logo="http://fireott.quest:2052/images/fc6743959e2f1e1999402d0987997d06.png" ,DE : HD EUROSPORT 1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248857
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD EUROSPORT 2" tvg-logo="http://fireott.quest:2052/images/b6273d07bd58e1399109843ebbef4ae4.png" ,DE : HD EUROSPORT 2
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD EUROSPORT 2" tvg-logo="http://fireott.quest:2052/images/b6273d07bd58e1399109843ebbef4ae4.png" ,DE : HD EUROSPORT 2
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248858
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD FC BAYERN TV" tvg-logo="http://fireott.quest:2052/images/a17eb6229e9c32aff22c2d4275d8589e.png" ,DE : HD FC BAYERN TV
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD FC BAYERN TV" tvg-logo="http://fireott.quest:2052/images/a17eb6229e9c32aff22c2d4275d8589e.png" ,DE : HD FC BAYERN TV
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248865
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD FOX" tvg-logo="http://fireott.quest:2052/images/e1e8a13fe0afb9158ce2b85a44c05bdc.png" ,DE : HD FOX
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248889
@@ -817,8 +871,6 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248823
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248807
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD HGTV" tvg-logo="http://fireott.quest:2052/images/fe8c919679216bb573a2ee909e1701d0.png" ,DE : HD HGTV
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248821
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD HISTORY HD" tvg-logo="http://fireott.quest:2052/images/5fa77a931dac4e1b38279b644fc379b5.png" ,DE : HD HISTORY HD
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248819
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD HR" tvg-logo="http://fireott.quest:2052/images/bc84ced7079f5200daa5daddf8611dce.png" ,DE : HD HR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248779
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD JUKEBOX" ,DE : HD JUKEBOX
@@ -849,12 +901,10 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248924
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248919
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD MDR" tvg-logo="http://fireott.quest:2052/images/34e759a857ed3fae4c7cc315d1cc7021.png" ,DE : HD MDR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248778
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD MOTORVISION TV" tvg-logo="http://fireott.quest:2052/images/148a32a660d11cb0107b2008ae568597.png" ,DE : HD MOTORVISION TV
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD MOTORVISION TV" tvg-logo="http://fireott.quest:2052/images/148a32a660d11cb0107b2008ae568597.png" ,DE : HD MOTORVISION TV
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248859
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD MR BEAN" ,DE : HD MR BEAN
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248905
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD N24 DOKU" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,DE : HD N24 DOKU
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248825
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD NDR" tvg-logo="http://fireott.quest:2052/images/3f1d52dc9ee38bc115343a0acba66954.png" ,DE : HD NDR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248780
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD NICK JR" ,DE : HD NICK JR
@@ -865,14 +915,8 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248910
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248911
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD NICKTOONS" ,DE : HD NICKTOONS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248907
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD NITRO" tvg-logo="http://fireott.quest:2052/images/be2c7610029b01cea253914f622b2455.png" ,DE : HD NITRO
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248799
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD NTV" ,DE : HD NTV
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248826
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD ONE" tvg-logo="http://fireott.quest:2052/images/6feefb9f6eba51f8d70612e8e996576c.png" ,DE : HD ONE
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248783
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD PEARL TV SHOP" tvg-logo="http://fireott.quest:2052/images/0767d3bf4bc043e4eceaeee5eb55e800.png" ,DE : HD PEARL TV SHOP
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248808
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD PHOENIX" tvg-logo="http://fireott.quest:2052/images/16d0e540c5ae13656de431d15b5cd736.png" ,DE : HD PHOENIX
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248809
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD PLANET" tvg-logo="http://fireott.quest:2052/images/2714e470df89c5346436c51629a129fa.png" ,DE : HD PLANET
@@ -885,130 +929,84 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248810
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248884
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD RTL PASSION" tvg-logo="http://fireott.quest:2052/images/8dd3e8d56255280aaf3c41626a5e982d.png" ,DE : HD RTL PASSION
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248885
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SAT 1" tvg-logo="http://fireott.quest:2052/images/28c66a713aa7f1483d6ac0519a228a06.png" ,DE : HD SAT 1
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248791
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SAT 1 EMOTIONS" tvg-logo="http://fireott.quest:2052/images/84b21b57c6306f1ca88656cf870af9dc.png" ,DE : HD SAT 1 EMOTIONS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248793
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SAT 1 GOLD" tvg-logo="http://fireott.quest:2052/images/364bf99a41eae4bd68a57804ac6f0cc7.png" ,DE : HD SAT 1 GOLD
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248792
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SERVUS TV DEUTSCHLAND" tvg-logo="http://fireott.quest:2052/images/4f4ee980567aed1af548b0133681d342.png" ,DE : HD SERVUS TV DEUTSCHLAND
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248800
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SILVERLINE" tvg-logo="http://fireott.quest:2052/images/fa2d8cec08485bfb4712b6b0a5b472de.png" ,DE : HD SILVERLINE
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248895
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SIXX" tvg-logo="http://fireott.quest:2052/images/48743476add82dfa474c6f48578b2a82.png" ,DE : HD SIXX
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248794
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY 1" tvg-logo="http://fireott.quest:2052/images/b7e13d2ae9b984c80150fae6c02bb762.png" ,DE : HD SKY 1
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248880
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY ACTION" tvg-logo="http://fireott.quest:2052/images/662ebabc4fec1349c68c4124a37f8bc3.png" ,DE : HD SKY ACTION
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248872
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BEST Of" tvg-logo="http://fireott.quest:2052/images/8fd5fea763f8b6edeb69944220f5b336.png" ,DE : HD SKY BEST Of
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248875
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 1" tvg-logo="http://fireott.quest:2052/images/b48119da839d1b6e3a6f0f70769bcbcd.png" ,DE : HD SKY BUNDESLIGA 1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 1" tvg-logo="http://fireott.quest:2052/images/b48119da839d1b6e3a6f0f70769bcbcd.png" ,DE : HD SKY BUNDESLIGA 1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248833
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 10" tvg-logo="http://fireott.quest:2052/images/6011c7a5c4b3bd93a106339c986e374a.png" ,DE : HD SKY BUNDESLIGA 10
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 10" tvg-logo="http://fireott.quest:2052/images/6011c7a5c4b3bd93a106339c986e374a.png" ,DE : HD SKY BUNDESLIGA 10
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248842
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 2" tvg-logo="http://fireott.quest:2052/images/1becc5db8b46882496283bcb6dd777fd.png" ,DE : HD SKY BUNDESLIGA 2
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 2" tvg-logo="http://fireott.quest:2052/images/1becc5db8b46882496283bcb6dd777fd.png" ,DE : HD SKY BUNDESLIGA 2
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248834
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 3" tvg-logo="http://fireott.quest:2052/images/1ee88efc3121113d923c59ba990c999f.png" ,DE : HD SKY BUNDESLIGA 3
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 3" tvg-logo="http://fireott.quest:2052/images/1ee88efc3121113d923c59ba990c999f.png" ,DE : HD SKY BUNDESLIGA 3
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248835
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 4" tvg-logo="http://fireott.quest:2052/images/73382eb15c59daa223763bc278a55f13.png" ,DE : HD SKY BUNDESLIGA 4
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 4" tvg-logo="http://fireott.quest:2052/images/73382eb15c59daa223763bc278a55f13.png" ,DE : HD SKY BUNDESLIGA 4
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248836
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 5" tvg-logo="http://fireott.quest:2052/images/db02a009701114f3a911abf5c034de7c.png" ,DE : HD SKY BUNDESLIGA 5
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 5" tvg-logo="http://fireott.quest:2052/images/db02a009701114f3a911abf5c034de7c.png" ,DE : HD SKY BUNDESLIGA 5
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248837
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 6" tvg-logo="http://fireott.quest:2052/images/6d4a6beb2520e7cfc0f18ea030cfc866.png" ,DE : HD SKY BUNDESLIGA 6
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 6" tvg-logo="http://fireott.quest:2052/images/6d4a6beb2520e7cfc0f18ea030cfc866.png" ,DE : HD SKY BUNDESLIGA 6
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248838
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 7" tvg-logo="http://fireott.quest:2052/images/bac1c6a9f120913c317c9d6bd73b1788.png" ,DE : HD SKY BUNDESLIGA 7
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 7" tvg-logo="http://fireott.quest:2052/images/bac1c6a9f120913c317c9d6bd73b1788.png" ,DE : HD SKY BUNDESLIGA 7
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248839
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 8" tvg-logo="http://fireott.quest:2052/images/61cefc8403eea19b0b7b5d224d0773cb.png" ,DE : HD SKY BUNDESLIGA 8
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 8" tvg-logo="http://fireott.quest:2052/images/61cefc8403eea19b0b7b5d224d0773cb.png" ,DE : HD SKY BUNDESLIGA 8
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248840
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY BUNDESLIGA 9" tvg-logo="http://fireott.quest:2052/images/577b455787567e24ac011ece2460c756.png" ,DE : HD SKY BUNDESLIGA 9
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY BUNDESLIGA 9" tvg-logo="http://fireott.quest:2052/images/577b455787567e24ac011ece2460c756.png" ,DE : HD SKY BUNDESLIGA 9
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248841
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY CINEMA FAMILY" tvg-logo="http://fireott.quest:2052/images/54c364c6d45b53ad723aff3681775e2c.png" ,DE : HD SKY CINEMA FAMILY
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248873
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY CINEMA THRILLER" tvg-logo="http://fireott.quest:2052/images/ab0925fa04ac08af3572f69619d899f8.png" ,DE : HD SKY CINEMA THRILLER
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248869
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY CLASSICS" ,DE : HD SKY CLASSICS
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248879
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY F1" tvg-logo="http://fireott.quest:2052/images/d295d566549377c7d64a62331cb33fa8.png" ,DE : HD SKY F1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY F1" tvg-logo="http://fireott.quest:2052/images/d295d566549377c7d64a62331cb33fa8.png" ,DE : HD SKY F1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248863
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY FUN" tvg-logo="http://fireott.quest:2052/images/8df1edf6a26e464da32b3577ee4d240e.png" ,DE : HD SKY FUN
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248877
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY KRIMI" tvg-logo="http://fireott.quest:2052/images/680491536d4e3483605d49e26f50d1a2.png" ,DE : HD SKY KRIMI
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248882
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY PREMIEREN 24" tvg-logo="http://fireott.quest:2052/images/474d671eb2a13ce762d6ddf624acd496.png" ,DE : HD SKY PREMIEREN 24
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248871
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SERIEN & SHOWS" tvg-logo="http://fireott.quest:2052/images/f2e9715dcdc643475ba6ddaf23187323.png" ,DE : HD SKY SERIEN & SHOWS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248878
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPECIAL" tvg-logo="http://fireott.quest:2052/images/b246d0ec3c114bf95111c59656bfc4df.png" ,DE : HD SKY SPECIAL
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248876
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 1" tvg-logo="http://fireott.quest:2052/images/69deb77e950680118ec230dbd49f35de.png" ,DE : HD SKY SPORT 1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 1" tvg-logo="http://fireott.quest:2052/images/69deb77e950680118ec230dbd49f35de.png" ,DE : HD SKY SPORT 1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248845
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 10" tvg-logo="http://fireott.quest:2052/images/bdc0907330bf8f78983504f2671732e3.png" ,DE : HD SKY SPORT 10
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 10" tvg-logo="http://fireott.quest:2052/images/bdc0907330bf8f78983504f2671732e3.png" ,DE : HD SKY SPORT 10
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248854
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 11" tvg-logo="http://fireott.quest:2052/images/b34440be52b2eca32117be3056fa3172.png" ,DE : HD SKY SPORT 11
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 11" tvg-logo="http://fireott.quest:2052/images/b34440be52b2eca32117be3056fa3172.png" ,DE : HD SKY SPORT 11
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248855
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 2" tvg-logo="http://fireott.quest:2052/images/aa0c4a39a619f3094a132208608609aa.png" ,DE : HD SKY SPORT 2
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 2" tvg-logo="http://fireott.quest:2052/images/aa0c4a39a619f3094a132208608609aa.png" ,DE : HD SKY SPORT 2
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248846
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 3" tvg-logo="http://fireott.quest:2052/images/df7f6e3d414f9f43c3ed9d00ef34ae91.png" ,DE : HD SKY SPORT 3
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 3" tvg-logo="http://fireott.quest:2052/images/df7f6e3d414f9f43c3ed9d00ef34ae91.png" ,DE : HD SKY SPORT 3
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248847
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 4" tvg-logo="http://fireott.quest:2052/images/955cd721691cae58e317694f31483009.png" ,DE : HD SKY SPORT 4
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 4" tvg-logo="http://fireott.quest:2052/images/955cd721691cae58e317694f31483009.png" ,DE : HD SKY SPORT 4
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248848
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 5" tvg-logo="http://fireott.quest:2052/images/e3de8992a0671e02e59da47fb99a4f49.png" ,DE : HD SKY SPORT 5
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 5" tvg-logo="http://fireott.quest:2052/images/e3de8992a0671e02e59da47fb99a4f49.png" ,DE : HD SKY SPORT 5
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248849
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 6" tvg-logo="http://fireott.quest:2052/images/ff176a84ad5465470dcedeceeab54611.png" ,DE : HD SKY SPORT 6
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 6" tvg-logo="http://fireott.quest:2052/images/ff176a84ad5465470dcedeceeab54611.png" ,DE : HD SKY SPORT 6
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248850
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 7" tvg-logo="http://fireott.quest:2052/images/25137917cea0d88dd3422c7aac909fb2.png" ,DE : HD SKY SPORT 7
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 7" tvg-logo="http://fireott.quest:2052/images/25137917cea0d88dd3422c7aac909fb2.png" ,DE : HD SKY SPORT 7
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248851
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 8" tvg-logo="http://fireott.quest:2052/images/7fdaac47495ea8685368a71bb02820e4.png" ,DE : HD SKY SPORT 8
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 8" tvg-logo="http://fireott.quest:2052/images/7fdaac47495ea8685368a71bb02820e4.png" ,DE : HD SKY SPORT 8
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248852
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT 9" tvg-logo="http://fireott.quest:2052/images/394fe42165b3fe0cd564c3e85d54d9ed.png" ,DE : HD SKY SPORT 9
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT 9" tvg-logo="http://fireott.quest:2052/images/394fe42165b3fe0cd564c3e85d54d9ed.png" ,DE : HD SKY SPORT 9
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248853
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY SPORT NEWS" tvg-logo="http://fireott.quest:2052/images/15aa0174335753aba93ecf13c95c30f2.png" ,DE : HD SKY SPORT NEWS
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SKY SPORT NEWS" tvg-logo="http://fireott.quest:2052/images/15aa0174335753aba93ecf13c95c30f2.png" ,DE : HD SKY SPORT NEWS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248862
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SKY THRILLER" tvg-logo="http://fireott.quest:2052/images/6d7effba22e43a125909aac69ea6d537.png" ,DE : HD SKY THRILLER
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248870
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SONNENKLAR TV" tvg-logo="http://fireott.quest:2052/images/168495471eacfbbe8591295b8fad9be4.png" ,DE : HD SONNENKLAR TV
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248811
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SONY AXN" tvg-logo="http://fireott.quest:2052/images/04f41a12f6dc17a51325d40fc1249117.png" ,DE : HD SONY AXN
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248893
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SONY CHANNEL" tvg-logo="http://fireott.quest:2052/images/2b00e75c0a8384f76d3d0bc6cacabfa3.png" ,DE : HD SONY CHANNEL
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248894
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SPIEGEL GESCHICHTE" ,DE : HD SPIEGEL GESCHICHTE
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248830
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SPIEGEL TV WISSEN" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,DE : HD SPIEGEL TV WISSEN
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248831
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SPORT 1" tvg-logo="http://fireott.quest:2052/images/a03dc4809e091ab3ef16f56184d71193.png" ,DE : HD SPORT 1
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SPORT 1" tvg-logo="http://fireott.quest:2052/images/a03dc4809e091ab3ef16f56184d71193.png" ,DE : HD SPORT 1
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248860
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SPORT DIGITAL FUSSBALL" tvg-logo="http://fireott.quest:2052/images/d13334a3a15092ce6b7de80f59c51162.png" ,DE : HD SPORT DIGITAL FUSSBALL
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SPORT DIGITAL FUSSBALL" tvg-logo="http://fireott.quest:2052/images/d13334a3a15092ce6b7de80f59c51162.png" ,DE : HD SPORT DIGITAL FUSSBALL
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248861
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SPORTDIGITAL FUSSBALL" tvg-logo="http://fireott.quest:2052/images/b97da0416df711a22b4c51aaac72afdd.png" ,DE : HD SPORTDIGITAL FUSSBALL
+#EXTINF:-1 group-title="Sport" tvg-name="DE : HD SPORTDIGITAL FUSSBALL" tvg-logo="http://fireott.quest:2052/images/b97da0416df711a22b4c51aaac72afdd.png" ,DE : HD SPORTDIGITAL FUSSBALL
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248867
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SUPER  RTL" ,DE : HD SUPER  RTL
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248912
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD SWR BW" tvg-logo="http://fireott.quest:2052/images/8bf4bfff89a7af2b83eda7c4eb9bba82.png" ,DE : HD SWR BW
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248812
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD SYFY" tvg-logo="http://fireott.quest:2052/images/15387bcc5f6a1ddbfb32f5cf1a2ea552.png" ,DE : HD SYFY
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248891
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD TAGESSCHAU 24" tvg-logo="http://fireott.quest:2052/images/9651d6be6977ef7e52e0f049d5338417.png" ,DE : HD TAGESSCHAU 24
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248785
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD TELE 5" tvg-logo="http://fireott.quest:2052/images/dc1fbfb568aab1291bd5b09c04bdd41b.png" ,DE : HD TELE 5
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248813
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD TLC" tvg-logo="http://fireott.quest:2052/images/efe01da942ed68b700b911f5a1b131a7.png" ,DE : HD TLC
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248814
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD TNT COMEDY" tvg-logo="http://fireott.quest:2052/images/60827221d6174ea680b5a0b1be88688c.png" ,DE : HD TNT COMEDY
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248886
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD TNT FILM" tvg-logo="http://fireott.quest:2052/images/4ccfb96db97eb60e088ba5f4eadcccc9.png" ,DE : HD TNT FILM
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248887
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD TNT SERIE" tvg-logo="http://fireott.quest:2052/images/33ee0880542cd70da79c3f9011b4289c.png" ,DE : HD TNT SERIE
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248888
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD TOGGO PLUS" ,DE : HD TOGGO PLUS
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248913
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD UNIVERSAL TV" tvg-logo="http://fireott.quest:2052/images/c8954b95f4d6a7b0383e518c7e81afd5.png" ,DE : HD UNIVERSAL TV
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248892
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD VOX" tvg-logo="http://fireott.quest:2052/images/fa17c4c2263e7e442d6ce94f2f574013.png" ,DE : HD VOX
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248795
-#EXTINF:-1 group-title="TV" tvg-name="DE : HD VOX UP" tvg-logo="http://fireott.quest:2052/images/65ae0e4e04a57c407241c2975abc667a.png" ,DE : HD VOX UP
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248796
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD WDR" tvg-logo="http://fireott.quest:2052/images/ddf9ec561f541407df8ebd32094ce2e4.png" ,DE : HD WDR
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248782
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD WELT" tvg-logo="http://fireott.quest:2052/images/ed04fe25a615fcee9d44064284e88bb4.png" ,DE : HD WELT
@@ -1019,10 +1017,6 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248829
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248776
 #EXTINF:-1 group-title="TV" tvg-name="DE : HD ZDF NEO" tvg-logo="http://fireott.quest:2052/images/6d5ec8961989040c24c449837892444b.png" ,DE : HD ZDF NEO
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248777
-#EXTINF:-1 group-title="TV" tvg-name="DE | SKY ATLANTIC HD" tvg-logo="http://fireott.quest:2052/images/d19c2828fad9c680a33c908a8289fd2b.png" ,DE | SKY ATLANTIC HD
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248881
-#EXTINF:-1 group-title="TV" tvg-name="DE: HD SKY PREMIEREN" tvg-logo="http://fireott.quest:2052/images/cdca7c647214461304219ddcb7014e57.png" ,DE: HD SKY PREMIEREN
-http://xtra.fireottplus.com:2052/098927148295/653251946378/248874
 #EXTINF:-1 group-title="1TV" tvg-id="ARD-alpha.de" tvg-name="Doku" tvg-logo="http://127.0.0.1/" ,ARD Alpha HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13171
 #EXTINF:-1 group-title="1TV" tvg-id="ZDFneo.de" tvg-name="Doku" tvg-logo="http://127.0.0.1/" ,ZDF Neo HD DE
