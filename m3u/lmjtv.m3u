@@ -311,7 +311,7 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248816
 http://ipflix.click:8080/sq1x0qr86b/7777/8194
 #EXTINF:-1 group-title="TV" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/4b6988d26fb314a627d4aff63da48e0a.png" ,NatGeo HD
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248817
-#EXTINF:-1 group-title="TV" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/eee94b13870373579a17743e89e4537e.png" ,NatGeo HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/eee94b13870373579a17743e89e4537e.png" ,NatGeo HD
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248823
 #EXTINF:-1 group-title="OFFLINE" tvg-id="NatGeo.de" tvg-name="023" tvg-logo="http://fireott.quest:2052/images/eee94b13870373579a17743e89e4537e.png" ,National Geographic DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6226
@@ -335,31 +335,31 @@ http://xtra.fireottplus.com:2052/098927148295/653251946378/248819
 http://ipflix.click:8080/sq1x0qr86b/7777/6244
 #EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-Geschichte-HD.png" ,Spiegel Geschichte HD
 http://ipflix.click:8080/sq1x0qr86b/7777/6174
-#EXTINF:-1 group-title="TV" tvg-id="SpiegelGeschichte.de" tvg-name="025" ,Spiegel Geschichte HD
+#EXTINF:-1 group-title="TV" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-Geschichte-HD.png" ,Spiegel Geschichte HD
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248830
 #EXTINF:-1 group-title="1TV" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="http://127.0.0.1/" ,Spiegel Geschichte HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/6174
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelGeschichte.de" tvg-name="025" ,Spiegel Geschichte HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelGeschichte.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-Geschichte-HD.png" ,Spiegel Geschichte HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/6174
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Spiegel-TV-Wissen-HD.png" ,Spiegel TV Wissen HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,Spiegel TV Wissen HD
 http://ipflix.click:8080/sq1x0qr86b/7777/9135
 #EXTINF:-1 group-title="TV" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,Spiegel TV Wissen HD
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248831
-#EXTINF:-1 group-title="1TV" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://127.0.0.1/" ,Spiegel TV Wissen HD DE
+#EXTINF:-1 group-title="1TV" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,Spiegel TV Wissen HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9135
-#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" ,Spiegel TV Wissen HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="SpiegelTV.de" tvg-name="026" tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" ,Spiegel TV Wissen HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/9135
-#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/Discovery-Channel-HD.png" ,Discovery Channel HD
+#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery Channel HD
 http://ipflix.click:8080/sq1x0qr86b/7777/13570
-#EXTINF:-1 group-title="1TV" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://127.0.0.1/" ,Discovery FHD DE
+#EXTINF:-1 group-title="1TV" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13570
-#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" ,Discovery FHD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery FHD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13570
-#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" ,Discovery HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery HD DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/5096
-#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://127.0.0.1/" ,Discovery HD DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="DiscoveryHD.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery HD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/5096
-#EXTINF:-1 group-title="TV" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery HD DE
+#EXTINF:-1 group-title="TV" tvg-id="Discovery.de" tvg-name="027" tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" ,Discovery HD DE
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248818
 #EXTINF:-1 group-title="OFFLINE" tvg-id="KabelEinsDoku.de" tvg-name="028" ,Kabel Eins Doku DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679843
@@ -371,15 +371,15 @@ http://ipflix.click:8080/sq1x0qr86b/7777/13147
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13147
 #EXTINF:-1 group-title="OFFLINE" tvg-id="KabelEinsDoku.de" tvg-name="028" tvg-logo="http://127.0.0.1/" ,Kabel Eins Doku FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/13147
-#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logos/N24-Doku.png" ,N24 Doku
+#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,N24 Doku
 http://ipflix.click:8080/sq1x0qr86b/7777/679837
 #EXTINF:-1 group-title="TV" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,N24 Doku
 http://xtra.fireottplus.com:2052/098927148295/653251946378/248825
-#EXTINF:-1 group-title="1TV" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://127.0.0.1/" ,N24 Doku DE
+#EXTINF:-1 group-title="1TV" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,N24 Doku DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/679837
-#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" ,N24 Doku DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,N24 Doku DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679837
-#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" ,N24 Doku DE
+#EXTINF:-1 group-title="OFFLINE" tvg-id="N24Doku.de" tvg-name="029" tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" ,N24 Doku DE
 http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679837
 #EXTINF:-1 group-title="1TV" tvg-id="Sky One" tvg-name="030" tvg-logo="http://127.0.0.1/" ,Sky One FHD DE
 http://mytv.fun:8080/xkdgu3zeuo/succhiamelo/9138
