@@ -1,1 +1,0 @@
-[{"type": "movie", "score": 1000, "movie": {"title": "The Mentalist", "year": 2011, "ids": {"trakt": 485293, "slug": "the-mentalist-2011", "imdb": null, "tmdb": 648544}}}]

@@ -1,1 +1,0 @@
-[{"type": "movie", "score": 1000, "movie": {"title": "The Departed", "year": 2006, "ids": {"trakt": 952, "slug": "the-departed-2006", "imdb": "tt0407887", "tmdb": 1422}}}]

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<smartplaylist type="tvshows">
-    <name>watchlist/shows by me (tvshows)</name>
-    <match>any</match>
-    <rule field="title" operator="is"><value>Better Call Saul</value></rule>
-    <rule field="title" operator="is"><value>Prison Break</value></rule>
-    <rule field="title" operator="is"><value>Family Guy</value></rule>
-    <rule field="title" operator="is"><value>Sons of Anarchy</value></rule>
-</smartplaylist>

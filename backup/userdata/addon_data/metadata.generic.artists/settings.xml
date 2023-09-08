@@ -1,9 +1,0 @@
-<settings version="2">
-    <setting id="lang">DE</setting>
-    <setting id="bio" default="true">theaudiodb</setting>
-    <setting id="discog" default="true">allmusic</setting>
-    <setting id="genre" default="true">allmusic</setting>
-    <setting id="style" default="true">allmusic</setting>
-    <setting id="mood" default="true">allmusic</setting>
-    <setting id="inaccurate" default="true">false</setting>
-</settings>

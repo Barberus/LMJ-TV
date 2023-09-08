@@ -1,1 +1,0 @@
-[{"type": "movie", "score": 1000, "movie": {"title": "MacGyver: Lost Treasure of Atlantis", "year": 1994, "ids": {"trakt": 61185, "slug": "macgyver-lost-treasure-of-atlantis-1994", "imdb": "tt0110419", "tmdb": 81895}}}]

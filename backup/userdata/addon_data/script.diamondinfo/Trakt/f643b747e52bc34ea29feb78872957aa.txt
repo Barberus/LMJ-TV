@@ -1,1 +1,0 @@
-[{"type": "movie", "score": 1000, "movie": {"title": "Futurama: Bender's Big Score", "year": 2007, "ids": {"trakt": 3851, "slug": "futurama-bender-s-big-score-2007", "imdb": "tt0471711", "tmdb": 7249}}}]

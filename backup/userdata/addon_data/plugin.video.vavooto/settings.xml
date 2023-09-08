@@ -1,6 +1,0 @@
-<settings version="2">
-    <setting id="auto">0</setting>
-    <setting id="count">5</setting>
-    <setting id="stream_select">1</setting>
-    <setting id="auto_try_next_stream">true</setting>
-</settings>

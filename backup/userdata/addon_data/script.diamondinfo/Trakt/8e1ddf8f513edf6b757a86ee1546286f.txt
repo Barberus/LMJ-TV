@@ -1,1 +1,0 @@
-[{"type": "movie", "score": 1000, "movie": {"title": "The Spy Who Dumped Me", "year": 2018, "ids": {"trakt": 301334, "slug": "the-spy-who-dumped-me-2018", "imdb": "tt6663582", "tmdb": 454992}}}]
