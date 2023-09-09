@@ -1,5 +1,5 @@
 <favourites>
-	<favourite name="DAZN 1" thumb="smb://192.168.2.8/smb1/LMJ-TV/LMJ-TV/logo/animalplanet_sd.png">PlayMedia(&quot;plugin://plugin.video.vavooto/?name=DAZN+1&amp;sf_options=winID%3D10025%26meta%3Dvotes%253D0%2526title%253DDAZN%252B1%2526label%253DDAZN%252B1%26fanart%3Dsmb%3A%2F%2F192.168.2.8%2Fsmb1%2FLMJ-TV%2FLMJ-TV%2Flogo%2F3sat_hd_black.png%26_options_sf&quot;)</favourite>
+	<favourite name="DAZN 1" thumb="">PlayMedia(&quot;plugin://plugin.video.vavooto/?name=DAZN+1&amp;sf_options=winID%3D10025%26meta%3Dvotes%253D0%2526title%253DDAZN%252B1%2526label%253DDAZN%252B1%26_options_sf&quot;)</favourite>
 	<favourite name="DAZN 2" thumb="DefaultVideo.png">PlayMedia(&quot;plugin://plugin.video.vavooto/?name=DAZN+2&amp;sf_options=winID%3D10025%26meta%3Dvotes%253D0%2526title%253DDAZN%252B2%2526label%253DDAZN%252B2%26_options_sf&quot;)</favourite>
 	<favourite name="DAZN 3" thumb="DefaultVideo.png">PlayMedia(&quot;plugin://plugin.video.vavooto/?name=DAZN+3&amp;sf_options=winID%3D10025%26meta%3Dvotes%253D0%2526title%253DDAZN%252B3%2526label%253DDAZN%252B3%26_options_sf&quot;)</favourite>
 	<favourite name="DAZN 4" thumb="DefaultVideo.png">PlayMedia(&quot;plugin://plugin.video.vavooto/?name=DAZN+4&amp;sf_options=winID%3D10025%26meta%3Dvotes%253D0%2526title%253DDAZN%252B4%2526label%253DDAZN%252B4%26_options_sf&quot;)</favourite>
