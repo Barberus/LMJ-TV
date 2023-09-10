@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="Serien" thumb="DefaultTVShows.png">ActivateWindow(10025,&quot;plugin://plugin.video.vavooto/?action=indexSerie&amp;sf_options=desc%3D%C2%A0%26meta%3Dvotes%253D0%2526plot%253D%2525C2%2525A0%2526title%253DSerien%2526label%253DSerien%26_options_sf&quot;,return)</favourite>
+</favourites>
