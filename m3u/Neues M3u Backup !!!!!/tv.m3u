@@ -109,6 +109,8 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 plugin://plugin.video.vavooto/?name=SONY+TV
 #EXTINF:-1 group-title="Pay TV" tvg-id="Universal Channel HD" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" ,Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:0 ,*************
+******************
 #EXTINF:-1 group-title="SKY" tvg-id="Sky Atlantic HD" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png" ,Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 group-title="SKY" tvg-id="Sky Comedy" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png" ,Sky Comedy
@@ -137,6 +139,8 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 group-title="SKY Cinema" tvg-id="Sky Cinema Thriller" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png" ,Sky Cinema Thriller
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:0 ,*************
+******************
 #EXTINF:-1 group-title="Sport FTA" tvg-id="Eurosport 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png" ,Eurosport 1
 plugin://plugin.video.dazn/?mode=play&title=Eurosport+1&id=1lgmsk2b5xn7d1uux7vn4noqep&params=884uhofskjiyp81uqidjkljtl&verify_age=False
 #EXTINF:-1 group-title="Sport FTA" tvg-id="Eurosport 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" ,Eurosport 2
@@ -147,10 +151,10 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=sport1-de&stream_type=LIVE
 plugin://plugin.video.dazn/?mode=play&title=SPORTDIGITAL+FUSSBALL&id=x8c9qhmvpi2d1hx8zcg9850bm&params=c3tbokwl3uci2u78hg866wl46&verify_age=False
 #EXTINF:-1 group-title="Sport FTA" tvg-id="Auto Motor Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,DAZN 1
-plugin://plugin.video.vavooto/?name=DAZN+1
 #EXTINF:-1 group-title="Sport FTA" tvg-id="Motorvision TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,Motorvision
 plugin://plugin.video.joyn/?mode=play_video&video_id=motorvision-de-hd&stream_type=LIVE
+#EXTINF:0 ,**************
+**************
 #EXTINF:-1 group-title="Kids" tvg-id="KiKA" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" ,KiKA
 plugin://plugin.video.vavooto/?name=KiKA
 #EXTINF:-1 group-title="Kids" tvg-id="Disney Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" ,Disney Channel
@@ -175,6 +179,8 @@ plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113360
 plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113661
 #EXTINF:-1 group-title="Kids" tvg-id="Fix &amp; Foxi" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png" ,Fix und Foxi
 plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
+#EXTINF:0 ,************
+**************
 #EXTINF:-1 group-title="Standart" tvg-id="Heimatkanal" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png" ,Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 group-title="Standart" tvg-id="SWR/SR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png" ,SWR
@@ -197,3 +203,5 @@ plugin://plugin.video.vavooto/?name=WDR
 plugin://plugin.video.vavooto/?name=ANIXE
 #EXTINF:-1 group-title="Standart" tvg-id="ONE" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE
 plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:0 ,**************
+********
