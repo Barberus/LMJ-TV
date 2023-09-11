@@ -1,14 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Standart" tvg-id="Das Erste" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png" ,Das Erste
+#EXTINF:-1 group-title="Standart" tvg-id="ARD.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png" ,Das Erste
 plugin://plugin.video.vavooto/?name=DAS+ERSTE
-#EXTINF:-1 group-title="Standart" tvg-id="ZDF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png" ,ZDF
+#EXTINF:-1 group-title="Standart" tvg-id="ZDF.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png" ,ZDF
 plugin://plugin.video.vavooto/?name=ZDF
-#EXTINF:-1 group-title="Standart" tvg-id="SAT.1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png" ,Sat 1
-plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-at&stream_type=LIVE
-#EXTINF:-1 group-title="Standart" tvg-id="RTL" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png" ,RTL
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5142874
-#EXTINF:-1 group-title="Standart" tvg-id="RTL II" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png" ,RTL 2
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113424
+#EXTINF:-1 group-title="Standart" tvg-id="Sat1.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png" ,SAT 1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 group-title="Standart" tvg-id="RTL.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png" ,RTL
+plugin://plugin.video.vavooto/?name=RTL
+#EXTINF:-1 group-title="Standart" tvg-id="RTL2.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png" ,RTL 2
+plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 group-title="Standart" tvg-id="ProSieben" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png" ,ProSieben
 plugin://plugin.video.joyn/?mode=play_video&video_id=prosieben-at&stream_type=LIVE
 #EXTINF:-1 group-title="Standart" tvg-id="ProSieben Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png" ,ProSieben Fun
@@ -191,6 +191,24 @@ plugin://plugin.video.vavooto/?name=DAZN+17
 plugin://plugin.video.vavooto/?name=DAZN+18
 #EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 1" ,SKY SPORT 1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 2" ,SKY SPORT 2
+plugin://plugin.video.vavooto/?name=SKY+SPORT+2
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 3" ,SKY SPORT 3
+plugin://plugin.video.vavooto/?name=SKY+SPORT+3
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 4" ,SKY SPORT 4
+plugin://plugin.video.vavooto/?name=SKY+SPORT+4
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 5" ,SKY SPORT 5
+plugin://plugin.video.vavooto/?name=SKY+SPORT+5
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 6" ,SKY SPORT 6
+plugin://plugin.video.vavooto/?name=SKY+SPORT+6
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 7" ,SKY SPORT 7
+plugin://plugin.video.vavooto/?name=SKY+SPORT+7
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 8" ,SKY SPORT 8
+plugin://plugin.video.vavooto/?name=SKY+SPORT+8
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 9" ,SKY SPORT 9
+plugin://plugin.video.vavooto/?name=SKY+SPORT+9
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="Sky Sport 11" ,SKY SPORT 11
+plugin://plugin.video.vavooto/?name=SKY+SPORT+11
 #EXTINF:-1 group-title="Kids" tvg-id="KiKA" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" ,KiKA
 plugin://plugin.video.vavooto/?name=KiKA
 #EXTINF:-1 group-title="Kids" tvg-id="Disney Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" ,Disney Channel
