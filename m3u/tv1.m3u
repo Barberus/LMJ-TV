@@ -23,12 +23,12 @@ plugin://plugin.video.vavooto/?name=VOX
 plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 group-title="Pay TV" tvg-id="KabelEinsClassic.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png" ,Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 group-title="Standart" tvg-id="KabelEinsDoku.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png" ,Kabel 1 Doku
-plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 group-title="Standart" tvg-id="RtlNitro.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png" ,RTL Nitro
+plugin://plugin.video.vavooto/?name=RTL+NITRO
 #EXTINF:-1 group-title="Standart" tvg-id="DMax.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" ,DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 group-title="Pay TV" tvg-id="GEOTV.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1448.png" ,Geo
-plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 group-title="Standart" tvg-id="KabelEinsDoku.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png" ,Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 group-title="Standart" tvg-id="MTV.de" ,MTV
 plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 group-title="Standart" tvg-id="MTV HITS" ,MTV HITS
@@ -39,8 +39,6 @@ plugin://plugin.video.vavooto/?name=N24+DOKU
 plugin://plugin.video.vavooto/?name=ONE+MUSIC
 #EXTINF:0 ,-----------------------------------------------------------------
 -------------------------------------------------------
-#EXTINF:-1 group-title="Standart" tvg-id="RtlNitro.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png" ,RTL Nitro
-plugin://plugin.video.vavooto/?name=RTL+NITRO
 #EXTINF:-1 group-title="Standart" tvg-id="RTL UP" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" ,RTL UP
 plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 group-title="Standart" tvg-id="RTLCrime.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1444.png" ,RTL Crime
@@ -107,6 +105,8 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
 #EXTINF:-1 group-title="Pay TV" tvg-id="Animal Planet" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png" ,Animal Planet
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
+#EXTINF:-1 group-title="Pay TV" tvg-id="GEOTV.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1448.png" ,Geo
+plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:0 ,-----------------------------------------------------------------
 -------------------------------------------------------
 #EXTINF:-1 group-title="SKY" tvg-id="Sky One" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png" ,Sky One
@@ -297,6 +297,8 @@ plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
 plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
 #EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
 plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:0 ,-----------------------------------------------------------------
+-------------------------------------------------------
 #EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
 plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
 #EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
