@@ -101,6 +101,130 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 group-title="Pay TV" tvg-id="History.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png" ,History
 plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 group-title="Standart" tvg-id="HR.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" ,HR
+plugin://plugin.video.vavooto/?name=HR
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball 1" ,Magenta Fussball 1
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+1
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Fussball" ,Magenta Fussball
+plugin://plugin.video.vavooto/?name=MAGENTA +FUSSBALL+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="Magenta Sport" tvg-id="Magenta Sport" ,Magenta Sport
+plugin://plugin.video.vavooto/?name=MAGENTA +SPORT+
+#EXTINF:-1 group-title="KiNO" tvg-id="MAX KINO 1" ,MAX KINO 1
+plugin://plugin.video.vavooto/?name=MAX+KINO+1
+#EXTINF:-1 group-title="KiNO" tvg-id="MAX KINO 2" ,MAX KINO 2
+plugin://plugin.video.vavooto/?name=MAX+KINO+2
+#EXTINF:-1 group-title="KiNO" tvg-id="MAX KINO 3" ,MAX KINO 3
+plugin://plugin.video.vavooto/?name=MAX+KINO+3
+#EXTINF:-1 group-title="KiNO" tvg-id="MAX KINO COLLECTION" ,MAX KINO COLLECTION
+plugin://plugin.video.vavooto/?name=MAX+KINO+COLLECTION
+#EXTINF:-1 group-title="Standart" tvg-id="MDR.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" ,MDR
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 group-title="Standart" tvg-id="MTV.de" ,MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 group-title="Standart" tvg-id="MTV HITS" ,MTV HITS
+plugin://plugin.video.vavooto/?name=MTV+HITS
+#EXTINF:-1 group-title="News" tvg-id="ntv.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png" ,N-TV
+plugin://plugin.video.vavooto/?name=N-TV
+#EXTINF:-1 group-title="News" tvg-id="N24Doku.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png" ,N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOKU
+#EXTINF:-1 group-title="Pay TV" tvg-id="NatGeoWild.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png" ,Nat Geo Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 group-title="Pay TV" tvg-id="NatGeo.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png" ,Nat Geo
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 group-title="Standart" tvg-id="ndr.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" ,NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" ,nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTINF:-1 group-title="Standart" tvg-id="One.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 group-title="Standart" tvg-id="One Music" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE MUSIC
+plugin://plugin.video.vavooto/?name=ONE+MUSIC
+#EXTINF:-1 group-title="News" tvg-id="phoenix.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png" ,PHOENIX
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 group-title="Pay TV" tvg-id="Planet" ,Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 group-title="Standart" tvg-id="ProSieben" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png" ,ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 group-title="Standart" tvg-id="ProSiebenFun.de" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png" ,ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 group-title="Standart" tvg-id="ProSiebenMaxx.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png" ,ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+MAXX
+#EXTINF:-1 group-title="Standart" tvg-id="rbbBerlin.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBB
+plugin://plugin.video.vavooto/?name=RBB
 #EXTINF:0 ,-----------------------------------------------------------------
 -------------------------------------------------------
 #EXTINF:-1 group-title="Pay TV" tvg-id="Animal Planet" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png" ,Animal Planet
@@ -109,38 +233,8 @@ plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 group-title="Standart" tvg-id="E! Entertainment" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png" ,E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
-#EXTINF:-1 group-title="Standart" tvg-id="HR.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" ,HR
-plugin://plugin.video.vavooto/?name=HR
-#EXTINF:-1 group-title="Standart" tvg-id="MDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" ,MDR
-plugin://plugin.video.vavooto/?name=MDR
 #EXTINF:-1 group-title="Sport FTA" tvg-id="MotorVision.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,Motorvision
 plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 group-title="News" tvg-id="n-tv" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png" ,N-TV
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113402
-#EXTINF:-1 group-title="News" tvg-id="N24 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png" ,N24 Doku
-plugin://plugin.video.joyn/?mode=play_video&video_id=n24-de&stream_type=LIVE
-#EXTINF:-1 group-title="Standart" tvg-id="N24 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png" ,N24 Doku
-plugin://plugin.video.joyn/?mode=play_video&video_id=n24-de&stream_type=LIVE
-#EXTINF:-1 group-title="Pay TV" tvg-id="NatGeo.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png" ,Nat Geo
-plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 group-title="Pay TV" tvg-id="NatGeoWild.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png" ,Nat Geo Wild
-plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
-#EXTINF:-1 group-title="Standart" tvg-id="NDR Fernsehen" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" ,NDR
-plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" ,nickelodeon
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=nickelodeon-de-hd&mode=play_video
-#EXTINF:-1 group-title="Standart" tvg-id="ONE" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE
-plugin://plugin.video.vavooto/?name=ONE
-#EXTINF:-1 group-title="News" tvg-id="PHOENIX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png" ,PHOENIX
-plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 group-title="Standart" tvg-id="ProSieben" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png" ,ProSieben
-plugin://plugin.video.joyn/?mode=play_video&video_id=prosieben-at&stream_type=LIVE
-#EXTINF:-1 group-title="Standart" tvg-id="ProSieben Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png" ,ProSieben Fun
-plugin://plugin.video.vavooto/?name=PRO+7+FUN
-#EXTINF:-1 group-title="Standart" tvg-id="ProSieben MAXX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png" ,ProSieben MAXX
-plugin://plugin.video.joyn/?mode=play_video&video_id=prosiebenmaxx-at&stream_type=LIVE
-#EXTINF:-1 group-title="Standart" tvg-id="RBB" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBB
-plugin://plugin.video.vavooto/?name=RBB
 #EXTINF:-1 group-title="Kids" tvg-id="RiC" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png" ,RiC
 plugin://plugin.video.joyn/?mode=play_video&video_id=ric&stream_type=LIVE
 #EXTINF:-1 group-title="Standart" tvg-id="RTL.de" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png" ,RTL
