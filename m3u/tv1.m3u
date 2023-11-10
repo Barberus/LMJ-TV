@@ -473,14 +473,6 @@ plugin://plugin.video.vavooto/?name=JUNIOR
 plugin://plugin.video.vavooto/?name=KiKA
 #EXTINF:-1 group-title="011 Kids" tvg-id="Nickelodeon.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" ,nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
-#EXTINF:-1 group-title="011 Kids" tvg-id="Super RTL" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png" ,Super RTL
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113499
-#EXTINF:-1 group-title="011 Kids" tvg-id="Comedy Central" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png" ,Comedy Central
-plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 group-title="011 Kids" tvg-id="RiC" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png" ,RiC
-plugin://plugin.video.joyn/?mode=play_video&video_id=ric&stream_type=LIVE
-#EXTINF:-1 group-title="011 Kids" tvg-id="TOGGO plus" tvg-name="025" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100" ,Toggo
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113360
 #EXTINF:-1 group-title="x" tvg-id="Heimatkanal.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png" ,Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 group-title="x" tvg-id="VOXup.de" tvg-name="025" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100" ,Vox UP
@@ -493,13 +485,7 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 group-title="x" tvg-id="RTLPlus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" ,RTL UP
 plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 group-title="x" tvg-id="RTLLiving.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1446.png" ,RTL Living
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113572
-#EXTINF:-1 group-title="x" tvg-id="RTLPassion.de" tvg-name="025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png" ,RTL Passion
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113615
 #EXTINF:-1 group-title="x" tvg-id="Sat1Comedy.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png" ,Sat 1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 group-title="x" tvg-id="Sat1Gold.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png" ,Sat 1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
-#EXTINF:-1 group-title="x" tvg-id="Sixx.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png" ,Sixx
-plugin://plugin.video.joyn/?mode=play_video&video_id=sixx-at&stream_type=LIVE
