@@ -327,24 +327,6 @@ plugin://plugin.video.vavooto/?name=SPORT+1
 plugin://plugin.video.vavooto/?name=SPORT+1+
 #EXTINF:-1 group-title="09 Sport FTA" tvg-id="Sport1US.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,eSport 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
-#EXTINF:-1 group-title="09 Sport FTA" tvg-id="sportdigital Fussball" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sport digital
-plugin://plugin.video.dazn/?mode=play&title=SPORTDIGITAL+FUSSBALL&id=x8c9qhmvpi2d1hx8zcg9850bm&params=c3tbokwl3uci2u78hg866wl46&verify_age=False
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 1" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 1
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+1
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 2" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 2
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+2
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 3" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 3
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+3
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 4" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 4
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+4
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 5" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 5
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+5
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 6" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 6
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+6
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 7" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 7
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+7
-#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="Magenta BUNDESLIGA 8" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,TELEKOM BUNDESLIGA 8
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+8
 #EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 1" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 #EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 2" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 2
