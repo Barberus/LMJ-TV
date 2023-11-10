@@ -127,61 +127,61 @@ plugin://plugin.video.vavooto/?name=RAMBO+CHANNEL
 plugin://plugin.video.vavooto/?name=SKY+SELECT+1
 #EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 1 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+1+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 1 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 1 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+1+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 2
 plugin://plugin.video.vavooto/?name=SKY+SELECT+2
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 2 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 2 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+2+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 2 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 2 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+2+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 3" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 3
 plugin://plugin.video.vavooto/?name=SKY+SELECT+3
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 3 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 3 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+3+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 3 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 3 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+3+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 4" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 4
 plugin://plugin.video.vavooto/?name=SKY+SELECT+4
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 4 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 4 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+4+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 4 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 4 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+4+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 5" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 5
 plugin://plugin.video.vavooto/?name=SKY+SELECT+5
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 5 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 5 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+5+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 5 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 5 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+5+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 6" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 6
 plugin://plugin.video.vavooto/?name=SKY+SELECT+6
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 6 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 6 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+6+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 6 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 6 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+6+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 7" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 7
 plugin://plugin.video.vavooto/?name=SKY+SELECT+7
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 7 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 7 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+7+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 7 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 7 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+7+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 8" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 8
 plugin://plugin.video.vavooto/?name=SKY+SELECT+8
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 8 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 8 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+8+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 8 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 8 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+8+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 9" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 9
 plugin://plugin.video.vavooto/?name=SKY+SELECT+9
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 9 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 9 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+9+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 9 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 9 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+9+BOX1
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 10" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 10
 plugin://plugin.video.vavooto/?name=SKY+SELECT+10
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 10 BOX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 10 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+10+BOX
-#EXTINF:-1 group-title="05 KiNO" tvg-id="SKY SELECT 10 BOX 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
+#EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 10 BOX 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+10+BOX1
 #EXTINF:-1 group-title="05 KiNO" tvg-id="MAX KINO 1" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO 1
 plugin://plugin.video.vavooto/?name=MAX+KINO+1
