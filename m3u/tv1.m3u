@@ -347,6 +347,40 @@ plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+7
 plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+8
 #EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 1" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 2" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 2
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 3" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 3
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 4" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 4
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 5" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 5
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 6" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 6
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 7" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 7
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 8" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 8
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 9" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 9
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 10" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 10
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 11" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 11
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 12" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 12
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 13" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 13
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 14" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 14
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 15" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 15
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 16" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 16
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 17" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 17
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
+#EXTINF:-1 group-title="08 Magenta Sport" tvg-id="SPORT myTeamTV 18" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 18
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
 #EXTINF:-1 group-title="x" tvg-id="ARD-alpha.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png" ,ARD-alpha
 plugin://plugin.video.vavooto/?name=ARD
 #EXTINF:-1 group-title="x" tvg-id="ARTE.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png" ,Arte
