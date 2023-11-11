@@ -127,6 +127,10 @@ plugin://plugin.video.vavooto/?name=SPORT+1
 plugin://plugin.video.vavooto/?name=SPORT+1+
 #EXTINF:-1 group-title="SPORT" tvg-id="Sport1US.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,eSport 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
+#EXTINF:-1 group-title="SPORT" tvg-id="sportdigital.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORT+DIGITAL
+plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
+#EXTINF:-1 group-title="SPORT" tvg-id="sportdigital.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORTDIGITAL FUSSBALL
+plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
 #EXTINF:-1 group-title="SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Top Event" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT TOP EVENT
