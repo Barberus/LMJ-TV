@@ -98,7 +98,7 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 #EXTINF:-1 group-title="04 SKY" tvg-id="SkyCinemaPremieren.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 group-title="04 SKY" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren +24
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN+24
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN+24+
 #EXTINF:-1 group-title="04 SKY" tvg-id="SkyCinemaBestPf.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/527.png" ,Sky Cinema Best of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
 #EXTINF:-1 group-title="04 SKY" tvg-id="SkyCinemaThriller.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png" ,Sky Cinema Thriller
