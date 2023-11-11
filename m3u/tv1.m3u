@@ -361,19 +361,19 @@ plugin://plugin.video.vavooto/?name=SWR
 plugin://plugin.video.vavooto/?name=TLC
 #EXTINF:-1  tvg-id="WDR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png" ,WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 group-title="011 Kids" tvg-id="Fix &amp; Foxi" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png" ,Fix und Foxi
+#EXTINF:-1  tvg-id="Fix &amp; Foxi" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png" ,Fix und Foxi
 plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
-#EXTINF:-1 group-title="011 Kids" tvg-id="Boomerang" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png" ,Boomerang
+#EXTINF:-1  tvg-id="Boomerang" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png" ,Boomerang
 plugin://plugin.video.vavooto/?name=BOOMERANG
-#EXTINF:-1 group-title="011 Kids" tvg-id="CartoonNetwork.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png" ,Cartoon Network
+#EXTINF:-1  tvg-id="CartoonNetwork.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png" ,Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
-#EXTINF:-1 group-title="011 Kids" tvg-id="disneychannel.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" ,Disney Channel
+#EXTINF:-1  tvg-id="disneychannel.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" ,Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 group-title="011 Kids" tvg-id="disneychannel.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png" ,Junior
+#EXTINF:-1  tvg-id="disneychannel.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png" ,Junior
 plugin://plugin.video.vavooto/?name=JUNIOR
-#EXTINF:-1 group-title="011 Kids" tvg-id="Kika.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" ,KiKA
+#EXTINF:-1  tvg-id="Kika.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" ,KiKA
 plugin://plugin.video.vavooto/?name=KiKA
-#EXTINF:-1 group-title="011 Kids" tvg-id="Nickelodeon.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" ,nickelodeon
+#EXTINF:-1  tvg-id="Nickelodeon.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" ,nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1  tvg-id="Heimatkanal.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png" ,Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
