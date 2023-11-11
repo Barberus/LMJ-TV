@@ -325,26 +325,6 @@ plugin://plugin.video.vavooto/?name=SKY+SELECT+16+BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+17+BOX
 #EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 18 BOX
 plugin://plugin.video.vavooto/?name=SKY+SELECT+18+BOX
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 1
-plugin://plugin.video.vavooto/?name=STERN+FILME+1
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 2
-plugin://plugin.video.vavooto/?name=STERN+FILME+2
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 3
-plugin://plugin.video.vavooto/?name=STERN+FILME+3
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 4
-plugin://plugin.video.vavooto/?name=STERN+FILME+4
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 5
-plugin://plugin.video.vavooto/?name=STERN+FILME+5
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 6
-plugin://plugin.video.vavooto/?name=STERN+FILME+6
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 7
-plugin://plugin.video.vavooto/?name=STERN+FILME+7
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 8
-plugin://plugin.video.vavooto/?name=STERN+FILME+8
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 9
-plugin://plugin.video.vavooto/?name=STERN+FILME+9
-#EXTINF:-1 group-title="05 KiNO" ,STERN FILME 10
-plugin://plugin.video.vavooto/?name=STERN+FILME+10
 #EXTINF:-1 group-title="05 KiNO" tvg-id="MAX KINO 1" ,MAX KINO 1
 plugin://plugin.video.vavooto/?name=MAX+KINO+1
 #EXTINF:-1 group-title="05 KiNO" tvg-id="MAX KINO 2" ,MAX KINO 2
