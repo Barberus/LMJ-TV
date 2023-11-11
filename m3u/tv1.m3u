@@ -113,8 +113,11 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 group-title="SKY" tvg-id="Sky Cinema Special HD" ,Sky Cinema Special HD
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
+
+
 #EXTINF:-1 group-title="SPORT" tvg-id="AutoMotorSport.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+
 #EXTINF:-1 group-title="SPORT" tvg-id="Sport1HD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,Sport 1
 plugin://plugin.video.vavooto/?name=SPORT+1
 #EXTINF:-1 group-title="SPORT" tvg-id="SPORT1Plus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORT 1 Plus
