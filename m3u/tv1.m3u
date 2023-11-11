@@ -117,12 +117,6 @@ plugin://plugin.video.vavooto/?name=SKY+COMEDY
 plugin://plugin.video.vavooto/?name=SKY+ARTS
 #EXTINF:-1 group-title="04 SKY" tvg-id="Sky Cinema Special HD" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/527.png" ,Sky Cinema Special HD
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
-#EXTINF:-1 group-title="05 KiNO" ,Tom & Jerry Channel
-plugin://plugin.video.vavooto/?name=TOM+AND+JERRY
-#EXTINF:-1 group-title="05 KiNO" ,Star Wars Channel
-plugin://plugin.video.vavooto/?name=STAR+WARS+CHANNEL
-#EXTINF:-1 group-title="05 KiNO" ,RAMBO CHANNEL
-plugin://plugin.video.vavooto/?name=RAMBO+CHANNEL
 #EXTINF:-1 group-title="05 KiNO" ,SKY SELECT PROGRAMMÜBERSICHT
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SELECT+PREMIEREN+VITRINE+BOX
 #EXTINF:-1 group-title="05 KiNO" ,SKY SELECT 1
@@ -227,6 +221,12 @@ plugin://plugin.video.vavooto/?name=MAX+KINO+2
 plugin://plugin.video.vavooto/?name=MAX+KINO+3
 #EXTINF:-1 group-title="05 KiNO" tvg-id="MAX KINO COLLECTION" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1086.png" ,MAX KINO COLLECTION
 plugin://plugin.video.vavooto/?name=MAX+KINO+COLLECTION
+#EXTINF:-1 group-title="05 KiNO" ,Tom & Jerry Channel
+plugin://plugin.video.vavooto/?name=TOM+AND+JERRY
+#EXTINF:-1 group-title="05 KiNO" ,Star Wars Channel
+plugin://plugin.video.vavooto/?name=STAR+WARS+CHANNEL
+#EXTINF:-1 group-title="05 KiNO" ,RAMBO CHANNEL
+plugin://plugin.video.vavooto/?name=RAMBO+CHANNEL
 #EXTINF:-1 group-title="06 SKY SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 group-title="06 SKY SPORT" tvg-id="Sky Sport F1" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,SKY SPORT F1
@@ -315,10 +315,6 @@ plugin://plugin.video.vavooto/?name=DAZN+18
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 group-title="06 SKY SPORT" tvg-id="MotorVision.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,Motorvision
 plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 group-title="06 SKY SPORT" tvg-id="Eurosport1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png" ,Eurosport 1
-plugin://plugin.video.dazn/?mode=play&title=Eurosport+1&id=1lgmsk2b5xn7d1uux7vn4noqep&params=884uhofskjiyp81uqidjkljtl&verify_age=False
-#EXTINF:-1 group-title="06 SKY SPORT" tvg-id="Eurosport2.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" ,Eurosport 2
-plugin://plugin.video.dazn/?mode=play&title=Eurosport+2&id=1glc8nr85cpa21r4ahv8074dqs&params=f5lgatefogdowhxxv80ndf3ve&verify_age=False
 #EXTINF:-1 group-title="06 SKY SPORT" tvg-id="ExtremeSports.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" ,Eurosport 2 XTRA
 plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
 #EXTINF:-1 group-title="06 SKY SPORT" tvg-id="Sport1HD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,Sport 1
