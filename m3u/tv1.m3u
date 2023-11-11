@@ -113,10 +113,20 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 group-title="SKY" tvg-id="Sky Cinema Special HD" ,Sky Cinema Special HD
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
+#EXTINF:-1 group-title="SPORT" tvg-id="AutoMotorSport.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport1HD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,Sport 1
+plugin://plugin.video.vavooto/?name=SPORT+1
+#EXTINF:-1 group-title="SPORT" tvg-id="SPORT1Plus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORT 1 Plus
+plugin://plugin.video.vavooto/?name=SPORT+1+
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport1US.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,eSport 1
+plugin://plugin.video.vavooto/?name=ESPORTS+1
 #EXTINF:-1 group-title="SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Top Event" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT TOP EVENT
 plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT
+#EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Golf" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT GOLF
+plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
 #EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport F1" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,SKY SPORT F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F!
 #EXTINF:-1 group-title="SPORT" tvg-id="SkySport1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 1
@@ -235,18 +245,6 @@ plugin://plugin.video.vavooto/?name=DAZN+16
 plugin://plugin.video.vavooto/?name=DAZN+17
 #EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 18
 plugin://plugin.video.vavooto/?name=DAZN+18
-#EXTINF:-1 group-title="SPORT" tvg-id="AutoMotorSport.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
-plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 group-title="SPORT" tvg-id="MotorVision.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,Motorvision
-plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 group-title="SPORT" tvg-id="ExtremeSports.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" ,Eurosport 2 XTRA
-plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport1HD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,Sport 1
-plugin://plugin.video.vavooto/?name=SPORT+1
-#EXTINF:-1 group-title="SPORT" tvg-id="SPORT1Plus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORT 1 Plus
-plugin://plugin.video.vavooto/?name=SPORT+1+
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport1US.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,eSport 1
-plugin://plugin.video.vavooto/?name=ESPORTS+1
 #EXTINF:-1 group-title="KINO" ,SKY SELECT PROGRAMMÜBERSICHT
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SELECT+PREMIEREN+VITRINE+BOX
 #EXTINF:-1 group-title="KINO" ,SKY SELECT 1
