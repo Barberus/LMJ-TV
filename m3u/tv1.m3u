@@ -115,12 +115,17 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 group-title="SPORT" tvg-id="AutoMotorSport.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 group-title="SPORT" channel-id="pluto-5f760c3d41aa2d0007bfde19" tvg-id="5f760c3d41aa2d0007bfde19" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" , Auto Motor Sport
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=DE&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=52.5201&deviceLon=13.4425&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=DE&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
 #EXTINF:-1 group-title="SPORT" tvg-id="Sport1HD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,Sport 1
 plugin://plugin.video.vavooto/?name=SPORT+1
 #EXTINF:-1 group-title="SPORT" tvg-id="SPORT1Plus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORT 1 Plus
 plugin://plugin.video.vavooto/?name=SPORT+1+
 #EXTINF:-1 group-title="SPORT" tvg-id="Sport1US.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,eSport 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
+#EXTINF:-1 group-title="SPORT" channel-id="pluto-6093f2ae4dd5ab0007d1ff9d" tvg-id="6093f2ae4dd5ab0007d1ff9d" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" , Motorvision TV
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=DE&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=52.5201&deviceLon=13.4425&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=DE&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
+
 #EXTINF:-1 group-title="SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Top Event" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT TOP EVENT
