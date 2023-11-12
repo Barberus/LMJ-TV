@@ -83,35 +83,35 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
 #EXTINF:-1 group-title="TV;DOKU" tvg-id="The HISTORY Channel" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png" ,History
 plugin://plugin.video.vavooto/?name=HISTORY
-#EXTINF:-1 group-title="SKY" tvg-id="Sky1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png" ,Sky One
+#EXTINF:-1 group-title="SKY;SERIEN" tvg-id="Sky1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png" ,Sky One
 plugin://plugin.video.vavooto/?name=SKY+1
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Krimi" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" ,Sky Krimi
+#EXTINF:-1 group-title="SKY;SERIEN" tvg-id="Sky Krimi" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" ,Sky Krimi
 plugin://plugin.video.vavooto/?name=SKY+KRIMI
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Atlantic" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png" ,Sky Atlantic
+#EXTINF:-1 group-title="SKY;SERIEN" tvg-id="Sky Atlantic" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png" ,Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Crime" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1423.png" ,Sky Crime
+#EXTINF:-1 group-title="SKY;SERIEN" tvg-id="Sky Crime" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1423.png" ,Sky Crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Documentaries" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1443.png" ,Sky Documentaries
+#EXTINF:-1 group-title="SKY;DOKU" tvg-id="Sky Documentaries" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1443.png" ,Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Nature" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png" ,Sky Nature
+#EXTINF:-1 group-title="SKY;DOKU" tvg-id="Sky Nature" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png" ,Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaPremieren.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaPremieren.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren +24
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png" ,Sky Cinema Premieren +24
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN+24+
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaBestPf.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/527.png" ,Sky Cinema Best of
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaBestPf.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/527.png" ,Sky Cinema Best of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaThriller.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png" ,Sky Cinema Thriller
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaThriller.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/471.png" ,Sky Cinema Thriller
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
-#EXTINF:-1 group-title="SKY" tvg-id="SkyAction.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png" ,Sky Action
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyAction.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png" ,Sky Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaFamily.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1140.png" ,Sky Cinema Family
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaFamily.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1140.png" ,Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaFun.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1466.png" ,Sky Cinema Fun
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaFun.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1466.png" ,Sky Cinema Fun
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
-#EXTINF:-1 group-title="SKY" tvg-id="SkyCinemaClassics" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png" ,Sky Cinema Classics
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="SkyCinemaClassics" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png" ,Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 group-title="SKY" tvg-id="Sky Cinema Special HD" ,Sky Cinema Special HD
+#EXTINF:-1 group-title="SKY;FILME" tvg-id="Sky Cinema Special HD" ,Sky Cinema Special HD
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
 
@@ -255,6 +255,44 @@ plugin://plugin.video.vavooto/?name=DAZN+16
 plugin://plugin.video.vavooto/?name=DAZN+17
 #EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 18
 plugin://plugin.video.vavooto/?name=DAZN+18
+#EXTINF:-1 group-title="TV;DOKU" tvg-id="ARD-alpha.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png" ,ARD-alpha
+plugin://plugin.video.vavooto/?name=ARD
+#EXTINF:-1 group-title="TV;DOKU" tvg-id="ARTE.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png" ,Arte
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 group-title="TV" tvg-id="BR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png" ,BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 group-title="TV" tvg-id="HR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" ,HR
+plugin://plugin.video.vavooto/?name=HR
+#EXTINF:-1 group-title="TV" tvg-id="One.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 group-title="TV" tvg-id="MDR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" ,MDR
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 group-title="TV" tvg-id="ndr.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" ,NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 group-title="TV" tvg-id="rbbBerlin.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBB
+plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 group-title="TV" tvg-id="RBE.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBW
+plugin://plugin.video.vavooto/?name=RBE
+#EXTINF:-1 group-title="TV" tvg-id="ServusHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png" ,Servus TV
+plugin://plugin.video.vavooto/?name=SERVUS+TV
+#EXTINF:-1 group-title="TV" tvg-id="SWR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png" ,SWR
+plugin://plugin.video.vavooto/?name=SWR
+#EXTINF:-1 group-title="TV" tvg-id="TLC" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png" ,TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 group-title="TV" tvg-id="WDR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png" ,WDR
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 group-title="TV;SERIEN" tvg-id="Tele5.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png" ,Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 group-title="TV;DOKU" tvg-id="ZDFinfo.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png" ,ZDF info
+plugin://plugin.video.vavooto/?name=ZDF+INFO
+#EXTINF:-1 group-title="TV;SERIEN" tvg-id="ZDFneo.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png" ,ZDF neo
+plugin://plugin.video.vavooto/?name=ZDF+NEO
+#EXTINF:-1 group-title="TV;SERIEN" tvg-id="RTLPlus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" ,RTL UP
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 group-title="TV;SERIEN" tvg-id="Sat1Comedy.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png" ,Sat 1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 group-title="TV;SERIEN" tvg-id="Sat1Gold.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png" ,Sat 1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 group-title="KINO" ,SKY SELECT PROGRAMMÜBERSICHT
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SELECT+PREMIEREN+VITRINE+BOX
 #EXTINF:-1 group-title="KINO" ,SKY SELECT 1
@@ -345,41 +383,3 @@ plugin://plugin.video.vavooto/?name=TOM+AND+JERRY
 plugin://plugin.video.vavooto/?name=STAR+WARS+CHANNEL
 #EXTINF:-1 group-title="KINO" ,RAMBO CHANNEL
 plugin://plugin.video.vavooto/?name=RAMBO+CHANNEL
-#EXTINF:-1  tvg-id="ARD-alpha.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png" ,ARD-alpha
-plugin://plugin.video.vavooto/?name=ARD
-#EXTINF:-1  tvg-id="ARTE.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png" ,Arte
-plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1  tvg-id="BR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png" ,BR
-plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1  tvg-id="HR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" ,HR
-plugin://plugin.video.vavooto/?name=HR
-#EXTINF:-1  tvg-id="One.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" ,ONE
-plugin://plugin.video.vavooto/?name=ONE
-#EXTINF:-1  tvg-id="MDR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" ,MDR
-plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1  tvg-id="ndr.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" ,NDR
-plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1  tvg-id="rbbBerlin.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBB
-plugin://plugin.video.vavooto/?name=RBB
-#EXTINF:-1  tvg-id="RBE.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" ,RBW
-plugin://plugin.video.vavooto/?name=RBE
-#EXTINF:-1  tvg-id="ServusHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png" ,Servus TV
-plugin://plugin.video.vavooto/?name=SERVUS+TV
-#EXTINF:-1  tvg-id="SWR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png" ,SWR
-plugin://plugin.video.vavooto/?name=SWR
-#EXTINF:-1  tvg-id="TLC" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png" ,TLC
-plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1  tvg-id="WDR.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png" ,WDR
-plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1  tvg-id="Tele5.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png" ,Tele 5
-plugin://plugin.video.vavooto/?name=TELE+5
-#EXTINF:-1  tvg-id="ZDFinfo.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png" ,ZDF info
-plugin://plugin.video.vavooto/?name=ZDF+INFO
-#EXTINF:-1  tvg-id="ZDFneo.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png" ,ZDF neo
-plugin://plugin.video.vavooto/?name=ZDF+NEO
-#EXTINF:-1  tvg-id="RTLPlus.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" ,RTL UP
-plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1  tvg-id="Sat1Comedy.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png" ,Sat 1 Emotions
-plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
-#EXTINF:-1  tvg-id="Sat1Gold.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png" ,Sat 1 Gold
-plugin://plugin.video.vavooto/?name=SAT+1+GOLD
