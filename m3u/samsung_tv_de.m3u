@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="600" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/flag.png" group-title="Germany TV;Germany Free TV;Germany Samsung TV",[B]Germany Samsung TV[/B]
-https://kodi-unlimited-support.de/tv/m3u/kus_promo.mp4
 #EXTINF:-1 channel-id="samsung-DEAJ3500001Q1" tvg-id="DEAJ3500001Q1" tvg-chno="601" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500001Q1_20220323T074838SQUARE.png_20220323074840.png" group-title="FILME", Actionfilme - Rakuten TV
 https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=431&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-DEBA3300017VV" tvg-id="DEBA3300017VV" tvg-chno="602" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300017VV_20230208T012904SQUARE.png_20230208012905.png" group-title="FILME", Deutsches Kino - Rakuten TV
