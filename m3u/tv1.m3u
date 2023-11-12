@@ -117,6 +117,11 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
 #EXTINF:-1 group-title="SPORT" tvg-id="AutoMotorSport.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 channel-id="samsung-DEBA1500026EV" tvg-id="DEBA1500026EV" tvg-chno="692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500026EV_20220323T075022SQUARE.png_20220323075025.png" group-title="SPORT", More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC2300001EU" tvg-id="DEBC2300001EU" tvg-chno="693" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20220608T011422SQUARE.png_20220608011424.png" group-title="SPORT", Red Bull TV
+https://dcaugt012swzs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx2plzkkcowte-ssai-prd/hls/live/2004294/RBTVDACHPri/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 group-title="SPORT" tvg-id="Eurosport1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,EUROSPORT 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 group-title="SPORT" tvg-id="Eurosport2.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" ,EUROSPORT 2
@@ -131,129 +136,129 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
 #EXTINF:-1 group-title="SPORT" tvg-id="sportdigital.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1014.png" ,SPORTDIGITAL FUSSBALL
 plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Sport News
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySportNewsHD.de" tvg-name="025" tvg-logo="" ,Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
-#EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Top Event" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT TOP EVENT
+#EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Top Event" tvg-logo="" ,SKY SPORT TOP EVENT
 plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT
-#EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Golf" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT GOLF
+#EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport Golf" tvg-logo="" ,SKY SPORT GOLF
 plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
 #EXTINF:-1 group-title="SPORT" tvg-id="Sky Sport F1" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" ,SKY SPORT F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F!
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport1.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 1
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport1.de" tvg-name="025" tvg-logo="" ,SKY SPORT 1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport2.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 2
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport2.de" tvg-name="025" tvg-logo="" ,SKY SPORT 2
 plugin://plugin.video.vavooto/?name=SKY+SPORT+2
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport3.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 3
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport3.de" tvg-name="025" tvg-logo="" ,SKY SPORT 3
 plugin://plugin.video.vavooto/?name=SKY+SPORT+3
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport4.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 4
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport4.de" tvg-name="025" tvg-logo="" ,SKY SPORT 4
 plugin://plugin.video.vavooto/?name=SKY+SPORT+4
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport5.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 5
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport5.de" tvg-name="025" tvg-logo="" ,SKY SPORT 5
 plugin://plugin.video.vavooto/?name=SKY+SPORT+5
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport6.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 6
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport6.de" tvg-name="025" tvg-logo="" ,SKY SPORT 6
 plugin://plugin.video.vavooto/?name=SKY+SPORT+6
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport7.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 7
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport7.de" tvg-name="025" tvg-logo="" ,SKY SPORT 7
 plugin://plugin.video.vavooto/?name=SKY+SPORT+7
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport8.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 8
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport8.de" tvg-name="025" tvg-logo="" ,SKY SPORT 8
 plugin://plugin.video.vavooto/?name=SKY+SPORT+8
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport9.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 9
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport9.de" tvg-name="025" tvg-logo="" ,SKY SPORT 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
-#EXTINF:-1 group-title="SPORT" tvg-id="SkySport10.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,SKY SPORT 10
+#EXTINF:-1 group-title="SPORT" tvg-id="SkySport10.de" tvg-name="025" tvg-logo="" ,SKY SPORT 10
 plugin://plugin.video.vavooto/?name=SKY+SPORT+11
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 1
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+1
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga2.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 2
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga2.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 2
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga3.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 3
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga3.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 3
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga4.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 4
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga4.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 4
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga5.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 5
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga5.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 5
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga6.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 6
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga6.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 6
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga7.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 7
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga7.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 7
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga8.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 9
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga8.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 9
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga9.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 9
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga9.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 9
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
-#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga10.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png" ,Sky Bundesliga 10
+#EXTINF:-1 group-title="SPORT" tvg-id="SkyBundesliga10.de" tvg-name="025" tvg-logo="" ,Sky Bundesliga 10
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 1 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 1
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 1 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 2 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 2
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 2 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 3 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 3
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 3 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 3
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 4 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 4
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 4 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 4
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 5 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 5
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 5 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 5
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 6 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 6
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 6 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 6
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 7 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 7
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 7 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 7
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 8 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 8
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 8 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 9 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 9
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 9 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 9
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 10 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 10
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 10 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 10
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 11 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 11
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 11 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 11
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 12 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 12
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 12 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 12
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 13 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 13
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 13 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 13
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 14 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 14
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 14 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 14
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 15 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 15
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 15 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 15
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 16 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 16
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 16 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 16
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 17 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 17
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 17 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 17
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
-#EXTINF:-1 group-title="SPORT" tvg-id="Sport 18 - myTeamTV" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,SPORT myTeamTV 18
+#EXTINF:-1 group-title="SPORT" tvg-id="Sport 18 - myTeamTV" tvg-name="025" tvg-logo="" ,SPORT myTeamTV 18
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN 1" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN SPORT 1
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN 1" tvg-name="025" tvg-logo="" ,DAZN SPORT 1
 plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN 2" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN SPORT 2
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN 2" tvg-name="025" tvg-logo="" ,DAZN SPORT 2
 plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 01
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 01
 plugin://plugin.video.vavooto/?name=DAZN+1
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 02
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 02
 plugin://plugin.video.vavooto/?name=DAZN+2
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 03
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 03
 plugin://plugin.video.vavooto/?name=DAZN+3
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 04
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 04
 plugin://plugin.video.vavooto/?name=DAZN+4
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 05
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 05
 plugin://plugin.video.vavooto/?name=DAZN+5
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 06
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 06
 plugin://plugin.video.vavooto/?name=DAZN+6
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 07
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 07
 plugin://plugin.video.vavooto/?name=DAZN+7
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 08
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 08
 plugin://plugin.video.vavooto/?name=DAZN+8
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 09
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 09
 plugin://plugin.video.vavooto/?name=DAZN+9
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 10
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 10
 plugin://plugin.video.vavooto/?name=DAZN+10
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 11
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 11
 plugin://plugin.video.vavooto/?name=DAZN+11
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 12
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 12
 plugin://plugin.video.vavooto/?name=DAZN+12
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 13
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 13
 plugin://plugin.video.vavooto/?name=DAZN+13
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 14
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 14
 plugin://plugin.video.vavooto/?name=DAZN+14
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 15
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 15
 plugin://plugin.video.vavooto/?name=DAZN+15
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 16
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 16
 plugin://plugin.video.vavooto/?name=DAZN+16
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 17
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 17
 plugin://plugin.video.vavooto/?name=DAZN+17
-#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="https://raw.githubusercontent.com/Barberus/LMJ-TV/LMJ-TV/logo/DAZN_logo.svg" ,DAZN 18
+#EXTINF:-1 group-title="SPORT" tvg-id="DAZN.de" tvg-name="025" tvg-logo="" ,DAZN 18
 plugin://plugin.video.vavooto/?name=DAZN+18
 #EXTINF:-1 group-title="TV;DOKU" tvg-id="ARD-alpha.de" tvg-name="025" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png" ,ARD-alpha
 plugin://plugin.video.vavooto/?name=ARD
